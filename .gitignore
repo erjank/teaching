@@ -1,7 +1,6 @@
-*.pyc
 *~
+*.pyc
 .DS_Store
-.ipynb_checkpoints
-.sass-cache
-__pycache__
-_site
+*.aux
+*.log
+*.toc
