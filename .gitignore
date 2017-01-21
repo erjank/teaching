@@ -2,6 +2,8 @@
 *.pyc
 .DS_Store
 *.aux
+*.bbl
+*.blg
 *.log
 *.pdf
 *.toc
