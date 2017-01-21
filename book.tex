@@ -1,0 +1,33 @@
+\documentclass{book}
+
+\author{Greg Wilson}
+
+\newcommand{\chaplbl}[2]{\chapter{#1}\label{#2}}
+\newcommand{\href}[2]{#2\footnote{#1}}
+\newcommand{\includegraphics}[1]{\textbf{#1}}
+
+\newenvironment{discussion}[2]{\begin{quotation}\textbf{#1}\label{#2}}{\end{quotation}}
+
+\title{A Short Guide to Teaching}
+\date{}
+
+\raggedbottom
+
+\begin{document}
+\tableofcontents
+
+\include{welcome}
+\include{novice}
+\include{terms}
+\include{performance}
+\include{memory}
+\include{load}
+\include{live}
+\include{practices}
+\include{motivation}
+\include{lessons}
+\include{carpentries}
+\include{guide}
+\include{reference}
+
+\end{document}
