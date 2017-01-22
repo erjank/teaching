@@ -1,11 +1,11 @@
+---
+permalink: /contributing/
+---
 # Contributing
 
-[Software Carpentry][swc-site] and [Data Carpentry][dc-site] are open source projects,
-and we welcome contributions of all kinds:
-new lessons,
-fixes to existing material,
-bug reports,
-and reviews of proposed changes are all welcome.
+We welcome contributions of all kinds, including bug reports, fixes to
+existing material, suggestions for new material, and reviews of
+proposed changes.
 
 ## Contributor Agreement
 

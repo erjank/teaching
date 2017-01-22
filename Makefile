@@ -26,4 +26,5 @@ clean :
 	@find . -name '*.dvi' -exec rm {} \;
 	@find . -name '*.log' -exec rm {} \;
 	@find . -name '*.out' -exec rm {} \;
+	@find . -name '*.toc' -exec rm {} \;
 	@find . -name .DS_Store -exec rm {} \;
