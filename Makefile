@@ -17,7 +17,7 @@ pdf :
 
 ## clean      : clean up junk files.
 clean :
-	rm -f book.pdf
+	@rm -f book.pdf
 	@find . -name '*~' -exec rm {} \;
 	@find . -name '*.aux' -exec rm {} \;
 	@find . -name '*.bak' -exec rm {} \;
