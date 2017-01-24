@@ -24,7 +24,7 @@
 \setcounter{secnumdepth}{1} % sets what level of subsect. are numbered
 
 \newenvironment{boxedsection}[3]
-{\begin{figure}[h!]\vspace{-0.7cm}\centering \rule[-.7cm]{12.82cm}{0.75pt} \begin{minipage}[t]{12.82cm}\begin{framed}\centerline{{\textbf{{#1}: #2}}}}
+{\begin{figure}[h!]\vspace{-0.7cm}\centering \rule[-.7cm]{12.82cm}{0.75pt} \begin{minipage}[t]{12.82cm}\begin{framed}\centerline{{\textbf{{#1}: #2}}}\vspace{\baselineskip}}
 {\end{framed}\end{minipage} \rule{12.82cm}{0.75pt} \end{figure}}
 
 \newenvironment{callout}[2]{\begin{boxedsection}{Callout}{#1}{#2} }{ \end{boxedsection}}
@@ -43,9 +43,8 @@
 \title{A Short Guide to Teaching}
 \date{}
 
-\raggedbottom
-
 \begin{document}
+\maketitle
 \tableofcontents
 
 \include{welcome}
