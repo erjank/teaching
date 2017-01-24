@@ -5,6 +5,7 @@ permalink: /
 
 This site hosts a book based on the
 [Software Carpentry instructor training course][swc-training].
-All material is made available under the [Creative Commons - Attribution][license] license.
+All material is Copyright © Greg Wilson,
+and made available under the [Creative Commons - Attribution]({{"/license/" | absolute_url}}) license.
 
 {% include links.md %}
