@@ -15,6 +15,10 @@ pdf :
 	${LATEX} ${STEM}
 	${LATEX} ${STEM}
 
+## spell      : check spelling
+spell :
+	cat *.tex | aspell --mode=tex list | sort | uniq | diff - words.txt
+
 ## clean      : clean up junk files.
 clean :
 	@rm -f book.pdf
