@@ -8,8 +8,10 @@
 \setheaderspaces{*}{*}{1.618}
 \checkandfixthelayout
 
-\usepackage{geometry}
+\usepackage{amssymb}
+\usepackage{enumitem}
 \usepackage{framed}
+\usepackage{geometry}
 \usepackage{graphicx}
 
 \usepackage[T1]{fontenc}
@@ -31,14 +33,14 @@
 \setcounter{tocdepth}{0}    % sets what level of header is shown in the TOC
 \setcounter{secnumdepth}{1} % sets what level of subsect. are numbered
 
-\newenvironment{boxedsection}[3]
-{\begin{figure}[h!]\begin{framed}\centerline{{\textbf{{#1}: #2}}}\vspace{\baselineskip}}
-{\end{framed} \end{figure}}
+\newenvironment{barredsection}[3]
+{\begin{leftbar}\noindent\textbf{{#1}: #2}\vspace{\baselineskip}}
+{\end{leftbar}}
 
-\newenvironment{callout}[2]{\begin{boxedsection}{Callout}{#1}{#2} }{ \end{boxedsection}}
-\newenvironment{checklist}[2]{\begin{boxedsection}{Checklist}{#1}{#2} }{ \end{boxedsection}}
-\newenvironment{challenge}[2]{\begin{boxedsection}{Challenge}{#1}{#2} }{ \end{boxedsection}}
-\newenvironment{discussion}[2]{\begin{boxedsection}{Discussion}{#1}{#2} }{ \end{boxedsection}}
+\newenvironment{callout}[2]{\begin{barredsection}{Callout}{#1}{#2} }{ \end{barredsection}}
+\newenvironment{checklist}[2]{\begin{barredsection}{Checklist}{#1}{#2} }{ \end{barredsection}}
+\newenvironment{challenge}[2]{\begin{barredsection}{Challenge}{#1}{#2} }{ \end{barredsection}}
+\newenvironment{discussion}[2]{\begin{barredsection}{Discussion}{#1}{#2} }{ \end{barredsection}}
 
 \newcommand{\chaplbl}[2]{\chapter{#1}\label{#2}}
 
@@ -47,6 +49,8 @@
 \newcommand{\fixme}[1]{\textbf{FIXME: {#1}}}
 
 \newcommand{\seclbl}[2]{\section{#1}\label{#2}}
+\newcommand{\subseclbl}[2]{\subsection{#1}\label{#2}}
+\newcommand{\subsubseclbl}[2]{\subsubsection{#1}\label{#2}}
 
 \newenvironment{tbllbl}[2]
 {\begin{table}\caption{#1}\label{#2}}
@@ -57,7 +61,7 @@
 \newcommand{\secref}[1]{Section~\ref{#1}}
 \newcommand{\tblref}[1]{Table~\ref{#1}}
 
-\title{A Short Guide to Teaching}
-\date{}
+\newlist{todolist}{itemize}{2}
+\setlist[todolist]{label=$\square$}
 
-\linespread{1.3}
+% \linespread{1.3}

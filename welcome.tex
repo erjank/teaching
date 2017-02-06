@@ -1,187 +1,318 @@
 \chaplbl{Introductions}{sec:intro}
 
-\begin{quote}
-Introductions set the stage for learning.
-\\
---- Tracy Teal, Executive Director, Data Carpentry
-\end{quote}
+I started teaching people how to program in the late 1980s.  At first,
+I was pretty bad at: I went too fast, I used too much jargon, and I
+assumed that my learners would be interested in the same things I was,
+for the same reasons.
 
-\begin{challenge}{Favorite Class}{chal:favorite-class}
+I got better over time, but that doesn't mean I was actually very
+good.  Yes, my students liked me, but studies have repeatedly shown
+that there's no correlation between how people rate a course and how
+much they really learn \cite{fixme}.  And even though I felt I was
+improving, I had no idea how effective I was compared to other
+teachers.  Did they spend the same hours sweating over their lectures
+that I did?  Did they have to revise each homework assignment half a
+dozen times as students stumbled over omissions and contradictions?
+And how did they handle three guys in the back of the class playing
+poker online while they were lecturing?
 
-In the Etherpad, write down your name, the best class you ever took (or
-one class from your top ten, if you can't decide), and what made it so
-great.
+All my doubts came to a head after I left a faculty position at the
+University of Toronto in 2010 to re-start the Software Carpentry
+project.  Software Carpentry's aim was (and is) to teach scientists
+the equivalent of basic lab skills for research computing: how to
+automate repetitive tasks, how to break a program up into readable,
+testable functions, and how to use version control to track and share
+work.  Over the course of a year, I wrote two dozen multi-part lessons
+and recorded dozens of short videos to present that material online.
 
-\end{challenge}
+By the spring of 2011, it was clear that I was doing something wrong.
+I didn't know which lessons were effective and which weren't, and I
+knew even less about how my development methods stacked up against
+other people's.  Ironically, I was trying to teach people how to build
+and run software in efficient, repeatable ways, but was mostly ignorant of
+equivalent techniques for writing and delivering lessons.
 
-Hello everyone, and welcome to the Data Carpentry and Software Carpentry
-instructor training. We're very pleased to have you with us.
+I had to take some time away from Software Carpentry at that point for
+family reasons, so I spent the second half of 2011 reading as widely
+as I could about educational psychology, instructional design, and the
+art and science of teaching.  Most of what I found was both dry and
+irrelevant, but there were plenty of gems hidden in the gravel.  Chief
+among them were Mark Guzdial's blog \cite{fixme} and the
+book \emph{How Learning Works} \cite{fixme}, both of which led me to
+the work of Lemov, Huston, Green, Fincher, and many others.  (See the
+bibliography for an annotated list of readings.)
 
-\begin{discussion}{Today's Trainers}{disc:todays-trainers}
+I restarted Software Carpentry once again in January 2012, and this
+time it worked as I'd always hoped it would.  Cutting the number of
+lessons, shifting to in-person delivery, and using live coding instead
+of slides all had an impact, but what made the biggest difference was
+starting an instructor training course to turn learners into teachers.
+This class was inspired by Myles Horton's Highlander School, the
+Antigonish Movement in Eastern Canada, and hundreds of similar
+co-operative grassroots education projects going back nearly a
+century.
 
-Each trainer can introduce themselves.
+Initially delivered online over multiple weeks, by 2014 I was teaching
+this class in two intensive days, just like our regular software
+skills workshops.  A year later, ``I'' became ``we'', as people who
+had been instructors for software skills workshops began training
+other instructors as well.
 
-\end{discussion}
+That course is the basis of this short guide.  Its aim is give you a
+quick, useful introductions to what we know about teaching and
+learning and why we believe it is true.  We will look at:
 
-Most of you are probably here because you have attended or helped at a
-Software or Data Carpentry workshops. To make sure everyone has the same
-context, we'll give a brief overview of the Software and Data Carpentry
-organizations.
+\begin{itemize}
 
-Software and Data Carpentry are both communities of volunteer
-researchers, educators, and more who develop lessons and teach two day
-workshops on basic computing and data skills for researchers. Software
-Carpentry focuses on how researchers can be effective computationally
-and developing software; Data Carpentry focuses on how researchers can
-effectively manage their data. Both organizations aren't out to teach
-specific skills, per se - although those are covered - but instead, the
-main goal is to convey best practices that will enable researchers to be
-more productive and do better research.
+\item
+  how people's thinking changes as they go from being novices to
+  competent practitioners and then to being experts;
 
-In the same way, this training will cover specific teaching skills, but
-one of our main emphases will be the ``best practices'' of teaching. We
-want to introduce you to a handful of key educational research findings
-and show how they can be used to help people learn better and faster. We
-will also be introducing you to the teaching practices that have been
-adopted by the Software and Data Carpentry communities, and the overall
-philosophy and procedures of both organizations in order to prepare you
-to teach at Software and Data Carpentry workshops.
+\item
+  how to tell if your learners are keeping up with you, and what to
+  do or say when they're not;
 
-We will not be going over the workshop content in detail (although we
-will talk about the lessons tomorrow), but instead focus on developing
-teaching skills that are broadly useful across all of our lessons. Part
-of this is because this two day training is the first step in getting
-fully certified to teach Software and/or Data Carpentry workshops. The
-follow-up steps for full certification will require that you dig into
-the workshop content yourself and we'll talk about that more tomorrow
-afternoon.
+\item
+  how to design and improve lessons efficiently and collaboratively;
 
-To orient yourself, there is a schedule on the workshop webpage.
+\item
+  how and why live coding is a better way to teach programming than
+  lectures or self-directed practice; and
 
-One aspect of this course's design is its relationship to teaching as a
-performance art. Just as musicians learn theory, practice techniques,
-and perform for each other, we're going to be looking at some learning
-theory (also known as educational psychology) and why it matters to us
-as Software and Data Carpentry instructors, create exercises and
-learning materials, and practice our teaching. You can expect a lot of
-hands-on work and discussion. We'll be using the the Etherpad to collect
-answers and help facilitate discussion - if you ever have any questions,
-feel free to put them into the notes or chat box of the Etherpad and
-we'll make sure we get to them by the end of the day.
+\item
+  how insights and techniques borrowed from the performing arts can
+  make you a better teacher.
 
-One part of making this a productive two days for all of us is a
-community effort to treat one another with kindness and respect. This
-training, as in all Software/Data Carpentry workshops is subject to the
-Software and Data Carpentry Code of Conduct. We will be able to give our
-best effort (and have the most fun!) if everyone abides by these
-guidelines.
+\end{itemize}
 
-The greatest asset of Software and Data Carpentry is people like
-yourself - people who want to help researchers learn about these ideas
-and share their own experience and enthusiasm. We hope that this
-training gives everyone a chance to meet new people and share ideas.
+\seclbl{Teaching Practices}{sec:welcome-practices}
 
-\seclbl{Assessing Trainee Motivation and Prior Knowledge}{sec:assessing-trainee-motivation-and-prior-knowledge}
+\fixme{intro}
 
-It's important to first assess the prior knowledge of the workshop
-participants because this will influence (to some extent) how you
-motivate the activities and how you communicate with the attendees.
+\subseclbl{Have a Code of Conduct}{sec:have-conduct}
 
-\begin{discussion}{Background}{disc:background}
+An important part of making a class productive is to treat everyone
+with respect.  We therefore strongly recommend that every group
+offering classes based on this material adopt a Code of Conduct like
+the one in \secref{sec:conduct}, and require people taking part in the
+class to abide by it.
+
+We believe equally strongly that your actual programming classes
+should also have and enforce a Code of Conduct.  Programming is a
+scary topic for many novices, and workshops are meant to be a judgment
+free space to learn and experiment. The behavior of the instructor and
+other participants may make more of an impression on a novice learner
+than any ``technical'' topic you teach.
+
+If you do this, hosts should point people at it during registration,
+and instructors should remind attendees of it at the start of the
+workshop. The Code of Conduct doesn't just tell everyone what the
+rules are: it tells them that there \emph{are} rules, and that they
+can therefore expect a safe and welcoming learning experience.
+
+A Code of Conduct cannot stop people from being offensive, any more
+than laws against theft stop people from stealing. What it \emph{can}
+do is make expectations and consequences clear.  In our experience,
+people rarely violate the Code of Conduct in person, though some are
+more likely to online, where they feel less inhibited.  And it is
+important to note that a Code of Conduct is \emph{not} an infringement
+on free speech.  People have a right to speak, but that doesn't mean
+they have a right to speak wherever they want to.
+
+If you are an instructor, and believe that someone in a workshop has
+violated the Code of Conduct, you may warn them, ask them to
+apologize, and/or expel them, depending on the severity of the
+violation and whether or not you believe it was intentional.  Whatever
+you do:
+
+\begin{itemize}
+
+\item
+  Do it in front of witnesses.  Most people will tone down their
+  language and hostility in front of an audience, and having someone
+  else present ensures that later discussion doesn't degenerate into
+  conflicting claims about who said what.
+
+\item
+  Contact the organizer or host of your class as soon as you can and
+  describe what happened.
+
+\end{itemize}
+
+\subseclbl{Taking Notes Together}{sec:welcome-note-taking}
+
+Many studies have shown that taking notes while learning improves
+retention, even if those notes are then thrown away \cite{fixme}.  As
+we will discuss in \secref{sec:memory}, this happens because taking
+notes forces you to organize and reflect on material as it's coming
+in, which in turn increases the likelihood that you will transfer it
+to long-term memory in a usable way.
+
+Our experience, and some early research findings \cite{fixme}, lead us
+to believe that taking notes \emph{collaboratively} helps learning
+even more:
+
+\begin{itemize}
+
+\item
+  It allows people to compare what they think they're hearing with
+  what other people are hearing, which helps them fill in gaps and
+  correct misconceptions right away.
+
+\item
+  It gives the more advanced learners in the class something useful to
+  do.  Rather than getting bored and checking Twitter during class,
+  they often take the lead in recording what's being said, which keeps
+  them engaged (and allows less advanced learners to focus more of
+  their attention on new material).
+
+\item
+  The notes the learners take are usually more helpful \emph{to them}
+  than those the instructor would prepare in advance, since the learners
+  are more likely to write down what they actually found new, rather than
+  what the instructor predicted would be new.
+
+\item
+  Glancing at the notes as they're being taken helps the instructor
+  discover that the class didn't hear something important, or
+  misunderstood it.
+
+\end{itemize}
+
+We usually use \href{http://etherpad.org}{Etherpad} for collaborative
+note-taking, though many instructors have shifted to
+\href{https://docs.google.com}{Google Docs}, both because it scales
+better and because it allows people to add images to the notes.
+Whichever is chosen, classes also use it to share snippets of code and
+small datasets, and as a way for learners to show instructors their
+work (by copying and pasting it in).
+
+Shared note-taking is almost always mentioned positively in
+post-workshop feedback.  However, it's also common for participants to
+report that they find it distracting, as it's one more thing they have
+to keep an eye on.  We believe the positives outweigh the negatives,
+but think that some careful controlled studies would tell us whether
+we're right, and how to use it better.
+
+\subseclbl{Assessing Learner Motivation and Prior Knowledge}{sec:welcome-assess}
+
+It's important to design lessons with a particular audience in mind.
+It's equally important to find out who's in each specific audience,
+since this will influence how you introduce yourself, motivate topics,
+and pace the lessons.  Before the start of a Software Carpentry
+instructor training class, we ask people to fill in a short
+questionnaire like the one below.  It doesn't tell us everything we
+might want to know, but it does give trainers a pretty clear idea of
+who they're speaking to.
 
 \begin{enumerate}
 
 \item
-  Have you ever participated in a Software Carpentry or Data Carpentry Workshop?
+  Have you ever participated in a Software Carpentry or Data Carpentry
+  workshop? (Check all that apply.)
 
-  \begin{enumerate}
+  \begin{todolist}
   \item
-    Yes, I have taken a workshop.
+    Yes, as a learner.
   \item
-    Yes, I have been a workshop helper.
+    Yes, as a helper.
   \item
-    Yes, I organized a workshop.
+    Yes, as an organizer.
+  \item
+    Yes, as an instructor.
   \item
     No, but I am familiar with what is taught at a workshop.
   \item
     No, and I am not familiar with what is taught at a workshop.
-  \end{enumerate}
+  \end{todolist}
 
 \item
-  Which of these most accurately describes your teaching experience?
+  Which of these describes your teaching experience?  (Check all that
+  apply.)
 
-  \begin{enumerate}
+  \begin{todolist}
   \item
-    I have been a graduate or undergraduate teaching assistant for a
-    university/college course.
-  \item
-    I have not had any teaching experience in the past.
+    I have none.
   \item
     I have taught a seminar, workshop, or other short or informal course.
   \item
-    I have been the instructor-of-record for my own university/college
-    course.
+    I have been a graduate or undergraduate teaching assistant for a
+    college- or university-level course.
+  \item
+    I have been the instructor-of-record for a college- or
+    university-level course.
   \item
     I have taught at the K-12 level.
-  \end{enumerate}
+  \end{todolist}
 
 \item
-  Which of these questions assesses flaws in a student's mental model of a domain?
+  Which of these describes your previous formal training in teaching?
+  (Please choose only one.)
 
-  \begin{enumerate}
+  \begin{todolist}
   \item
-    I'm not sure what a mental model is.
+    None
   \item
-    ``In Python, what is the expected output for the following statement:
-    1 + `2'\,''
-    \begin{enumerate}
-    \item
-      `12'
-    \item
-      TypeError
-    \item
-      `3'
-    \item
-      3
-    \end{enumerate}
+    A few hours
+  \item
+    A workshop
+  \item
+    A certification or short course
+  \item
+    A full degree
+  \end{todolist}
 
-  \item
-    ``Rate your experience with the R programming language.''
-    \begin{enumerate}
-    \item
-      never used it
-    \item
-      beginner
-    \item
-      intermediate
-    \item
-      expert
-    \end{enumerate}
+\item
+  How frequently do you work with the tools that Data Carpentry and
+  Software Carpentry teach, such as R, Python, MATLAB, Perl, SQL, Git,
+  OpenRefine, and the Unix Shell?
 
+  \begin{todolist}
   \item
-    ``What does the Unix command `cut' do?''
-    \begin{enumerate}
-    \item
-      Extracts sections from each line of input.
-    \item
-      Sorts fields of a line
-    \item
-      Searches the input file for lines containing a match to a pattern
-    \item
-      Removes a given input from a line
-    \end{enumerate}
-  \end{enumerate}
+    Every day
+  \item
+    A few times a week
+  \item
+    A few times a month
+  \item
+    A few times a year
+  \item
+    Never or almost never
+  \end{todolist}
+
+\item
+  How often would you expect to teach on Software or Data Carpentry
+  Workshops after this training?
+
+  \begin{todolist}
+  \item
+    Not at all
+  \item
+    Once a year
+  \item
+    Several times a year
+  \end{todolist}
+
+\item
+  Why do you want to take this training course?\\
+  \line(1,0){275}
+
 \end{enumerate}
 
-\end{discussion}
+\seclbl{Challenges}{sec:welcome-challenges}
 
-Now that we have a better idea of everyone's prior knowledge and
-familiarity with some of the SWC and DC teaching practices, we're ready
-to begin our training. Our goal is that by the end, you will have
-acquired some new knowledge, confidence, and skills that you can use in
-your teaching practice in general and in teaching SWC and DC workshops
-specifically.
+\begin{challenge}{Favorite Class}{chal:favorite-class}
 
-Our first topic will be cognitive development and mental models, which
-will lead into the theory and practice behind multiple choice questions,
-like the ones you just answered.
+In the online notes, write down your name, the best class you ever
+took, and what made it so great.
+
+\end{challenge}
+
+\begin{challenge}{Create a Questionnaire}{chal:favorite-class}
+
+Using the questionnaire in \secref{sec:welcome-assess} as a template,
+create a short questionnaire you could give learners before teaching a
+class of your own.  What do you most want to know about their
+background?
+
+\end{challenge}
