@@ -21,7 +21,7 @@ spell :
 
 ## words      : how long is the book?
 words :
-	detex *.tex | wc -w
+	texcount -1 *.tex | cut -d '+' -f 1
 
 ## clean      : clean up junk files.
 clean :
