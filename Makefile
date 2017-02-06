@@ -19,6 +19,10 @@ pdf :
 spell :
 	cat *.tex | aspell --mode=tex list | sort | uniq | diff - words.txt
 
+## words      : how long is the book?
+words :
+	detex *.tex | wc -w
+
 ## clean      : clean up junk files.
 clean :
 	@rm -f book.pdf
