@@ -23,6 +23,10 @@ spell :
 words :
 	texcount -1 *.tex | cut -d '+' -f 1
 
+## fixme      : look for undone work.
+fixme :
+	fgrep -i -n fixme *.tex | fgrep -v settings.tex
+
 ## clean      : clean up junk files.
 clean :
 	@rm -f book.pdf
