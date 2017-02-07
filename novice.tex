@@ -1,128 +1,72 @@
-\chaplbl{Novices}{sec:novice}
+\chaplbl{Helping Novices Build Mental Models}{sec:novice}{20}{30}
 
-We'll now get started with our first round of learning some theory, how
-it relates to Software and Data Carpentry, and putting that theory into
-practice.
-
-\seclbl{Cognitive Development and Mental Models}{sec:cognitive-development-and-mental-models}
-
-Effective learning is facilitated by the creation of a mental model of
-the domain, but what exactly do we mean by a mental model? One example
-is the ball-and-spring model of molecules that most of us encountered in
-high school chemistry. Atoms aren't actually balls, and their bonds
-aren't actually springs, but the model does a good job of helping people
-reason about chemical compounds and their reactions.
-
-\begin{discussion}{Your Mental Models}{discuss:your-mental-models}
-
-What is your primary research domain? What is one mental model you use
-to frame and understand your work?
-\end{discussion}
-
-One way to think about the difference between a novice and a ``competent
-practitioner'' is the existence of this big picture mental model. Our
-approach is based on the work of researchers like Benner, who applied
-the
+The first task in teaching is to figure out who your learners are and
+how best to help them.  Our approach is based on the
 \href{https://en.wikipedia.org/wiki/Dreyfus\_model\_of\_skill\_acquisition}{Dreyfus
-model of skill acquisition} in her studies of
-\href{http://www.amazon.com/Novice-Expert-Excellence-Clinical-Practice/dp/020100299X/}{how
-nurses progress from novice to expert}. In simplified form, that model
-has three stages:
+model of skill acquisition}, and more specifically on the work of
+researchers like Patricia Benner, who studied how nurses progress from
+being novices to being experts \cite{benner}.  Benner identified five
+stages of cognitive development that most people go through in a
+fairly consistent way\footnote{We say ``most'' and ``fairly'' because
+human beings are variable, and there will always be outliers.
+However, that shouldn't prevent us from making strong statements about
+what's true for the majority.}. For our purposes, we simplify this to
+three:
 
 \begin{itemize}
+
 \item
   A \emph{novice} is someone who doesn't know what they don't know,
-  i.e., they don't yet know what the key ideas in the domain are or how
-  they relate. More precisely, a novice has not yet built a mental model
-  of the domain. They therefore reason by analogy and guesswork,
-  borrowing bits and pieces of their mental models of other domains
-  which seem superficially similar. One sign that someone is a novice is
-  that their questions ``aren't even wrong''.
+  i.e., they don't yet know what the key ideas in the domain are or
+  how they relate. They reason by analogy and guesswork, borrowing
+  bits and pieces of their mental models of other domains which seem
+  superficially similar. One sign that someone is a novice is that
+  their questions aren't even wrong.
+
 \item
   A \emph{competent practitioner} is someone who has a mental model
-  that's good enough for everyday purposes. This model does not have to
-  be completely accurate in order to be useful: for example, the average
-  driver's mental model of how a car works probably doesn't include most
-  of the complexities that a mechanical engineer would be concerned
-  with. Competent practitioners can do normal tasks with normal effort
-  under normal circumstances.
+  that's good enough for everyday purposes: they can do normal tasks
+  with normal effort under normal circumstances. This model does not
+  have to be completely accurate in order to be useful: for example,
+  the average driver's mental model of how a car works probably
+  doesn't include most of the complexities that a mechanical engineer
+  would be concerned with.
+
 \item
   An \emph{expert} is someone who can easily handle situations that are
   out of the ordinary, diagnose the causes of problems, and so on. We
   will discuss expertise in more detail in \secref{sec:memory}.
+
 \end{itemize}
 
-We assume that most learners coming to Software/Data Carpentry lessons
-are novices, and do not have a strong mental model of the concepts we
-are teaching. Thus, our primary goal is \emph{not} to teach the syntax
-of a particular programming language, but to teach people how to think
-about programming and data management (and about using computers in
-research more generally).
+One example of a mental model is the ball-and-spring model of
+molecules that most of us encountered in high school chemistry. Atoms
+aren't actually balls, and their bonds aren't actually springs, but
+the model does a good job of helping people reason about chemical
+compounds and their reactions.  Another model of an atom has a small
+central ball (the nucleus) surrounded by orbiting electrons.  Again,
+this model is wrong, but useful for many purposes.
 
-One key insight from research on cognitive development is that novices,
-competent practitioners, and experts each need to be taught differently.
-In particular, presenting novices with a pile of facts early on is
-counter-productive, because they don't yet have a model to fit those
-facts into. (In fact, presenting too many facts too soon can actually
-reinforce the incorrect mental model they've cobbled together.) Instead,
-our goal with novices is \emph{to help them construct a working mental
-model} so that they have something to attach facts to.
+Novices, competent practitioners, and experts need to be taught
+differently.  In particular, presenting novices with a pile of facts
+early on is counter-productive, because they don't yet have a model to
+fit those facts into\footnote{In fact, presenting too many facts too
+soon can actually reinforce the incorrect mental model they've cobbled
+together \cite{}.}. Instead, the goal with novices is \emph{to help
+them construct a working mental model} so that they have somewhere to
+put facts.
 
-\seclbl{Why We Go Slowly}{sec:why-we-go-slowly}
-
-The transition from novice to competent practitioner is no more and no
-less than the construction of correct (enough) categories, i.e., the
-construction of a new mental model of this new intellectual domain. The
-goal of education for novices is, therefore, to help them form the right
-categories. Until they've done that, trying to impart ``mere
-information'' just confuses them.
-
-\begin{discussion}{Manuals vs.~Tutorials}{discuss:manuals-vs-tutorials}
-
-What's the difference between a manual and a tutorial? (Think in terms
-of the differences between novices and competent practitioners.) Can one
-document do a good job of being both?
-\end{discussion}
-
-This is one of the reasons software documentation is so often
-frustrating. Reference material is opaque to someone who doesn't know
-what they're looking for, such as a novice who doesn't yet have a mental
-map of the domain. On the other hand, tutorials meant to help people
-build such a map are too slow and too diffuse for people who already
-have one. It is possible to craft something that serves both
-communities, but it's often simpler to address their needs separately.
-
-As an example of this idea's practical implications, our
+As an example of what this means in practice, Software Carpentry's
 \href{http://swcarpentry.github.io/shell-novice/}{lesson on the Unix
-shell} only introduces 12 commands, and we usually spend two and a half
-hours working through it. Twelve and a half minutes per command may seem
-glacially slow, but the lesson's real purpose is to teach learners about
-paths, history, wildcards, pipes and filters, command-line arguments,
-redirection, and all the other big ideas that the shell depends on, and
-without which people cannot understand how to use commands (or how to
-read their manual pages).
-
-That model also includes things like:
-
-\begin{itemize}
-\item
-  Anything you repeat manually, you'll eventually get wrong (so let the
-  computer repeat things for you by using tab completion and the
-  \texttt{history} command).
-\item
-  Lots of little tools, combined as needed, are more productive than a
-  handful of ``kitchen sink'' programs. (This motivates the
-  pipe-and-filter model.)
-\end{itemize}
-
-These two examples illustrate something else as well. Learning consists
-of more than ``just'' building mental models and pouring information
-into them; creating linkages between concepts and facts is as least as
-important. Telling people that they shouldn't repeat things, and that
-they should try to think in terms of little pieces loosely joined, both
-set the stage for discussing functions. Explicitly referring back to
-pipes and filters shell when introducing functions helps solidify both
-ideas.
+shell} introduces fifteen commands in three hours. Twelve minutes per
+command may seem glacially slow, but the lesson's real purpose isn't
+to teach those fifteen commands: it's to teach learners about paths,
+history, tab completion, wildcards, pipes and filters, command-line
+arguments, redirection, and all the other big ideas that the shell
+depends on.  Once they understand those concepts, people can quickly
+learn a repertoire of commands.  What's more, later lessons on how to
+build functions in a programming language can refer back to pipes and
+filters, which helps solidify both ideas.
 
 \begin{callout}{Different Kinds of Lessons}{callout:different-kinds-of-lessons}
 
@@ -135,159 +79,118 @@ practitioners because they move too slowly and say things that are
 obvious (though of course they are anything but to newcomers). Equally,
 manuals frustrate novices because they use jargon and \emph{don't}
 explain things. One of the reasons Unix and C became popular is that
-Kernighan et al's books
-\emph{\href{http://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628/}{The
-C Programming Language}}, and
-\emph{\href{http://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X/}{The
-Unix Programming Environment}} somehow managed to be good tutorials
-\emph{and} good manuals at the same time. Ray and Ray's
-\emph{\href{http://www.amazon.com/Unix-Linux-Visual-QuickStart-Guide/dp/0321997549/}{Unix
-and Linux: Visual Quickstart Guide}} and Fehily's
-\emph{\href{http://www.amazon.com/SQL-Visual-QuickStart-Guide-3rd/dp/0321553578/}{SQL:
-Visual Quickstart Guide}} are among the few other books in computing to
-have accomplished this.
+Kernighan et al's books \cite{fixme} somehow managed to be good tutorials
+\emph{and} good manuals at the same time. Ray and Ray's book on Unix \cite{fixme}
+and Fehily's introduction to SQL \cite{fixme} are among the very few
+other books in computing that have accomplished this.
+
 \end{callout}
 
 \seclbl{Building Useful Mental Models}{sec:building-useful-mental-models}
-
-There are many ``positive'' strategies towards building mental models.
-Analogies, stories, role-play, and diagrams are ways to represent a
-structure that can be used as a model.
-
-However, there's another, greater challenge to creating mental models.
 
 \begin{quote}
 It ain't what you don't know that gets you into trouble. It's what you
 know for sure that just ain't so.\\--- Mark Twain
 \end{quote}
 
-Clearing up learners' misconceptions is therefore as important as
-presenting them with correct information. Broadly speaking, their
-misconceptions may fall into three categories:
+One of the challenges in building a mental model is to clear away
+things that \emph{don't} belong. Broadly speaking, learners'
+misconceptions fall into three categories:
 
 \begin{itemize}
+
 \item
-  Simple \emph{factual errors}, such as believing that Vancouver is the
-  capital of British Columbia. These are simple to correct, but getting
-  the facts right is not enough on its own.
+  Simple \emph{factual errors}, such as believing that Vancouver is
+  the capital of British Columbia. These are simple to correct, but
+  getting the facts right is not enough on its own.
+
 \item
   \emph{Broken models}, such as believing that motion and acceleration
   must be in the same direction. We can address these by having them
   reason through examples to see contradictions.
+
 \item
-  \emph{Fundamental beliefs}, such as ``the world is only a few thousand
-  years old'' or ``human beings cannot be affecting the planet's
-  climate''. These usually cannot be addressed in class, since they are
-  deeply connected to the learner's social identity and often cannot be
-  reasoned away.
+  \emph{Fundamental beliefs}, such as ``the world is only a few
+  thousand years old'' or ``human beings cannot be affecting the
+  planet's climate''. These usually cannot be addressed in class,
+  since they are deeply connected to the learner's social identity and
+  often cannot be reasoned away.
+
 \end{itemize}
 
-Again, since Software and Data Carpentry are focused on novices, and the
-building of strong mental models, we're most interested in the middle
-category of misconceptions. While teaching, we want to expose broken
-models so that we can help diagnose and provide better ones.
+Teaching is most effective when instructors have a way to identify and
+clear up learners' misconceptions \emph{while they are teaching}.  The
+technical term for this is \emph{formative assessment}, which is
+assessment that takes place during the lesson in order to form or
+shape it.  Learners don't pass or fail formative assessments; instead,
+its main purpose is to tell both the instructor and the learner how
+the learner is doing, and what to focus on next.  For example, a music
+teacher might ask a student to play a scale very slowly in order to
+see whether she is breathing correctly, and if she is not, what she
+should change.
 
-\begin{callout}{What Happens Next?}{callout:what-happens-next}
+The counterpoint to formative assessment is \emph{summative
+assessment}, which is used at the end of the lesson to tell whether
+the desired learning took place and whether the learner is ready to
+move on.  Learners either pass or fail a summative assessment. One
+example is a driving exam, which reassures the rest of society that
+someone can safely be allowed on the road.
 
-An example of how solving problems can help people correct broken mental
-models, consider this problem from Epstein's
-\emph{\href{http://www.amazon.com/Thinking-Physics-Understandable-Practical-Reality/dp/0935218084/r}{Thinking
-Physics}}. Imagine that you have placed a cake of ice in a bathtub and
-then filled the tub to the rim with water. When the ice melts, does the
-water level go up (so that the tub overflows), go down, or stay the
-same? The correct answer is that it stays the same; figuring out why
-helps people build a model of the relationship between weight, volume,
-and density.
+\begin{callout}{Connecting Formative and Summative Assessment}{callout:connecting-formative-summative}
+
+One rule to use when designing lessons is that formative assessments
+should prepare people for summative assessments: no one should ever
+encounter a question on an exam for which the teaching did not prepare
+them.
+
 \end{callout}
 
-\seclbl{Assessing Mental Models}{sec:assessing-mental-models}
+In order to be useful during teaching, a formative assessment has to
+be quick to administer and give an unambiguous result. The most widely
+used kind of formative assessment is probably the multiple choice
+question (MCQ). When designed well, these can do much more than just
+tell whether someone knows something or not. For example, suppose we
+are teaching children multi-digit addition. A well-designed MCQ would
+be:
 
-How do we expose misconceptions, especially as they pertain to broken
-models? How can we, in-class, know whether the learners already
-understand this topic (so that the class can move on), and if not, what
-misconceptions and gaps in their knowledge to address.
-
-Instructors need feedback on their learners' progress, and insight into
-their learners' mental models. This is usually done through two kinds of
-assessment:
-
-\begin{itemize}
-\item
-  \emph{Summative assessment} is used to tell whether the desired
-  learning took place and whether the learner is ready to move on.
-  Learners either ``pass'' or ``fail'' a summative assessment. One
-  example is a driving exam, which tells the rest of society whether
-  someone can safely be allowed on the road.
-\item
-  \emph{Formative assessment} takes place during teaching and learning.
-  Its main purpose is to guide by telling both the instructor and the
-  learner what to focus on. Learners don't ``pass'' or ``fail''
-  formative assessments. For example, a music teacher might ask a
-  student to play a scale very slowly in order to see whether she is
-  breathing correctly, and if she is not, what she should change. Its
-  second purpose is to prepare learners for summative assessments: no
-  one should ever encounter a question on an exam for which the teaching
-  did not prepare them.
-\end{itemize}
-
-For our in-class purposes, we're most interested in formative
-assessment. In order to be useful during teaching, a formative
-assessment has to be quick to administer and evaluate. The most widely
-used is probably multiple choice questions (MCQs). When designed well,
-these can do much more than just measure how much someone knows. For
-example, suppose we are teaching children multi-digit addition. A
-well-designed MCQ would be:
-
-\begin{verbatim}
+\begin{example}
+\noindent
 Q: what is 27 + 15 ?
-a) 42
-b) 32
-c) 312
-d) 33
-\end{verbatim}
+\begin{enumerate}
+\item 42
+\item 32
+\item 312
+\item 33
+\end{enumerate}
+\end{example}
 
 The correct answer is 42, but each of the other answers provides
-valuable insight.
-
-\begin{discussion}{Find the Bug}{disc:find-the-bug}
-
-What is the misconception associated with each wrong answer?
+valuable insight:
 
 \begin{itemize}
+
 \item
   If the child answers 32, she is throwing away the carry completely.
+
 \item
-  If she answers 312, she knows that she can't just discard the carried
-  `1', but doesn't understand that it's actually a ten and needs to be
-  added into the next column. In other words, she is treating each
-  column of numbers as unconnected to its neighbors.
+  If she answers 312, she knows that she can't just discard the
+  carried 1, but doesn't understand that it's actually a ten and needs
+  to be added into the next column. In other words, she is treating
+  each column of numbers as unconnected to its neighbors.
+
 \item
   If she answers 33 then she knows she has to carry the 1, but is
   carrying it back into the same column it came from.
+
 \end{itemize}
-\end{discussion}
 
 Each of these incorrect answers is a \emph{plausible distractor} with
-\emph{diagnostic power}. ``Plausible'' means that it looks like it could
-be right: instructors will often put supposedly-silly answers like ``a
-fish!'' on MCQs, but (a) they don't provide any insight and (b) learners
-actually don't find them funny. ``Diagnostic power'' means that each of
-the distractors helps the instructor figure out what to explain to that
-particular learner next.
-
-\begin{discussion}{Handling Outcomes}{disc:handling-outcomes}
-
-As the instructor, what should you do if most of the class votes for one
-of the wrong answers? For the right answer? What if the votes are evenly
-spread between options?
-\end{discussion}
-
-If the majority of the class votes for a single wrong answer, you should
-go back and work on correcting that particular misconception. If most of
-the class votes for the right answer, it's probably safe to move on. If
-answers are pretty evenly split between options, learners are probably
-guessing randomly and it's a good idea to go back to a point where
-everyone was on the same page.
+\emph{diagnostic power}.   ``Plausible'' means that it looks like it
+could be right: instructors will often put supposedly-silly answers
+like ``a fish!'' on MCQs, but they don't provide any insight and
+learners actually don't find them funny. ``Diagnostic power'' means
+that each of the distractors helps the instructor figure out what to
+explain to that particular learner next.
 
 Instructors should use MCQs or some other kind of formative assessment
 at least every 10-15 minutes in order to make sure that the class is
@@ -300,6 +203,27 @@ to explain something that your learners already know. (Doing this also
 helps show learners that the instructor cares about how much they are
 learning.)
 
+\begin{callout}{When to Proceed?}{callout:novice-proceed}
+
+As the instructor, what should you do if most of the class votes for
+one of the wrong answers? What if the votes are evenly spread between
+options?  The answer is, ``It depends.''  If the majority of the class
+votes for a single wrong answer, you should go back and work on
+correcting that particular misconception. If answers are pretty evenly
+split between options, learners are probably guessing randomly and
+it's a good idea to go back to a point where everyone was on the same
+page.
+
+If most of the class votes for the right answer, but a few vote for
+wrong ones, you have to decide whether you should spend time getting
+the minority caught up, or whether it's more important to keep the
+majority engaged.  This is just one example of one of the most
+important rules of teaching: no matter how hard you work, or what
+teaching practices you use, you won't always be able to give everyone
+the help they need.
+
+\end{callout}
+
 \begin{callout}{Peer Instruction}{callout:peer-instruction}
 
 No matter how good a teacher is, she can only say one thing at a time.
@@ -308,31 +232,39 @@ time?
 
 The best solution developed so far is a technique called
 \emph{\href{https://en.wikipedia.org/wiki/Peer\_instruction}{peer
-instruction}}. Originally created by Eric Mazur at Harvard, it has been
-studied extensively in a wide variety of contexts, including
-programming. Peer instruction combines formative assessment with student
-discussion and looks something like this:
+instruction}}. Originally created by Eric Mazur at Harvard, it has
+been studied extensively in a wide variety of contexts, including
+programming \cite{fixme}. Peer instruction combines formative
+assessment with student discussion and looks something like this:
 
 \begin{enumerate}
+
 \item
   Give a brief introduction to the topic.
+
 \item
   Give students an MCQ that probes for misconceptions (rather than
   simple factual knowledge).
+
 \item
   Have all the students vote on their answers to the MCQ.
 
   \begin{enumerate}
-    \item
+
+  \item
     If the students all have the right answer, move on.
+
   \item
     If they all have the same wrong answer, address that specific
     misconception.
+
   \item
     If they have a mix of right and wrong answers, give them several
     minutes to discuss those answers with one another in small groups
     (typically 2-4 students) and then reconvene and vote again.
+
   \end{enumerate}
+
 \end{enumerate}
 
 As \href{https://www.youtube.com/watch?t=1\&v=2LbuoxAy56o}{this video}
@@ -348,30 +280,28 @@ Peer instruction is essentially a way to provide one-to-one mentorship
 in a scalable way. Despite this, we usually do not use it in our
 workshops because it takes people time to learn a new way to
 learn---time that we don't have in our compressed two-day format.
+
 \end{callout}
-
-\begin{challenge}{Modelling Novice Mental Models}{chal:modelling-novice-mental-models}
-
-Create a multiple choice question related to a topic you intend to teach
-and explain the diagnostic power of each its distractors, i.e., what
-misconception is each distractor meant to identify?
-\end{challenge}
 
 \begin{callout}{A Note on MCQ Design}{callout:a-note-on-mcq-design}
 
 \begin{itemize}
+
 \item
   A good MCQ tests for conceptual misunderstanding rather than simple
   factual knowledge. If you are having a hard time coming up with
   diagnostic distractors, then either you need to think more about your
   learners' mental models, or your question simply isn't a good starting
   point for an MCQ.
+
 \item
   When you are trying to come up with distractors, think about questions
   that learners asked or problems they had the last time you taught this
   subject. If you haven't taught it before, think about your own
   misconceptions or ask colleagues about their experiences.
+
 \end{itemize}
+
 \end{callout}
 
 \begin{callout}{Concept Inventories}{callout:concept-inventories}
@@ -384,13 +314,14 @@ wrong answers to questions, and then improving the questions, it's
 possible to construct a very precise diagnostic tool. However, it's very
 costly to do this, and students' ability to search for answers on the
 internet is an ever-increasing threat to its validity.
+
 \end{callout}
 
 Designing an MCQ with plausible distractors is useful even if it is
-never used in class because it forces the instructor to think about the
-learners' mental models and how they might be broken---in short, to put
-themselves into the learners' heads and see the topic from their point
-of view.
+never used in class because it forces the instructor to think about
+the learners' mental models and how they might be broken---in short,
+to put themselves into the learners' heads and see the topic from
+their point of view.
 
 \begin{callout}{Why We Don't Assess During Registration}{callout:why-we-dont-assess-during-registration}
 
@@ -404,11 +335,58 @@ rather than making it part of the sign-up process because when we did
 the latter, many people concluded that since they couldn't answer all
 the questions, they shouldn't enrol. We were therefore scaring off many
 of the people we most wanted to help.
+
 \end{callout}
 
-\begin{discussion}{Other Kinds of Formative Assessment}{disc:other-kinds-of-formative-assessment}
+\seclbl{Challenges}{sec:novice-challenges}
+
+\begin{challenge}{Your Mental Models}{chal:novice-your-models}
+
+What do you do for a living? What is one mental model you use to frame
+and understand your work?
+
+\end{challenge}
+
+\begin{challenge}{Symptoms of Being a Novice}{chal:novice-symptoms}
+
+What are the symptoms of being a novice?  I.e., what does someone do
+or say that leads you to classify them as a novice in some domain?
+
+\end{challenge}
+
+\begin{challenge}{Modelling Novice Mental Models}{chal:novice-models}
+
+Create a multiple choice question related to a topic you intend to teach
+and explain the diagnostic power of each its distractors (i.e., what
+misconception each distractor is meant to identify).
+
+When you are done, give your MCQ to a partner, and have a look at
+theirs.  Is the question ambiguous?  Are the misconceptions plausible?
+Do the distractors actually test for them?  Are any likely
+misconceptions \emph{not} tested for?
+
+\end{challenge}
+
+\begin{challenge}{Other Kinds of Formative Assessment}{chal:novice-other-formative}
 
 Describe another kind of formative assessment you have seen or used and
 explain how it helps both the instructor and the learner figure out
 where they are and what they need to do next.
-\end{discussion}
+
+\end{challenge}
+
+\begin{challenge}{Icebergs}{chal:novice-iceberg}
+
+An example of how solving problems can help people correct broken
+mental models, consider this problem from \cite{epstein}. Imagine that
+you have placed a cake of ice in a bathtub and then filled the tub to
+the rim with water. When the ice melts, does the water level go up (so
+that the tub overflows), go down, or stay the same?
+
+\fixme{FIGURE}
+
+The correct answer is that it stays the same; figuring out why helps
+people build a model of the relationship between weight, volume, and
+density.
+
+\end{challenge}
