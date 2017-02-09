@@ -13,7 +13,6 @@
 \usepackage{framed}
 \usepackage{geometry}
 \usepackage{graphicx}
-\usepackage{scrextend}
 
 \usepackage[T1]{fontenc}
 \usepackage{tgtermes}    % body font
@@ -43,7 +42,7 @@
 \newenvironment{challenge}[2]{\begin{barredsection}{Challenge}{#1}{#2} }{ \end{barredsection}}
 \newenvironment{discussion}[2]{\begin{barredsection}{Discussion}{#1}{#2} }{ \end{barredsection}}
 
-\newenvironment{example}{\begin{addmargin}[2em]{2em}}{\end{addmargin}}
+\newenvironment{example}{\begin{leftbar}}{\end{leftbar}}
 
 \newcommand{\chaplbl}[4]{\chapter{#1}\label{#2}\noindent \textbf{Lesson: {#3} minutes} \\ \textbf{Challenges: {#4} Minutes}}
 
