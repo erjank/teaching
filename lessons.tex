@@ -56,9 +56,9 @@ one we recommend has the following steps:
 \begin{enumerate}
 
 \item
-  Create user profiles to figure out who you are trying to teach, what
-  they care about, what they already know, and what special needs they
-  might have.
+  Create learner profiles (discussed below) to figure out who you are
+  trying to teach, what they care about, what they already know, and
+  what special needs they might have.
 
 \item
   Draw concept maps to describe the mental model you want them to
@@ -79,69 +79,50 @@ one we recommend has the following steps:
   dependencies.
 
 \item
-  Write short episodes to get learners from one formative assessment
-  to the next.  An actual classroom lesson will typically then consist
-  of three or four such episodes, each building toward a quick
-  check-in.
+  Write just enough to get learners from one formative assessment to
+  the next.  An actual classroom lesson will typically then consist of
+  three or four such episodes, each building toward a short check that
+  learners are keeping up.
 
 \end{enumerate}
 
-This \emph{reverse instructional design} method helps keep teaching
-focused on its objectives. It also ensures that learners don't face
-anything on the final exam that the course hasn't prepared them for.
+This method helps to keep teaching focused on its objectives. It also
+ensures that learners don't face anything on the final exam that the
+course hasn't prepared them for.
 
 \begin{callout}{How and Why to Fake It}{callout:how-and-why-to-fake-it}
 
 One of the most influential papers in the history of software
-engineering was Parnas and Clements'
-``\href{http://dx.doi.org/10.1109/TSE.1986.6312940}{A Rational Design
-Process: How and Why to Fake It}''
-(\href{http://www.ics.uci.edu/~taylor/classes/121/IEEE86\_Parnas\_Clement.pdf}{PDF}),
-in which they pointed out that in real life we move back and forth
-between gathering requirements, interface design, programming, and
-testing, but when we write up our work it's important to describe it as
-if we did these steps one after another so that other people can retrace
-our steps. The same is true of lesson design: while we may change our
-mind about what we want to teach based on something that occurs to us
-while we're writing an MCQ, we want the notes we leave behind to present
-things in the order described above.
+engineering was Parnas and Clements' ``A Rational Design Process: How
+and Why to Fake It''.  In it, the authors pointed out that in real
+life we move back and forth between gathering requirements, interface
+design, programming, and testing, but when we write up our work it's
+important to describe it as if we did these steps one after another so
+that other people can retrace our steps. The same is true of lesson
+design: while we may change our mind about what we want to teach based
+on something that occurs to us while we're writing an MCQ, we want the
+notes we leave behind to present things in the order described above.
+
 \end{callout}
 
-\begin{discussion}{Teaching to the Test}{discuss:teaching-to-the-test}
+\begin{callout}{Teaching to the Test}{callout:teaching-to-the-test}
 
-Is reverse instructional design ``teaching to the test''? I.e., does it
-steer teachers toward getting their students to pass an exam rather than
-learn things?
+Reverse instructional design is \emph{not} the same thing as
+``teaching to the test''. When using RID, teachers set goals to aid in
+lesson design, and may never actually give the final exam that they
+wrote. In many school systems, on the other hand, an external
+authority defines assessment criteria for all learners, regardless of
+their individual situations, and the outcomes of those summative
+assessments directly affect the teachers' pay and promotion.
+Green's \emph{Building a Better Teacher} argues that this focus on
+measurement is appealing to those with the power to set the tests, but
+is unlikely to improve outcomes unless it is coupled with support for
+teachers to make improvements based on test outcomes \cite{fixme}.
+This is often missing, because as Scott pointed out in \emph{Seeing
+Like a State}, large organizations usually value uniformity over
+productivity \cite{fixme}.
 
-Reverse instructional design is \emph{not} the same thing as ``teaching
-to the test''. When using RID, teachers set goals to aid in lesson
-design, and may never actually give the final exam that they wrote. In
-many school systems, on the other hand, an external authority defines
-assessment criteria for all learners, regardless of their individual
-situations, and the outcomes of those summative assessments directly
-affect the teachers' pay and promotion. Green's
-\emph{\href{http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393351084/}{Building
-a Better Teacher}} argues that this focus on measurement is appealing to
-those with the power to set the tests, but is unlikely to improve
-outcomes unless it is coupled with support for teachers to make
-improvements based on test outcomes. This is often missing, because as
-Scott pointed out in
-\emph{\href{http://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153/}{Seeing
-Like a State}}, large organizations usually value uniformity over
-productivity. \{: .solution\}
-\end{discussion}
-
-\seclbl{Writing Lessons}{sec:writing-lessons}
-
-A theme you may have noticed in our material so far is a need to start
-``at the end''. To write a multiple-choice question, you have to start
-with
-misconceptions and work backward to write a question to diagnose
-them. To write a faded example, you start with the full example and
-remove pieces. So here, the way to write a lesson is not to just sit
-down and start writing. The most important thing is to know your
-audience and what you want them to learn, and then to develop your
-lesson accordingly.
+\end{callout}
 
 \seclbl{Learner Profiles}{sec:learner-profiles}
 
@@ -178,14 +159,6 @@ show him how to put his programs and files under version control so that
 he can re-run analyses and figure out which results may have been
 affected by changes.
 \end{quote}
-
-\begin{challenge}{Learner Profiles}{chal:learner-profiles}
-
-Read \href{http://software-carpentry.org/audience/}{Software Carpentry's
-learner profiles} and then write one that describes a fictional
-colleague of your own. Who are they, what problems do they face, and how
-will this training help them? Try to be as specific as possible.
-\end{challenge}
 
 \seclbl{Writing Learning Objectives}{sec:writing-learning-objectives}
 
@@ -314,110 +287,13 @@ following steps to evaluate it and reword it to make it sharper.
 \item
   Share the original and your re-worded learning objectives in the Etherpad.
 \end{enumerate}
+
 \end{challenge}
 
-\begin{callout}{The Minimal Manual}{callout:the-minimal-manual}
+\begin{challenge}{Learner Profiles}{chal:learner-profiles}
 
-Carroll et al's 1987 paper
-``The Minimal Manual'' \cite{bib:carroll-minimal-manual}
-outlines an approach to documentation and instruction
-in which each lesson is one page long and describes how to accomplish
-one concrete task. Its focus on immediate application, error recognition
-and recovery, and reference use after training makes it an interesting
-model for Software and Data Carpentry.
-\end{callout}
-
-\seclbl{Software and Data Carpentry Lessons}{sec:software-and-data-carpentry-lessons}
-
-It would be nice to say that the Software and Data Carpentry lessons
-were all developed using perfect reverse instructional design. While
-that's not necessarily true, all of the lessons are constantly being
-revised and edited with certain core objectives in mind.
-
-The main aim of the Unix shell lesson is to familiarize people with a
-handful of basic concepts that crop up in many other areas of computing:
-
-\begin{itemize}
-\item
-  the notions of a path and a home directory
-\item
-  the use of history and tab completion to save time (and prevent
-  mistakes)
-\item
-  manipulating text using \texttt{head}, \texttt{tail}, \texttt{grep},
-  and related tools
-\item
-  combining existing tools using pipes instead of writing new ones
-\item
-  using loops to repeat operations
-\end{itemize}
-
-The aims of the version control lesson are to teach people:
-
-\begin{itemize}
-\item
-  how to keep track of their work,
-\item
-  how to collaborate with other people online, and
-\item
-  enough about privacy and licensing that they can begin to make
-  sensible decisions about what to put where and how to share it.
-\end{itemize}
-
-The ostensible aim of the programming lessons are to show people how to
-build modular programs out of small functions that can be read, tested,
-and re-used. However, these concepts turn out to be hard to convey to
-people who are still learning the syntax of a programming language
-(forest and trees), so in practice the programming lessons focus
-primarily on the mechanics of doing common operations in those
-languages.
-
-\seclbl{Data Carpentry}{sec:data-carpentry}
-
-Data Carpentry's \href{http://datacarpentry.org/lessons/}{lessons}
-are domain-specific and cover data organization, manipulation, and
-visualization skills relevant to the target domain. These goals include:
-
-\begin{itemize}
-\item
-  \href{http://datacarpentry.org/lessons/\#ecology-workshop}{Ecology}
-
-  \begin{itemize}
-    \item
-    Focuses on general data management skills (proper data formatting
-    and tracking) and tools for manipulating and visualizing tabular
-    data.
-  \end{itemize}
-\item
-  \href{http://datacarpentry.org/lessons/\#genomics-workshop}{Genomics}
-
-  \begin{itemize}
-    \item
-    Specialized for researchers with sequence data, includes specific
-    bioinformatics tools and how to use large-scale computing
-    resources.
-  \end{itemize}
-\item
-  \href{http://datacarpentry.org/lessons/\#geospatial-data-workshop}{Geospatial
-  Data}
-\end{itemize}
-
-There are also materials in development and testing for:
-
-\begin{itemize}
-\item
-  \href{http://datacarpentry.org/lessons/\#social-science-materials}{Social
-  Science}
-\item
-  and \href{http://datacarpentry.org/semester-biology/}{a
-  semester-long Biology course}.
-\end{itemize}
-
-Other Data Carpentry lessons are in the incubator stage.
-
-\begin{quote}
-How practical do you think it would be to use the techniques you've
-learned in this workshop in regular teaching? In particular, do you
-think you would have enough time to prepare and teach lessons the ways
-you have been shown?
-\end{quote}
+Read \href{http://software-carpentry.org/audience/}{Software Carpentry's
+learner profiles} and then write one that describes a fictional
+colleague of your own. Who are they, what problems do they face, and how
+will this training help them? Try to be as specific as possible.
+\end{challenge}
