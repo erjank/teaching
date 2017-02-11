@@ -44,7 +44,14 @@
 
 \newenvironment{example}{\begin{leftbar}}{\end{leftbar}}
 
-\newcommand{\chaplbl}[4]{\chapter{#1}\label{#2}\noindent \textbf{Lesson: {#3} minutes} \\ \textbf{Challenges: {#4} Minutes}}
+\newcommand{\chaplbl}[4]{
+\chapter{#1}\label{#2}
+\begin{tabular}{ll}
+\textbf{Lesson:} & \textbf{{#3} minutes} \\
+\textbf{Challenges:} & \textbf{{#4} Minutes}
+\end{tabular}
+\vspace{\baselineskip}
+}
 
 \newcommand{\figlbl}[4][375pt]{\begin{figure}\centering\caption{#2}\label{#3}\includegraphics[width={#1}]{#4}\end{figure}}
 

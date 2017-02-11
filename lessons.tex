@@ -1,4 +1,4 @@
-\chaplbl{Lessons}{sec:lessons}{0}{0}
+\chaplbl{Lessons}{sec:lessons}{15}{20}
 
 To wrap up this section, we will combine the things we have learned
 with a few more ideas to create a reliable, repeatable process for
@@ -56,9 +56,8 @@ one we recommend has the following steps:
 \begin{enumerate}
 
 \item
-  Create learner profiles (discussed below) to figure out who you are
-  trying to teach, what they care about, what they already know, and
-  what special needs they might have.
+  Create learner profiles (discussed in the next section) to figure
+  out who you are trying to teach and what will appeal to them.
 
 \item
   Draw concept maps to describe the mental model you want them to
@@ -126,113 +125,151 @@ productivity \cite{fixme}.
 
 \seclbl{Learner Profiles}{sec:learner-profiles}
 
-The first piece - your audience, can be identified in many ways.
-Frequently people who are hosting a workshop have a specific audience in
-mind, based on their own experience.
+The first piece of the process above is figuring out who your audience
+is.  One way to do this is to write two or three \emph{learner
+profiles}. This technique is borrowed from user interface design,
+where short profiles of typical users are created to help designers
+think about their audience's needs, and to give them a shorthand for
+talking about specific cases.
 
-One ``creative'' way to characterize the audience for a course is to
-write \emph{learner profiles}. This technique is borrowed from user
-interface design, where short profiles of typical users are created to
-help designers think about their audience's needs, and to give them a
-shorthand for talking about specific cases.
-
-Learner profiles have three parts: the person's general background, the
-problem they face, and how the course will help them. A learner profile
-for Software Carpentry might be:
-
-\begin{quote}
-Jo\~{a}o is an agricultural engineer doing his masters in soil physics. His
-programming experience is a first year programming course using C. He
-was never able to use this low-level programming into his activities,
-and never programmed after the first year.
-
-His work consists of evaluating physical properties of soil samples from
-different conditions. Some of the soil properties are measured by an
-automated device that sends logs in a text format to his machine. Jo\~{a}o
-has to open each file in Excel, crop the first and last quarters of
-points, and calculate an average.
-
-Software Carpentry will show Jo\~{a}o how to write shell scripts to count
-the lines and crop the right range for each file, and how to use R to
-read these files and calculate the required statistics. It will also
-show him how to put his programs and files under version control so that
-he can re-run analyses and figure out which results may have been
-affected by changes.
-\end{quote}
-
-\seclbl{Writing Learning Objectives}{sec:writing-learning-objectives}
-
-Summative and formative assessments help instructors figure out what
-they're going to teach, but in order to communicate that to learners and
-other instructors, we should also write \emph{learning objectives}. A
-learning objective is a single sentence describing what a learner will
-be able to do once they have sat through the lesson, in order to
-demonstrate ``learning.'' That requires thinking critically about what
-exactly you want people to learn.
-
-It's dangerously easy to come up with fuzzy learning objectives. A broad
-statement like ``Understand git'' could mean many different specific
-goals, like:
-
-\begin{itemize}
-\item
-  Learners can revert a change to a file using git.
-\item
-  Learners will name three benefits of using a version control system
-  like git.
-\item
-  Learners will compare the collaboration features of git and dropbox.
-\end{itemize}
-
-What we want are specific, verifiable descriptions of what learners can
-do to demonstrate their learning. Each learning objective should have
-\emph{a measurable or verifiable verb} specifying what the learner will
-do, and should specify the \emph{criteria for acceptable performance}.
-
-Writing these kinds of learning objectives may seem restrictive or
-limiting, but will make both you and your learners happier in the long
-run. You will end up with clear guidelines for both your teaching and
-assessment, and your learners will appreciate the clear expectations.
-
-In order to formulate good learning objectives we need to decide what
-kinds of learning we are aiming for. There is a difference between
-knowing the atomic weight of fluorine and understanding what elements
-it's likely to bond with and why. Similarly, there's a difference
-between being able to figure out why a microscope isn't focusing
-properly and being able to design a new microscope that focuses more
-easily. What we need is a taxonomy of understanding that is
-hierarchical, measurable, stable, and cross-cultural.
-
-The best-known attempt to build one is
-\href{https://en.wikipedia.org/wiki/Bloom's\_taxonomy}{Bloom's taxonomy},
-which was first published in 1956. More recent efforts are Wiggins and
-McTighe's \emph{facets of understanding} \cite{bib:wiggins-mctighe} and Fink's taxonomy
-\cite{bib:fink-csle}. \tblref{tbl:bloom}
-shows some of the verbs typically used in learning objectives written
-for each of Bloom et al's original levels.
-
-\begin{tbllbl}{Bloom's Taxonomy}{tbl:bloom}
+Learner profiles have five parts: the person's general background,
+what they already know, what \emph{they} think they want to do, how
+the course will help them, and any special needs they might have. A
+learner profile for a weekend workshop aimed at new college students
+might be:
 
 \begin{enumerate}
 
-\item Knowledge: recalling learned information
+\item
+  Jorge has just moved from Costa Rica to Canada to study agricultural
+  engineering.  He has joined the college soccer team, and is looking
+  forward to learning how to play ice hockey.
 
-\item Comprehension: explaining the meaning of information
+\item
+  Other than using Excel, Word, and the Internet, Jorge's most
+  significant previous experience with computers is helping his sister
+  build a WordPress site for the family business back home in Costa
+  Rica.
 
-\item Application: applying what one knows to novel, concrete situations
+\item
+  Jorge needs to measure properties of soil from nearby farms using a
+  handheld device that sends logs in a text format to his computer.
+  Right now, Jorge has to open each file in Excel, crop the first and
+  last points, and calculate an average.
 
-\item Analysis: breaking down a whole into its component parts and explaining how each part contributes to the whole
+\item
+  This workshop will show Jorge how to write a little Python program
+  to read the data, select the right values from each file, and
+  calculate the required statistics.
 
-\item Synthesis: assembling components to form a new and integrated whole
-
-\item Evaluation: using evidence to make judgments about the relative merits of ideas and materials
+\item
+  Jorge can read English proficiently, but still struggles sometimes
+  to keep up with spoken conversation (especially if it involves a lot
+  of new jargon).
 
 \end{enumerate}
 
+A single learner profile is sometimes enough, but two or three that
+cover the whole range of potential learners is better.  One of the
+ways they help is by serving as a shorthand for design issues: when
+speaking with each other, lesson authors can say, ``Would Jorge
+understand why we're doing this?'' or, ``What installation problems
+would Jorge face?''
+
+\seclbl{Learning Objectives}{sec:learning-objectives}
+
+Summative and formative assessments help instructors figure out what
+they're going to teach, but in order to communicate that to learners
+and other instructors, a course description should also
+have \emph{learning objectives}. A learning objective is a single
+sentence describing what a learner will be able to do once they have
+sat through the lesson in order to demonstrate what they have learned.
+
+Learning objectives are meant to ensure that everyone has the same
+understanding of what a lesson is supposed to accomplish. For example,
+a statement like ``understand Git'' could mean any of the following,
+each of this would be backed by a very different lesson:
+
+\begin{itemize}
+
+\item
+  Learners can describe three scenarios in which version control
+  systems like Git are better than file-sharing tools like Dropbox,
+  and two in which they are worse.
+
+\item
+  Learners can commit a changed file to a Git repository using a
+  desktop GUI tool.
+
+\item
+  Learners can explain what a detached HEAD is and recover from it
+  using command-line operations.
+
+\end{itemize}
+
+\begin{callout}{Objectives vs.\ Outcomes}{callout:objectives-vs-outcomes}
+
+A learning \emph{objective} is what a lesson strives to achieve.  A
+learning \emph{outcome} is what it actually achieves, i.e., what
+learners actually take away.  The role of summative assessment is
+therefore to compare outcomes with objectives.
+
+\end{callout}
+
+More specifically, a good learning objective has a \emph{measurable or
+verifiable verb} that states what the learner will do, and specifies
+the \emph{criteria for acceptable performance}.  Writing these kinds
+of learning objectives may initially seem restrictive or limiting, but
+will make both you and your learners happier in the long run. You will
+end up with clear guidelines for both your teaching and assessment,
+and your learners will appreciate the clear expectations.
+
+One tool that can help when writing learning objectives is
+\href{https://en.wikipedia.org/wiki/Bloom's\_taxonomy}{Bloom's taxonomy},
+which was first published in 1956.  It attempts to define levels of
+understanding in a way that is hierarchical, measurable, stable, and
+cross-cultural.  \tblref{tbl:bloom} shows some of the verbs typically
+used in learning objectives written for each of Bloom's levels.
+
+\begin{tbllbl}{Bloom's Taxonomy}{tbl:bloom}
+
+\begin{tabular}{lll}
+Knowledge
+& recalling learned information
+& name, define, recall
+\\
+
+Comprehension
+& explaining the meaning of information
+& restate, locate, explain, recognize
+\\
+
+Application
+& applying what one knows to novel, concrete situations
+& apply, demonstrate, use
+\\
+
+Analysis
+& breaking down a whole into its component parts and explaining how each part contributes to the whole
+& differentiate, criticize, compare
+\\
+
+Synthesis
+& assembling components to form a new and integrated whole
+& design, construct, organize
+\\
+
+Evaluation
+& using evidence to make judgments about the relative merits of ideas and materials
+& choose, rate, select
+\\
+
+\end{tabular}
+
 \end{tbllbl}
 
-\fixme{What needs to be in a good learning objective?}
-Here is an example of a successively-improved lesson objective:
+Another way to understand what makes for a good learning objective
+is to see how a poor one can be improved:
 
 \begin{tabular}{ll}
 
@@ -247,13 +284,14 @@ Doesn't start with an active verb or define the level of learning,
 and the subject of learning has no context and is not specific.
 \\
 
-Learner will understand principles of good programming.
+Learner will understand how to program in R.
 &
 Starts with an active verb, but doesn't define the level of learning,
 and the subject of learning is still too vague for assessment.
 \\
 
-Learner will write one-page data analysis scripts for research purposes using R Studio.
+Learner will write one-page read-filter-summarize-print data analysis
+scripts for tabular data using R and R Studio.
 &
 Starts with an active verb, defines the level of learning,
 and provides context to ensure that outcomes can be assessed.
@@ -261,39 +299,20 @@ and provides context to ensure that outcomes can be assessed.
 
 \end{tabular}
 
-Baume's guide to
-writing and using good learning outcomes \cite{bib:baume-fixme} is a good longer discussion of these
-issues.
-
-\begin{challenge}{Evaluate SWC and DC Learning Objectives}{chal:evaluate-swc-and-dc-learning-objectives}
-
-Your instructor has posted links to a handful of current Software and
-Data Carpentry lessons in the Etherpad. Take a minute to select one
-learning objective from one of those lessons, then complete the
-following steps to evaluate it and reword it to make it sharper.
-
-\begin{enumerate}
-\item
-  Identify the learning objective verb.
-\item
-  Decide what type of learning outcome this applies to
-  (i.e.~comprehension, application, evaluation).
-\item
-  Reword the learning objective for a different learning outcome (e.g.,
-  from application to knowledge based outcome or vice versa).
-\item
-  Pair up to discuss your rewording or help each other with point 3 or 4
-  if necessary.
-\item
-  Share the original and your re-worded learning objectives in the Etherpad.
-\end{enumerate}
-
-\end{challenge}
+Baume's guide to writing and using good learning outcomes
+\cite{bib:baume-fixme} is a good longer discussion of these issues.
 
 \begin{challenge}{Learner Profiles}{chal:learner-profiles}
 
-Read \href{http://software-carpentry.org/audience/}{Software Carpentry's
-learner profiles} and then write one that describes a fictional
-colleague of your own. Who are they, what problems do they face, and how
-will this training help them? Try to be as specific as possible.
+Working in pairs or small groups, create a five-point profile that
+describes one of your typical learners.
+
+\end{challenge}
+
+\begin{challenge}{Write Learning Objectives}{chal:write-learning-objectives}
+
+Write one more learning objectives for something you currently teach
+or plan to teach.  Working with a partner, critique and improve the
+objectives.
+
 \end{challenge}
