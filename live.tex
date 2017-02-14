@@ -1,4 +1,4 @@
-\chaplbl{Live Coding}{sec:live}{15}{45}
+\chaplbl{Live Coding}{sec:practices}{30}{45}
 
 \begin{quote}
   Teaching is theater not cinema.
@@ -6,7 +6,11 @@
   --- Neal Davis
 \end{quote}
 
-One of our recommended teaching practices is so central that it
+Teaching is a performance art, just like drama, music, and athletics.
+And as in those fields, we have a collection of small tips and tricks
+to make teaching work better.
+
+The first of our recommended teaching practices is so central that it
 deserves a chapter of its own: live coding.  When they are live
 coding, instructors don't use slides.  Instead, they through the
 lesson material, typing in the code or instructions, with their
@@ -182,36 +186,6 @@ Here are some tips to make your live coding better:
   another.
 
 \item
-  \emph{Use sticky notes tl get feedback in real time.}  Give each
-  learner two sticky notes of different colours, e.g., red and
-  green. These can be held up for voting, but their real use is as
-  status flags. If someone has completed an exercise and wants it
-  checked, they put the green sticky note on their laptop; if they run
-  into a problem and need help, the put up the red one. This is better
-  than having people raise their hands because:
-
-  \begin{itemize}
-
-  \item
-    it's more discreet (which means they're more likely to
-    actually do it),
-
-  \item
-    they can keep working while their flag is raised, and
-
-  \item
-    the instructor can quickly see from the front of the room what
-    state the class is in.
-
-  \end{itemize}
-
-  Sometimes a red sticky involves a technical problem that takes a bit
-  more time to solve. To prevent this issue to slow down the whole
-  class too much, you could use the occasion to take the small break
-  you had planned to take a bit later, giving the helper(s) time to
-  fix the problem.
-
-\item
   \emph{Embrace mistakes.}
 
   No matter how well prepared you are, you will be making
@@ -248,9 +222,122 @@ Here are some tips to make your live coding better:
 
 \end{enumerate}
 
-\seclbl{Challenges}{sec:live-challenges}
+\seclbl{Pre-Assessment}{sec:practices-assessment}
 
-\begin{challenge}{The Bad and the Good}{chal:live-bad-and-good}
+Most formal educational systems train people to treat all assessment
+as summative, i.e., to think of every interaction with a teacher as an
+evaluation, rather than as a chance to shape instruction.  For
+example, we use a short pre-assessment questionnaire to profile
+learners before workshops to help instructors tune the pace and level
+of material. We send this questionnaire out after people have
+registered rather than making it part of the sign-up process because
+when we did the latter, many people concluded that since they couldn't
+answer all the questions, they shouldn't enrol. We were therefore
+scaring off many of the people we most wanted to help.
+
+Instead of asking people how easily they could complete specific tasks,
+we could just ask them to rate their knowledge of various subjects on a
+scale from 1 to 5. However, self-assessments of this kind are usually
+inaccurate because of the
+\href{https://en.wikipedia.org/wiki/Dunning\%E2\%80\%93Kruger\_effect}{Dunning-Kruger
+effect}: the less people know about a subject, the less accurate their
+estimate of their knowledge is.
+
+That said, there \emph{are} things we can do:
+
+\begin{itemize}
+
+\item
+  Before running a workshop, communicate its level clearly to everyone
+  who's thinking of signing up by listing the topics that will be
+  covered and showing a few examples of exercises that people will be
+  asked to complete.
+
+\item
+  Provide multiple exercises for each teaching episode so that more
+  advanced learners don't finish early and get bored.
+
+\item
+  Ask more advanced learners to help people next to them. They'll
+  learn from answering their peers' questions (since it will force
+  them to think about things in new ways).
+
+\item
+  The helpers and the instructor who isn't teaching the particular
+  episode should keep an eye out for learners who are falling behind
+  and intervene early so that they don't become frustrated and give
+  up.
+
+\end{itemize}
+
+The most important thing is to accept that no class can possibly meet
+everyone's individual needs. If the instructor slows down to accommodate
+two people who are struggling, the other 38 are not being well served.
+Equally, if she spends a few minutes talking about an advanced topic
+because two learners are bored, the 38 who don't understand it will feel
+left out. All we can do is tell our learners what we're doing and why,
+and hope that they'll understand.
+
+\seclbl{Setup}{sec:practices-setup}
+
+\fixme{Talk about getting learners' machines set up.}
+
+\callout{Virtual Machines}{callout:practices-vm}
+
+We have experimented with virtual machines (VMs) on learners'
+computers to reduce installation problems, but those introduce
+problems of their own: older or smaller machines simply aren't fast
+enough, and learners often struggle to switch back and forth between
+two different sets of keyboard shortcuts for things like copying and
+pasting.
+
+Some instructors use VPS over SSH or web browser pages instead. This
+solve the installation issues, but makes us dependent on host
+institutions' WiFi (which can be of highly variable quality), and has
+the issues mentioned above with things like keyboard shortcuts.
+
+\end{callout}
+
+\begin{callout}{Why Not a MOOC?}{callout:why-not-a-mooc}
+
+Many learners find it difficult to get to a workshop, either because
+there isn't one locally or because it's difficult to schedule time
+around other commitments, so why don't we create video recordings of
+the lessons and offer the workshop as a MOOC (Massive Open Online
+Course)?
+
+The first answer is that we did in 2010-11, but found the maintenance
+costs unsustainable. Making a small change to this webpage only takes
+a few minutes. but making \emph{any} change to a video takes an hour
+or more. In addition, most people are much less comfortable recording
+themselves than contributing written material.
+
+The second answer is that doing significantly outperforms watching.
+Specifically, a recent paper by Koedinger et
+al \cite{bib:koedinger-doing-watching} estimated ``{\ldots}the
+learning benefit from extra doing (1 SD increase) to be more than six
+times that of extra watching or reading.'' \emph{Doing}, in this case,
+refers to completing an interactive or mimetic task with feedback,
+while \emph{benefit} refers to both \emph{completion rates}
+and \emph{overall performance}.
+
+And while we do not (yet) have empirical data, we believe very
+strongly that many novices would give up in despair if required to
+debug setup and installation lessons on their own, but are more likely
+to get past these obstacles if someone is present to help them.
+
+An intermediate approach that has proven quite successful is real-time
+remote instruction, in which the learners are co-located at one (or a
+few) sites, with helpers present, while the instructor(s) teaching via
+online video. This model has worked well for this instructor training
+course, and for a handful of regular workshops, but more work is
+needed to figure out its pros and cons.
+
+\end{callout}
+
+\seclbl{Challenges}{sec:practices-challenges}
+
+\begin{challenge}{The Bad and the Good}{chal:practices-bad-and-good}
 
 Watch this video of
 \href{https://youtu.be/bXxBeNkKmJE}{live coding done poorly}
@@ -263,7 +350,7 @@ familiar with the contents of the data files being filtered.
 
 \end{challenge}
 
-\begin{challenge}{See Then Do}{chal:see-then-do}
+\begin{challenge}{See Then Do}{chal:practices-live}
 
 Teach 3-4 minutes of your chosen lesson episode using live coding to a
 fellow trainee, then swap and watch while that person live codes for
