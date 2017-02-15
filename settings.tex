@@ -43,11 +43,15 @@
 
 \newenvironment{example}{\begin{leftbar}}{\end{leftbar}}
 
-\newcommand{\chaplbl}[4]{
+\newcommand{\chaplbl}[2]{
+\chapter{#1}\label{#2}
+}
+
+\newcommand{\chaplbltime}[4]{
 \chapter{#1}\label{#2}
 \begin{tabular}{ll}
 \textbf{Lesson:} & \textbf{{#3} minutes} \\
-\textbf{Challenges:} & \textbf{{#4} Minutes}
+\textbf{Challenges:} & \textbf{{#4} minutes}
 \end{tabular}
 \vspace{\baselineskip}
 }
