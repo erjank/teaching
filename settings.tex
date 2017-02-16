@@ -30,6 +30,27 @@
   bindingoffset=0.89cm % gutter
 }
 
+% make all verbatim (code blocks) text smaller, just because it was bugging me
+\let\oldverbatim\verbatim
+\renewcommand\verbatim{\small\oldverbatim}
+
+% introduce penalty for widows and orphans (can increase to 10 000, although
+% not recommended)
+\widowpenalty=300
+\clubpenalty=300
+
+\newenvironment{gdescription}
+{\begin{description}\addtolength{\itemsep}{-0.6\baselineskip}}
+{\end{description}}
+
+\newenvironment{genumerate}
+{\begin{enumerate}[leftmargin=0.5\leftmargin]\addtolength{\itemsep}{-0.6\baselineskip}}
+{\end{enumerate}}
+
+\newenvironment{gitemize}
+{\begin{itemize}[leftmargin=0.5\leftmargin]\addtolength{\itemsep}{-0.6\baselineskip}}
+{\end{itemize}}
+
 \setcounter{tocdepth}{0}    % sets what level of header is shown in the TOC
 \setcounter{secnumdepth}{1} % sets what level of subsect. are numbered
 
