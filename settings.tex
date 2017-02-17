@@ -77,8 +77,8 @@
 \newcommand{\subsubseclbl}[2]{\subsubsection{#1}\label{#2}}
 
 \newenvironment{tbllbl}[2]
-{\begin{table}\caption{#1}\label{#2}}
-{\end{table}}
+{\begin{table}\caption{#1}\label{#2}\begingroup\small}
+{\endgroup\end{table}}
 
 \newcommand{\chapref}[1]{Chapter~\ref{#1}}
 \newcommand{\figref}[1]{Figure~\ref{#1}}
