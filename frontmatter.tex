@@ -1,13 +1,17 @@
-\newpage
-% copyright page 
+% title page
+\thispagestyle{empty}
+\mytitlepage
 
+% copyright page 
+\newpage
 \thispagestyle{empty}
 
 \small
+
 \noindent \textbf{A Short Guide to Teaching} \\
 Greg Wilson
 
-\vspace{0.15cm}
+\vspace{0.3cm}
 
 \noindent
 This work is licensed under the Creative Commons Attribution 3.0
@@ -17,7 +21,7 @@ http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative
 Commons, 444 Castro Street, Suite 900, Mountain View, California,
 94041, USA.
 
-\vspace{0.15cm}
+\vspace{0.3cm}
 
 \noindent
 The full text of this book is available online at \fixme{URL}.\\
@@ -29,14 +33,14 @@ All royalties from its sale will be donated to Amnesty International.\\
 Product and company names mentioned herein may be the trademarks of
 their respective owners.\\
 
-\vspace{0.15cm}
+\vspace{0.3cm}
 
 \noindent
 While every precaution has been taken in the preparation of this
 book, the editors and authors assume no responsibility for errors or omissions,
 or for damages resulting from the use of the information contained herein.\\
 
-\vspace{0.15cm}
+\vspace{0.3cm}
 
 \noindent
 The cover image is \fixme{credits}\\
@@ -49,17 +53,28 @@ Revision Date: \today \\
 \noindent
 ISBN: \fixme{isbn}
 
-\normalsize
-
+% Dedication page
 \newpage
+\normalsize
+\thispagestyle{empty}
+\begin{vplace}
+\centerline{\emph{For Tom Wilkie}}
+\end{vplace}
 
 % Blank page here
-\thispagestyle{empty}
-\mbox{}    % need to have *something* in here or Latex "helpfully" removes page
+% \thispagestyle{empty}
+% \mbox{}    % need to have *something* in here or Latex "helpfully" removes page
 
+% Tables of contents
+\renewcommand{\thepage}{\roman{page}}
 \newpage
 \tableofcontents
 \newpage
 \listoffigures
 \newpage
 \listoftables
+
+% Reset everything for the main body
+\newpage
+\renewcommand{\thepage}{\arabic{page}}
+\setcounter{page}{1}

@@ -90,4 +90,17 @@
 \newlist{todolist}{itemize}{2}
 \setlist[todolist]{label=$\square$}
 
+\newcommand{\mytitlepage}{
+\pagenumbering{alph}
+\thispagestyle{empty}
+\beforepartskip
+\begin{center}
+\thetitle
+
+\theauthor
+\end{center}
+\afterpartskip
+\newpage
+}
+
 % \linespread{1.3}
