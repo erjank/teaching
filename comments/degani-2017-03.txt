@@ -1,0 +1,111 @@
+General structure
+
+I liked that there are 7 or 8 main headings in the table of contents,
+but I felt slightly overloaded when trying to use it to determine the
+structure of the book. Using the 7+/- 2 idea, I feel like a couple of
+slots are being used by thoughts such as “what’s in it for me.. how
+does this relate to the training I’m doing.. what do I want to get out
+of the book and is there a section I can skip to first.. can this book
+be used as reference?”. I personally prefer 4 or so over-arching
+themes to group chapters. Also, in the opposite direction I like to
+see each chapter broken up into a few headings — the subsections are
+there, but you can’t see them until you get to them. This is entirely
+my opinion and may not be true for others — maybe I’ve read too many
+Microsoft Press books which seem to always be structured this way. The
+title drew me in and the fact that it was short made me just want to
+read the whole thing front-to-back in one sitting, which I did. I
+became anxious to get to the live coding section, skipped pages 37 -
+53 and then came back to 37. That being said, I like the order of the
+book the way it is.
+
+I love how you cite all sorts of references. In terms of style guides,
+I am only familiar with APA and I haven’t used it in a very long time,
+but I do like to see the year in-line with the reference. For example,
+I was really curious to know when the Unix manuals were written, but
+not bad enough to break the flow of the reading and head to the
+references section. You’ve said the science changes often, so years
+are important to me. Again, just my opinion, and others may not think
+it’s as important. I like how you prime people right off the bat with
+some key authors that you feel are worth reading. It’s always nice to
+know a book isn’t the purported end but more of an entry into a
+field. It served that purposes for me and feel as though I have a
+model to use when approaching the field of learning.
+
+Some random points
+
+At the beginning I wasn’t sure what software carpentry was and the
+significance of the references to the 2010 and 2012 versions were not
+clear to me.
+
+At first, I wasn’t sure what a call-out was and the first one on
+profiles seems to come out of nowhere, but I was immediately drawn in
+by it and found it interesting.
+
+I love the idea of highlighting the behaviour of the instructor in
+contrast to the actual content being taught. It’s a powerful point and
+presented very well.
+
+I liked the example checklists, but was not entirely sure that this
+was something that you send you to attendees a day or so prior to the
+training or during registration. Not an important point and it is
+explained later on, but I was wondering exactly when it was supposed
+to be done.
+
+Not sure what the phrase “One sign that someone is a novice is that
+their questions aren’t even wrong.” means.
+
+Liked the Mark Twain quote.
+
+On page 29-30 I wasn’t sure about the flow from the topic of sharing
+teaching practices to lateral knowledge transfer.
+
+In the learners profile section, I did not see the 4 headings you
+referenced in the workshop, which were useful (background, prior
+knowledge, ?, special considerations).
+
+This book would be great as reference material.
+
+Actions I'd like to propose as a result of reading this
+
+This book got me thinking about how we can improve the administration
+of workshops at rangle. We should formally register participants and
+give them a checklist. Maybe we should have a general code of conduct
+for learning sessions (similar to the Retrospective Prime Directive
+that we already have) and remind people to review it upon
+registration. Maybe we can let instructors/attendees modify it for
+their own needs and provide their version upon registration. Rangle
+might also benefit from having a database of a few example learner
+profiles and a template based on the instructions in the book for
+easily creating new ones in advance of setting up or running a
+workshop.
+
+(the mood it left me with)
+
+I am inspired by the Japanese style of teachers learning socially and
+saddened that I will be sending my kids into a school system where
+teachers are expected to invent their own methods for teaching in
+isolation. I'm sad for students and I'm also sad for people that have
+chose to be teachers in Canada as the way our governemnts and their
+unions work seems to failing us in a prety sever way. It's probably
+good that this book is not as political as my comments are.
+
+This book is extremely useful and I’m glad I read it. It has inspired
+me to get some paper and start creating concept graphs. Also, the
+step-by-step processes you have outlined throughout are very
+useful. It’s taken me more than two weeks to start to get into the
+mindset of a trainer from being purely in the “developer”
+mindset. This book can help in making the shift as many of these
+concepts are just foreign and/or long forgotten for people that don’t
+spend any time doing training in their day-to-day work lives.
+
+Errors
+
+Typo. The rules #6 clarify => clarity
+
+ready to stand up and teaching => teach
+
+“chal:minute-cards” page 23
+
+despite evidence of their effectiveness. Na ive => Naive page 29
+
+page 52 Instead, they through => the go through
