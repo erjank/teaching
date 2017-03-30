@@ -1,228 +1,121 @@
-\chaplbltime{Live Coding}{sec:practices}{30}{45}
+\chaplbltime{Teaching Practices}{sec:practices}{60}{90}
 
-\begin{quote}
-  Teaching is theater not cinema.
-  \\
-  --- Neal Davis
-\end{quote}
+\fixme{introduction}
 
-Teaching is a performance art, just like drama, music, and athletics.
-And as in those fields, we have a collection of small tips and tricks
-to make teaching work better.
+\seclbl{Have a Code of Conduct}{sec:practices-conduct}
 
-The first of our recommended teaching practices is so central that it
-deserves a chapter of its own: live coding.  When they are live
-coding, instructors don't use slides.  Instead, they through the
-lesson material, typing in the code or instructions, with their
-learners following along.  Its advantages are:
+An important part of making a class productive is to treat everyone
+with respect.  We therefore strongly recommend that every group
+offering classes based on this material adopt a Code of Conduct like
+the one in \secref{sec:conduct}, and require people taking part in the
+class to abide by it.
+
+We believe equally strongly that your actual programming classes
+should also have and enforce a Code of Conduct.  Programming is a
+scary topic for many novices, and workshops are meant to be a judgment
+free space to learn and experiment. The behavior of the instructor and
+other participants may make more of an impression on a novice learner
+than any ``technical'' topic you teach.
+
+If you do this, hosts should point people at it during registration,
+and instructors should remind attendees of it at the start of the
+workshop. The Code of Conduct doesn't just tell everyone what the
+rules are: it tells them that there \emph{are} rules, and that they
+can therefore expect a safe and welcoming learning experience.
+
+If you are an instructor, and believe that someone in a workshop has
+violated the Code of Conduct, you may warn them, ask them to
+apologize, and/or expel them, depending on the severity of the
+violation and whether or not you believe it was intentional.  Whatever
+you do:
 
 \begin{gitemize}
 
 \item
-  Watching a program being written is more compelling than watching
-  someone page through slides that present bits and pieces of the same
-  code.
+  Do it in front of witnesses.  Most people will tone down their
+  language and hostility in front of an audience, and having someone
+  else present ensures that later discussion doesn't degenerate into
+  conflicting claims about who said what.
 
 \item
-  It enables instructors to be more responsive to ``what if?''
-  questions. Where a slide deck is like a railway track, live coding
-  allows instructors to go off road and follow their learners'
-  interests.
-
-\item
-  It facilitates lateral knowledge transfer: people learn more than we
-  realized we were teaching by watching \emph{how} instructors do
-  things.
-
-\item
-  It slows the instructor down: if she has to type in the program as
-  she goes along, she can only go twice as fast as her learners,
-  rather than ten-fold faster as she could with slides.
-
-\item
-  Learners get to see instructors' mistakes \emph{and how to diagnose
-  and correct them}. Novices are going to spend most of their time
-  doing this, but it's left out of most textbooks.
-
-\item
-  Watching instructors make mistakes shows learners that it's all
-  right to make mistakes of their.  Most people model the behavior of
-  their teachers: if the instructor isn't embarrassed about making and
-  talking about mistakes, learners will be more comfortable doing so
-  too.
+  Contact the organizer or host of your class as soon as you can and
+  describe what happened.  Remember, a Code of Conduct is meaningless
+  without a procedure for enforcing it.
 
 \end{gitemize}
 
-Live coding is an example of the ``I/We/You'' approach to teaching
-discussed in \chapref{sec:performance}.  It takes a bit of practice
-for instructors to get used to thinking aloud while coding in front of
-an audience, but most report that it is then no more difficult to do
-than talking off a deck of slides.
+A Code of Conduct cannot stop people from being offensive, any more
+than laws against theft stop people from stealing. What it \emph{can}
+do is make expectations and consequences clear.  In our experience,
+people rarely violate the Code of Conduct in person, though some are
+more likely to online, where they feel less inhibited.  And remember,
+a Code of Conduct is \emph{not} an infringement on free speech.
+People have a right to say what they think, but that doesn't mean they
+have a right to speak wherever and whenever they want.  If someone
+wishes to say something disparaging about someone else, they can go
+and find a space of their own in which to say it.
 
-\begin{callout}{Double Devices}{callout:double-devices}
+\seclbl{Take Notes Together}{sec:practices-notes}
 
-Many instructors now use two devices when teaching: a laptop plugged
-into the projector for learners to see, and a tablet beside it on
-which they can view their notes and the shared notes that the learners
-are taking.  This seems to be more reliable than displaying one
-virtual desktop while flipping back and forth to another.
+Many studies have shown that taking notes while learning improves
+retention \cite{bib:aiken-note-taking,bib:bohay-note-taking}.  As we
+will discuss in \secref{sec:memory}, this happens because taking notes
+forces you to organize and reflect on material as it's coming in,
+which in turn increases the likelihood that you will transfer it to
+long-term memory in a usable way.
 
-\end{callout}
+Our experience, and some recent research findings, lead us to believe
+that taking notes \emph{collaboratively} helps learning even
+more \cite{bib:orndorff-note-taking}, even though taking notes on a
+computer is generally less effective than taking notes using pen and
+paper \cite{bib:mueller-note-taking}.  Taking notes collaboratively:
 
-Here are some tips to make your live coding better:
-
-\begin{genumerate}
-
-\item
-  \emph{Be seen and heard.}  If you are physically able to stand up
-  for a couple of hours, do it while you are teaching. When you sit
-  down, you are hiding yourself behind others for those sitting in the
-  back rows. Make sure to notify the workshop organizers of your wish
-  to stand up and ask them to arrange a high table, standing desk, or
-  lectern.
-
-  Regardless of whether you are standing or sitting, make sure to move
-  around as much as reasonable. You can for example go to the screen
-  to point something out, or draw something on the white/blackboard
-  (see below). Moving around makes the teaching more lively, less
-  monotonous.  It draws the learners' attention away from their
-  screens, to you, which helps get the point you are making across.
-
-  Even though you may have a good voice and know how to use it well,
-  it may be a good idea to use a microphone, especially if the
-  workshop room is equipped with one. Your voice will be less tired,
-  and you increase the chance of people with hearing difficulties
-  being able to follow the workshop.
+\begin{gitemize}
 
 \item
-  \emph{Take it slow.}  For every command you type, every word of code
-  you write, every menu item or website button you click, say out loud
-  what you are doing while you do it. Then point to the command and
-  its output on the screen and go through it a second time. This not
-  only slows you down, it allows learners who are following along to
-  copy what you do, or to catch up, even when they are looking at
-  their screen while doing it. If the output of your command or code
-  makes what you just typed disappear from view, scroll back up so
-  learners can see it again - this is especially needed for the Unix
-  shell lesson.
-
-  Other options are to execute the same command a second time, or to
-  copy and paste the last command(s) into the workshop's shared notes.
+  It allows people to compare what they think they're hearing with
+  what other people are hearing, which helps them fill in gaps and
+  correct misconceptions right away.
 
 \item
-  \emph{Mirror your learner's environment as much as possible.}  You
-  may have set up your environment to your liking, with a very simple
-  or rather fancy Unix prompt, colour schemes for your development
-  environment, keyboard shortcuts etc. Your learners usually won't
-  have all of this. Try to create an environment that mirrors what
-  your learners have, and avoid using keyboard shortcuts. Some
-  instructors create a separate `bare-bone' user (login) account on
-  their laptop, or a separate `teaching-only' account on the service
-  being taught (e.g., Github).
+  It gives the more advanced learners in the class something useful to
+  do.  Rather than getting bored and checking Twitter during class,
+  they often take the lead in recording what's being said, which keeps
+  them engaged, and allows less advanced learners to focus more of
+  their attention on new material.  Keeping the more advanced learners
+  busy also helps the whole class stay engaged because boredom is
+  infectious: if a handful of people start updating their Facebook
+  profiles, the people around them will start checking out too.
 
 \item
-  \emph{Use the screen wisely.}  Use a big font, and maximize the
-  window. A black font on a white background works better than a light
-  font on a dark background. When the bottom of the projector screen
-  is at the same height, or below, the heads of the learners, people
-  in the back won't be able to see the lower parts. Draw up the bottom
-  of your window(s) to compensate.
-
-  If you can get a second screen, use it! It will usually require its
-  own PC or laptop, so you may need to ask a helper to control it. You
-  could use the second screen to show the Etherpad content, or the
-  lesson material, or illustrations.
-
-  Pay attention to the lighting (not too dark, no lights directly
-  on/above the presenter's screen) and if needed, reposition the
-  tables so all learners can see the screen, and helpers can easily
-  reach all learners.
+  The notes the learners take are usually more helpful \emph{to them}
+  than those the instructor would prepare in advance, since the learners
+  are more likely to write down what they actually found new, rather than
+  what the instructor predicted would be new.
 
 \item
-  \emph{Use illustrations.}  Most lesson material comes with
-  illustrations, and these may help learners to understand the stages
-  of the lesson and to organize the material. What can work really
-  well is when you as instructor generate the illustrations on the
-  white/blackboard as you progress through the material. This allows
-  you to build up diagrams, making them increasingly complex in
-  parallel with the material you are teaching. It helps learners
-  understand the material, makes for a more lively workshop (you'll
-  have to move between your laptop and the blackboard) and gathers the
-  learners' attention to you as well.
+  Glancing at the notes as they're being taken helps the instructor
+  discover that the class didn't hear something important, or
+  misunderstood it.
 
-\item
-  \emph{Avoid distractions.}  Turn off any notifications you may use
-  on your laptop, such as those from social media, email, etc. Seeing
-  notifications flash by on the screen distracts you as well as the
-  learners - and may even result in awkward situations when a message
-  pops up you'd rather not have others see.
+\end{gitemize}
 
-\item
-  \emph{Improvise after you know the material.}  The first time you
-  teach a new lesson, you should stick fairly closely to the topics it
-  lays out and the order they're in.  It may be tempting to deviate
-  from the material because you would like to show a neat trick, or
-  demonstrate some alternative way of doing something. Don't do this,
-  since there is a fair chance you'll run into something unexpected
-  that you then have to explain.
+We usually use \href{http://etherpad.org}{Etherpad} for collaborative
+note-taking, though many instructors have shifted to
+\href{https://docs.google.com}{Google Docs}, both because it scales
+better and because it allows people to add images to the notes.
+Whichever is chosen, classes also use it to share snippets of code and
+small datasets, and as a way for learners to show instructors their
+work (by copying and pasting it in).
 
-  Once you are more familiar with the material, though, you can and
-  should start improvising based on the backgrounds of your learners,
-  their questions in class, and what you find most interesting about
-  the lesson.  This is like a musician playing a new song: the first
-  few times, you stick to the sheet music, but after you're
-  comfortable with it, you can start to put your own stamp on it.
+Shared note-taking is almost always mentioned positively in
+post-workshop feedback.  However, it's also common for participants to
+report that they find it distracting, as it's one more thing they have
+to keep an eye on.  We believe the positives outweigh the negatives,
+but think that some careful controlled studies would tell us whether
+we're right, and how to use it better.
 
-  If you really want to use something outside of the material, try it
-  out thoroughly before the workshop: run through the lesson as you
-  would during the actual teaching and test the effect of your
-  modification.
-
-  Some instructors use printouts of the lesson material during
-  teaching.  Others use a second device (tablet or laptop) when
-  teaching, on which they can view their own notes and the shared
-  notes the learners are taking. This seems to be more reliable than
-  displaying one virtual desktop while flipping back and forth to
-  another.
-
-\item
-  \emph{Embrace mistakes.}
-
-  No matter how well prepared you are, you will be making
-  mistakes. Typo's are hard to avoid, you may overlook something from
-  the lesson instructions, etc. This is OK! It allows learners to see
-  instructors' mistakes and how to diagnose and correct them. Some
-  mistakes are actually an opportunity to point something out, or
-  reflect back on something covered earlier. Novices are going to
-  spend most of their time making the same and other mistakes, but how
-  to deal with them is left out of most textbooks.
-
-  \begin{quote}
-    The typos are the pedagogy.
-    \\
-    --- Emily Jane McTavish
-  \end{quote}
-
-\item
-  \emph{Have fun.}  Teaching is performance art and can be rather
-  serious business. On the one hand, don't let this scare you - it is
-  much easier than performing Hamlet. You have an excellent script at
-  your disposal, after all! On the other hand, it is OK to add an
-  element of `play', i.e. use humor and improvisation to liven up the
-  workshop. How much you are able and willing to do this is really a
-  matter of personality and taste - as well as experience. It becomes
-  easier when you are more familiar with the material, allowing you to
-  relax more. Choose your words and actions wisely, though. Remember
-  that we want the learners to have a welcoming experience and a
-  positive learning environment - a misplaced joke can ruin this in an
-  instant. Start small, even just saying `that was fun' after
-  something worked well is a good start. Ask your co-instructors and
-  helpers for feedback when you are unsure of the effect you behaviour
-  has on the workshop.
-
-\end{genumerate}
-
-\seclbl{Pre-Assessment}{sec:practices-assessment}
+\seclbl{Assess Learners' Motivation and Prior Knowledge}{sec:practices-assess}
 
 Most formal educational systems train people to treat all assessment
 as summative, i.e., to think of every interaction with a teacher as an
@@ -277,6 +170,185 @@ Equally, if she spends a few minutes talking about an advanced topic
 because two learners are bored, the 38 who don't understand it will feel
 left out. All we can do is tell our learners what we're doing and why,
 and hope that they'll understand.
+
+It's important to design lessons with a particular audience in mind.
+It's equally important to find out who's in each specific audience,
+since this will influence how you introduce yourself, motivate topics,
+and pace the lessons.  Before the start of a Software Carpentry
+instructor training class, we ask people to fill in a short
+questionnaire like the one below.  It doesn't tell us everything we
+might want to know, but it does give trainers a pretty clear idea of
+who they're speaking to.
+
+\begin{genumerate}
+
+\item
+  Have you ever participated in a Software Carpentry or Data Carpentry
+  workshop? (Check all that apply.)
+
+  \begin{todolist}
+  \item
+    Yes, as a learner.
+  \item
+    Yes, as a helper.
+  \item
+    Yes, as an organizer.
+  \item
+    Yes, as an instructor.
+  \item
+    No, but I am familiar with what is taught at a workshop.
+  \item
+    No, and I am not familiar with what is taught at a workshop.
+  \end{todolist}
+
+\item
+  Which of these describes your teaching experience?  (Check all that
+  apply.)
+
+  \begin{todolist}
+  \item
+    I have none.
+  \item
+    I have taught a seminar, workshop, or other short or informal course.
+  \item
+    I have been a graduate or undergraduate teaching assistant for a
+    college- or university-level course.
+  \item
+    I have been the instructor-of-record for a college- or
+    university-level course.
+  \item
+    I have taught at the K-12 level.
+  \end{todolist}
+
+\item
+  Which of these describes your previous formal training in teaching?
+  (Please choose only one.)
+
+  \begin{todolist}
+  \item
+    None
+  \item
+    A few hours
+  \item
+    A workshop
+  \item
+    A certification or short course
+  \item
+    A full degree
+  \end{todolist}
+
+\item
+  How frequently do you work with the tools that Data Carpentry and
+  Software Carpentry teach, such as R, Python, MATLAB, Perl, SQL, Git,
+  OpenRefine, and the Unix Shell?
+
+  \begin{todolist}
+  \item
+    Every day
+  \item
+    A few times a week
+  \item
+    A few times a month
+  \item
+    A few times a year
+  \item
+    Never or almost never
+  \end{todolist}
+
+\item
+  How often would you expect to teach on Software or Data Carpentry
+  Workshops after this training?
+
+  \begin{todolist}
+  \item
+    Not at all
+  \item
+    Once a year
+  \item
+    Several times a year
+  \end{todolist}
+
+\item
+  Why do you want to take this training course?\\
+  \line(1,0){275}
+
+\end{genumerate}
+
+\seclbl{Use Sticky Notes as Status Flags}{sec:practices-stickies}
+
+Give each learner two sticky notes of different colours, e.g., red and
+green. These can be held up for voting, but their real use is as
+status flags. If someone has completed an exercise and wants it
+checked, they put the green sticky note on their laptop; if they run
+into a problem and need help, the put up the red one. This is better
+than having people raise their hands because:
+
+\begin{gitemize}
+
+\item
+  it's more discreet (which means they're more likely to
+  actually do it),
+
+\item
+  they can keep working while their flag is raised, and
+
+\item
+  the instructor can quickly see from the front of the room what
+  state the class is in.
+
+\end{gitemize}
+
+Sometimes a red sticky involves a technical problem that takes a bit
+more time to solve. To prevent this issue to slow down the whole class
+too much, you could use the occasion to take the small break you had
+planned to take a bit later, giving the helper(s) time to fix the
+problem.
+
+\seclbl{Use Sticky Notes to Distribute Attention}{sec:practices-attention}
+
+\fixme{Sticky notes to distribute attention}
+
+\seclbl{Minute Cards}{sec:practices-minute-cards}
+
+We frequently use sticky notes as \emph{minute cards}: before each
+break, learners take a minute to write one positive thing on the green
+sticky note (e.g., one thing they've learned that they think will be
+useful), and one thing they found too fast, too slow, confusing, or
+irrelevant on the red one. They can use the red sticky note for
+questions that haven't yet been answered. While they are enjoying
+their coffee or lunch, the instructors review and cluster these to
+find patterns. It only takes a few minutes to see what learners are
+enjoying, what they still find confusing, what problems they're
+having, and what questions are still unanswered.
+
+\seclbl{One Up, One Down}{sec:practices-up-down}
+
+We frequently ask for summary feedback at the end of each day. The
+instructors ask the learners to alternately give one positive and one
+negative point about the day, without repeating anything that has
+already been said. This requirement forces people to say things they
+otherwise might not: once all the ``safe'' feedback has been given,
+participants will start saying what they really think.
+
+Minute cards are anonymous; the alternating up-and-down feedback is not.
+Each mode has its strengths and weaknesses, and by providing both, we
+hope to get the best of both worlds.
+
+\seclbl{Pair Programming}{sec:practices-pairing}
+
+Pair programming is a good practice in real life, and also a good way
+to teach \cite{bib:porter-what-works}. Partners can not only help each
+other out during the practical, but can also clarify each other's
+misconceptions when the solution is presented, and discuss common
+research interests during breaks. To facilitate this, we strongly
+prefer flat (dinner-style) seating to banked (theater-style) seating;
+this also makes it easier for helpers to reach learners who need
+assistance.
+
+When pair programming is used it's important to put \emph{everyone} in
+pairs, not just the learners who are struggling, so that no one feels
+singled out. It's also useful to have people sit in new places (and
+hence pair with different partners) after each coffee or meal break.
 
 \seclbl{Setup}{sec:practices-setup}
 
@@ -338,53 +410,29 @@ online video. This model has worked well for this instructor training
 course, and for a handful of regular workshops, but more work is
 needed to figure out its pros and cons.
 
+\subseclbl{Think-Pair-Share}{sec:practices-tps}
+
+Think-pair-share is a lightweight technique that helps refine their
+ideas and compare them with others'.  Each person starts by thinking
+individually about a question or problem and jotting down a few notes.
+Participants are then paired to explain their ideas to each another,
+and possibly to merge them or select the more interesting ones.
+Finally, a few pairs present their ideas to the whole group.
+
+Think-pair-share works because, to paraphrase Oscar Wilde's Lady
+Windermere, people often can't know what they're thinking until
+they've heard themselves say it.  Pairing gives people new insight
+into their own thinking, and forces them to think through and resolve
+any gaps or contradictions \emph{before} exposing their ideas to a
+larger group.
+
 \seclbl{Challenges}{sec:practices-challenges}
 
-\begin{challenge}{The Bad and the Good}{chal:practices-bad-and-good}
+\begin{challenge}{Create a Questionnaire}{chal:favorite-class}
 
-Watch this video of
-\href{https://youtu.be/bXxBeNkKmJE}{live coding done poorly}
-and this video of
-\href{https://youtu.be/SkPmwe\_WjeY}{live coding done right}
-as a group and then summarize your feedback on both using the usual
-$2{\times}2$ grid.  These videos assume learners know what a shell
-variable is, know how to use the \texttt{head} command, and are
-familiar with the contents of the data files being filtered.
-
-\end{challenge}
-
-\begin{challenge}{See Then Do}{chal:practices-live}
-
-Teach 3-4 minutes of your chosen lesson episode using live coding to a
-fellow trainee, then swap and watch while that person live codes for
-you. Don't bother trying to record the live coding sessions---we have
-found that it's difficult to capture both the person and the screen
-with a handheld device---but give feedback the same way you have
-previously (positive and negative, content and presentation). If you
-decide to instead teach something from the lesson episode you selected
-in preparation for this workshop, explain in advance to your fellow
-trainee what you will be teaching and what the learners you teach it
-to are expected to be familiar with.
-
-\begin{gitemize}
-
-  \item
-    What felt different about live coding (vs.~standing up and
-    lecturing)? What was harder/easier?
-
-  \item
-    Did you make any mistakes? If so, how did you handle them?
-
-  \item
-    Did you talk and type at the same time, or alternate?
-
-  \item
-    How often did you point at the screen? How often did you highlight
-    with the mouse?
-
-  \item
-    What will you try to do differently next time?
-
-\end{gitemize}
+Using the questionnaire in \secref{sec:practices-assess} as a template,
+create a short questionnaire you could give learners before teaching a
+class of your own.  What do you most want to know about their
+background?
 
 \end{challenge}
