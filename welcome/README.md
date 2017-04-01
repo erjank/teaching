@@ -132,8 +132,7 @@ adopt these three practices right from the start:
 
 ## Challenges
 
-<!-- challenge -->
-> Favorite Class
->
-> In the online notes, write down your name, the best class you ever
-> took, and what made it so great.
+### Favorite Class
+
+In the online notes, write down your name, the best class you ever
+took, and what made it so great.

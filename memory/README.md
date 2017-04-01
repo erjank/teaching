@@ -292,29 +292,27 @@ just how many pieces of separate information will need to be
 
 ## Challenges
 
-<!-- challenge -->
-> ## The Serial Position Effect
-> 
-> Read the following list and try to memorize the items in it: cat,
-> apple, ball, tree, square, head, house, door, box, car, king, hammer,
-> milk, fish, book, tape, arrow, flower, key, shoe.
-> 
-> Without looking at the list again, write down as many words from the
-> list as you can. Compare to other members of the group. What words are
-> remembered the most?
-> 
-> [This website][serial-position]
-> implements an interactive version of this exercise.
+### The Serial Position Effect
 
-<!-- challenge -->
-> ## Concept Mapping
-> 
-> Create a hand drawn concept map for something you would teach in five
-> minutes.  (If possible, do it for the same subject that created a
-> multiple choice question for earlier.) Trade with a partner, and
-> critique each other's maps. Do they present concepts or surface
-> detail? Which of the relationships in your partner's map do you
-> consider concepts and vice versa?
+Read the following list and try to memorize the items in it: cat,
+apple, ball, tree, square, head, house, door, box, car, king, hammer,
+milk, fish, book, tape, arrow, flower, key, shoe.
+
+Without looking at the list again, write down as many words from the
+list as you can. Compare to other members of the group. What words are
+remembered the most?
+
+[This website][serial-position] implements an interactive version of
+this exercise.
+
+### Concept Mapping
+
+Create a hand drawn concept map for something you would teach in five
+minutes.  (If possible, do it for the same subject that created a
+multiple choice question for earlier.) Trade with a partner, and
+critique each other's maps. Do they present concepts or surface
+detail? Which of the relationships in your partner's map do you
+consider concepts and vice versa?
 
 [abela-chart]: http://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf
 [serial-position]: http://cat.xula.edu/thinker/memory/working/serial
