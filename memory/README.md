@@ -56,7 +56,6 @@ This metaphor helps explain many observed aspects of expert behavior:
     interviews gives a more accurate impression of their ability than
     asking them to program.)
 
-<!-- callout -->
 > ## The J Word
 >
 > Experts often betray their blind spot by using the word "just" in
@@ -76,7 +75,6 @@ you are to remain part of that group.  Similarly, the more connections
 a fact has to other facts, the more likely the fact is to be
 remembered.
 
-<!-- callout -->
 > ## Repetition vs. Deliberate Practice
 > 
 > The idea that ten thousand hours of practice will make someone an
@@ -126,7 +124,6 @@ relationship *is*. And yes, one person's fact may be another
 person's connection, but one of the benefits of concept mapping is
 that it makes those differences explicit.
 
-<!-- callout -->
 > Externalizing Cognition
 > 
 > Concept maps are just one way to represent our understanding of a
@@ -194,7 +191,6 @@ Concept maps can be used in many ways:
     to make sense of basic economics, asking them to figure out how to
     draw their thoughts at the same time is an unfair load.
 
-<!-- callout -->
 > ## Meetings, Meetings, Meetings
 > 
 > The next time you have a team meeting, give everyone a sheet of paper
@@ -228,7 +224,6 @@ around. It's also why sports teams tend to have about half a dozen
 members, or be broken down into smaller groups (such as the forwards
 and backs in rugby).
 
-<!-- callout -->
 > ## Serial Position Effect
 > 
 > When we memorize words in a list and are asked to immediately recall
@@ -238,7 +233,6 @@ and backs in rugby).
 > referred to as the primacy and recency effects, respectively, and
 > together they form the *serial position effect*.
 
-<!-- callout -->
 > ## Chunking
 > 
 > Our minds can store larger numbers of facts in short-term memory by
@@ -281,7 +275,6 @@ just how many pieces of separate information will need to be
 > them with labelled arcs, and adding any other concepts they think they
 > need.
 
-<!-- callout -->
 > ## What Are We Doing Again?
 > 
 > Concept maps can also be used to help build a shared understanding of

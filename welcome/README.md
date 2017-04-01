@@ -91,7 +91,6 @@ Williams, and the hundreds of people who went through it over the
 years.  I hope you enjoy what follows.  If you do, I hope you pass on
 whatever you find helpful to someone else.
 
-<!-- callout -->
 > ## Who You Are
 >
 > [Learner Profiles](../lessons/#learner-profiles) will explain how to

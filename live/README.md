@@ -46,7 +46,6 @@ for instructors to get used to thinking aloud while coding in front of
 an audience, but most report that it is then no more difficult to do
 than talking off a deck of slides.
 
-<!-- callout -->
 > ## Double Devices
 > 
 > Many instructors now use two devices when teaching: a laptop plugged
