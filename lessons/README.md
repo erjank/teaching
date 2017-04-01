@@ -1,4 +1,4 @@
-# Lessons
+# Designing Lessons
 
 Most people design lessons as follows:
 

@@ -1,4 +1,4 @@
-# Introductions
+# Introduction
 
 There's more to programming than typing in code.  Good programmers
 break their software up into functions, automate repetitive tasks, and
