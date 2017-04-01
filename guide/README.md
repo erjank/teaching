@@ -73,7 +73,7 @@ along the way. They don't care how hash tables work, or even that hash
 tables exist; they just want to know how to process data faster. We
 therefore have to make sure that everything we teach is useful right
 away, and conversely that we don't teach anything just because it's
-``fundamental''.
+"fundamental".
 
 Second, believing that something will be hard to learn is a
 self-fulfilling prophecy. This is why it's important not to say that
@@ -92,7 +92,7 @@ they don't yet have. The real problem is that every such failure
 reinforces the belief that computing is hard, and that they'd have a
 better chance of making next Thursday's deadline at work if they kept
 doing things the way they always have. For these reasons, we have
-adopted a ``teach most immediately useful first'' approach described
+adopted a "teach most immediately useful first" approach described
 in [Motivation](../motivation/).
 
 ## Overnight Homework
@@ -113,8 +113,8 @@ the following:
 1.  On day 1, show trainees a short clip (3-4 minutes) of someone teaching
     a lesson and have them give feedback as a group. This feedback is
     organized on two axes: positive versus negative, and content versus
-    presentation. The first axis is explained as ``things to be repeated
-    and emphasized'' versus ``things to be improved'', while the second is
+    presentation. The first axis is explained as "things to be repeated
+    and emphasized" versus "things to be improved", while the second is
     explained by contrasting people who have good ideas, but can't
     communicate them (all content, no presentation) with people who speak
     well, but don't actually have anything to say.
@@ -307,8 +307,8 @@ geographically distributed.
 This guide is aimed primarily at people working outside mainstream
 educational institutions, but in order for us to reach and help as
 many people as possible, we must eventually find ways to work with
-schools as they are.  Henderson et al's ``Facilitating Change in
-Undergraduate STEM Instructional Practices''
+schools as they are.  Henderson et al's "Facilitating Change in
+Undergraduate STEM Instructional Practices"
 {{:bib:henderson-facilitating"|cite}} discusses ways to get educational
 institutions to actually change what they teach.  Their findings are
 summarized in the table below, and the approaches they identify
@@ -321,8 +321,8 @@ are:
     exploiting the characteristics of individuals and their networks.
 
 *   *Implementation*: STEM undergraduate instruction will be
-    changed by developing research-based instructional ``best
-    practices'' and training instructors to use them. Instructors must
+    changed by developing research-based instructional "best
+    practices" and training instructors to use them. Instructors must
     use these practices with fidelity to the established standard.
 
 *   *Scholarly Teaching*: STEM undergraduate instruction will be

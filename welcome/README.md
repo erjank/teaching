@@ -74,7 +74,7 @@ training course to turn learners into teachers.
 
 While I originally delivered the course online over multiple weeks, by
 2014 I was teaching it in two intensive days, just like our regular
-software skills workshops.  A year later, ``I'' became ``we'' as
+software skills workshops.  A year later, "I" became "we" as
 people who had taught regular workshops began training new instructors
 as well.  That same year, I began teaching half-day and one-day
 versions of the course to people who wanted to help children, recent
@@ -111,8 +111,8 @@ whatever you find helpful to someone else.
 > *Moshe* has been writing accounting software for almost twenty
 > years.  His children's school doesn't offer a programming class, so he
 > has volunteered to help put one together.  He has never written
-> lessons before, and after reading a dozen different ``programming for
-> kids'' books, is feeling more confused than ever.  This class will
+> lessons before, and after reading a dozen different "programming for
+> kids" books, is feeling more confused than ever.  This class will
 > show him how to design and deliver lessons tailored for his students
 > (many of whom have hearing disabilities), and how to tell how well
 > those lessons are working.
