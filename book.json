@@ -1,5 +1,5 @@
 {
-  "plugins": ["bibtex-cite"],
+  "plugins": ["bibtex-citation"],
   "variables": {
     "repo": "https://github.com/gvwilson/teaching"
   }

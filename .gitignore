@@ -1,15 +1,3 @@
-_site
 *~
-*.pyc
-.DS_Store
-*.aux
-*.bak
-*.bbl
-*.blg
-*.dvi
-*.lof
-*.log
-*.lot
-*.out
-*.pdf
-*.toc
+_book
+node_modules
