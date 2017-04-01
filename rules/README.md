@@ -20,3 +20,5 @@
 1.  Ninety percent of magic consists of knowing one extra thing.
 
 1.  You can't help everyone, but you can always help someone.
+
+{% references %} {% endreferences %}

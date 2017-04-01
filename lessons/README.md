@@ -272,3 +272,4 @@ objectives.
 
 [wikipedia-bloom]: https://en.wikipedia.org/wiki/Bloom's_taxonomy
 [wikipedia-tdd]: https://en.wikipedia.org/wiki/Test-driven_development
+{% references %} {% endreferences %}

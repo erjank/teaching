@@ -135,3 +135,5 @@ adopt these three practices right from the start:
 
 In the online notes, write down your name, the best class you ever
 took, and what made it so great.
+
+{% references %} {% endreferences %}

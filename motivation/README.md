@@ -433,3 +433,5 @@ experience of "objective" assessments that reinforce the status quo?
 [wikipedia-nihil]: https://en.wikipedia.org/wiki/Nothing_About_Us_Without_Us
 [wikipedia-screen-reader]: https://en.wikipedia.org/wiki/Screen_reader
 [wikipedia-stereotype]: https://en.wikipedia.org/wiki/Stereotype_threat
+
+{% references %} {% endreferences %}

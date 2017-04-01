@@ -69,3 +69,5 @@ all.
 > This code of conduct is a modified version of that used by PyCon,
 > which in turn is forked from a template written by the Ada
 > Initiative and hosted on the Geek Feminism Wiki.
+
+{% references %} {% endreferences %}

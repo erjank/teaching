@@ -338,3 +338,5 @@ to get coffee.
 [wikipedia-dreyfus-model]: https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition
 [wikipedia-fci]: https://en.wikipedia.org/wiki/Force_Concept_Inventory
 [wikipedia-peer-instruction]: https://en.wikipedia.org/wiki/Peer_instruction
+
+{% references %} {% endreferences %}

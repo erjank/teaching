@@ -356,3 +356,5 @@ of your own.  What do you most want to know about their background?
 [etherpad]: http://etherpad.org
 [google-docs]: https://docs.google.com
 [wikipedia-dunning-kruger]: https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect
+
+{% references %} {% endreferences %}

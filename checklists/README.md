@@ -90,3 +90,5 @@ having them examine each other's helps balance load
 and maintain consistency of curriculum and standards.
 
 [gawande-checklist]: http://www.newyorker.com/magazine/2007/12/10/the-checklist
+
+{% references %} {% endreferences %}

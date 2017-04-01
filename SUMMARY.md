@@ -1,4 +1,4 @@
-# Summary
+# A Short Guide to Teaching
 
 *   [The Rules](rules/README.md)
 *   [Introduction](welcome/README.md)
