@@ -31,7 +31,7 @@ This metaphor helps explain many observed aspects of expert behavior:
     E", the expert can go from A to E in a single step. We call
     this *intuition*, and it isn't always a good thing: when asked
     to explain their reasoning, experts often can't, because they didn't
-    actually reason their way to the solution---they just recognized it.
+    actually reason their way to the solution–they just recognized it.
 
 *   Experts are frequently so familiar with their subject that they can
     no longer imagine what it's like to *not* see the world that
@@ -156,7 +156,7 @@ whose output is:
 
 The three key "things" in this loop are shown in
 \figrefsub{fig:for-loop-concepts}{a},  but they are only half the
-story---and arguably, the less important half.
+story–and arguably, the less important half.
 \figrefsub{fig:for-loop-concepts}{b} shows the *relationships* between
 those things.  We can go further and add two more relationships that are
 usually (but not always) true as shown in
@@ -190,7 +190,7 @@ Concept maps can be used in many ways:
     learners' concept maps is too time-consuming for use in class, but
     very useful in weekly lectures *once learners are familiar with
     the technique*.  The qualification is necessary because any new way
-    of doing things initially slows people down---if a student is trying
+    of doing things initially slows people down–if a student is trying
     to make sense of basic economics, asking them to figure out how to
     draw their thoughts at the same time is an unfair load.
 
@@ -199,7 +199,7 @@ Concept maps can be used in many ways:
 > 
 > The next time you have a team meeting, give everyone a sheet of paper
 > and have them spend a few minutes drawing a concept map of the project
-> you're all working on---separately. On the count of three, have
+> you're all working on–separately. On the count of three, have
 > everyone reveal their concept maps simultaneously. The discussion that
 > follows everyone's realization of how different their mental models of
 > the project's aims and organization are is always interesting…
@@ -213,7 +213,7 @@ called *long-term* or *persistent memory*. It is where we
 store things like our password, our home address, and what the clown
 did at our eighth birthday party that scared us so much. It is
 essentially unbounded: barring injury or disease, we will die before
-it fills up.  However, it is also slow to access---too slow to help us
+it fills up.  However, it is also slow to access–too slow to help us
 handle hungry lions and disgruntled family members.
 
 Evolution has therefore given us a second system
