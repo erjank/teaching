@@ -13,7 +13,7 @@
 
 We are dedicated to providing a welcoming and supportive environment
 for all people, regardless of background or identity.  However, we
-recognise that some groups in our community are subject to historical
+recognize that some groups in our community are subject to historical
 and ongoing discrimination, and may be vulnerable or disadvantaged.
 Membership in such a specific group can be on the basis of
 characteristics such as such as gender, sexual orientation,

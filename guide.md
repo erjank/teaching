@@ -460,7 +460,6 @@ are:
 ~~~
 FIXME
 \begin{tbllbl}{Strategies for Facilitating Educational Change}{tbl:change}
-\begin{tabular}{|p{\dimexpr 0.2\linewidth-2\tabcolsep}|p{\dimexpr 0.4\linewidth-2\tabcolsep}|p{\dimexpr 0.4\linewidth-2\tabcolsep}|}
 
 \textbf{Aspect of System to be Changed}
 &
@@ -517,7 +516,6 @@ FIXME
   \newline
   *Complexity Leadership*
 \\
-\end{tabular}
 \end{tbllbl}
 ~~~
 

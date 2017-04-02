@@ -152,7 +152,7 @@ the question grammatically, which frees them from having to think
 simultaneously about what to say *and* how to say it.
 
 Similarly, when teaching people to program, you can give them the
-lines of code they need to sovle a problem, and ask them to put them
+lines of code they need to solve a problem, and ask them to put them
 in the right order.  This allows them to concentrate on control flow
 and data dependencies, i.e., on what has to happen before what,
 without being distracted by variable naming or trying to remember what

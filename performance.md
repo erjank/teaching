@@ -295,7 +295,7 @@ you strongly agree or disagree with?
     people give feedback on themselves as well as on others.
 
 1.  After everyone has given feedback on all of the videos, return to the
-    main group and put all of the feeback into the notes.  Again, try to
+    main group and put all of the feedback into the notes.  Again, try to
     divide positive from negative and content from presentation.  Try
     also to identify each person's tells: what do they do that betrays
     nervousness, and how noticeable is it?

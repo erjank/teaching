@@ -214,7 +214,7 @@ Bimodal" {{"bib:patitsas-cs-grades"|cite}}.  This thought-provoking paper
 showed that people see evidence for a "geek gene" where none exists.
 As the paper's abstract says:
 
-> Although it has never been rigourously demonstrated, there is a
+> Although it has never been rigorously demonstrated, there is a
 > common belief that CS grades are bimodal. We statistically analyzed
 > 778 distributions of final course grades from a large research
 > university, and found only 5.8% of the distributions passed tests
@@ -301,7 +301,7 @@ about us, without us") predates accessibility rights, but is always
 the right place to start.  A few other recommendations are:
 
 *   *Find out what you need to do.* The [W3C Accessibility Initiative's
-    checklist for presentations][w3c-accessiblity] is a good starting
+    checklist for presentations][w3c-accessibility] is a good starting
     point focused primarily on assisting the visually impaired, while
     Liz Henry's blog post about [accessibility at
     conferences][henry-accessibility] has a good checklist for people

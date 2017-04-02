@@ -188,7 +188,6 @@ for each of Bloom's levels.
 
 \begin{tbllbl}{Bloom's Taxonomy}{tbl:bloom}
 
-\begin{tabular}{|l|p{\dimexpr 0.4\linewidth-2\tabcolsep}|p{\dimexpr 0.4\linewidth-2\tabcolsep}|}
 Knowledge
 & recalling learned information
 & name, define, recall
@@ -219,14 +218,13 @@ Evaluation
 & choose, rate, select
 \\
 
-\end{tabular}
 
 \end{tbllbl}
 
 Another way to understand what makes for a good learning objective
 is to see how a poor one can be improved:
 
-\begin{tabular}{|p{\dimexpr 0.5\linewidth-2\tabcolsep}|p{\dimexpr 0.5\linewidth-2\tabcolsep}|}
+\begin{tabular}
 
 Learner will be given opportunities to learn good programming practices.
 &
