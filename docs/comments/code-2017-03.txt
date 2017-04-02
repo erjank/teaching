@@ -1,0 +1,10 @@
+Upon reflection, the closest I can think of is the research on physics demonstrations.  We have this two-pager, with the core idea being that students need to make a prediction before a demo to make the demo effective:
+http://cwsei.ubc.ca/resources/files/Demo_WorkshopSummary_CWSEI-EOY2015.pdf
+I couldn't find an open (or closed) version of the cited 1997 paper ("Why May Students Fail To Learn from Demonstrations? A Social Practice Perspective on Learning in Physics."), but the Mazur group paper from 2013 is related and may capture what you are looking for (and is PRST-PER which uses CC licensing):
+https://journals.aps.org/prper/abstract/10.1103/PhysRevSTPER.9.020113
+
+This 2007 JCST article (happens to be UBC people, I hadn't seen it before) also may be sufficient:
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.475.7854&rep=rep1&type=pdf
+
+Otherwise, it's possible you are referring to the work by Derek Muller (veritasium on YouTube) on videos reinforcing misconceptions, with the main implication for instruction being that students need to be prompted about the misconceptions and those need to be tackled head-on in the video resource otherwise the video can have the opposite of intended effect.  This made a splash during the initial MOOC hype; some links here:
+https://fnoschese.wordpress.com/2011/03/17/khan-academy-and-the-effectiveness-of-science-videos/

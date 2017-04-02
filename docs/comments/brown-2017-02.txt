@@ -1,0 +1,212 @@
+“A Short Guide to Teaching”
+
+General
+=======
+
+
+Overall, I liked the book and I thought it was good and even-handed.  Several times I read a section thinking “the evidence for that is shaky” only to find the book said that a paragraph later.
+
+I think one running problem I found was that you have a tall hierarchy of abstraction.  Let me call this the teaching ladder.  You have:
+
+Teaching how to teach how to teach how to program [how to be an instructor trainer]
+  |
+Teaching how to teach how to program (training instructors)
+  |
+Teaching how to program (being an instructor)
+  |
+Programming
+
+The top rung (first item) is rare, but sometimes I lost track as to whether we were on the second or third rung: was this a tip on how to learn programming, or a tip on how to learn to be a programming instructor?  I’ll see if I can pick out some specific examples as I go through to explain where I got confused about this.
+
+
+The only thing that I felt could do with a bit more material was some more tips on teaching programming.  I don’t know if I could find evidence to support all of these but many of these are quite common practice and I don’t remember reading them in the book:
+
+ - Never touch the keyboard.  Don’t take over from the learner, instead talk them through it.  When you do it, it’s magic, when they do it, they know at least what was done.
+
+ - Confessional debugging.  Useful for them post-workshop.  If your program doesn’t work, explain the problem aloud to your cat/dog/rubber duck, and often the problem and solution become clear.
+
+ - I get the feeling that your workshops usually involve many small exercises.  In our Greenfoot workshops we tend to work on building up one program over several hours.  For this purpose, I usually do backwards design: start with the final program I want learners to finish with.  Then I remove the most complex part (that I actually want them to write) and make that the last exercise.  Then remove the second most complex part, which is the penultimate exercise.  And so on, until I’ve removed one of the easiest parts  I want them to write.  Any remaining code is boilerplate which I don’t want them to write, and that forms the starting file(s) which I give out.  (You could say that ideally this is blank, but often you just have some stuff you need, e.g. import statements or helper functions, which you need to give them but which you’re not going to get them to write.
+
+ - Relatedly, we use a principle “Never a blank page” for our work, on the basis that blank pages are intimidating, whereas modifying some existing code is more realistic and gives some initial structure.  Obviously there’s a tension here, as giving existing code increases cognitive load and learners can get distracted trying to understand it all.
+
+“The Rules”
+===========
+
+Rule #4 sounds negative by starting with “Nobody”, I’d suggest “You will be the most excited person in the room”
+
+Rule #6 should say “clarity” not “clarify”
+
+Rule #7: “… and vice versa” ? ;-)
+
+Chapter 1
+=========
+
+You have these bits at the beginning of each chapter with times (e.g. Lesson: X minutes).  First issue is I’m not sure where on the ladder (see start of this document) this is.  Is this the time that a programming instructor should give learner programmers to do introductions?  Or is this the time that an instructor trainer should take to convey this chapter to a prospective instructor?  This probably seems like a strange misunderstanding; the document is about how to teach programming so I’d think it was for the .*Carpentry participants, but the challenges at the end of the chapter are aimed at instructors.  I think you need to clarify what the times refer to.
+
+First paragraph: I’d say “reorganise” rather than “break up their software into functions”.  The breaking up can be done on first write so sounds like practice for writing code, whereas I think you’re referring here to refactoring as being a distinct second phase.
+
+In the bullet points you mention live coding for the first time.  I think this needs a brief definition: I’m not sure everyone you’re aiming at will necessarily understand the phrase immediately.  (Plus: live coding has a slightly different sense in music where it refers to a way of composing electronic music live.)
+
+Section 1.1
+-----------
+
+The ladder confusion again: is the "in-person class" referred to in the first paragraph a class on programming taught by the reader, or is it an instructor-training class attended by the reader, or is it an instructor-training class taught by the reader?   The bit in the code of conduct section suggests it may be the last option?
+
+Code of conduct section refers to "section A", should be "appendix A"
+
+Take notes together section, bullet points: either rephrase sentence before bullets, or remove mismatching "it" at start of each bullet.
+
+Confusion again in "Assess Learner's Motivation..." section.  You use the example of the questionnaire you use in instructor-training workshops, but I'm not sure whether the reader is meant to use this directly, or translate this into their lower-abstraction context of a programming workshop.
+
+Chapter 2
+=========
+
+End of first bullet: "Sign someone is a novice is that their questions aren't even wrong".  I've heard this phrase used in person and I've understood it then, but I think it is a bit ambiguous when written down.  I'd spell it out: "are so strange that they aren't even right or wrong, just inapplicable", or give an example.  Perhaps worth a footnote pointing out that it's important not to shame a novice for asking bizarre questions (with link to later relevant chapter on demotivation), even if that sometimes means stopping yourself from laughing.
+
+In the next bulleted section, you say about Vancouver not being the capital of B.C.  Don't leave us hanging: it would only take one bracket "(it's Victoria)" (or whatever it actually is) to tell us the right answer.  (I'm on train right now so can't easily look up the actual answer.)
+
+Same bullets, you have several examples of fundamental beliefs.  The examples are quite grand; are there any examples you can think of which are computing-relevant?  I would say "The NSA is listening to everything we type", except that one is pretty close to true...  Can you think of any?  Wifi gives you cancer and the federal govt doesn't care?
+
+The bit about the funny distractors: I had a note here before I got to later chapters suggesting that humour is a bad idea.  It's quite easy to exclude people through jokes, as you note later on, and in general I find that people aren't as funny as they think they are, or at least, not when they're trying.  My personal rule is forcing-funny never works, but sometimes on the spot funny can work, but it's quite dangerous because you don't always have time to think through the implications.  You might have a crab on screen and it runs off the screen to the left, and you blurt out "It's gone so far left it's past Bernie Sanders" and suddenly you're into politics when you should generally steer clear...  So difficult to get it right, I think.
+
+One note: the callout footnotes have all vanished in this document (LaTeX swallows footnotes in many special environments) so I wasn't able to see them.  I don't think it made a difference to me but thought I'd point it out.
+
+
+For the Peer Instruction bit, I think it's worth pointing out that the students should record their vote, either by clicker, or writing it down.  It's quite easy to decide afterwards that you meant "B" really, you just misread the question to pick "C".  This becomes a bit harder if you actually take an action to record the vote.  In my opinion, it's the jarring "your prediction was wrong" that makes you remember the right answer better, rather than the act of having to think about the MCQ.
+
+End of Peer Instruction callout: I prefer "adapt to a new way or learning" (I've never been convinced by the phrase "learning to learn", might just be me though)
+
+Section 2.1. Sticky Notes section: "To prevent this issue to slow down" should be "from slowing down"
+
+End of chapter: With the challenges here, I again find the ladder confusion: is this for participants in a programming workshop, or in an instructor-training workshop, or both?
+
+
+Chapter 3
+=========
+
+I was quite confused by the pages at the beginning of chapter 3.  It joins together many excerpts without making it clear what the key message is.  Some questions I was left with:
+
+ - Is I/We/You bad?
+ - Is You/Y'all/We better?  I thought that was the point, but not clear whether the following paragraph about it being "tempting but wrong to think it is some kind of secret sauce" applies to I/We/You or You/Y'all/We.
+ - I think the message that follows is that jugyokenkyu (a mix of reflective practice, apprenticeship and peer critique?) is better.
+ - The section seems to build to this message roughly about using demonstrations to show how to teach, but the final bit about lateral knowledge transfer is more of a diversion.  Perhaps move to its own section or to a call-out.
+
+Generally, I think this whole section could do with revisiting (and revising): spell out clearly and explicitly what is good and what is bad, and what you are suggesting the lesson is for teachers.  If possible, I'd reduce the length of the excerpts, and try to write a more cohesive explanation of the point being made, perhaps splitting up the initial part into multiple sections if needed.
+
+Section 3.1
+-----------
+
+Tips 1, 2, 4 and 5 seem to be for the person receiving feedback, whereas 3 reads as what you should do when giving feedback.  Is the idea of #3 that you explicitly ask participants to give you two positives and one negative?  (Which seems like it would come across as an odd request).  I think #3 needs to be put somewhere else or removed.
+
+Similarly, the final bit about the 2x2 grid: is that something teachers do with feedback after everyone has left so that they can ignore rubbish feedback, or something you do while the participants are still present?  I'm guessing the former, but not totally clear.  I also found the phrase "content from presentation" to be a bit confusing.  Perhaps "specific vs vague" is what you're driving at?
+
+On the section on nervous tells, I have a different opinion.  As you say at the start, everyone has something they do when they're nervous, and often the presenter worries about it more than the participants do.  Agree with that.  But I think trying to cut them out only makes the participant obsess more, and often leads them to do something I think is a bad idea: apologise to the audience for them, which only makes the audience focus on them more.  I think the best thing to do is accept your tells and press on.  (Or in modern slang, to "own them".)  Sure, my voice may waver when I'm nervous, or I may talk too fast.  But is what it is: better to focus on getting the content right than to focus on talking slower and thinking less about what I'm teaching.  I think the only real antidote to nerves is experience.
+
+I think the other thing which helps nerves is engineering your environment well.  Using a mic helps my voice waver less and helps me talk more slowly (and be less out of breath from shouting).  I worry less about the material if I've spent time preparing it.  I worry less about the facilities if I've turned up early to check them out.  And so on.
+
+Chapter 4
+=========
+
+This falls somewhere between chapter 4 and chapter 5, but I wanted to mention the main thing I took from cognitive load, Sweller, and books like Dan Willingham's "Why don't students like school" and Kahneman's "Thinking Fast and Slow": we can think via pattern recognition and by reasoning.  The key thing about experts is that they have a lot more patterns stored, and only reason at the high end, whereas novices reason at the low end.
+
+I find this observation very helpful to explain a lot of novice/expert differences, and things like the expert blind spot.  A lot of teachers say they get their students to plan algorithms on paper before taking to the keyboard to code.  I used to dislike this advice, because I much prefer sitting down and coding directly.  But what I came to realise was that I don't need to plan the algorithm: I just recognise what is needed and start regurgitating the pattern(s), perhaps with a little reasoning to mesh a couple of patterns together.  Novices go about it a totally different way.  Such a key point: novices qualitatively use a different process than experts.  A bit more on that here:
+
+https://academiccomputing.wordpress.com/2013/07/10/programming-from-memory/
+
+There was a chunk of work on this in the 1980s which you could briefly discuss here: a series of workshops called Empirical Studies of Programming with researchers like Soloway had papers which tried to categorise all the patterns.  I believe that theoretically this is correct, but in practice it turned into a long slog that wouldn't actually result in much use to anyone: the catalogue would be too large to flick through and too dry to memorise directly.  But really some of the work on design patterns is exactly in this vein.  A bit more on that here:
+
+https://academiccomputing.wordpress.com/2013/07/29/goals-plans-and-code/
+
+To some extent you can view the challenge of teaching programming as the struggle to instill as many of these patterns as possible into learner's minds.  Probably with lots of exercises that particularly cover certain patterns.  I think to some extent we do design like this (practice loops a lot) but I'm not sure anyone ever thinks of it in these terms.  You also have the complication that you're not necessarily aiming for expert level...
+
+I think that was probably off at a bit of a tangent!  But pick and choose what might be useful from the few paragraphs above.
+
+
+With regard to the claim that researchers are often poor lecturers, I remember that this paper says the relationship is actually zero, rather than negative (or positive):
+
+http://faculty.washington.edu/mpw/ITE05/research&%20teaching%20correl.pdf
+
+Though I notice now I look it up again that this is from Hattie, whose work I've been critical of in the past.  Haven't had chance to read the paper in detail, but I at least propose removing the claim about research/teaching link.
+
+Section 4.1
+-----------
+
+Callout: "decision tree presents a mental mode" -- should be mental model.
+
+Point #4 in the list at the end of the section: I'm a bit sceptical of whether novices can effectively concept map their understanding.  Introspection and explanation of understanding are generally more advanced skills than simply understanding, and I'm not sure a novice who is struggling to understand can also explain their current understanding.  But I don't have any research to hand to back this up.
+
+Section 4.2
+-----------
+
+I think Briana Morrison told me that the latest estimate for working memory has decreased.  I think she told me 4 plus/minus 1?  I don't know whether it's best to change the number in your document, or just note that estimates vary over the exact size.
+
+I think one of the key things about the working memory estimate is what units it is in.  You have your section on chunks, but I wonder if it needs a bit more emphasis.  Relating to earlier point, a difference between novices and experts is not the size of their memory but the size of their chunks.
+
+
+Section 4.3: you mention minute cards again here, but it's a while at this point since they were defined, so a reference back to the definition might be useful.
+
+Chapter 6
+=========
+
+As mentioned earlier, I'd explicitly define live coding.
+
+I know in general that live coding is good practice, for all the reasons that you list.  But I've seen it used a few times where the user was one or more of:
+
+ (a) too slow, either too slow typing or spending too much time looking at notes to try to remember what they meant to type in
+
+ (b) spending time typing in boilerplate.  Someone (Willingham?) says "Memory is the residue of thought" and if you spend your time typing boilerplate (import statements, helper functions which are not of interest, try/catch blocks when the lesson is not about exceptions).
+
+It might be worth adding a couple of points along the lines of (a) know what you're going to type in, perhaps have the exact final code printed out or on a tablet nearby and (b) make sure you are live coding the interesting part.  If uninteresting, have it pre-entered, or have it ready to copy and paste at the point you need it, explaining to audience why they don't need to pay attention to that part.
+
+
+One thing I've found difficult with workshops I do a lot is that I don't really make mistakes when I'm live coding.  I can do you an introductory Greenfoot workshop with maybe one typo.  Perhaps your teachers won't do the same workshop as often as I have. I do wonder if I should introduce mistakes deliberately, but I think it would be clear it was deliberate.  Just an aside, not sure if it's worth discussing in your document.
+
+You mention that white on dark is better than dark on white.  Citation needed?  I prefer dark on white personally; I get sleepy if the projector screen is quite dark and I don't find much readability difference.
+
+Last sentence before section 6.1: "the effect you behaviour" should be "your"
+
+
+Section 6.1: This is one of the first reasoned and accurate mentions I've seen of the Dunning-Kruger effect.  It's used far too often just as a way to sneer at idiots or novices for being idiots, or just as a general dismissal of those perceived to be over-confident.  But I think it's not just Dunning-Kruger: all these ratings are relative.  If I'm at a software engineering conference I'm going to rate my ability differently than if I turn up to a novice workshop.  It's just hard to calibrate these things.
+
+Section 6.2:  I'm pretty sure this "FIXME" will add about 50% to the length of your document...
+
+Section 6.3, 2nd para: I found the sentence "The second answer is" hard to parse (I expected a "more" after "doing significantly" before I re-read).  Maybe italicise "doing" and "watching"?
+
+Chapter 8
+=========
+
+The end of the 1st para reads a bit funny: "more importantly, ways that we can demotivate them."  I feel like you need a qualifier like "unintentionally demotivate" or "unwittingly demotivate" to make clear that demotivation is to be avoided.  (I know that should be clear, but it just reads funny at the moment.)
+
+Section 8.1
+-----------
+
+2nd para: "A most powerful demotivators" should be "The" or "Among the"
+
+I'm not convinced that learners don't like it being unfair if it's unfair in their favour.  If society teaches us anything about privilege, it's surely that people will convince themselves that their unfair advantages and others' unfair disadvantages are justified.
+
+Final bullet: very disappointed that the footnote for "Recurse Center's Social Rules" didn't say "see Recurse Center's Social Rules".
+
+Callout "Never Learn Alone": I found "at-risk learners" to be a bit too vague here.  Do you mean minorities, trans, etc?  I wonder if there is a phrase that more accurately conveys the intent here, or if you should just spell it out: "those worried about discrimination" or "those worried whether they are clever enough for the course"
+
+Section 8.2
+-----------
+
+Section "Stereotype threat": if the recent Uber fiasco underscores anything, it's that the reasons for women leaving are not (solely) down to their own anxieties.  As Guzdial said recently, "Women aren't leaving because they don't know what computing is like, but rather because they do know what it's like".  Not sure that goes in this guide though!
+
+Appendix D
+==========
+
+Instructor's Guide suggests we're heading up the ladder, but I'm not sure if this is for programming instructors, or programming-instructor-instructors.
+
+Section D.5
+-----------
+
+You have a tip here about not using fancy bash prompts.  I wonder if this is a more general tip to pull out somewhere and talk about it more detail.  The general principle here, I guess, is "Try to mirror the setup that participants will have if they have just started with a stock installation".  This is a good tip, and one that extends beyond bash.
+
+Another tip that might be useful to put somewhere: if you have participants on multiple OSes, it might be worth pointing out any features which are OS-specific to avoid confusing learners on other OSes.  For example, Michael records Greenfoot videos on Mac, and I've seen one commenter say they don't have the red/yellow/green icons at the top of the window and ask if this is an issue.  That's more cosmetic, but I imagine there's all sorts of gotchas elsewhere (e.g. Mac's shell commands are the BSD versions which have less command line arguments than the GNU versions you'd find on Linux).
+
+And as a more general point, some of the material in appendix D feels like it belongs in the main text (e.g. section D.5 on video recorded lessons) rather than here in appendix D, which I take to be primarily a short summary of points from the main text.  But this might be confusion over where we are on the ladder again.
+
+
+
+
