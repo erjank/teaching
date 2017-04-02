@@ -19,7 +19,7 @@ immediately useful should be taught first; things in the opposite corner
 that are hard to learn and have little near-term application don't
 belong in this course.
 
-\figlbl{What to Teach}{fig:what-to-teach}{fig/what-to-teach.png}
+![What to Teach](../fig/what-to-teach.png)
 
 > ## Actual Time
 > 

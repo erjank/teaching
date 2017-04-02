@@ -159,7 +159,7 @@ those things.  We can go further and add two more relationships that are
 usually (but not always) true as shown in
 \figrefsub{fig:for-loop-concepts}{c}.
 
-\figlbl{Concept Maps}{fig:for-loop-concepts}{fig/for-loop-concepts.png}
+![Concept Maps](../fig/for-loop-concepts.png)
 
 Concept maps can be used in many ways:
 

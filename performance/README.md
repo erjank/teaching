@@ -171,7 +171,7 @@ likely because it allows learners to see the "how" as well as the
 
 ## Feedback
 
-\figlbl{Feedback Feelings}{fig:jerk}{fig/deathbulge-jerk.jpg}
+![Feedback Feelings](../fig/deathbulge-jerk.jpg)
 
 As \figref{fig:jerk} suggests, sometimes it can be hard to receive
 feedback, especially negative feedback.  The process is easier and
