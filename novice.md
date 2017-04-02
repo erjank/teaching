@@ -30,7 +30,7 @@ For our purposes, we simplify the five stages to three:
 
 *   An *expert* is someone who can easily handle situations that are
     out of the ordinary, diagnose the causes of problems, and so on. We
-    will discuss expertise in more detail in [Memory](../memory/).
+    will discuss expertise in more detail in [Memory](/memory/).
 
 One example of a mental model is the ball-and-spring model of
 molecules that most of us encountered in high school chemistry. Atoms
@@ -281,11 +281,11 @@ their point of view.
 If you haven't done so already, you should start using these three
 teaching practices in your instructor training workshop:
 
-*   [Use sticky notes as status flags](../practices/#stickies)
+*   [Use sticky notes as status flags](/practices/#stickies)
 
-*   [Use sticky notes to distribute attention](../practices/#attention)
+*   [Use sticky notes to distribute attention](/practices/#attention)
 
-*   [Use sticky notes as minute cards](../practices/#minute-cards)
+*   [Use sticky notes as minute cards](/practices/#minute-cards)
 
 ## Challenges
 

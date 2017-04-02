@@ -93,7 +93,7 @@ whatever you find helpful to someone else.
 
 > **Who You Are**
 >
-> [Learner Profiles](../lessons/#learner-profiles) will explain how to
+> [Learner Profiles](/lessons/#learner-profiles) will explain how to
 > use *learner profiles* to define who a class is for.  Here, we present
 > profiles of two typical participants in a workshop based on this book.
 > 
@@ -122,11 +122,11 @@ This book can be read on its own, but it is more effective when used
 as part of an intensive in-person class.  We suggest that workshops
 adopt these three practices right from the start:
 
-*   Have a [code of conduct](../practices/#conduct).
+*   Have a [code of conduct](/practices/#conduct).
 
-*   [Take notes together](../practices/#notes).
+*   [Take notes together](/practices/#notes).
 
-*   [Pre-assess](../practices/#assess) learners' motivation and prior
+*   [Pre-assess](/practices/#assess) learners' motivation and prior
     knowledge.
 
 ## Challenges

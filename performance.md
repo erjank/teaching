@@ -171,7 +171,7 @@ likely because it allows learners to see the "how" as well as the
 
 ## Feedback
 
-![Feedback Feelings](../fig/deathbulge-jerk.jpg)
+![Feedback Feelings](fig/deathbulge-jerk.jpg)
 
 As the cartoon above suggests, sometimes it can be hard to receive
 feedback, especially negative feedback.  The process is easier and

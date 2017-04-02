@@ -7,7 +7,7 @@ FIXME: introduction
 An important part of making a class productive is to treat everyone
 with respect.  We therefore strongly recommend that every group
 offering classes based on this material adopt a Code of Conduct like
-the one in [Conduct](../conduct/), and require people taking part in
+the one in [Conduct](/conduct/), and require people taking part in
 the class to abide by it.
 
 We believe equally strongly that your actual programming classes
@@ -54,7 +54,7 @@ and find a space of their own in which to say it.
 Many studies have shown that taking notes while learning improves
 retention {{"bib:aiken-note-taking"|cite}},
 {{"bib:bohay-note-taking"|cite}}.  As discussed in
-[Memory](../memory/), this happens because taking notes forces you to
+[Memory](/memory/), this happens because taking notes forces you to
 organize and reflect on material as it's coming in, which in turn
 increases the likelihood that you will transfer it to long-term memory
 in a usable way.
