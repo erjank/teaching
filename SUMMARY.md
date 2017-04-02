@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Introduction](welcome.md)
 * [Helping Novices Build Mental Models](novice.md)
 * [Teaching as a Performance Art](performance.md)
 * [Expertise and Memory](memory.md)
