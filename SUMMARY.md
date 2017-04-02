@@ -9,11 +9,13 @@
 * [Motivation and Demotivation](motivation.md)
 * [Teaching Practices](practices.md)
 * [Live Coding](live.md)
+* [Why I Teach](next.md)
 
 -----
 * [Code of Conduct](CONDUCT.md)
 * [License](LICENSE.md)
 * [The Rules](rules.md)
+* [Further Reading](reading.md)
 * [Contributing](CONTRIBUTING.md)
 * [Checklists](checklists.md)
 * [Instructor's Guide](guide.md)
