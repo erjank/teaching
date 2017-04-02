@@ -61,23 +61,25 @@ more, later lessons on how to build functions in a programming
 language can refer back to pipes and filters, which helps solidify
 both ideas.
 
-> ## Different Kinds of Lessons
+> **Different Kinds of Lessons**
 > 
-> The cognitive differences between novices and competent practitioners
-> underpin the differences between two kinds of teaching materials. A
-> tutorial's purpose is to help newcomers to a field build a mental model;
-> a manual's role, on the other hand, is to help competent practitioners
-> fill in the gaps in their knowledge. Tutorials frustrate competent
-> practitioners because they move too slowly and say things that are
-> obvious (though of course they are anything but to newcomers). Equally,
-> manuals frustrate novices because they use jargon and *don't*
-> explain things. One of the reasons Unix and C became popular is that
-> Kernighan et al's trilogy {{"bib:kernighan-plauger-elements"|cite}}, {{"bib:kernighan-pike-upe"|cite}}, {{"bib:kernighan-ritchie-c"|cite}}
-> somehow managed to be good tutorials
-> *and* good manuals at the same time. Ray and Ray's book on Unix
-> {{"bib:ray-ray-unix"|cite}}
-> and Fehily's introduction to SQL {{"bib:fehily-sql"|cite}} are among the
-> very few other books in computing that have accomplished this.
+> The cognitive differences between novices and competent
+> practitioners underpin the differences between two kinds of teaching
+> materials. A tutorial's purpose is to help newcomers to a field
+> build a mental model; a manual's role, on the other hand, is to help
+> competent practitioners fill in the gaps in their
+> knowledge. Tutorials frustrate competent practitioners because they
+> move too slowly and say things that are obvious (though of course
+> they are anything but to newcomers). Equally, manuals frustrate
+> novices because they use jargon and *don't* explain things. One of
+> the reasons Unix and C became popular is that Kernighan et al's
+> trilogy {{"bib:kernighan-plauger-elements"|cite}},
+> {{"bib:kernighan-pike-upe"|cite}},
+> {{"bib:kernighan-ritchie-c"|cite}} somehow managed to be good
+> tutorials *and* good manuals at the same time. Ray and Ray's book on
+> Unix {{"bib:ray-ray-unix"|cite}} and Fehily's introduction to SQL
+> {{"bib:fehily-sql"|cite}} are among the very few other books in
+> computing that have accomplished this.
 
 One of the challenges in building a mental model is to clear away
 things that *don't* belong.  As Mark Twain said, "It ain't what
@@ -118,7 +120,7 @@ move on.  Learners either pass or fail a summative assessment. One
 example is a driving exam, which reassures the rest of society that
 someone can safely be allowed on the road.
 
-> ## Connecting Formative and Summative Assessment
+> **Connecting Formative and Summative Assessment**
 > 
 > One rule to use when designing lessons is that formative assessments
 > should prepare people for summative assessments: no one should ever
@@ -172,7 +174,7 @@ to explain something that your learners already know. (Doing this also
 helps show learners that the instructor cares about how much they are
 learning.)
 
-> ## When to Proceed?
+> **When to Proceed?**
 > 
 > As the instructor, what should you do if most of the class votes for
 > one of the wrong answers? What if the votes are evenly spread between
@@ -191,7 +193,8 @@ learning.)
 > teaching practices you use, you won't always be able to give everyone
 > the help they need.
 
-> ## Peer Instruction
+
+> **Peer Instruction**
 > 
 > No matter how good a teacher is, she can only say one thing at a time.
 > How then can she clear up many different misconceptions in a reasonable
@@ -232,7 +235,8 @@ learning.)
 > workshops because it takes people time to learn a new way to
 > learn–time that we don't have in our compressed two-day format.
 
-> ## A Note on MCQ Design
+
+> **A Note on MCQ Design**
 > 
 > *   A good MCQ tests for conceptual misunderstanding rather than simple
 >     factual knowledge. If you are having a hard time coming up with
@@ -245,7 +249,8 @@ learning.)
 >     subject. If you haven't taught it before, think about your own
 >     misconceptions or ask colleagues about their experiences.
 
-> ## Concept Inventories
+
+> **Concept Inventories**
 > 
 > The [Force Concept Inventory][wikipedia-fci]
 > is a set of MCQs designed to gauge understanding of
@@ -256,7 +261,8 @@ learning.)
 > costly to do this, and students' ability to search for answers on the
 > internet is an ever-increasing threat to its validity.
 
-> ## We Know Less Than We Think
+
+> **We Know Less Than We Think**
 > 
 > Brown and Altadmri's "Investigating Novice Programming Mistakes:
 > Educator Beliefs vs Student Data" {{"bib:brown-empirical"|cite}} compared
@@ -319,7 +325,7 @@ placed a cake of ice in a bathtub and then filled the tub to the rim
 with water. When the ice melts, does the water level go up (so that
 the tub overflows), go down, or stay the same?
 
-\fixme{FIGURE}
+\FIXME: figure
 
 The correct answer is that it stays the same; figuring out why helps
 people build a model of the relationship between weight, volume, and

@@ -13,8 +13,9 @@
 * [Live Coding](live/README.md)
 
 -----
-* [Code of Conduct](conduct/README.md)
-* [License](license/README.md)
+* [Code of Conduct](CONDUCT.md)
+* [License](LICENSE.md)
+* [Contributing](CONTRIBUTING.md)
 * [Checklists](checklists/README.md)
 * [Instructor's Guide](guide/README.md)
 

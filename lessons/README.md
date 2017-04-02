@@ -62,11 +62,11 @@ variations, but the one we recommend has the following steps:
     three or four such episodes, each building toward a short check that
     learners are keeping up.
 
-\This method helps to keep teaching focused on its objectives. It also
+This method helps to keep teaching focused on its objectives. It also
 ensures that learners don't face anything on the final exam that the
 course hasn't prepared them for.
 
-> ## How and Why to Fake It
+> **How and Why to Fake It**
 > 
 > One of the most influential papers in the history of software
 > engineering was Parnas and Clements' "A Rational Design Process: How
@@ -79,7 +79,8 @@ course hasn't prepared them for.
 > on something that occurs to us while we're writing an MCQ, we want the
 > notes we leave behind to present things in the order described above.
 
-> ## Teaching to the Test
+
+> **Teaching to the Test**
 > 
 > Reverse instructional design is *not* the same thing as
 > "teaching to the test". When using RID, teachers set goals to aid in
@@ -163,7 +164,7 @@ each of this would be backed by a very different lesson:
 *   Learners can explain what a detached HEAD is and recover from it
     using command-line operations.
 
-> ## Objectives vs. Outcomes
+> **Objectives vs. Outcomes**
 > 
 > A learning *objective* is what a lesson strives to achieve.  A
 > learning *outcome* is what it actually achieves, i.e., what

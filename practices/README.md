@@ -280,7 +280,7 @@ even though it would be simpler to require learners to use just one.
 
 FIXME: Talk about getting learners' machines set up.
 
-> ## Virtual Machines
+> **Virtual Machines**
 > 
 > We have experimented with virtual machines (VMs) on learners'
 > computers to reduce installation problems, but those introduce

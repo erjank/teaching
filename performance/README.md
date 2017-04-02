@@ -173,7 +173,7 @@ likely because it allows learners to see the "how" as well as the
 
 ![Feedback Feelings](../fig/deathbulge-jerk.jpg)
 
-As \figref{fig:jerk} suggests, sometimes it can be hard to receive
+As the cartoon above suggests, sometimes it can be hard to receive
 feedback, especially negative feedback.  The process is easier and
 more productive when the people involved share ground rules and
 expectations. This is especially important when they have different
@@ -229,7 +229,7 @@ figure out what to say, and to separate those who have good ideas that
 they can't communicate from those who are eloquent but don't actually
 have anything to say.
 
-> ## Studio Classes
+> **Studio Classes**
 > 
 > Architecture schools often include studio classes, in which students
 > solve small design problems and get feedback from their peers right
@@ -240,7 +240,8 @@ have anything to say.
 > in music serve a similar purpose, and a few people have experimented
 > with using live coding at conferences or online in similar ways.
 
-> ## Tells
+
+> **Tells**
 > 
 > Everyone has nervous habits. For example, many of us become "Mickey
 > Mouse" versions of ourselves when we're nervous, i.e., we talk more

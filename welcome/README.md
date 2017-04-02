@@ -50,8 +50,8 @@ I got better over time, but that doesn't mean I was actually very
 good.  And even though I felt I was improving, I had no idea how
 effective I was compared to other teachers.
 
-My doubts came to a head after I re-launched Software Carpentry in
-2010.  Its aim was (and is) to teach basic computing skills to
+My doubts came to a head after I re-launched Software Carpentry in 2010.
+Its aim was (and is) to teach basic computing skills to
 researchers from a wide range of disciplines.  What I realized then
 was that, ironically, I was trying to teach people how to build and
 run software in efficient, repeatable ways, but was mostly ignorant of
@@ -91,7 +91,7 @@ Williams, and the hundreds of people who went through it over the
 years.  I hope you enjoy what follows.  If you do, I hope you pass on
 whatever you find helpful to someone else.
 
-> ## Who You Are
+> **Who You Are**
 >
 > [Learner Profiles](../lessons/#learner-profiles) will explain how to
 > use *learner profiles* to define who a class is for.  Here, we present

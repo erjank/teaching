@@ -1,4 +1,8 @@
 {
+  "pdf": {
+    "fontSize": 10,
+    "paperSize": "a5"
+  },
   "plugins": ["bibtex-cite"],
   "variables": {
     "repo": "https://github.com/gvwilson/teaching"

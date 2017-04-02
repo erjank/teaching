@@ -56,7 +56,7 @@ This metaphor helps explain many observed aspects of expert behavior:
     interviews gives a more accurate impression of their ability than
     asking them to program.)
 
-> ## The J Word
+> **The J Word**
 >
 > Experts often betray their blind spot by using the word "just" in
 > explanations, as in, "Oh, it's easy, you just fire up a new virtual
@@ -75,7 +75,7 @@ you are to remain part of that group.  Similarly, the more connections
 a fact has to other facts, the more likely the fact is to be
 remembered.
 
-> ## Repetition vs. Deliberate Practice
+> **Repetition vs. Deliberate Practice**
 > 
 > The idea that ten thousand hours of practice will make someone an
 > expert in some field is widely quoted, but reality is more complex.
@@ -124,7 +124,7 @@ relationship *is*. And yes, one person's fact may be another
 person's connection, but one of the benefits of concept mapping is
 that it makes those differences explicit.
 
-> Externalizing Cognition
+> **Externalizing Cognition**
 > 
 > Concept maps are just one way to represent our understanding of a
 > subject.  For example, Andrew Abela's [decision tree][abela-chart]
@@ -191,7 +191,7 @@ Concept maps can be used in many ways:
     to make sense of basic economics, asking them to figure out how to
     draw their thoughts at the same time is an unfair load.
 
-> ## Meetings, Meetings, Meetings
+> **Meetings, Meetings, Meetings**
 > 
 > The next time you have a team meeting, give everyone a sheet of paper
 > and have them spend a few minutes drawing a concept map of the project
@@ -224,7 +224,7 @@ around. It's also why sports teams tend to have about half a dozen
 members, or be broken down into smaller groups (such as the forwards
 and backs in rugby).
 
-> ## Serial Position Effect
+> **Serial Position Effect**
 > 
 > When we memorize words in a list and are asked to immediately recall
 > them, the words first presented will have the best chance to be
@@ -233,7 +233,8 @@ and backs in rugby).
 > referred to as the primacy and recency effects, respectively, and
 > together they form the *serial position effect*.
 
-> ## Chunking
+
+> **Chunking**
 > 
 > Our minds can store larger numbers of facts in short-term memory by
 > creating *chunks*. For example, most of us will remember a word
@@ -265,8 +266,7 @@ mapping a lesson before teaching it - an instructor needs to identify
 just how many pieces of separate information will need to be
 "stored" in memory as part of the lesson.
 
-<!-- callout-->
-> ## Building Concept Maps Together
+> **Building Concept Maps Together**
 > 
 > Concept maps can be used as a classroom discussion exercise. Put
 > learners in small groups (2-4 people each), give each group some sticky
@@ -275,7 +275,8 @@ just how many pieces of separate information will need to be
 > them with labelled arcs, and adding any other concepts they think they
 > need.
 
-> ## What Are We Doing Again?
+
+> **What Are We Doing Again?**
 > 
 > Concept maps can also be used to help build a shared understanding of
 > what a project is trying to accomplish. Everyone independently draws a

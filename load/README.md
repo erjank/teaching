@@ -119,7 +119,7 @@ any result can be justified after the fact by labelling things that
 hurt performance as "extraneous" and things that don't "germane''.
 However, there is no doubt that faded examples are effective.
 
-> ## Split Attention
+> **Split Attention**
 > 
 > Research by Mayer and colleagues on the [split-attention
 > effect][wikipedia-split-attention] is closely related to cognitive

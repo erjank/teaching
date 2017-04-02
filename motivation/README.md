@@ -21,7 +21,7 @@ belong in this course.
 
 ![What to Teach](../fig/what-to-teach.png)
 
-> ## Actual Time
+> **Actual Time**
 > 
 > Any useful estimate of how long something takes to master must take
 > into account how frequent failures are and how much time is lost to
@@ -58,7 +58,7 @@ i.e., something that learners believe they would actually do in real
 life. It is also *tangible*: if the image comes out the wrong
 size, learners have a concrete starting point for debugging.
 
-> ## Strategies for Motivating Learners
+> **Strategies for Motivating Learners**
 > 
 > *How Learning Works* {{"bib:ambrose-hlw"|cite}} contains a list of
 > evidence-based methods to motivate learners.  None of them are
@@ -120,7 +120,7 @@ Here are some quick ways to demotivate your learners:
     from asking questions in the future. (This idea comes from the
     [Recurse Center's Social Rules][recurse-rules]).
 
-> ## Code of Conduct Revisited
+> **Code of Conduct Revisited**
 > 
 > As noted in [Welcome](../welcome/), we believe very strongly that
 > classes should have a Code of Conduct. Its details are important, but
@@ -128,7 +128,8 @@ Here are some quick ways to demotivate your learners:
 > have rules tells people a great deal about our values and about what
 > kind of learning experience they can expect.
 
-> ## Never Learn Alone
+
+> **Never Learn Alone**
 > 
 > One way to support at-risk learners of all kinds is to have people
 > sign up for workshops in small teams rather than as individuals. If an
@@ -185,15 +186,15 @@ teaching about and dealing with imposter syndrome.
 
 Reminding people of negative stereotypes, even in subtle ways, makes
 them anxious about the risk of confirming those stereotypes, which in
-turn reduces their performance. This is called
-*[stereotype thread][wikipedia-stereotype]*, and the clearest examples in computing are gender-related.
-Depending on whose numbers you trust, only 12-18% of programmers are
-women, and those figures have actually been getting worse over the
-last 20 years. There are many reasons for this (see
-{{"bib:margolis-fisher-clubhouse"|cite}} and {{"bib:margolis-shallow"|cite}}),
-and {{"bib:steele-vivaldi"|cite}} summarizes what we know about stereotype
-threat in general and presents some strategies for mitigating it in
-the classroom.
+turn reduces their performance. This is called *[stereotype
+thread][wikipedia-stereotype]*, and the clearest examples in computing
+are gender-related.  Depending on whose numbers you trust, only 12-18%
+of programmers are women, and those figures have actually been getting
+worse over the last 20 years. There are many reasons for this (see
+{{"bib:margolis-fisher-clubhouse"|cite}} and
+{{"bib:margolis-shallow"|cite}}), and {{"bib:steele-vivaldi"|cite}}
+summarizes what we know about stereotype threat in general and
+presents some strategies for mitigating it in the classroom.
 
 However, while there's lots of evidence that unwelcoming climates
 demotivate members of under-represented groups, it's not clear that
@@ -281,7 +282,7 @@ clear that hosts and instructors care enough to have thought about
 problems in advance, and that any additional concerns are likely to be
 addressed.
 
-> ## It Helps Everyone
+> **It Helps Everyone**
 > 
 > [Curb cuts][wikipedia-curb-cuts] (the small sloped ramps joining a
 > sidewalk to the street) were originally created to make it easier

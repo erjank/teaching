@@ -1,49 +1,36 @@
----
-permalink: /license/
----
 # License
 
-This book is made available under the
-[Creative Commons Attribution license][cc-by-human].
-The following is a human-readable summary of (and not a substitute for)
-the [full legal text of the CC BY 4.0 license][cc-by-legal].
+This work is licensed under the Creative Commons Attribution 3.0
+Unported license (CC-BY-3.0).  You are free:
 
-You are free:
+*   to Share–to copy, distribute and transmit the work
+*   to Remix–to adapt the work
 
-* to **Share**---copy and redistribute the material in any medium or format
-* to **Adapt**---remix, transform, and build upon the material
+under the following conditions:
 
-for any purpose, even commercially.
+*   Attribution–you must attribute the work in the manner
+    specified by the author or licensor (but not in any way that
+    suggests that they endorse you or your use of the work).
 
-The licensor cannot revoke these freedoms as long as you follow the
-license terms.
+with the understanding that:
 
-Under the following terms:
+*   Waiver–Any of the above conditions can be waived if you get
+    permission from the copyright holder.
 
-* **Attribution**---You must give appropriate credit (mentioning that
-  your work is derived from work that is Copyright © Greg Wilson and,
-  where practical, linking to <https://gvwilson.github.io/teaching/>),
-  provide a [link to the license][cc-by-human], and indicate if
-  changes were made. You may do so in any reasonable manner, but not
-  in any way that suggests the licensor endorses you or your use.
+*   Public Domain–Where the work or any of its elements is in
+    the public domain under applicable law, that status is in no way
+    affected by the license.
 
-**No additional restrictions**---You may not apply legal terms or
-technological measures that legally restrict others from doing
-anything the license permits.  With the understanding that:
+*   Other Rights–In no way are any of the following rights
+    affected by the license:
+    *   Your fair dealing or fair use rights, or other applicable
+        copyright exceptions and limitations;
+    *   The author's moral rights;
+    *   Rights other persons may have either in the work itself or
+        in how the work is used, such as publicity or privacy rights.
 
-Notices:
-
-* You do not have to comply with the license for elements of the
-  material in the public domain or where your use is permitted by an
-  applicable exception or limitation.
-* No warranties are given. The license may not give you all of the
-  permissions necessary for your intended use. For example, other
-  rights such as publicity, privacy, or moral rights may limit how you
-  use the material.
-
-## Origin
-
-This material is derived from 
-the [Software Carpentry instructor training course][swc-training].
+*   Notice–For any reuse or distribution, you must make clear to
+    others the license terms of this work. The best way to do this is
+    with a link to <http://creativecommons.org/licenses/by/3.0/>.
 
 {% references %} {% endreferences %}
