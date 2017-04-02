@@ -176,7 +176,7 @@ Here are some tips to make your live coding better:
     serious business. On the one hand, don't let this scare you - it is
     much easier than performing Hamlet. You have an excellent script at
     your disposal, after all! On the other hand, it is OK to add an
-    element of `play', i.e. use humor and improvisation to liven up the
+    element of play, i.e. use humor and improvisation to liven up the
     workshop. How much you are able and willing to do this is really a
     matter of personality and taste - as well as experience. It becomes
     easier when you are more familiar with the material, allowing you to
