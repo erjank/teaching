@@ -325,7 +325,7 @@ placed a cake of ice in a bathtub and then filled the tub to the rim
 with water. When the ice melts, does the water level go up (so that
 the tub overflows), go down, or stay the same?
 
-\FIXME: figure
+FIXME: figure
 
 The correct answer is that it stays the same; figuring out why helps
 people build a model of the relationship between weight, volume, and
