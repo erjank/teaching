@@ -333,10 +333,10 @@ red. Do *not* put your name on the notes: this is meant to be
 anonymous feedback. Add your notes to the pile by the door as you leave
 to get coffee.
 
+{% references %} {% endreferences %}
+
 [swc-unix]: http://swcarpentry.github.io/shell-novice/
 [video-peer-instruction]: https://www.youtube.com/watch?v=2LbuoxAy56o
 [wikipedia-dreyfus-model]: https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition
 [wikipedia-fci]: https://en.wikipedia.org/wiki/Force_Concept_Inventory
 [wikipedia-peer-instruction]: https://en.wikipedia.org/wiki/Peer_instruction
-
-{% references %} {% endreferences %}

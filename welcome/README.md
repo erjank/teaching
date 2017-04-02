@@ -58,11 +58,11 @@ run software in efficient, repeatable ways, but was mostly ignorant of
 equivalent techniques for writing and delivering lessons.
 
 Luckily, I discovered resources like Mark Guzdial's blog
-{{"bib:guzdial-blog}|cite}} and the book *How Learning Works*
+{{"bib:guzdial-blog"|cite}} and the book *How Learning Works*
 {{"bib:ambrose-hlw"|cite}}.  These led me to the work of Lemov,
 Huston, Green, and others {{"bib:lemov-champion"|cite}},
 ow749an
-{{"bib:huston-dont-know"|cite}}, {{"bib:green-babt"|cite"}, which
+{{"bib:huston-dont-know"|cite}}, {{"bib:green-babt"|cite}}, which
 showed me what would make my teaching better, and why I should believe
 it.
 

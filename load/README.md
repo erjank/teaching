@@ -199,8 +199,9 @@ with that person as a learner to help identify different loads.
     it for your partner to put things in order when there's unneeded
     material getting in the way?
 
+{% references %} {% endreferences %}
+
 [cognitive-load-unfalsifiable]: https://edtechdev.wordpress.com/2009/11/16/cognitive-load-theory-failure/
 [wikipedia-cognitive-load]: https://en.wikipedia.org/wiki/Cognitive_load
 [wikipedia-inquiry]: https://en.wikipedia.org/wiki/Inquiry-based_learning
 [wikipedia-split-attention]: https://en.wikipedia.org/wiki/Split_attention_effect
-{% references %} {% endreferences %}

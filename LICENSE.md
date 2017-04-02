@@ -46,4 +46,4 @@ Notices:
 This material is derived from 
 the [Software Carpentry instructor training course][swc-training].
 
-{% include links.md %}
+{% references %} {% endreferences %}

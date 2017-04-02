@@ -270,6 +270,7 @@ Write one more learning objectives for something you currently teach
 or plan to teach.  Working with a partner, critique and improve the
 objectives.
 
+{% references %} {% endreferences %}
+
 [wikipedia-bloom]: https://en.wikipedia.org/wiki/Bloom's_taxonomy
 [wikipedia-tdd]: https://en.wikipedia.org/wiki/Test-driven_development
-{% references %} {% endreferences %}

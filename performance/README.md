@@ -299,7 +299,7 @@ you strongly agree or disagree with?
     also to identify each person's tells: what do they do that betrays
     nervousness, and how noticeable is it?
 
+{% references %} {% endreferences %}
+
 [video-bad-teaching]: https://www.youtube.com/watch?v=-ApVt04rB4U
 [wikipedia-deming]: https://en.wikipedia.org/wiki/W._Edwards_Deming
-
-{% references %} {% endreferences %}

@@ -227,7 +227,7 @@ to are expected to be familiar with.
 
 *   What will you try to do differently next time?
 
+{% references %} {% endreferences %}
+
 [live-coding-bad]: https://youtu.be/bXxBeNkKmJE
 [live-coding-good]: https://youtu.be/SkPmwe_WjeY
-
-{% references %} {% endreferences %}

@@ -32,6 +32,8 @@ and [our Code of Conduct](CONDUCT.md).
 
 This book is dedicated to the memory of [Myles Horton][wikipedia-horton].
 
+{% references %} {% endreferences %}
+
 [license]: /license/
 [swc-training]: https://swcarpentry.github.io/instructor-training/
 [wikipedia-horton]: https://en.wikipedia.org/wiki/Myles_Horton

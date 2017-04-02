@@ -18,3 +18,4 @@
 * [Checklists](checklists/README.md)
 * [Instructor's Guide](guide/README.md)
 
+{% references %} {% endreferences %}

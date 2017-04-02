@@ -414,6 +414,8 @@ is anyone naive enough to believe that we would still insist on using
 these tests as indicators of success?" What are examples in your own
 experience of "objective" assessments that reinforce the status quo?
 
+{% references %} {% endreferences %}
+
 [accessibility-conferences]: https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences
 [ada-resources]: http://adainitiative.org/continue-our-work/impostor-syndrome-training/
 [growth-mindset-concerns]: http://www.learningspy.co.uk/psychology/growth-mindset-bollocks/
@@ -433,5 +435,3 @@ experience of "objective" assessments that reinforce the status quo?
 [wikipedia-nihil]: https://en.wikipedia.org/wiki/Nothing_About_Us_Without_Us
 [wikipedia-screen-reader]: https://en.wikipedia.org/wiki/Screen_reader
 [wikipedia-stereotype]: https://en.wikipedia.org/wiki/Stereotype_threat
-
-{% references %} {% endreferences %}
