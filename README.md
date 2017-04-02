@@ -153,8 +153,6 @@ took, and what made it so great.
 
 {% references %} {% endreferences %}
 
-{% references %} {% endreferences %}
-
 [license]: /license/
 [swc-training]: https://swcarpentry.github.io/instructor-training/
 [wikipedia-horton]: https://en.wikipedia.org/wiki/Myles_Horton

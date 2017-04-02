@@ -1,19 +1,17 @@
-LATEX=pdflatex
-BIBTEX=bibtex
-STEM=book
-
+# default target
 all : commands
 
 ## commands   : show all commands.
 commands :
 	@grep -E '^##' Makefile | sed -e 's/## //g'
 
+## publish    : rebuild web version.
+publish :
+	@gitbook build . docs
+
 ## pdf        : re-generate PDF
 pdf :
-	${LATEX} ${STEM}
-	${BIBTEX} ${STEM}
-	${LATEX} ${STEM}
-	${LATEX} ${STEM}
+	@gitbook pdf ./ ./teaching.pdf
 
 ## spell      : check spelling
 spell :
@@ -21,7 +19,7 @@ spell :
 
 ## words      : how long is the book?
 words :
-	texcount -1 *.tex | cut -d '+' -f 1
+	wc -w *.md
 
 ## fixme      : look for undone work.
 fixme :
@@ -29,16 +27,5 @@ fixme :
 
 ## clean      : clean up junk files.
 clean :
-	@rm -f book.pdf
-	@find . -name '*~' -exec rm {} \;
-	@find . -name '*.aux' -exec rm {} \;
-	@find . -name '*.bak' -exec rm {} \;
-	@find . -name '*.bbl' -exec rm {} \;
-	@find . -name '*.blg' -exec rm {} \;
-	@find . -name '*.dvi' -exec rm {} \;
-	@find . -name '*.lof' -exec rm {} \;
-	@find . -name '*.log' -exec rm {} \;
-	@find . -name '*.lot' -exec rm {} \;
-	@find . -name '*.out' -exec rm {} \;
-	@find . -name '*.toc' -exec rm {} \;
+	@rm -rf teaching.pdf docs
 	@find . -name .DS_Store -exec rm {} \;
