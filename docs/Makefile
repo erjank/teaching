@@ -17,7 +17,7 @@ pdf :
 
 ## spell      : check spelling
 spell :
-	cat *.md */*.md | aspell list | sort | uniq | diff - words.txt
+	cat *.md | aspell list | sort | uniq | diff - words.txt
 
 ## words      : how long is the book?
 words :
