@@ -43,6 +43,148 @@ This appendix includes material that doesn't naturally fit anywhere else.
     how women and some racial minorities are systematically pushed out
     of computing, and what can be done about it.
 
+## Key Terms
+
+*Educational psychology* is the study of how people learn. It touches
+on everything from the neuropsychology of perception and the
+mechanisms of memory to the sociology of school systems and the
+philosophical question of what we actually mean by "learning" (which
+turns out to be pretty complicated once you start looking beyond the
+standardized Western classroom). Within the broad scope of educational
+psychology, two specific perspectives have primarily influenced our
+teaching practices (and by extension, this instructor training).
+
+The first perspective is *cognitivism*, which treats learning as a
+problem in neuropsychology. Cognitivists focus their attention on
+things like pattern recognition, memory formation, and recall. It is
+good at answering low-level questions, but generally ignores larger
+issues like, "What do we mean by 'learning'?" and, "Who gets to
+decide?"
+
+The second perspective is *[situated
+learning][wikipedia-situated-learning]*, which focuses on how
+*[legitimate peripheral participation][wikipedia-peripheral]* leads to
+people becoming members of a *[community of practice]*.
+Unpacking those terms, the situated learning perspective focuses on the
+transition from being a newcomer to being accepted as a peer by those
+who already do the activity in question. Situated learning is directly
+relevant to our learners, many of whom ease into scientific computing by
+doing small tasks that experienced practitioners would regard as
+straightforward, but who learn how to take on bigger and more novel
+challenges both from what they do and from the feedback (and welcome) it
+elicits. It is equally relevant to our instructors (i.e., you), who are
+approaching evidence-based teaching in the same way.
+
+For example, Software and Data Carpentry aim to serve researchers who
+are exploring data management and programming on their own (legitimate
+peripheral practice) and make them aware of other people doing that
+work (simply by attending the workshop) and the best practices and
+ideas of that community of practice, thereby giving them a way to
+become members of that community. Situated learning thus describes why
+we teach, and recognizes that teaching and learning is necessarily
+rooted in a social context. We then depend on the cognitivist
+perspective to drive *how* we teach the specific content associated
+with the community of practice.
+
+> **Other Perspectives**
+>
+> There are many other perspectives outside cognitivist theory—see [this
+> site][learning-theories] for summaries. Besides cognitivism, those
+> encountered most frequently include *behaviorism* (which treats
+> education as stimulus/response conditioning), *constructivism* (which
+> considers learning an active process during which learners construct
+> knowledge for themselves), *connectivism* (which emphasizes the social
+> aspects of learning, particularly those made possible by the
+> Internet), and *connectionism*, a cognitivist theory that explains
+> learning as creating connections between concepts.  And yes, it would
+> help if their names were less similar…
+
+Educational psychology does not tell us how to teach on its own
+because it under-constrains the problem: in real life, several
+different teaching methods might be consistent with what we currently
+know about how learning works. We therefore have to try those methods
+in the class, with actual learners, in order to find out how well they
+balance the different forces in play. This is called *instructional
+design* (ID).  If educational psychology is the science, ID is the
+engineering.
+
+FIXME: more on ID
+
+In the end, effective teaching often depends on what the teacher knows.
+The things teachers know can be divided into:
+
+*   *content knowledge*, such as the "what" of programming;
+
+*   *general pedagogical knowledge*, i.e., an understanding of the
+    psychology of learning; and
+
+*   the *pedagogical content knowledge* (PCK) that connects the two. PCK
+    is things like what examples to use when teaching how parameters are
+    passed to a function, or what misconceptions about wildcard
+    expansion are most common.
+
+FIXME: more on PCK
+
+A great example of PCK is Gelman and Nolan's *[Teaching Statistics: A
+Bag of Tricks]* {{"bib:gelman-stats"|cite}}, which is full of PCK for
+teaching introductory statistics.  The [CS Teaching
+Tips][cs-teaching-tips] site is gathering similar ideas for computing.
+
+## Myths
+
+One [well-known scheme][wikipedia-learning-modalities] characterizes
+learners as visual, auditory, or kinesthetic according to whether they
+like to see things, hear things, or do things. This scheme is easy to
+understand, but as de Bruyckere and colleagues point out in *Urban
+Myths About Learning and Education*
+{{"bib:debruyckere-urban-myths"|cite}}, it is almost certainly false.
+Unfortunately, that hasn't stopped a large number of companies from
+marketing products based on it to parents and school boards.
+
+This is not the only myth to plague education. The learning pyramid
+that shows we remember 10% of what we read, 20% of what we hear, and
+so on?  Myth. The idea that "brain games" can improve our
+intelligence, or at least slow its decline in old age? Also a myth, as
+are the claims that the Internet is making us dumber or that young
+people read less than they used to.
+
+Computing education has its own myths. Mark Guzdial's "Top 10 Myths
+About Teaching Computer Science" {{"bib:guzdial-top10"|cite}} are:
+
+1.  The lack of women in Computer Science is just like all the other
+    STEM fields.
+
+1.  To get more women in CS, we need more female CS faculty.
+
+1.  A good CS teacher is a good lecturer.
+
+1.  Clickers and the like are an add-on for a good teacher.
+
+1.  Student evaluations are the best way to evaluate teaching.
+
+1.  Good teachers personalize education for students' learning styles.
+
+1.  High schools just can't teach CS well, so they shouldn't do it at all.
+
+1.  The real problem is to get more CS curriculum into the hands of
+    teachers.
+
+1.  All I need to do to be a good CS teacher is model good software
+    development practice, because my job is to produce excellent software
+    engineers.
+
+1.  Some people are just born to program.
+
+The last of these is the most pervasive and most damaging.  As
+discussed in [Motivation](/motivation/), Elizabeth Patitsas and others
+have shown that grades in computing classes are *not* bimodal
+{{"bib:patitsas-cs-grades"|cite}}, i.e., there isn't one group that
+gets it and another that doesn't. Many of the participants in our
+workshops have advanced degrees in intellectually demanding subjects,
+but have convinced themselves that they just don't have what it takes
+to be programmers. If all we do is dispel that belief, we will have
+done them a service.
+
 ## Starting Out
 
 To begin your class, the instructors should give a brief introduction
@@ -441,5 +583,11 @@ the effectiveness of such courses ignore this survivor bias.
 
 {% references %} {% endreferences %}
 
+[cs-teaching-tips]: http://csteachingtips.org/
+[learning-theories]: http://www.learning-theories.com/
 [live-coding-bad]: https://youtu.be/bXxBeNkKmJE
 [live-coding-good]: https://youtu.be/SkPmwe_WjeY
+[wikipedia-community]: https://en.wikipedia.org/wiki/Community_of_practice
+[wikipedia-learning-modalities]: https://en.wikipedia.org/wiki/Learning_styles#Learning_modalities
+[wikipedia-peripheral]: https://en.wikipedia.org/wiki/Legitimate_peripheral_participation
+[wikipedia-situated-learning]: https://en.wikipedia.org/wiki/Situated_learning
