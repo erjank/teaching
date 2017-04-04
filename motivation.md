@@ -128,7 +128,6 @@ Here are some quick ways to demotivate your learners:
 > have rules tells people a great deal about our values and about what
 > kind of learning experience they can expect.
 
-
 > **Never Learn Alone**
 > 
 > One way to support at-risk learners of all kinds is to have people

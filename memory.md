@@ -233,7 +233,6 @@ and backs in rugby).
 > referred to as the primacy and recency effects, respectively, and
 > together they form the *serial position effect*.
 
-
 > **Chunking**
 > 
 > Our minds can store larger numbers of facts in short-term memory by
@@ -274,7 +273,6 @@ just how many pieces of separate information will need to be
 > concept map on a whiteboard by placing those sticky notes, connecting
 > them with labelled arcs, and adding any other concepts they think they
 > need.
-
 
 > **What Are We Doing Again?**
 > 

@@ -240,7 +240,6 @@ have anything to say.
 > in music serve a similar purpose, and a few people have experimented
 > with using live coding at conferences or online in similar ways.
 
-
 > **Tells**
 > 
 > Everyone has nervous habits. For example, many of us become "Mickey

@@ -193,7 +193,6 @@ learning.)
 > teaching practices you use, you won't always be able to give everyone
 > the help they need.
 
-
 > **Peer Instruction**
 > 
 > No matter how good a teacher is, she can only say one thing at a time.
@@ -235,7 +234,6 @@ learning.)
 > workshops because it takes people time to learn a new way to
 > learn–time that we don't have in our compressed two-day format.
 
-
 > **A Note on MCQ Design**
 > 
 > *   A good MCQ tests for conceptual misunderstanding rather than simple
@@ -249,7 +247,6 @@ learning.)
 >     subject. If you haven't taught it before, think about your own
 >     misconceptions or ask colleagues about their experiences.
 
-
 > **Concept Inventories**
 > 
 > The [Force Concept Inventory][wikipedia-fci]
@@ -260,7 +257,6 @@ learning.)
 > possible to construct a very precise diagnostic tool. However, it's very
 > costly to do this, and students' ability to search for answers on the
 > internet is an ever-increasing threat to its validity.
-
 
 > **We Know Less Than We Think**
 > 

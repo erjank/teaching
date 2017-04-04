@@ -79,7 +79,6 @@ course hasn't prepared them for.
 > on something that occurs to us while we're writing an MCQ, we want the
 > notes we leave behind to present things in the order described above.
 
-
 > **Teaching to the Test**
 > 
 > Reverse instructional design is *not* the same thing as
@@ -217,7 +216,6 @@ Evaluation
 & using evidence to make judgments about the relative merits of ideas and materials
 & choose, rate, select
 \\
-
 
 \end{tbllbl}
 
