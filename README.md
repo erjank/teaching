@@ -1,7 +1,3 @@
----
-localhost: http://localhost:4000
----
-
 *A Short Guide to Teaching* shows readers
 how to build and deliver high-quality learning experiences to adults.
 It is based on the
@@ -69,13 +65,11 @@ run software in efficient, repeatable ways, but was mostly ignorant of
 equivalent techniques for writing and delivering lessons.
 
 Luckily, I discovered resources like Mark Guzdial's blog
-{{"bib:guzdial-blog"|cite}} and the book *How Learning Works*
-{{"bib:ambrose-hlw"|cite}}.  These led me to the work of Lemov,
-Huston, Green, and others {{"bib:lemov-champion"|cite}},
-ow749an
-{{"bib:huston-dont-know"|cite}}, {{"bib:green-babt"|cite}}, which
-showed me what would make my teaching better, and why I should believe
-it.
+{{"guzdial-blog"|cite}} and the book *How Learning Works*
+{{"ambrose-hlw"|cite}}.  These led me to the work of Lemov
+{{"lemov-champion"|cite}}, Huston {{"huston-dont-know"|cite}}, Green
+{{"green-babt"|cite}}, and others, which showed me what would make my
+teaching better, and why I should believe it.
 
 I started using these ideas in Software Carpentry in 2012, and the
 results were everything I'd hoped for.  Cutting the number of lessons,
@@ -150,6 +144,8 @@ This book is dedicated to the memory of [Myles Horton][wikipedia-horton].
 
 In the online notes, write down your name, the best class you ever
 took, and what made it so great.
+
+----
 
 {% references %} {% endreferences %}
 

@@ -12,6 +12,7 @@
 * [Why I Teach](next.md)
 
 -----
+
 * [Code of Conduct](CONDUCT.md)
 * [License](LICENSE.md)
 * [The Rules](rules.md)
@@ -19,5 +20,3 @@
 * [Contributing](CONTRIBUTING.md)
 * [Checklists](checklists.md)
 * [Instructor's Guide](guide.md)
-
-{% references %} {% endreferences %}

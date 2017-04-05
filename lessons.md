@@ -37,7 +37,7 @@ work and really, really wants to be done.
 A similar "backward" method works very well for lesson design.  This
 method is something called *reverse instructional design* or
 *understanding by design* (after a book by Wiggins and McTighe
-with that name {{"bib:wiggins-mctighe"|cite}}).  There are several
+with that name {{"wiggins-mctighe"|cite}}).  There are several
 variations, but the one we recommend has the following steps:
 
 1.  Create learner profiles (discussed in the next section) to figure
@@ -79,6 +79,8 @@ course hasn't prepared them for.
 > on something that occurs to us while we're writing an MCQ, we want the
 > notes we leave behind to present things in the order described above.
 
+<!-- -->
+
 > **Teaching to the Test**
 > 
 > Reverse instructional design is *not* the same thing as
@@ -88,11 +90,11 @@ course hasn't prepared them for.
 > authority defines assessment criteria for all learners, regardless of
 > their individual situations, and the outcomes of those summative
 > assessments directly affect the teachers' pay and promotion.
-> Green's *Building a Better Teacher* {{"bib:green-babt"|cite}} argues that this focus on
+> Green's *Building a Better Teacher* {{"green-babt"|cite}} argues that this focus on
 > measurement is appealing to those with the power to set the tests, but
 > is unlikely to improve outcomes unless it is coupled with support for
 > teachers to make improvements based on test outcomes.  This is often missing, because as Scott
-> pointed out in {{"bib:scott-state"|cite}}, large organizations usually
+> pointed out in {{"scott-state"|cite}}, large organizations usually
 > value uniformity over productivity.
 
 ## Learner Profiles
@@ -182,77 +184,30 @@ One tool that can help when writing learning objectives is [Bloom's
 taxonomy][wikipedia-bloom], which was first published in 1956.  It
 attempts to define levels of understanding in a way that is
 hierarchical, measurable, stable, and cross-cultural.  The table below
-shows some of the verbs typically used in learning objectives written
-for each of Bloom's levels.
+defines the levels in Bloom's Taxonomy and shows some of the verbs
+typically used in learning objectives written for each level.
 
-\begin{tbllbl}{Bloom's Taxonomy}{tbl:bloom}
-
-Knowledge
-& recalling learned information
-& name, define, recall
-\\
-
-Comprehension
-& explaining the meaning of information
-& restate, locate, explain, recognize
-\\
-
-Application
-& applying what one knows to novel, concrete situations
-& apply, demonstrate, use
-\\
-
-Analysis
-& breaking down a whole into its component parts and explaining how each part contributes to the whole
-& differentiate, criticize, compare
-\\
-
-Synthesis
-& assembling components to form a new and integrated whole
-& design, construct, organize
-\\
-
-Evaluation
-& using evidence to make judgments about the relative merits of ideas and materials
-& choose, rate, select
-\\
-
-\end{tbllbl}
+| Level | Definition | Verbs |
+| ----- | ---------- | ----- |
+| Knowledge | recalling learned information | name, define, recall |
+| Comprehension | explaining the meaning of information | restate, locate, explain, recognize |
+| Application | applying what one knows to novel, concrete situations | apply, demonstrate, use |
+| Analysis | breaking down a whole into its component parts and explaining how each part contributes to the whole | differentiate, criticize, compare |
+| Synthesis | assembling components to form a new and integrated whole | design, construct, organize |
+| Evaluation | using evidence to make judgments about the relative merits of ideas and materials | choose, rate, select |
 
 Another way to understand what makes for a good learning objective
 is to see how a poor one can be improved:
 
-\begin{tabular}
-
-Learner will be given opportunities to learn good programming practices.
-&
-Describes the lesson's content, not the attributes of successful students.
-\\
-
-Learner will have a better appreciation for good programming practices.
-&
-Doesn't start with an active verb or define the level of learning,
-and the subject of learning has no context and is not specific.
-\\
-
-Learner will understand how to program in R.
-&
-Starts with an active verb, but doesn't define the level of learning,
-and the subject of learning is still too vague for assessment.
-\\
-
-Learner will write one-page read-filter-summarize-print data analysis
-scripts for tabular data using R and R Studio.
-&
-Starts with an active verb, defines the level of learning,
-and provides context to ensure that outcomes can be assessed.
-\\
-
-\end{tabular}
+| Objective | Comments |
+| --------- | -------- |
+| *Learner will be given opportunities to learn good programming practices.* | Describes the lesson's content, not the attributes of successful students. |
+| *Learner will have a better appreciation for good programming practices.* | Doesn't start with an active verb or define the level of learning, and the subject of learning has no context and is not specific. |
+| *Learner will understand how to program in R.* | Starts with an active verb, but doesn't define the level of learning, and the subject of learning is still too vague for assessment. |
+| *Learner will write one-page read-filter-summarize-print data analysis scripts for tabular data using R and R Studio.* | Starts with an active verb, defines the level of learning, and provides context to ensure that outcomes can be assessed. |
 
 Baume's guide to writing and using good learning outcomes
-{{"bib:baume-outcomes"|cite}} is a good longer discussion of these
-issues.
+{{"baume-outcomes"|cite}} is a good longer discussion of these issues.
 
 ## Challenges
 
@@ -266,6 +221,8 @@ describes one of your typical learners.
 Write one more learning objectives for something you currently teach
 or plan to teach.  Working with a partner, critique and improve the
 objectives.
+
+----
 
 {% references %} {% endreferences %}
 

@@ -4,7 +4,7 @@ Many people assume that teachers are born, not made. From politicians
 to researchers and teachers themselves, reformers have designed
 systems to find and promote those who can teach and eliminate those
 who can't. But as Elizabeth Green explains in
-*Building a Better Teacher* {{"bib:green-babt"|cite}}, that
+*Building a Better Teacher* {{"green-babt"|cite}}, that
 assumption is wrong, which is why educational reforms based on it
 have repeatedly failed.
 
@@ -123,8 +123,8 @@ Demonstration lessons, in which one teacher is in front of a room full
 of students while other teachers observe, seem like a way to solve
 this.  However, Fincher and her colleagues studied how teaching
 practices are actually transferred using both a detailed case
-study {{"bib:fincher-warrens-questions"|cite}} and analysis of change
-stories {{"bib:fincher-stories-change"|cite}}.  The abstract of the latter
+study {{"fincher-warrens-questions"|cite}} and analysis of change
+stories {{"fincher-stories-change"|cite}}.  The abstract of the latter
 paper sums up their findings:
 
 > Innovative tools and teaching practices often fail to be adopted by
@@ -141,7 +141,7 @@ paper sums up their findings:
 > input from outside sources, or involved only personal interaction
 > with other educators.
 
-Barker et al found something similar {{"bib:barker-practice-adoption"|cite}}:
+Barker et al found something similar {{"barker-practice-adoption"|cite}}:
 
 > Adoption is not a "rational action," however, but an iterative
 > series of decisions made in a social context, relying on normative
@@ -236,9 +236,11 @@ have anything to say.
 > then and there.  These classes are most effective when the instructor
 > critiques both the designs and the peer critiques, so that
 > participants are learning not only how to make buildings, but how to
-> give and get feedback {{"bib:schon-practitioner"|cite}}.  Master classes
+> give and get feedback {{"schon-practitioner"|cite}}.  Master classes
 > in music serve a similar purpose, and a few people have experimented
 > with using live coding at conferences or online in similar ways.
+
+<!-- -->
 
 > **Tells**
 > 
@@ -254,10 +256,10 @@ have anything to say.
 
 If you are interested in knowing more about giving and getting
 feedback, you may want to read Gormally et al's "Feedback about
-Teaching in Higher Ed" {{"bib:gormally-teaching-feedback"|cite}} and
+Teaching in Higher Ed" {{"gormally-teaching-feedback"|cite}} and
 discuss ways you could make peer-to-peer feedback a routine part of
 your teaching.  You may also enjoy Gawande's essay "Personal Best"
-{{"bib:gawande-personal-best"|cite}}, which looks at the value of
+{{"gawande-personal-best"|cite}}, which looks at the value of
 having a coach.
 
 ## Challenges
@@ -298,6 +300,8 @@ you strongly agree or disagree with?
     divide positive from negative and content from presentation.  Try
     also to identify each person's tells: what do they do that betrays
     nervousness, and how noticeable is it?
+
+----
 
 {% references %} {% endreferences %}
 

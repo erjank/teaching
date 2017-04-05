@@ -44,7 +44,7 @@ This metaphor helps explain many observed aspects of expert behavior:
 *   Densely-connected knowledge graphs are also the basis for
     experts' *fluid representations*, i.e., their ability to switch
     back and forth between different views of a problem
-    {{"bib:petre-expertise"|cite}}.  For example, when trying to solve a
+    {{"petre-expertise"|cite}}.  For example, when trying to solve a
     problem in mathematics, we might switch between tackling it
     geometrically and representing it as a set of equations to be
     solved.
@@ -104,7 +104,7 @@ remembered.
 >     2.  Doing this is so much faster than waiting for feedback from
 >     others that proficiency suddenly starts to take off.
 > 
-> A meta-study conducted in 2014 {{"bib:macnamara-deliberate"|cite}} found
+> A meta-study conducted in 2014 {{"macnamara-deliberate"|cite}} found
 > that "…deliberate practice explained 26% of the variance in
 > performance for games, 21% for music, 18% for sports, 4% for
 > education, and less than 1% for professions." One explanation for
@@ -233,6 +233,8 @@ and backs in rugby).
 > referred to as the primacy and recency effects, respectively, and
 > together they form the *serial position effect*.
 
+<!-- -->
+
 > **Chunking**
 > 
 > Our minds can store larger numbers of facts in short-term memory by
@@ -274,6 +276,8 @@ just how many pieces of separate information will need to be
 > them with labelled arcs, and adding any other concepts they think they
 > need.
 
+<!-- -->
+
 > **What Are We Doing Again?**
 > 
 > Concept maps can also be used to help build a shared understanding of
@@ -305,6 +309,8 @@ multiple choice question for earlier.) Trade with a partner, and
 critique each other's maps. Do they present concepts or surface
 detail? Which of the relationships in your partner's map do you
 consider concepts and vice versa?
+
+----
 
 {% references %} {% endreferences %}
 

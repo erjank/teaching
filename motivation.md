@@ -50,7 +50,7 @@ they'll stick with us.
 
 The best-studied use of this idea is the media computation approach
 developed by Guzdial and Ericson at Georgia Tech
-{{"bib:guzdial-mediacomp-retrospective"|cite}}.
+{{"guzdial-mediacomp-retrospective"|cite}}.
 Instead of printing "hello world" or summing the first ten integers,
 their students' first program opens an image, resizes it to create at
 thumbnail, and saves the result. This is an *authentic task*,
@@ -60,7 +60,7 @@ size, learners have a concrete starting point for debugging.
 
 > **Strategies for Motivating Learners**
 > 
-> *How Learning Works* {{"bib:ambrose-hlw"|cite}} contains a list of
+> *How Learning Works* {{"ambrose-hlw"|cite}} contains a list of
 > evidence-based methods to motivate learners.  None of them are
 > surprising–it's hard to imagine someone saying that we
 > *shouldn't* identify and reward what we value–but it's
@@ -128,6 +128,8 @@ Here are some quick ways to demotivate your learners:
 > have rules tells people a great deal about our values and about what
 > kind of learning experience they can expect.
 
+<!-- -->
+
 > **Never Learn Alone**
 > 
 > One way to support at-risk learners of all kinds is to have people
@@ -190,8 +192,8 @@ thread][wikipedia-stereotype]*, and the clearest examples in computing
 are gender-related.  Depending on whose numbers you trust, only 12-18%
 of programmers are women, and those figures have actually been getting
 worse over the last 20 years. There are many reasons for this (see
-{{"bib:margolis-fisher-clubhouse"|cite}} and
-{{"bib:margolis-shallow"|cite}}), and {{"bib:steele-vivaldi"|cite}}
+{{"margolis-fisher-clubhouse"|cite}} and
+{{"margolis-shallow"|cite}}), and {{"steele-vivaldi"|cite}}
 summarizes what we know about stereotype threat in general and
 presents some strategies for mitigating it in the classroom.
 
@@ -209,7 +211,7 @@ because it produces these disparities).
 
 A great example of how stereotypes work in general was presented in
 Patitsas et al's "Evidence That Computer Science Grades Are Not
-Bimodal" {{"bib:patitsas-cs-grades"|cite}}.  This thought-provoking paper
+Bimodal" {{"patitsas-cs-grades"|cite}}.  This thought-provoking paper
 showed that people see evidence for a "geek gene" where none exists.
 As the paper's abstract says:
 
@@ -333,7 +335,7 @@ various sexual orientations, the elderly, the physically challenged,
 the formerly incarcerated, the economically disadvantaged, and
 everyone else who doesn't fit Silicon Valley's white/Asian male
 demographic. Lee's paper "What can I do today to create a more
-inclusive community in CS?" {{"bib:lee-create-inclusive-community"|cite}}
+inclusive community in CS?" {{"lee-create-inclusive-community"|cite}}
 is a brief, practical guide to doing that with references to the
 research literature. These help learners who belong to one or more
 marginalized or excluded groups, but help motivate everyone else as
@@ -377,7 +379,7 @@ most immediately useful first" approach.
 ### Pick One
 
 Pick one activity or change in practice from Lee's paper
-{{"bib:lee-create-inclusive-community"|cite}} that you would like to work
+{{"lee-create-inclusive-community"|cite}} that you would like to work
 on.  Put a reminder in your calendar three months in the future to
 self-check whether you have done something about it.
 
@@ -406,13 +408,15 @@ sentence in this challenge assumed you could actually walk?
 
 ### Who Decides?
 
-In Littky and Grabelle's
-*The Big Picture: Education is Everyone's Business* {{"bib:littky-big-picture"|cite}},
-Kenneth Wesson wrote, "If poor inner-city children consistently
-outscored children from wealthy suburban homes on standardized tests,
-is anyone naive enough to believe that we would still insist on using
-these tests as indicators of success?" What are examples in your own
-experience of "objective" assessments that reinforce the status quo?
+In Littky and Grabelle's *The Big Picture: Education is Everyone's
+Business* {{"littky-big-picture"|cite}}, Kenneth Wesson wrote, "If
+poor inner-city children consistently outscored children from wealthy
+suburban homes on standardized tests, is anyone naive enough to
+believe that we would still insist on using these tests as indicators
+of success?" What are examples in your own experience of "objective"
+assessments that reinforce the status quo?
+
+----
 
 {% references %} {% endreferences %}
 

@@ -1,9 +1,11 @@
+----
+
 # Cognitive Load
 
 In 2006, Kirschner, Sweller, and Clark published a paper titled "Why
 Minimal Guidance During Instruction Does Not Work: An Analysis of the
 Failure of Constructivist, Discovery, Problem-Based, Experiential, and
-Inquiry-Based Teaching" {{"bib:kirschner-minimal"|cite}}. Its abstract
+Inquiry-Based Teaching" {{"kirschner-minimal"|cite}}. Its abstract
 says:
 
 > Although unguided or minimally guided instructional approaches are
@@ -123,7 +125,7 @@ However, there is no doubt that faded examples are effective.
 > 
 > Research by Mayer and colleagues on the [split-attention
 > effect][wikipedia-split-attention] is closely related to cognitive
-> load theory {{"bib:mayer-nine-ways"|cite}}.  Linguistic and visual
+> load theory {{"mayer-nine-ways"|cite}}.  Linguistic and visual
 > input are processed by different parts of the human brain, and
 > linguistic and visual memories are stored separately as well. This
 > means that correlating linguistic, auditory, and visual streams of
@@ -198,6 +200,8 @@ with that person as a learner to help identify different loads.
     of code that isn't needed to solve the problem.  How much harder is
     it for your partner to put things in order when there's unneeded
     material getting in the way?
+
+----
 
 {% references %} {% endreferences %}
 

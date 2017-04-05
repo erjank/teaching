@@ -1,3 +1,5 @@
+----
+
 # Why I Teach
 
 When I first started volunteering at the University of Toronto, students
@@ -77,6 +79,8 @@ Replace "writing" with "teaching" and you'll have the reason I've done
 what I've done for the last thirteen years. The world doesn't get
 better on its own. It gets better because people *make* it better:
 penny by penny, vote by vote, and one lesson at a time.
+
+----
 
 {% references %} {% endreferences %}
 

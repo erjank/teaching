@@ -1,3 +1,5 @@
+----
+
 # Instructor's Guide
 
 This appendix includes material that doesn't naturally fit anywhere else.
@@ -85,7 +87,7 @@ The things teachers know can be divided into:
 FIXME: more on PCK
 
 A great example of PCK is Gelman and Nolan's *[Teaching Statistics: A
-Bag of Tricks]* {{"bib:gelman-stats"|cite}}, which is full of PCK for
+Bag of Tricks]* {{"gelman-stats"|cite}}, which is full of PCK for
 teaching introductory statistics.  The [CS Teaching
 Tips][cs-teaching-tips] site is gathering similar ideas for computing.
 
@@ -96,7 +98,7 @@ learners as visual, auditory, or kinesthetic according to whether they
 like to see things, hear things, or do things. This scheme is easy to
 understand, but as de Bruyckere and colleagues point out in *Urban
 Myths About Learning and Education*
-{{"bib:debruyckere-urban-myths"|cite}}, it is almost certainly false.
+{{"debruyckere-urban-myths"|cite}}, it is almost certainly false.
 Unfortunately, that hasn't stopped a large number of companies from
 marketing products based on it to parents and school boards.
 
@@ -108,7 +110,7 @@ are the claims that the Internet is making us dumber or that young
 people read less than they used to.
 
 Computing education has its own myths. Mark Guzdial's "Top 10 Myths
-About Teaching Computer Science" {{"bib:guzdial-top10"|cite}} are:
+About Teaching Computer Science" {{"guzdial-top10"|cite}} are:
 
 1.  The lack of women in Computer Science is just like all the other
     STEM fields.
@@ -137,7 +139,7 @@ About Teaching Computer Science" {{"bib:guzdial-top10"|cite}} are:
 The last of these is the most pervasive and most damaging.  As
 discussed in [Motivation](/motivation/), Elizabeth Patitsas and others
 have shown that grades in computing classes are *not* bimodal
-{{"bib:patitsas-cs-grades"|cite}}, i.e., there isn't one group that
+{{"patitsas-cs-grades"|cite}}, i.e., there isn't one group that
 gets it and another that doesn't. Many of the participants in our
 workshops have advanced degrees in intellectually demanding subjects,
 but have convinced themselves that they just don't have what it takes
@@ -410,10 +412,9 @@ educational institutions, but in order for us to reach and help as
 many people as possible, we must eventually find ways to work with
 schools as they are.  Henderson et al's "Facilitating Change in
 Undergraduate STEM Instructional Practices"
-{{"bib:henderson-facilitating"|cite}} discusses ways to get educational
-institutions to actually change what they teach.  Their findings are
-summarized in the table below, and the approaches they identify
-are:
+{{"henderson-facilitating"|cite}} discusses ways to get educational
+institutions to actually change what they teach.  The approaches
+they identify include:
 
 *   *Diffusion*: STEM undergraduate instruction will be changed by
     altering the behavior of a large number of individual
@@ -457,68 +458,6 @@ are:
     collective action of self-organizing groups within the system. This
     collective action can be stimulated, but not controlled.
 
-~~~
-FIXME
-\begin{tbllbl}{Strategies for Facilitating Educational Change}{tbl:change}
-
-\textbf{Aspect of System to be Changed}
-&
-\textbf{Intended Outcome}
-&
-\\
-
-\textbf{Individuals}
-&
-\textbf{Prescribed}
-&
-  \textbf{I. Disseminating: Curriculum \& Pedagogy}
-  \newline
-  Change Agent Role: tell/teach individuals about new teaching conceptions and/or practices and encourage their use.
-  \newline
-  *Diffusion*
-  \newline
-  *Implementation*
-\\
-
-&
-\textbf{Emergent}
-&
-  \textbf{II. Developing: Reflective Teachers}
-  \newline
-  Change Agent Role: encourage/support individuals to develop new teaching conceptions and/or practices.
-  \newline
-  *Scholarly Teaching*
-  \newline
-  *Faculty Learning Communities*
-\\
-
-\textbf{Environments and Structures}
-&
-\textbf{Prescribed}
-&
-  \textbf{III. Enacting: Policy}
-  \newline
-  Change Agent Role: enact new environmental features that require/encourage new teaching conceptions and/or practices.
-  \newline
-  *Quality Assurance*
-  \newline
-  *Organizational Development*
-\\
-
-&
-\textbf{Emergent}
-&
-  \textbf{IV. Developing: Shared Vision}
-  \newline
-  Change Agent Role: empower/support stakeholders to collectively develop new environmental features that encourage new teaching conceptions and/or practices.
-  \newline
-  *Learning Organizations*
-  \newline
-  *Complexity Leadership*
-\\
-\end{tbllbl}
-~~~
-
 ## Why We Are Not a MOOC
 
 > *If you use robots to teach, you teach people to be robots.*  
@@ -529,7 +468,7 @@ instead of attending lectures, and then do assignments that are
 (usually) robo-graded, were a hot topic a few years ago.  Now that the
 hype has worn off, though, it's clear that they aren't as effective as
 their more enthusiastic proponents claimed they would
-be {{"bib:ubell-moocs"|cite}}.
+be {{"ubell-moocs"|cite}}.
 
 Recorded content is ineffective for most novices learners because it
 cannot intervene to clear up specific learners' misconceptions. Some
@@ -537,6 +476,8 @@ people happen to already have the right conceptual categories for a
 subject, or happen to form them correctly early on; these are the ones
 who stick with most massive online courses, but many discussions of
 the effectiveness of such courses ignore this survivor bias.
+
+----
 
 {% references %} {% endreferences %}
 

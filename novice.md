@@ -4,7 +4,7 @@ The first task in teaching is to figure out who your learners are and
 how best to help them.  Our approach is based on the [Dreyfus model of
 skill acquisition][wikipedia-dreyfus], and more specifically on the
 work of researchers like Patricia Benner, who studied how nurses
-progress from being novices to being experts {{"bib:benner"|cite}}.
+progress from being novices to being experts {{"benner"|cite}}.
 Benner identified five stages of cognitive development that most
 people go through in a fairly consistent way.  (We say "most" and
 "fairly" because human beings are variable, and there will always be
@@ -73,12 +73,12 @@ both ideas.
 > they are anything but to newcomers). Equally, manuals frustrate
 > novices because they use jargon and *don't* explain things. One of
 > the reasons Unix and C became popular is that Kernighan et al's
-> trilogy {{"bib:kernighan-plauger-elements"|cite}},
-> {{"bib:kernighan-pike-upe"|cite}},
-> {{"bib:kernighan-ritchie-c"|cite}} somehow managed to be good
+> trilogy {{"kernighan-plauger-elements"|cite}},
+> {{"kernighan-pike-upe"|cite}},
+> {{"kernighan-ritchie-c"|cite}} somehow managed to be good
 > tutorials *and* good manuals at the same time. Ray and Ray's book on
-> Unix {{"bib:ray-ray-unix"|cite}} and Fehily's introduction to SQL
-> {{"bib:fehily-sql"|cite}} are among the very few other books in
+> Unix {{"ray-ray-unix"|cite}} and Fehily's introduction to SQL
+> {{"fehily-sql"|cite}} are among the very few other books in
 > computing that have accomplished this.
 
 One of the challenges in building a mental model is to clear away
@@ -193,6 +193,8 @@ learning.)
 > teaching practices you use, you won't always be able to give everyone
 > the help they need.
 
+<!-- separate blockquotes -->
+
 > **Peer Instruction**
 > 
 > No matter how good a teacher is, she can only say one thing at a time.
@@ -203,7 +205,7 @@ learning.)
 > instruction][wikipedia-peer-instruction]. Originally created by Eric
 > Mazur at Harvard, it has been studied extensively in a wide variety
 > of contexts, including programming
-> {{"bib:porter-what-works"|cite}}. Peer instruction combines
+> {{"porter-what-works"|cite}}. Peer instruction combines
 > formative assessment with student discussion and looks something
 > like this:
 > 
@@ -234,6 +236,8 @@ learning.)
 > workshops because it takes people time to learn a new way to
 > learn–time that we don't have in our compressed two-day format.
 
+<!-- -->
+
 > **A Note on MCQ Design**
 > 
 > *   A good MCQ tests for conceptual misunderstanding rather than simple
@@ -247,6 +251,8 @@ learning.)
 >     subject. If you haven't taught it before, think about your own
 >     misconceptions or ask colleagues about their experiences.
 
+<!-- -->
+
 > **Concept Inventories**
 > 
 > The [Force Concept Inventory][wikipedia-fci]
@@ -258,10 +264,12 @@ learning.)
 > costly to do this, and students' ability to search for answers on the
 > internet is an ever-increasing threat to its validity.
 
+<!-- -->
+
 > **We Know Less Than We Think**
 > 
 > Brown and Altadmri's "Investigating Novice Programming Mistakes:
-> Educator Beliefs vs Student Data" {{"bib:brown-empirical"|cite}} compared
+> Educator Beliefs vs Student Data" {{"brown-empirical"|cite}} compared
 > teachers' opinions about common programming errors with data from over
 > 100,000 students, and finds only weak consensus amongst teachers and
 > between teachers and data.
@@ -316,7 +324,7 @@ where they are and what they need to do next.
 
 An example of how solving problems can help people correct broken
 mental models, consider this problem from
-{{"bib:epstein-thinking-physics"|cite}}.  Imagine that you have
+{{"epstein-thinking-physics"|cite}}.  Imagine that you have
 placed a cake of ice in a bathtub and then filled the tub to the rim
 with water. When the ice melts, does the water level go up (so that
 the tub overflows), go down, or stay the same?
@@ -334,6 +342,8 @@ green sticky note, and one question you have about the material on the
 red. Do *not* put your name on the notes: this is meant to be
 anonymous feedback. Add your notes to the pile by the door as you leave
 to get coffee.
+
+----
 
 {% references %} {% endreferences %}
 

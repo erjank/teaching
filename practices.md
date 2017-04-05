@@ -52,8 +52,8 @@ and find a space of their own in which to say it.
 ## Take Notes Together
 
 Many studies have shown that taking notes while learning improves
-retention {{"bib:aiken-note-taking"|cite}},
-{{"bib:bohay-note-taking"|cite}}.  As discussed in
+retention {{"aiken-note-taking"|cite}},
+{{"bohay-note-taking"|cite}}.  As discussed in
 [Memory](/memory/), this happens because taking notes forces you to
 organize and reflect on material as it's coming in, which in turn
 increases the likelihood that you will transfer it to long-term memory
@@ -61,9 +61,9 @@ in a usable way.
 
 Our experience, and some recent research findings, lead us to believe
 that taking notes *collaboratively* helps learning even
-more {{"bib:orndorff-note-taking"|cite}}, even though taking notes on a
+more {{"orndorff-note-taking"|cite}}, even though taking notes on a
 computer is generally less effective than taking notes using pen and
-paper {{"bib:mueller-note-taking"|cite}}.  Taking notes collaboratively:
+paper {{"mueller-note-taking"|cite}}.  Taking notes collaboratively:
 
 *   It allows people to compare what they think they're hearing with
     what other people are hearing, which helps them fill in gaps and
@@ -258,7 +258,7 @@ hope to get the best of both worlds.
 ## Pair Programming
 
 Pair programming is a good practice in real life, and also a good way
-to teach {{"bib:porter-what-works"|cite}}. Partners can not only help each
+to teach {{"porter-what-works"|cite}}. Partners can not only help each
 other out during the practical, but can also clarify each other's
 misconceptions when the solution is presented, and discuss common
 research interests during breaks. To facilitate this, we strongly
@@ -310,7 +310,7 @@ themselves than contributing written material.
 
 The second answer is that doing significantly outperforms watching.
 Specifically, a recent paper by Koedinger et
-al {{"bib:koedinger-doing-watching"|cite}} estimated "…the
+al {{"koedinger-doing-watching"|cite}} estimated "…the
 learning benefit from extra doing (1 SD increase) to be more than six
 times that of extra watching or reading." *Doing*, in this case,
 refers to completing an interactive or mimetic task with feedback,
@@ -352,6 +352,8 @@ larger group.
 Using the [questionnaire shown earlier](#assess) as a template, create
 a short questionnaire you could give learners before teaching a class
 of your own.  What do you most want to know about their background?
+
+----
 
 {% references %} {% endreferences %}
 
