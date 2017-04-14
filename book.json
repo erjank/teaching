@@ -3,7 +3,7 @@
     "fontSize": 10,
     "paperSize": "a5"
   },
-  "plugins": ["bibtex-cite"],
+  "plugins": ["bibtex-citation"],
   "variables": {
     "repo": "https://github.com/gvwilson/teaching"
   }
