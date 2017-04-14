@@ -5,6 +5,10 @@ all : commands
 commands :
 	@grep -E '^##' Makefile | sed -e 's/## //g'
 
+## preview    : preview locally.
+preview:
+	@gitbook serve
+
 ## publish    : rebuild web version.
 publish :
 	@gitbook build . docs
