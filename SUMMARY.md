@@ -19,4 +19,4 @@
 * [Further Reading](reading.md)
 * [Contributing](CONTRIBUTING.md)
 * [Checklists](checklists.md)
-* [Instructor's Guide](guide.md)
+* [Extra Material](extras.md)

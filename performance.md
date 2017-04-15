@@ -3,14 +3,13 @@
 Many people assume that teachers are born, not made. From politicians
 to researchers and teachers themselves, reformers have designed
 systems to find and promote those who can teach and eliminate those
-who can't. But as Elizabeth Green explains in
-*Building a Better Teacher* {{"green-babt"|cite}}, that
-assumption is wrong, which is why educational reforms based on it
-have repeatedly failed.
+who can't. But as Elizabeth Green explains in *Building a Better
+Teacher* {{"green-babt"|cite}}, that assumption is wrong, which is why
+educational reforms based on it have repeatedly failed.
 
-The book is written as a history of the people who have put that puzzle
-together in the US. Its core begins with a discussion of what James
-Stigler discovered during a visit to Japan in the early 1990s:
+The book is written as a history of the people who have put that
+puzzle together in the US. Its core begins with a discussion of what
+James Stigler discovered during a visit to Japan in the early 1990s:
 
 > Some American teachers called their pattern "I, We, You": After
 > checking homework, teachers announced the day's topic, demonstrating
@@ -180,12 +179,14 @@ expectations. This is especially important when they have different
 backgrounds or cultural expectations about what's appropriate to say
 and what isn't.
 
-There are several things you can do to make feedback more effective:
+There are several things you can do when receiving feedback to make
+it more effective:
+FIXME: re-word this sentence
 
 1.  *Initiate feedback.* It's better to ask for feedback than to
     receive it unwillingly.
 
-1.  *Choose your own questions*, i.e., ask for specific
+2.  *Choose your own questions*, i.e., ask for specific
     feedback. It's a lot harder for someone to answer, "What do you
     think?" than to answer either, "What is one thing I could have
     done as an instructor to make this lesson more effective?"  or "If
@@ -198,18 +199,13 @@ There are several things you can do to make feedback more effective:
     something you have chosen to work on helps you stay focused, which
     in turn increases the odds that you'll see progress.
 
-1.  *Balance positive and negative feedback.*  One method is a
-    "compliment sandwiches" made up of one positive, one negative, and
-    a second positive observation.  Another (which we discuss below) is
-    to ask for at least one point in each of several categories.
-
-1.  Use a feedback translator. Have a fellow instructor (or other
+3.  Use a feedback translator. Have a fellow instructor (or other
     trusted person in the room) read over all the feedback and give an
     executive summary. It can be easier to hear "It sounds like most
     people are following, so you could speed up" than to read several
     notes all saying, "this is too slow" or "this is boring".
 
-1.  Most importantly, *be kind to yourself*.  Many of us are very
+4.  Most importantly, *be kind to yourself*.  Many of us are very
     critical of ourselves, so it's always helpful to jot down what we
     thought of ourselves *before* getting feedback from others.
     That allows us to compare what we think of our performance with what
@@ -220,14 +216,29 @@ There are several things you can do to make feedback more effective:
     adjust their assessment of themselves the next time they feel that
     way.
 
-The technique we find most useful for giving feedback is to create a
-2x2 grid and put each piece of feedback in one of its four
-squares.  The vertical axis divides positive from negative; the
-horizontal divides content from presentation, i.e., what was said from
-how it was said.  Even this little bit of structure helps people
-figure out what to say, and to separate those who have good ideas that
-they can't communicate from those who are eloquent but don't actually
-have anything to say.
+FIXME: opening sentence about *giving* feedback
+
+1.  *Balance positive and negative feedback.*  One method is a
+    "compliment sandwiches" made up of one positive, one negative, and
+    a second positive observation.  Another (which we discuss below) is
+    to ask for at least one point in each of several categories.
+
+2.  The technique we find most useful for giving feedback is to create
+    a 2x2 grid and put each piece of feedback in one of its four
+    squares.  The vertical axis divides positive from negative; the
+    horizontal divides content from presentation, i.e., what was said
+    from how it was said.  Even this little bit of structure helps
+    people figure out what to say, and to separate those who have good
+    ideas that they can't communicate from those who are eloquent but
+    don't actually have anything to say.
+    FIXME: make it clear that people giving feedback use this rubric
+    *as they are writing down feedback* - it is not something that a
+    facilitator does afterward (although if feedback is being
+    collected, that's a useful step).
+    FIXME: explain the difference between content and presentation
+    much more clearly.
+
+FIXME: forward reference to feedback on demo video
 
 > **Studio Classes**
 > 
@@ -240,7 +251,7 @@ have anything to say.
 > in music serve a similar purpose, and a few people have experimented
 > with using live coding at conferences or online in similar ways.
 
-<!-- -->
+<!-- comment needed to separate blockquotes -->
 
 > **Tells**
 > 
@@ -262,6 +273,15 @@ your teaching.  You may also enjoy Gawande's essay "Personal Best"
 {{"gawande-personal-best"|cite}}, which looks at the value of
 having a coach.
 
+FIXME: say that you can't get rid of tells completely (and that trying
+to do so can make you obsess about them and apologize to the
+audience).  Better is to try to displace them, e.g., scrunching toes
+inside shoes.
+
+FIXME: comment about engineering your environment to give you props
+to work with that don't reveal nervousness, like a glass of water.
+Forward ref to practices section.
+
 ## Challenges
 
 ### Giving Feedback
@@ -270,32 +290,34 @@ having a coach.
     feedback on it. Organize feedback along two axes: positive
     vs. negative and content vs. presentation.
 
-1.  Have each person in the class add one point to a 2x2 grid
-    on a whiteboard (or in the shared notes) without duplicating any
-    points that are already up there.
+2.  Have each person in the class add one point to a 2x2 grid on a
+    whiteboard (or in the shared notes) without duplicating any points
+    that are already up there.
 
 What did other people see that you missed?  What did they think that
 you strongly agree or disagree with?
+
+FIXME: step 3 is to compare feedback with some provided by us.
 
 ### Feedback on Your Teaching
 
 1.  Split into groups of three.
 
-1.  Have each person introduce themselves and then explain, in no more
+2.  Have each person introduce themselves and then explain, in no more
     than 90 seconds, the key idea or ideas from the Carpentry lesson
     episode they chose before the start of the training course to another
     person in the group while the third person records it (video and
     audio) using a cell phone or some other handheld device.
 
-1.  After the first person finishes, rotate roles (she becomes the
+3.  After the first person finishes, rotate roles (she becomes the
     videographer, her audience becomes the instructor, the person who was
     recording becomes the audience) and then rotate roles again.
 
-1.  After everyone in the group of three has finished teaching, watch the
+4.  After everyone in the group of three has finished teaching, watch the
     videos as a group. Everyone gives feedback on all three videos, i.e.,
     people give feedback on themselves as well as on others.
 
-1.  After everyone has given feedback on all of the videos, return to the
+5.  After everyone has given feedback on all of the videos, return to the
     main group and put all of the feedback into the notes.  Again, try to
     divide positive from negative and content from presentation.  Try
     also to identify each person's tells: what do they do that betrays

@@ -19,6 +19,10 @@ For our purposes, we simplify the five stages to three:
     bits and pieces of their mental models of other domains which seem
     superficially similar. One sign that someone is a novice is that
     their questions aren't even wrong.
+    FIXME: provide explanation of what "not even wrong" means or
+    give an example.
+    FIXME: footnote pointing to motivation chapter about how important
+    it is not to shame novices for their lack of understanding.
 
 *   A *competent practitioner* is someone who has a mental model
     that's good enough for everyday purposes: they can do normal tasks
@@ -88,19 +92,22 @@ that just ain't so."
 
 Broadly speaking, learners' misconceptions fall into three categories:
 
-*   Simple *factual errors*, such as believing that Vancouver is
-    the capital of British Columbia. These are simple to correct, but
+*   Simple *factual errors*, such as believing that Vancouver is the
+    capital of British Columbia[^1]. These are simple to correct, but
     getting the facts right is not enough on its own.
 
 *   *Broken models*, such as believing that motion and acceleration
     must be in the same direction. We can address these by having them
     reason through examples to see contradictions.
 
-*   *Fundamental beliefs*, such as "the world is only a few
-    thousand years old" or "human beings cannot be affecting the
-    planet's climate". These usually cannot be addressed in class,
-    since they are deeply connected to the learner's social identity and
-    often cannot be reasoned away.
+*   *Fundamental beliefs*, such as "the world is only a few thousand
+    years old" or "human beings cannot be affecting the planet's
+    climate". These usually cannot be addressed in class, since they
+    are deeply connected to the learner's social identity and often
+    cannot be reasoned away.
+    FIXME: provide a computing-related example of a fundamental
+    belief that can't be reasoned away, such as "WiFi gives you
+    cancer".
 
 Teaching is most effective when instructors have a way to identify and
 clear up learners' misconceptions *while they are teaching*.  The
@@ -156,12 +163,18 @@ valuable insight:
     carrying it back into the same column it came from.
 
 Each of these incorrect answers is a *plausible distractor* with
-*diagnostic power*.   "Plausible" means that it looks like it
-could be right: instructors will often put supposedly-silly answers
-like "a fish!" on MCQs, but they don't provide any insight and
-learners actually don't find them funny. "Diagnostic power" means
-that each of the distractors helps the instructor figure out what to
-explain to that particular learner next.
+*diagnostic power*.  "Plausible" means that it looks like it could be
+right: instructors will often put supposedly-silly answers like "a
+fish!" on MCQs, but they don't provide any insight and learners
+actually don't find them funny. "Diagnostic power" means that each of
+the distractors helps the instructor figure out what to explain to
+that particular learner next.
+FIXME: add footnote saying that written funny usually just sounds
+forced (comedy is harder to write than tragedy), and that spontaneous
+funny while teaching usually works better.  That said, spontaneous
+can easily go wrong if you don't think through the implications:
+what's a joke to your circle of friends may turn out to be a serious
+political issue to your audience.
 
 Instructors should use MCQs or some other kind of formative assessment
 at least every 10-15 minutes in order to make sure that the class is
@@ -193,50 +206,7 @@ learning.)
 > teaching practices you use, you won't always be able to give everyone
 > the help they need.
 
-<!-- separate blockquotes -->
-
-> **Peer Instruction**
-> 
-> No matter how good a teacher is, she can only say one thing at a time.
-> How then can she clear up many different misconceptions in a reasonable
-> time?
-> 
-> The best solution developed so far is a technique called *[peer
-> instruction][wikipedia-peer-instruction]. Originally created by Eric
-> Mazur at Harvard, it has been studied extensively in a wide variety
-> of contexts, including programming
-> {{"porter-what-works"|cite}}. Peer instruction combines
-> formative assessment with student discussion and looks something
-> like this:
-> 
-> 1.  Give a brief introduction to the topic.
-> 
-> 1.  Give students an MCQ that probes for misconceptions (rather than
->     simple factual knowledge).
-> 
-> 1.  Have all the students vote on their answers to the MCQ.
->     1.  If the students all have the right answer, move on.
->     1.  If they all have the same wrong answer, address that specific
->         misconception.
->     1.  If they have a mix of right and wrong answers, give them several
->         minutes to discuss those answers with one another in small groups
->         (typically 2-4 students) and then reconvene and vote again.
-> 
-> As [this video][video-peer-instruction]
-> shows, group discussion significantly improves students' understanding
-> because it forces them to clarify their thinking, which can be enough to
-> call out gaps in reasoning. Re-polling the class then lets the
-> instructor know if they can move on, or if further explanation is
-> necessary. A final round of additional explanation and discussion after
-> the correct answer is presented gives students one more chance to
-> solidify their understanding.
-> 
-> Peer instruction is essentially a way to provide one-to-one mentorship
-> in a scalable way. Despite this, we usually do not use it in our
-> workshops because it takes people time to learn a new way to
-> learn–time that we don't have in our compressed two-day format.
-
-<!-- -->
+<!-- comment needed to separate blockquotes -->
 
 > **A Note on MCQ Design**
 > 
@@ -251,7 +221,7 @@ learning.)
 >     subject. If you haven't taught it before, think about your own
 >     misconceptions or ask colleagues about their experiences.
 
-<!-- -->
+<!-- comment needed to separate blockquotes -->
 
 > **Concept Inventories**
 > 
@@ -342,6 +312,12 @@ green sticky note, and one question you have about the material on the
 red. Do *not* put your name on the notes: this is meant to be
 anonymous feedback. Add your notes to the pile by the door as you leave
 to get coffee.
+
+---
+
+**Footnotes**
+
+[^1]: It's Victoria.
 
 ----
 

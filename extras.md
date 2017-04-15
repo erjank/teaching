@@ -1,5 +1,3 @@
-----
-
 # Instructor's Guide
 
 This appendix includes material that doesn't naturally fit anywhere else.
@@ -280,7 +278,11 @@ rubric to follow.
 
 *   Instructor is typing commands without saying them out loud.
 
-*   Instructor uses fancy bash prompt.
+*   Instructor uses fancy shell prompt.
+    FIXME: explain what this is and why it's bad.
+    FIXME: put this into live coding section: "Try to mirror the setup
+    that participants will have if they have just started with a stock
+    installation."
 
 *   Instructor uses small font in not full-screen terminal window with
     black background.
@@ -307,7 +309,7 @@ rubric to follow.
 *   Instructor moves to the screen to point out details of commands or
     results.
 
-*   Instructor simply uses `$ ` as bash prompt.
+*   Instructor simply uses `$ ` as shell prompt.
 
 *   Instructor uses big font in wide-screen terminal window with white
     background.

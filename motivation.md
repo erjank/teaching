@@ -1,9 +1,9 @@
 # Motivation and Demotivation
 
-In order for learners to step out into new and familiar terrain, they
-need encouragement. This chapter discusses typical ways that learners
-can be motivated, and more importantly, ways that we can demotivate
-them.
+Learners need encouragement to step out into new and familiar terrain,
+so this chapter discusses ways instructors can motivate them.  More
+importantly, it discusses ways that we can accidentally *demotivate*
+them, and how we can avoid doing that.
 
 People learn best when they care about the topic and believe they can
 master it. This presents us with a problem because most people don't
@@ -79,15 +79,19 @@ motivated–if they weren't, they wouldn't be in your classroom. The
 challenge is therefore not to demotivate them.  Unfortunately, we can
 do this by accident much more easily than you might think.
 
-A most powerful demotivators are *indifference* and
-*unfairness*.  If learners believe that the instructor or the
-educational system doesn't care about them or the lesson, they won't
-care either. And if people believe the class is unfair, they will also
-be demotivated, even if it is unfair in their favor (because
-consciously or unconsciously they will worry that they will some day
-find themselves in the group on the losing end). Finally, a
-"holier-than-thou" or contemptuous attitude from an instructor is a
-quick way to alienate a classroom and cause learners to tune out.
+The three most powerful demotivators are *unpredictability*,
+*indifference*, and *unfairness*.
+FIXME: add material about unpredictability.
+
+If learners believe that the instructor or the educational system
+doesn't care about them or the lesson, they won't care either. And if
+people believe the class is unfair, they will also be demotivated,
+even if it is unfair in their favor (because consciously or
+unconsciously they will worry that they will some day find themselves
+in the group on the losing end). Finally, a "holier-than-thou" or
+contemptuous attitude from an instructor is a quick way to alienate a
+classroom and cause learners to tune out.
+FIXME: add citations here
 
 Here are some quick ways to demotivate your learners:
 
@@ -133,13 +137,15 @@ Here are some quick ways to demotivate your learners:
 > **Never Learn Alone**
 > 
 > One way to support at-risk learners of all kinds is to have people
-> sign up for workshops in small teams rather than as individuals. If an
-> entire lab group comes, or if attendees are drawn from the same (or
-> closely-related) disciplines, everyone in the room will know in
-> advance that they will be with at least a few people they trust, which
-> increases the chances of them actually coming. It also helps after the
-> workshop: if people come with their labmates, they can work together
-> to implement what they've learned.
+> sign up for workshops in small teams rather than as individuals. If
+> an entire lab group comes, or if attendees are drawn from the same
+> (or closely-related) disciplines, everyone in the room will know in
+> advance that they will be with at least a few people they trust,
+> which increases the chances of them actually coming. It also helps
+> after the workshop: if people come with their labmates, they can
+> work together to implement what they've learned.
+> FIXME: define "at-risk learners" as those who have been on the
+> receiving end of systematic discrimination.
 
 ## Impostor Syndrome
 
@@ -188,14 +194,14 @@ teaching about and dealing with imposter syndrome.
 Reminding people of negative stereotypes, even in subtle ways, makes
 them anxious about the risk of confirming those stereotypes, which in
 turn reduces their performance. This is called *[stereotype
-thread][wikipedia-stereotype]*, and the clearest examples in computing
+threat][wikipedia-stereotype]*, and the clearest examples in computing
 are gender-related.  Depending on whose numbers you trust, only 12-18%
 of programmers are women, and those figures have actually been getting
 worse over the last 20 years. There are many reasons for this (see
-{{"margolis-fisher-clubhouse"|cite}} and
-{{"margolis-shallow"|cite}}), and {{"steele-vivaldi"|cite}}
-summarizes what we know about stereotype threat in general and
-presents some strategies for mitigating it in the classroom.
+{{"margolis-fisher-clubhouse"|cite}} and {{"margolis-shallow"|cite}}),
+and {{"steele-vivaldi"|cite}} summarizes what we know about stereotype
+threat in general and presents some strategies for mitigating it in
+the classroom.
 
 However, while there's lots of evidence that unwelcoming climates
 demotivate members of under-represented groups, it's not clear that
@@ -208,6 +214,9 @@ model (i.e., we need to change the members of under-represented groups
 because they have some deficit, such as lack of prior experience) and
 instead use a systems approach (i.e., we need to change the system
 because it produces these disparities).
+
+FIXME: women aren't leaving computing because they don't know what
+it's like; they're leaving because they *do* know.
 
 A great example of how stereotypes work in general was presented in
 Patitsas et al's "Evidence That Computer Science Grades Are Not

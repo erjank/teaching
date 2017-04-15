@@ -2,6 +2,36 @@
 
 FIXME: introduction
 
+FIXME: Never touch the keyboard.  Don’t take over from the learner,
+instead talk them through it.  When you do it, it’s magic, when they
+do it, they know at least what was done.
+
+FIXME: Confessional debugging.  Useful for them post-workshop.  If
+your program doesn’t work, explain the problem aloud to your
+cat/dog/rubber duck, and often the problem and solution become clear.
+
+FIXME: I get the feeling that your workshops usually involve many
+small exercises.  In our Greenfoot workshops we tend to work on
+building up one program over several hours.  For this purpose, I
+usually do backwards design: start with the final program I want
+learners to finish with.  Then I remove the most complex part (that I
+actually want them to write) and make that the last exercise.  Then
+remove the second most complex part, which is the penultimate
+exercise.  And so on, until I’ve removed one of the easiest parts I
+want them to write.  Any remaining code is boilerplate which I don’t
+want them to write, and that forms the starting file(s) which I give
+out.  (You could say that ideally this is blank, but often you just
+have some stuff you need, e.g. import statements or helper functions,
+which you need to give them but which you’re not going to get them to
+write.
+
+FIXME: Relatedly, we use a principle “Never a blank page” for our
+work, on the basis that blank pages are intimidating, whereas
+modifying some existing code is more realistic and gives some initial
+structure.  Obviously there’s a tension here, as giving existing code
+increases cognitive load and learners can get distracted trying to
+understand it all.
+
 ## Have a Code of Conduct
 
 An important part of making a class productive is to treat everyone
@@ -220,9 +250,9 @@ than having people raise their hands because:
     state the class is in.
 
 Sometimes a red sticky involves a technical problem that takes a bit
-more time to solve. To prevent this issue to slow down the whole class
-too much, you could use the occasion to take the small break you had
-planned to take a bit later, giving the helper(s) time to fix the
+more time to solve. To prevent this issue from slowing down the whole
+class too much, you could use the occasion to take the small break you
+had planned to take a bit later, giving the helper(s) time to fix the
 problem.
 
 ## Use Sticky Notes to Distribute Attention
@@ -271,7 +301,56 @@ pairs, not just the learners who are struggling, so that no one feels
 singled out. It's also useful to have people sit in new places (and
 hence pair with different partners) after each coffee or meal break.
 
-## Setup
+## Peer Instruction
+
+No matter how good a teacher is, she can only say one thing at a time.
+How then can she clear up many different misconceptions in a
+reasonable time?
+
+The best solution developed so far is a technique called *[peer
+instruction][wikipedia-peer-instruction]. Originally created by Eric
+Mazur at Harvard, it has been studied extensively in a wide variety of
+contexts, including programming {{"porter-what-works"|cite}}. Peer
+instruction combines formative assessment with student discussion and
+looks something like this:
+
+1.  Give a brief introduction to the topic.
+
+1.  Give students an MCQ that probes for misconceptions (rather than
+    simple factual knowledge).
+
+1.  Have all the students vote on their answers to the MCQ.
+    1.  If the students all have the right answer, move on.
+    1.  If they all have the same wrong answer, address that specific
+        misconception.
+    1.  If they have a mix of right and wrong answers, give them several
+        minutes to discuss those answers with one another in small groups
+        (typically 2-4 students) and then reconvene and vote again.
+
+As [this video][video-peer-instruction] shows, group discussion
+significantly improves students' understanding because it forces them
+to clarify their thinking, which can be enough to call out gaps in
+reasoning. Re-polling the class then lets the instructor know if they
+can move on, or if further explanation is necessary. A final round of
+additional explanation and discussion after the correct answer is
+presented gives students one more chance to solidify their
+understanding.
+
+Peer instruction is essentially a way to provide one-to-one mentorship
+in a scalable way. Despite this, we usually do not use it in our
+workshops because it takes people time to adapt to a new way of
+learning–time that we typically don't have in our compressed two-day
+format.
+
+FIXME: make it clear that the comment above is about actual classes,
+not instructor training workshops.
+
+FIXME: important to have learners record their votes so that they
+can't change their minds afterward and rationalize it (making
+excuses to themselves like "I just misread the question") - value
+comes from the jarring experience of having their answer be wrong.
+
+## Setting Up Your Learners
 
 Learners tell us that it is important to them to leave the workshop
 with their own machine set up to do real work. We therefore continue
@@ -294,6 +373,18 @@ FIXME: Talk about getting learners' machines set up.
 > institutions' WiFi (which can be of highly variable quality), and has
 > the issues mentioned above with things like keyboard shortcuts.
 
+## Setting Up Your Own Enviornment
+
+FIXME: target here for forward ref from performance section about
+setting up your environment, e.g., having a glass of water to give
+yourself time to think.  Also talk about how it's OK to face away
+from your audience for a few moments to write on the board or walk
+through code, as long as it's only for a few moments.
+
+## Cough Drops
+
+FIXME: explain cough drops.
+
 ## Teaching Online
 
 Many learners find it difficult to get to a workshop, either because
@@ -308,14 +399,13 @@ a few minutes. but making *any* change to a video takes an hour
 or more. In addition, most people are much less comfortable recording
 themselves than contributing written material.
 
-The second answer is that doing significantly outperforms watching.
-Specifically, a recent paper by Koedinger et
-al {{"koedinger-doing-watching"|cite}} estimated "…the
-learning benefit from extra doing (1 SD increase) to be more than six
-times that of extra watching or reading." *Doing*, in this case,
-refers to completing an interactive or mimetic task with feedback,
-while *benefit* refers to both *completion rates*
-and *overall performance*.
+The second answer is that doing outperforms watching.  Specifically, a
+recent paper by Koedinger et al {{"koedinger-doing-watching"|cite}}
+estimated "…the learning benefit from extra doing (1 SD increase) to
+be more than six times that of extra watching or reading." "Doing", in
+this case, refers to completing an interactive or mimetic task with
+feedback, while "benefit" refers to both "completion rates" and
+"overall performance".
 
 And while we do not (yet) have empirical data, we believe very
 strongly that many novices would give up in despair if required to

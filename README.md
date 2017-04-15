@@ -34,8 +34,9 @@ learners.  It covers:
 
 *   how to design and improve lessons efficiently and collaboratively;
 
-*   how and why live coding is a better way to teach programming than
-    lectures or self-directed practice; and
+*   how and why *[live coding](/live/)* (i.e., writing programs step by
+    step in front of learners) is a better way to teach programming
+    than lectures or self-directed practice; and
 
 *   how insights and techniques borrowed from the performing arts can
     make you a better teacher.
@@ -86,8 +87,10 @@ Neal Davis, Rayna Harris, Kate Hertweck, Christina Koch, Sue
 McClatchy, Lex Nederbragt, Elizabeth Patitsas, Aleksandra Pawlik,
 Ariel Rokem, Tracy Teal, Fiona Tweedie, Allegra Via, Anelda van der
 Walt, Belinda Weaver, Jason Williams, and the hundreds of people who
-have gone through it over the years.  If you find it useful, I hope
-you will pass on whatever you have learned to someone else.
+have gone through it over the years.  I am also grateful to Neil
+Brown, Warren Code, and Mark Degani for their feedback on this
+version.  If you find it useful, I hope you will pass on whatever you
+have learned to someone else.
 
 ## Who You Are
 
@@ -139,8 +142,9 @@ participants in a workshop based on this book.
 ## Teaching Practices
 
 This material can be read on its own, but will be more effective when
-used in an intensive in-person class.  We suggest that workshops adopt
-these three teaching practices right from the start:
+delivered as an in-person class for up to two dozen people.  We
+suggest that such workshops adopt these three teaching practices right
+from the start:
 
 *   Have a [code of conduct](/practices/#conduct).
 
@@ -151,8 +155,8 @@ these three teaching practices right from the start:
 
 ## Dedication
 
-This book is dedicated to my mother, who taught a lot of children how
-to read and write, and to believe in themselves.
+This book is dedicated to my mother, Doris Wilson, who taught a lot of
+children how to read and write, and to believe in themselves.
 
 ## Challenges
 

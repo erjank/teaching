@@ -160,6 +160,51 @@ and data dependencies, i.e., on what has to happen before what,
 without being distracted by variable naming or trying to remember what
 functions to call.
 
+## FIXME
+
+*This entire section comes from Neil Brown's feedback*
+
+The main thing I took from cognitive load, Sweller, and books like Dan
+Willingham's "Why don't students like school" and Kahneman's "Thinking
+Fast and Slow": we can think via pattern recognition and by reasoning.
+The key thing about experts is that they have a lot more patterns
+stored, and only reason at the high end, whereas novices reason at the
+low end.
+
+I find this observation very helpful to explain a lot of novice/expert
+differences, and things like the expert blind spot.  A lot of teachers
+say they get their students to plan algorithms on paper before taking
+to the keyboard to code.  I used to dislike this advice, because I
+much prefer sitting down and coding directly.  But what I came to
+realise was that I don't need to plan the algorithm: I just recognise
+what is needed and start regurgitating the pattern(s), perhaps with a
+little reasoning to mesh a couple of patterns together.  Novices go
+about it a totally different way.  Such a key point: novices
+qualitatively use a different process than experts.  A bit more on
+that here:
+
+https://academiccomputing.wordpress.com/2013/07/10/programming-from-memory/
+
+There was a chunk of work on this in the 1980s which you could briefly
+discuss here: a series of workshops called Empirical Studies of
+Programming with researchers like Soloway had papers which tried to
+categorise all the patterns.  I believe that theoretically this is
+correct, but in practice it turned into a long slog that wouldn't
+actually result in much use to anyone: the catalogue would be too
+large to flick through and too dry to memorise directly.  But really
+some of the work on design patterns is exactly in this vein.  A bit
+more on that here:
+
+https://academiccomputing.wordpress.com/2013/07/29/goals-plans-and-code/
+
+To some extent you can view the challenge of teaching programming as
+the struggle to instill as many of these patterns as possible into
+learner's minds.  Probably with lots of exercises that particularly
+cover certain patterns.  I think to some extent we do design like this
+(practice loops a lot) but I'm not sure anyone ever thinks of it in
+these terms.  You also have the complication that you're not
+necessarily aiming for expert level...
+
 ## Challenges
 
 ### Create a Faded Example
