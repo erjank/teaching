@@ -9,7 +9,7 @@ to make teaching work better.
 
 The first of our recommended teaching practices is so central that it
 deserves a chapter of its own: *live coding*.  When they are live
-coding, instructors don't use slides.  Instead, they through the
+coding, instructors don't use slides.  Instead, they go through the
 lesson material, typing in the code or instructions, with their
 learners following along.  Its advantages are:
 
@@ -262,7 +262,7 @@ in preparation for this workshop, explain in advance to your fellow
 trainee what you will be teaching and what the learners you teach it
 to are expected to be familiar with.
 
-*   What felt different about live coding (vs.~standing up and
+*   What felt different about live coding (versus standing up and
     lecturing)? What was harder/easier?
 
 *   Did you make any mistakes? If so, how did you handle them?

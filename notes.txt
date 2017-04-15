@@ -17,7 +17,7 @@ Programming
 
 - get appendix numbering to work
 
-- include section headings in table of contents
+- include year (and other info) in citations
 
 ---
 

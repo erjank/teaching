@@ -1,5 +1,8 @@
 # Teaching as a Performance Art
 
+FIXME: shorten the quoted sections and be more direct about what
+*jugyokenkyu* is and how to implement it.
+
 Many people assume that teachers are born, not made. From politicians
 to researchers and teachers themselves, reformers have designed
 systems to find and promote those who can teach and eliminate those
@@ -167,6 +170,9 @@ analysis in R, but what her learners might take away is some new
 keyboard shortcuts in R Studio. Live coding makes this much more
 likely because it allows learners to see the "how" as well as the
 "what".
+
+FIXME: make a stronger connection between *jugyokenkyu* and lateral
+knowledge transfer.
 
 ## Feedback
 
