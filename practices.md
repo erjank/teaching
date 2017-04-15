@@ -2,12 +2,12 @@
 
 FIXME: introduction
 
-FIXME: Never touch the keyboard.  Don’t take over from the learner,
-instead talk them through it.  When you do it, it’s magic, when they
+FIXME: Never touch the keyboard.  Don't take over from the learner,
+instead talk them through it.  When you do it, it's magic, when they
 do it, they know at least what was done.
 
 FIXME: Confessional debugging.  Useful for them post-workshop.  If
-your program doesn’t work, explain the problem aloud to your
+your program doesn't work, explain the problem aloud to your
 cat/dog/rubber duck, and often the problem and solution become clear.
 
 FIXME: I get the feeling that your workshops usually involve many
@@ -17,18 +17,18 @@ usually do backwards design: start with the final program I want
 learners to finish with.  Then I remove the most complex part (that I
 actually want them to write) and make that the last exercise.  Then
 remove the second most complex part, which is the penultimate
-exercise.  And so on, until I’ve removed one of the easiest parts I
-want them to write.  Any remaining code is boilerplate which I don’t
+exercise.  And so on, until I've removed one of the easiest parts I
+want them to write.  Any remaining code is boilerplate which I don't
 want them to write, and that forms the starting file(s) which I give
 out.  (You could say that ideally this is blank, but often you just
 have some stuff you need, e.g. import statements or helper functions,
-which you need to give them but which you’re not going to get them to
+which you need to give them but which you're not going to get them to
 write.
 
-FIXME: Relatedly, we use a principle “Never a blank page” for our
+FIXME: Relatedly, we use a principle "Never a blank page" for our
 work, on the basis that blank pages are intimidating, whereas
 modifying some existing code is more realistic and gives some initial
-structure.  Obviously there’s a tension here, as giving existing code
+structure.  Obviously there's a tension here, as giving existing code
 increases cognitive load and learners can get distracted trying to
 understand it all.
 

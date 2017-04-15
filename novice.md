@@ -343,7 +343,7 @@ to get coffee.
 
 [^1]: It's Victoria.
 
-[^2]: "When the cook tastes the soup, that’s formative: When the
+[^2]: "When the cook tastes the soup, that's formative: When the
       guests taste the soup, that’s summative." (Michael Scriven,
       as quoted by Debra Dirksen.)
 
