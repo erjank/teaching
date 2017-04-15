@@ -82,12 +82,11 @@ remembered.
 > The idea that ten thousand hours of practice will make someone an
 > expert in some field is widely quoted, but reality is more complex.
 > Doing exactly the same thing over and over again is much more likely
-> to solidify bad habits than perfect performance.  What actually works
-> is _deliberate practice_ (also sometimes called
-> _reflective practice_), which is doing similar but subtly
-> different things, paying attention to what works and what doesn't, and
-> then changing behavior in response to that feedback to get
-> cumulatively better.
+> to solidify bad habits than perfect performance.  What actually
+> works is _deliberate practice_ (also sometimes called _reflective
+> practice_), which is doing similar but subtly different things,
+> paying attention to what works and what doesn't, and then changing
+> behavior in response to that feedback to get cumulatively better.
 > 
 > A common progression is for people to go through three stages:
 > 

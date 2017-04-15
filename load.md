@@ -30,18 +30,18 @@ More specifically, the theory of _[cognitive
 load][wikipedia-cognitive-load]_ posits that people have to deal with
 three things when they're learning:
 
-1.  _Intrinsic load_ is what people have to keep in mind in order to
+1.  *Intrinsic* load is what people have to keep in mind in order to
     carry out a learning task.  In a programming class, this might be
     understanding what a variable is, or understanding how assignment in
     a programming language is different from creating a reference to a
     cell in a spreadsheet.
 
-2.  _Germane load_ is the (desirable) mental effort required to
+2.  *Germane* load is the (desirable) mental effort required to
     create linkages between new information and old (which is one of the
     things that distinguishes learning from memorization).  An example
     might be learning how to loop through a collection in Python.
 
-3.  _Extraneous load_ is everything else that distracts or gets in
+3.  *Extraneous* load is everything else that distracts or gets in
     the way, such as knowing that tabs look like multiple characters but
     only count as one when indenting Python code.
 
