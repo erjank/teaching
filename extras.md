@@ -1,4 +1,4 @@
-# Instructor's Guide
+# Extra Material
 
 This appendix includes material that doesn't naturally fit anywhere else.
 

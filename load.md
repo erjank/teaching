@@ -1,5 +1,3 @@
-----
-
 # Cognitive Load
 
 In 2006, Kirschner, Sweller, and Clark published a paper titled "Why
