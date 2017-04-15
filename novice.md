@@ -13,7 +13,7 @@ statements about what's true for the majority.)
 
 For our purposes, we simplify the five stages to three:
 
-*   A *novice* is someone who doesn't know what they don't know,
+1.  A *novice* is someone who doesn't know what they don't know,
     i.e., they don't yet know what the key ideas in the domain are or
     how they relate. They reason by analogy and guesswork, borrowing
     bits and pieces of their mental models of other domains which seem
@@ -24,7 +24,7 @@ For our purposes, we simplify the five stages to three:
     FIXME: footnote pointing to motivation chapter about how important
     it is not to shame novices for their lack of understanding.
 
-*   A *competent practitioner* is someone who has a mental model
+2.  A *competent practitioner* is someone who has a mental model
     that's good enough for everyday purposes: they can do normal tasks
     with normal effort under normal circumstances. This model does not
     have to be completely accurate in order to be useful: for example,
@@ -32,7 +32,7 @@ For our purposes, we simplify the five stages to three:
     doesn't include most of the complexities that a mechanical engineer
     would be concerned with.
 
-*   An *expert* is someone who can easily handle situations that are
+3.  An *expert* is someone who can easily handle situations that are
     out of the ordinary, diagnose the causes of problems, and so on. We
     will discuss expertise in more detail in [Memory](/memory/).
 
@@ -47,11 +47,24 @@ this model is wrong, but useful for many purposes.
 Novices, competent practitioners, and experts need to be taught
 differently.  In particular, presenting novices with a pile of facts
 early on is counter-productive, because they don't yet have a model to
-fit those facts into.  (In fact, presenting too many facts too soon
-can actually reinforce the incorrect mental model they've cobbled
-together.)
+fit those facts into.  In fact, presenting too many facts too soon can
+actually reinforce the incorrect mental model they've cobbled
+together.  As [Derek Muller
+wrote](https://fnoschese.wordpress.com/2011/03/17/khan-academy-and-the-effectiveness-of-science-videos/)
+about this in the context of video instruction for science students:
 
-Instead, the goal with novices is *to help them construct a working
+> Students have existing ideas about scientific phenomena before
+> viewing a video. If the video presents scientific concepts in a
+> clear, well illustrated way, students believe they are learning but
+> they do not engage with the media on a deep enough level to realize
+> that what was is presented differs from their prior knowledge.
+>
+> There is hope, however. Presenting students' common misconceptions
+> in a video alongside the scientific concepts has been shown to
+> increase learning by increasing the amount of mental effort students
+> expend while watching it.
+
+The goal with novices is therefore *to help them construct a working
 mental model* so that they have somewhere to put facts.  As an example
 of what this means in practice, Software Carpentry's [lesson on the
 Unix shell][swc-unix] introduces fifteen commands in three
@@ -92,15 +105,15 @@ that just ain't so."
 
 Broadly speaking, learners' misconceptions fall into three categories:
 
-*   Simple *factual errors*, such as believing that Vancouver is the
+1.  Simple *factual errors*, such as believing that Vancouver is the
     capital of British Columbia[^1]. These are simple to correct, but
     getting the facts right is not enough on its own.
 
-*   *Broken models*, such as believing that motion and acceleration
+2.  *Broken models*, such as believing that motion and acceleration
     must be in the same direction. We can address these by having them
     reason through examples to see contradictions.
 
-*   *Fundamental beliefs*, such as "the world is only a few thousand
+3.  *Fundamental beliefs*, such as "the world is only a few thousand
     years old" or "human beings cannot be affecting the planet's
     climate". These usually cannot be addressed in class, since they
     are deeply connected to the learner's social identity and often

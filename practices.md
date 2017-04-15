@@ -301,6 +301,10 @@ pairs, not just the learners who are struggling, so that no one feels
 singled out. It's also useful to have people sit in new places (and
 hence pair with different partners) after each coffee or meal break.
 
+## Have Learners Make Predictions
+
+FIXME: https://journals.aps.org/prper/abstract/10.1103/PhysRevSTPER.9.020113
+
 ## Peer Instruction
 
 No matter how good a teacher is, she can only say one thing at a time.

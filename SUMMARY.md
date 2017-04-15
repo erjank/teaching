@@ -41,6 +41,7 @@
   * [Minute Cards](practices.md#minute-cards)
   * [One Up, One Down](practices.md#one-up-one-down)
   * [Pair Programming](practices.md#pair-programming)
+  * [Have Learners Make Predictions](practices.md#have-learners-make-predictions)
   * [Peer Instruction](practices.md#peer-instruction)
   * [Setting Up Your Learners](practices.md#setting-up-your-learners)
   * [Setting Up Your Own Enviornment](practices.md#setting-up-your-own-enviornment)
