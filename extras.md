@@ -4,7 +4,7 @@ This appendix includes material that doesn't naturally fit anywhere else.
 
 ## Key Terms
 
-*Educational psychology* is the study of how people learn. It touches
+_Educational psychology_ is the study of how people learn. It touches
 on everything from the neuropsychology of perception and the
 mechanisms of memory to the sociology of school systems and the
 philosophical question of what we actually mean by "learning" (which
@@ -13,17 +13,17 @@ standardized Western classroom). Within the broad scope of educational
 psychology, two specific perspectives have primarily influenced our
 teaching practices (and by extension, this instructor training).
 
-The first perspective is *cognitivism*, which treats learning as a
+The first perspective is _cognitivism_, which treats learning as a
 problem in neuropsychology. Cognitivists focus their attention on
 things like pattern recognition, memory formation, and recall. It is
 good at answering low-level questions, but generally ignores larger
 issues like, "What do we mean by 'learning'?" and, "Who gets to
 decide?"
 
-The second perspective is *[situated
-learning][wikipedia-situated-learning]*, which focuses on how
-*[legitimate peripheral participation][wikipedia-peripheral]* leads to
-people becoming members of a *[community of practice]*.
+The second perspective is _[situated
+learning][wikipedia-situated-learning]_, which focuses on how
+_[legitimate peripheral participation][wikipedia-peripheral]_ leads to
+people becoming members of a _[community of practice]_.
 Unpacking those terms, the situated learning perspective focuses on the
 transition from being a newcomer to being accepted as a peer by those
 who already do the activity in question. Situated learning is directly
@@ -49,12 +49,12 @@ with the community of practice.
 >
 > There are many other perspectives outside cognitivist theory—see [this
 > site][learning-theories] for summaries. Besides cognitivism, those
-> encountered most frequently include *behaviorism* (which treats
-> education as stimulus/response conditioning), *constructivism* (which
+> encountered most frequently include _behaviorism_ (which treats
+> education as stimulus/response conditioning), _constructivism_ (which
 > considers learning an active process during which learners construct
-> knowledge for themselves), *connectivism* (which emphasizes the social
+> knowledge for themselves), _connectivism_ (which emphasizes the social
 > aspects of learning, particularly those made possible by the
-> Internet), and *connectionism*, a cognitivist theory that explains
+> Internet), and _connectionism_, a cognitivist theory that explains
 > learning as creating connections between concepts.  And yes, it would
 > help if their names were less similar…
 
@@ -63,8 +63,8 @@ because it under-constrains the problem: in real life, several
 different teaching methods might be consistent with what we currently
 know about how learning works. We therefore have to try those methods
 in the class, with actual learners, in order to find out how well they
-balance the different forces in play. This is called *instructional
-design* (ID).  If educational psychology is the science, ID is the
+balance the different forces in play. This is called _instructional
+design_ (ID).  If educational psychology is the science, ID is the
 engineering.
 
 FIXME: more on ID
@@ -72,12 +72,12 @@ FIXME: more on ID
 In the end, effective teaching often depends on what the teacher knows.
 The things teachers know can be divided into:
 
-*   *content knowledge*, such as the "what" of programming;
+*   _content knowledge_, such as the "what" of programming;
 
-*   *general pedagogical knowledge*, i.e., an understanding of the
+*   _general pedagogical knowledge_, i.e., an understanding of the
     psychology of learning; and
 
-*   the *pedagogical content knowledge* (PCK) that connects the two. PCK
+*   the _pedagogical content knowledge_ (PCK) that connects the two. PCK
     is things like what examples to use when teaching how parameters are
     passed to a function, or what misconceptions about wildcard
     expansion are most common.

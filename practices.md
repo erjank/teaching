@@ -261,7 +261,7 @@ FIXME: Sticky notes to distribute attention
 
 ## Minute Cards
 
-We frequently use sticky notes as *minute cards*: before each
+We frequently use sticky notes as _minute cards_: before each
 break, learners take a minute to write one positive thing on the green
 sticky note (e.g., one thing they've learned that they think will be
 useful), and one thing they found too fast, too slow, confusing, or
@@ -317,8 +317,8 @@ No matter how good a teacher is, she can only say one thing at a time.
 How then can she clear up many different misconceptions in a
 reasonable time?
 
-The best solution developed so far is a technique called *[peer
-instruction][wikipedia-peer-instruction]. Originally created by Eric
+The best solution developed so far is a technique called _[peer
+instruction][wikipedia-peer-instruction]_. Originally created by Eric
 Mazur at Harvard, it has been studied extensively in a wide variety of
 contexts, including programming {{"porter-what-works"|cite}}. Peer
 instruction combines formative assessment with student discussion and

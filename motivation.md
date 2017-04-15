@@ -53,8 +53,8 @@ developed by Guzdial and Ericson at Georgia Tech
 {{"guzdial-mediacomp-retrospective"|cite}}.  Instead of printing
 "hello world" or summing the first ten integers, their students' first
 program opens an image, resizes it to create a thumbnail, and saves
-the result. This is an *authentic task*, i.e., something that learners
-believe they would actually do in real life. It is also *tangible*: if
+the result. This is an _authentic task_, i.e., something that learners
+believe they would actually do in real life. It is also _tangible_: if
 the image comes out the wrong size, learners have a concrete starting
 point for debugging.
 
@@ -149,7 +149,7 @@ Here are some quick ways to demotivate your learners:
 
 ## Impostor Syndrome
 
-*[Impostor syndrome][wikipedia-impostor]* is the belief that one is
+_[Impostor syndrome][wikipedia-impostor]_ is the belief that one is
 not good enough for a job or position, that one's achievements are
 lucky flukes, and an accompanying fear of being "found out". Impostor
 syndrome seems to be particularly common among [high achievers who
@@ -193,8 +193,8 @@ teaching about and dealing with imposter syndrome.
 
 Reminding people of negative stereotypes, even in subtle ways, makes
 them anxious about the risk of confirming those stereotypes, which in
-turn reduces their performance. This is called *[stereotype
-threat][wikipedia-stereotype]*, and the clearest examples in computing
+turn reduces their performance. This is called _[stereotype
+threat][wikipedia-stereotype]_, and the clearest examples in computing
 are gender-related.  Depending on whose numbers you trust, only 12-18%
 of programmers are women, and those figures have actually been getting
 worse over the last 20 years. There are many reasons for this (see
@@ -339,7 +339,7 @@ the right place to start.  A few other recommendations are:
 
 ## Inclusivity
 
-*Inclusivity* is a policy of including people who might otherwise
+_Inclusivity_ is a policy of including people who might otherwise
 be excluded or marginalized. In computing, it means making a positive
 effort to be more welcoming to women, people of color, people with
 various sexual orientations, the elderly, the physically challenged,

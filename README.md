@@ -34,7 +34,7 @@ learners.  It covers:
 
 *   how to design and improve lessons efficiently and collaboratively;
 
-*   how and why *[live coding](/live/)* (i.e., writing programs step by
+*   how and why _[live coding](/live/)_ (i.e., writing programs step by
     step in front of learners) is a better way to teach programming
     than lectures or self-directed practice; and
 

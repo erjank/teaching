@@ -13,7 +13,7 @@ statements about what's true for the majority.)
 
 For our purposes, we simplify the five stages to three:
 
-1.  A *novice* is someone who doesn't know what they don't know,
+1.  A _novice_ is someone who doesn't know what they don't know,
     i.e., they don't yet know what the key ideas in the domain are or
     how they relate. They reason by analogy and guesswork, borrowing
     bits and pieces of their mental models of other domains which seem
@@ -24,7 +24,7 @@ For our purposes, we simplify the five stages to three:
     FIXME: footnote pointing to motivation chapter about how important
     it is not to shame novices for their lack of understanding.
 
-2.  A *competent practitioner* is someone who has a mental model
+2.  A _competent practitioner_ is someone who has a mental model
     that's good enough for everyday purposes: they can do normal tasks
     with normal effort under normal circumstances. This model does not
     have to be completely accurate in order to be useful: for example,
@@ -32,7 +32,7 @@ For our purposes, we simplify the five stages to three:
     doesn't include most of the complexities that a mechanical engineer
     would be concerned with.
 
-3.  An *expert* is someone who can easily handle situations that are
+3.  An _expert_ is someone who can easily handle situations that are
     out of the ordinary, diagnose the causes of problems, and so on. We
     will discuss expertise in more detail in [Memory](/memory/).
 
@@ -126,7 +126,7 @@ Broadly speaking, learners' misconceptions fall into three categories:
 
 Teaching is most effective when instructors have a way to identify and
 clear up learners' misconceptions *while they are teaching*.  The
-technical term for this is *formative assessment*, which is
+technical term for this is _formative assessment_, which is
 assessment that takes place during the lesson in order to form or
 shape it.  Learners don't pass or fail formative assessments; instead,
 its main purpose is to tell both the instructor and the learner how
@@ -135,7 +135,7 @@ teacher might ask a student to play a scale very slowly in order to
 see whether she is breathing correctly, and if she is not, what she
 should change.
 
-The counterpoint to formative assessment is *summative assessment*,
+The counterpoint to formative assessment is _summative assessment_,
 which is used at the end of the lesson to tell whether the desired
 learning took place and whether the learner is ready to move on[^2].
 Learners either pass or fail a summative assessment. One example is a
@@ -179,8 +179,8 @@ valuable insight:
 *   If she answers 33 then she knows she has to carry the 1, but is
     carrying it back into the same column it came from.
 
-Each of these incorrect answers is a *plausible distractor* with
-*diagnostic power*.  "Plausible" means that it looks like it could be
+Each of these incorrect answers is a _plausible distractor_ with
+_diagnostic power_.  "Plausible" means that it looks like it could be
 right: instructors will often put supposedly-silly answers like "a
 fish!" on MCQs, but they don't provide any insight and learners
 actually don't find them funny. "Diagnostic power" means that each of
@@ -246,13 +246,13 @@ to waste it.
 
 > **Concept Inventories**
 > 
-> The [Force Concept Inventory][wikipedia-fci]
-> is a set of MCQs designed to gauge understanding of
-> basic Newtonian mechanics. By interviewing a large number of
-> respondents, correlating their misconceptions with patterns of right and
-> wrong answers to questions, and then improving the questions, it's
-> possible to construct a very precise diagnostic tool. However, it's very
-> costly to do this, and students' ability to search for answers on the
+> The [Force Concept Inventory][wikipedia-fci] is a set of MCQs
+> designed to gauge understanding of basic Newtonian mechanics. By
+> interviewing a large number of respondents, correlating their
+> misconceptions with patterns of right and wrong answers to
+> questions, and then improving the questions, it's possible to
+> construct a very precise diagnostic tool. However, it's very costly
+> to do this, and students' ability to search for answers on the
 > internet is an ever-increasing threat to its validity.
 
 <!-- -->

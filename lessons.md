@@ -16,7 +16,7 @@ Most people design lessons as follows:
     exam.
 
 There's a better way, but to explain it, we first need to explain how
-*[test-driven development][wikipedia-tdd]* (TDD) is used in software
+_[test-driven development][wikipedia-tdd]_ (TDD) is used in software
 development.  Programmers who are using TDD don't write software and
 then (possibly) write tests.  Instead, they write the tests first,
 then write just enough new software to make those tests pass, and then
@@ -37,8 +37,8 @@ work and really, really wants to be done.
 FIXME: introduce Dee Fink's free book here
 
 A similar "backward" method works very well for lesson design.  This
-method is something called *reverse instructional design* or
-*understanding by design* (after a book by Wiggins and McTighe
+method is something called _reverse instructional design_ or
+_understanding by design_ (after a book by Wiggins and McTighe
 with that name {{"wiggins-mctighe"|cite}}).  There are several
 variations, but the one we recommend has the following steps:
 
@@ -102,8 +102,8 @@ course hasn't prepared them for.
 ## Learner Profiles
 
 The first piece of the process above is figuring out who your audience
-is.  One way to do this is to write two or three *learner
-profiles*. This technique is borrowed from user interface design,
+is.  One way to do this is to write two or three _learner
+profiles_. This technique is borrowed from user interface design,
 where short profiles of typical users are created to help designers
 think about their audience's needs, and to give them a shorthand for
 talking about specific cases.
@@ -148,7 +148,7 @@ would Jorge face?"
 Summative and formative assessments help instructors figure out what
 they're going to teach, but in order to communicate that to learners
 and other instructors, a course description should also
-have *learning objectives*. A learning objective is a single
+have _learning objectives_. A learning objective is a single
 sentence describing what a learner will be able to do once they have
 sat through the lesson in order to demonstrate what they have learned.
 
@@ -171,8 +171,8 @@ each of this would be backed by a very different lesson:
 
 > **Objectives vs. Outcomes**
 > 
-> A learning *objective* is what a lesson strives to achieve.  A
-> learning *outcome* is what it actually achieves, i.e., what
+> A _learning objective_ is what a lesson strives to achieve.  A
+> _learning outcome_ is what it actually achieves, i.e., what
 > learners actually take away.  The role of summative assessment is
 > therefore to compare outcomes with objectives.
 

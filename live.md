@@ -8,7 +8,7 @@ And as in those fields, we have a collection of small tips and tricks
 to make teaching work better.
 
 The first of our recommended teaching practices is so central that it
-deserves a chapter of its own: *live coding*.  When they are live
+deserves a chapter of its own: _live coding_.  When they are live
 coding, instructors don't use slides.  Instead, they go through the
 lesson material, typing in the code or instructions, with their
 learners following along.  Its advantages are:

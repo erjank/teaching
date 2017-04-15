@@ -37,14 +37,14 @@ This metaphor helps explain many observed aspects of expert behavior:
     no longer imagine what it's like to *not* see the world that
     way. As a result, they are often less good at teaching the subject
     than people with less expertise who still remember what it's like to
-    have to learn the things. This phenomenon is called *expert
-    blind spot*, and while it can be overcome with training, it's part
+    have to learn the things. This phenomenon is called _expert
+    blind spot_, and while it can be overcome with training, it's part
     of why there is no correlation between how good someone is at
     doing research in an area and how good they are at teaching it
     {{"marsh-hattie-teaching"|cite}}.
 
 *   Densely-connected knowledge graphs are also the basis for
-    experts' *fluid representations*, i.e., their ability to switch
+    experts' _fluid representations_, i.e., their ability to switch
     back and forth between different views of a problem
     {{"petre-expertise"|cite}}.  For example, when trying to solve a
     problem in mathematics, we might switch between tackling it
@@ -83,8 +83,8 @@ remembered.
 > expert in some field is widely quoted, but reality is more complex.
 > Doing exactly the same thing over and over again is much more likely
 > to solidify bad habits than perfect performance.  What actually works
-> is *deliberate practice* (also sometimes called
-> *reflective practice*), which is doing similar but subtly
+> is _deliberate practice_ (also sometimes called
+> _reflective practice_), which is doing similar but subtly
 > different things, paying attention to what works and what doesn't, and
 > then changing behavior in response to that feedback to get
 > cumulatively better.
@@ -118,7 +118,7 @@ remembered.
 ## Concept Maps
 
 Our tool of choice to represent a knowledge graph (expert or
-otherwise) is a *concept map*.  A concept map is simply a picture
+otherwise) is a _concept map_.  A concept map is simply a picture
 of someone's mental model of a domain: facts are bubbles, and
 connections are labelled arcs. It is important that they are labelled:
 saying "X and Y are related" is only helpful if we explain what the
@@ -133,7 +133,7 @@ that it makes those differences explicit.
 > presents a mental model of how to choose the right kind of chart for
 > different kinds of questions and data.  Maps, flowcharts, and
 > blueprints can also be useful in some contexts.  What each does
-> is *externalize cognition*, i.e., make thought processes and
+> is _externalize cognition_, i.e., make thought processes and
 > mental models visible so that they can be compared, contrasted, and
 > combined.
 
@@ -209,15 +209,15 @@ Concept maps can be used in many ways:
 The graph model of knowledge is wrong but useful, but another simple
 model has a sound physical basis.  As a rough approximation, human
 memory can be divided into two distinct layers. The first is
-called *long-term* or *persistent memory*. It is where we
+called _long-term_ or _persistent memory_. It is where we
 store things like our password, our home address, and what the clown
 did at our eighth birthday party that scared us so much. It is
 essentially unbounded: barring injury or disease, we will die before
 it fills up.  However, it is also slow to access–too slow to help us
 handle hungry lions and disgruntled family members.
 
-Evolution has therefore given us a second system called *short-term*
-or *working memory*. It is much faster, but also much smaller: in
+Evolution has therefore given us a second system called _short-term_
+or _working memory_. It is much faster, but also much smaller: in
 1956, Miller estimated that the average adult's working memory could
 hold 7±2 items for a few seconds before things started to drop
 out[^1]. This is why phone numbers are typically 7 or 8 digits long:
@@ -230,7 +230,7 @@ smaller groups (such as the forwards and backs in rugby).
 > **Chunking**
 > 
 > Our minds can store larger numbers of facts in short-term memory by
-> creating *chunks*. For example, most of us will remember a word we
+> creating _chunks_. For example, most of us will remember a word we
 > read as a single item, rather than as a sequence of letters.
 > Similarly, the pattern made by five spots on cards or dice is
 > remembered as a whole rather than as five separate pieces of

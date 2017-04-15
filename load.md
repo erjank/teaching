@@ -19,31 +19,31 @@ says:
 
 The paper set off a minor academic firestorm, because beneath the
 jargon the authors were claiming that
-*[inquiry-based-learning][wikipedia-inquiry]*–allowing learners to ask
+_[inquiry-based-learning][wikipedia-inquiry]_–allowing learners to ask
 their own questions, set their own goals, and find their own path
 through a subject–is intuitively appealing, but doesn't actually work
 very well. Kirschner et al argued that this was because it requires
 learners to simultaneously master both a domain's factual content and
 its problem-solving strategies.
 
-More specifically, the theory of *[cognitive
-load][wikipedia-cognitive-load]* posits that people have to deal with
+More specifically, the theory of _[cognitive
+load][wikipedia-cognitive-load]_ posits that people have to deal with
 three things when they're learning:
 
 FIXME: link back to chunking
 
-1.  *Intrinsic* load is what people have to keep in mind in order to
+1.  _Intrinsic load_ is what people have to keep in mind in order to
     carry out a learning task.  In a programming class, this might be
     understanding what a variable is, or understanding how assignment in
     a programming language is different from creating a reference to a
     cell in a spreadsheet.
 
-2.  *Germane* load is the (desirable) mental effort required to
+2.  _Germane load_ is the (desirable) mental effort required to
     create linkages between new information and old (which is one of the
     things that distinguishes learning from memorization).  An example
     might be learning how to loop through a collection in Python.
 
-3.  *Extraneous* load is everything else that distracts or gets in
+3.  _Extraneous load_ is everything else that distracts or gets in
     the way, such as knowing that tabs look like multiple characters but
     only count as one when indenting Python code.
 
@@ -51,7 +51,7 @@ According to this theory, searching for a solution strategy is an
 extra burden on top of applying that strategy. We can therefore
 accelerate learning by giving learners worked examples that show them
 a problem and a detailed step-by-step solution, followed by a series
-of *faded examples*. The first of these presents a nearly-complete use
+of _faded examples_. The first of these presents a nearly-complete use
 of the same problem-solving strategy just demonstrated, but with a
 small number of blanks for the learner to fill in. The next problem is
 also of the same type, but has more blanks, and so on until the
@@ -147,7 +147,7 @@ However, there is no doubt that faded examples are effective.
 > at part of the diagram will trigger recall of what was being said.
 
 Another way to use cognitive load theory to construct exercises is
-called a *Parson's Problem*.  If you are teaching someone to
+called a _Parsons Problem_.  If you are teaching someone to
 speak a new language, you could ask them a question, and then give
 them the words they need to answer the question, but in jumbled
 order.  Their task is to put the words in the right order to answer
@@ -234,7 +234,7 @@ If there are people among the trainees who don't program at all, make
 sure that they are in separate groups and ask to the groups to work
 with that person as a learner to help identify different loads.
 
-### Create a Parson's Problem
+### Create a Parsons Problem
 
 1.  Write five or six lines of code that does something useful, jumble
     them, and ask your partner to put them in order.  If you are using
