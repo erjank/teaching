@@ -91,7 +91,7 @@ unconsciously they will worry that they will some day find themselves
 in the group on the losing end). Finally, a "holier-than-thou" or
 contemptuous attitude from an instructor is a quick way to alienate a
 classroom and cause learners to tune out.
-FIXME: add citations here
+FIXME: add citations here {{"wilkinson-pickett-spirit-level"|cite}}
 
 Here are some quick ways to demotivate your learners:
 
