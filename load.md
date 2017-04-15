@@ -30,8 +30,6 @@ More specifically, the theory of _[cognitive
 load][wikipedia-cognitive-load]_ posits that people have to deal with
 three things when they're learning:
 
-FIXME: link back to chunking
-
 1.  _Intrinsic load_ is what people have to keep in mind in order to
     carry out a learning task.  In a programming class, this might be
     understanding what a variable is, or understanding how assignment in
@@ -55,9 +53,10 @@ of _faded examples_. The first of these presents a nearly-complete use
 of the same problem-solving strategy just demonstrated, but with a
 small number of blanks for the learner to fill in. The next problem is
 also of the same type, but has more blanks, and so on until the
-learner is asked to solve the entire problem.
-
-FIXME: introduce the term "scaffolding" here.
+learner is asked to solve the entire problem.  (The material that
+*isn't* blank is often referred to as _scaffolding_, since it serves
+the same purpose as the scaffolding set up temporarily at a building
+site.)
 
 For example, someone teaching Python might start by explaining this:
 

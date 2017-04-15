@@ -291,24 +291,9 @@ FIXME: comment about engineering your environment to give you props
 to work with that don't reveal nervousness, like a glass of water.
 Forward ref to practices section.
 
-## Challenges
+## How to Practice Teaching
 
-### Giving Feedback
-
-1.  Watch [this video][video-bad-teaching] as a group and then give
-    feedback on it. Organize feedback along two axes: positive
-    vs. negative and content vs. presentation.
-
-2.  Have each person in the class add one point to a 2x2 grid on a
-    whiteboard (or in the shared notes) without duplicating any points
-    that are already up there.
-
-What did other people see that you missed?  What did they think that
-you strongly agree or disagree with?
-
-FIXME: step 3 is to compare feedback with some provided by us.
-
-### Feedback on Your Teaching
+FIXME: introduce this section
 
 1.  Split into groups of three.
 
@@ -331,6 +316,36 @@ FIXME: step 3 is to compare feedback with some provided by us.
     divide positive from negative and content from presentation.  Try
     also to identify each person's tells: what do they do that betrays
     nervousness, and how noticeable is it?
+
+It's important to record all three videos and then watch all three: if
+the cycle is teach-review-teach-review, the last person to teach runs
+out of time. Doing all the reviewing after all the teaching also helps
+put a bit of distance between the teaching and the reviewing, which
+makes the exercise slightly less excruciating.
+
+## Challenges
+
+### Giving Feedback
+
+1.  Watch [this video][video-bad-teaching] as a group and then give
+    feedback on it. Organize feedback along two axes: positive
+    vs. negative and content vs. presentation.
+
+2.  Have each person in the class add one point to a 2x2 grid on a
+    whiteboard (or in the shared notes) without duplicating any points
+    that are already up there.
+
+What did other people see that you missed?  What did they think that
+you strongly agree or disagree with?
+
+FIXME: step 3 is to compare feedback with some provided by us.
+
+### Practice Giving Feedback
+
+Use the process described above to practice your teaching in groups of
+three.
+
+FIXME: more detail
 
 ----
 
