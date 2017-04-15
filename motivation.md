@@ -53,10 +53,11 @@ developed by Guzdial and Ericson at Georgia Tech
 {{"guzdial-mediacomp-retrospective"|cite}}.  Instead of printing
 "hello world" or summing the first ten integers, their students' first
 program opens an image, resizes it to create a thumbnail, and saves
-the result. This is an _authentic task_, i.e., something that learners
-believe they would actually do in real life. It is also has a
-_tangible artefact_: if the image comes out the wrong size, learners
-have a concrete starting point for debugging.
+the result. This is an _[authentic task](GLOSSARY.md#authentic-task)_,
+i.e., something that learners believe they would actually do in real
+life. It is also has a _[tangible
+artefact](GLOSSARY.md#tangible-artefact)_: if the image comes out the
+wrong size, learners have a concrete starting point for debugging.
 
 > **Strategies for Motivating Learners**
 > 
@@ -149,11 +150,11 @@ Here are some quick ways to demotivate your learners:
 
 ## Impostor Syndrome
 
-_[Impostor syndrome][wikipedia-impostor]_ is the belief that one is
-not good enough for a job or position, that one's achievements are
-lucky flukes, and an accompanying fear of being "found out". Impostor
-syndrome seems to be particularly common among [high achievers who
-undertake publicly visible work][usenix-impostor].
+_[Impostor syndrome](GLOSSARY.md#impostor-syndrome)_ is the belief
+that one is not good enough for a job or position, that one's
+achievements are lucky flukes, and an accompanying fear of being
+"found out". Impostor syndrome seems to be particularly common among
+[high achievers who undertake publicly visible work][usenix-impostor].
 
 Academic work is frequently undertaken alone or in small groups but
 the results are shared and criticized publicly. In addition, we rarely
@@ -194,7 +195,7 @@ teaching about and dealing with imposter syndrome.
 Reminding people of negative stereotypes, even in subtle ways, makes
 them anxious about the risk of confirming those stereotypes, which in
 turn reduces their performance. This is called _[stereotype
-threat][wikipedia-stereotype]_, and the clearest examples in computing
+threat](GLOSSARY.md#stereotype-threat)_, and the clearest examples in computing
 are gender-related.  Depending on whose numbers you trust, only 12-18%
 of programmers are women, and those figures have actually been getting
 worse over the last 20 years. There are many reasons for this (see
@@ -248,14 +249,15 @@ programmers and others aren't, but Mark Guzdial has called this belief
 ## Mindset
 
 Learners can be demotivated in subtler ways as well. For example,
-Dweck and others have studied the differences of [fixed mindset and
-growth mindset][wikipedia-mindset]. If people believe that competence
-in some area is intrinsic (i.e., that you either "have the gene" for
-it or you don't), *everyone* does worse, including the supposedly
-advantaged.  The reason is that if they don't get it at first, they
-figure they just don't have that aptitude, which biases future
-performance. On the other hand, if people believe that a skill is
-learned and can be improved, they do better on average.
+Dweck and others have studied the differences of [fixed
+mindset](GLOSSARY.md#fixed-mindset) and [growth
+mindset](GLOSSARY.md#growth-mindset). If people believe that
+competence in some area is intrinsic (i.e., that you either "have the
+gene" for it or you don't), *everyone* does worse, including the
+supposedly advantaged.  The reason is that if they don't get it at
+first, they figure they just don't have that aptitude, which biases
+future performance. On the other hand, if people believe that a skill
+is learned and can be improved, they do better on average.
 
 A person's mindset can be shaped by subtle cues. For example, if a
 child is told, "You did a good job, you must be very smart," she is
@@ -339,19 +341,19 @@ the right place to start.  A few other recommendations are:
 
 ## Inclusivity
 
-_Inclusivity_ is a policy of including people who might otherwise
-be excluded or marginalized. In computing, it means making a positive
-effort to be more welcoming to women, people of color, people with
-various sexual orientations, the elderly, the physically challenged,
-the formerly incarcerated, the economically disadvantaged, and
-everyone else who doesn't fit Silicon Valley's white/Asian male
-demographic. Lee's paper "What can I do today to create a more
-inclusive community in CS?" {{"lee-create-inclusive-community"|cite}}
-is a brief, practical guide to doing that with references to the
-research literature. These help learners who belong to one or more
-marginalized or excluded groups, but help motivate everyone else as
-well; while they are phrased in terms of term-long courses, many can
-be applied in our workshops:
+_[Inclusivity](GLOSSARY.md#inclusivity)_ is a policy of including
+people who might otherwise be excluded or marginalized. In computing,
+it means making a positive effort to be more welcoming to women,
+people of color, people with various sexual orientations, the elderly,
+the physically challenged, the formerly incarcerated, the economically
+disadvantaged, and everyone else who doesn't fit Silicon Valley's
+white/Asian male demographic. Lee's paper "What can I do today to
+create a more inclusive community in CS?"
+{{"lee-create-inclusive-community"|cite}} is a brief, practical guide
+to doing that with references to the research literature. These help
+learners who belong to one or more marginalized or excluded groups,
+but help motivate everyone else as well; while they are phrased in
+terms of term-long courses, many can be applied in our workshops:
 
 *   Ask learners to email you before the workshop to explain how they
     believe the training could help them achieve their goals.
@@ -445,8 +447,5 @@ assessments that reinforce the status quo?
 [w3c-accessibility]: http://www.w3.org/WAI/training/accessible
 [webaim]: http://webaim.org/
 [wikipedia-curb-cuts]: https://en.wikipedia.org/wiki/Curb_cut
-[wikipedia-impostor]: https://en.wikipedia.org/wiki/Impostor_syndrome
-[wikipedia-mindset]: https://en.wikipedia.org/wiki/Mindset#Fixed_mindset_and_growth_mindset
 [wikipedia-nihil]: https://en.wikipedia.org/wiki/Nothing_About_Us_Without_Us
 [wikipedia-screen-reader]: https://en.wikipedia.org/wiki/Screen_reader
-[wikipedia-stereotype]: https://en.wikipedia.org/wiki/Stereotype_threat

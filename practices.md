@@ -260,16 +260,17 @@ FIXME: Sticky notes to distribute attention
 
 ## Minute Cards
 
-We frequently use sticky notes as _minute cards_: before each break,
-learners take a minute to write one positive thing on the green sticky
-note (e.g., one thing they've learned that they think will be useful),
-and one thing they found too fast, too slow, confusing, or irrelevant
-on the red one. They can use the red sticky note for questions that
-haven't yet been answered. While they are enjoying their coffee or
-lunch, the instructors review and cluster these to find patterns. It
-only takes a few minutes to see what learners are enjoying, what they
-still find confusing, what problems they're having, and what questions
-are still unanswered.
+We frequently use sticky notes as _[minute
+cards](GLOSSARY.md#minute-cards)_: before each break, learners take a
+minute to write one positive thing on the green sticky note (e.g., one
+thing they've learned that they think will be useful), and one thing
+they found too fast, too slow, confusing, or irrelevant on the red
+one. They can use the red sticky note for questions that haven't yet
+been answered. While they are enjoying their coffee or lunch, the
+instructors review and cluster these to find patterns. It only takes a
+few minutes to see what learners are enjoying, what they still find
+confusing, what problems they're having, and what questions are still
+unanswered.
 
 ## One Up, One Down
 
@@ -286,7 +287,7 @@ both, we hope to get the best of both worlds.
 
 ## Pair Programming
 
-FIXME: define _pair programming_.
+FIXME: define _[pair programming](GLOSSARY.md#pair-programming)_.
 
 Pair programming is a good practice in real life, and also a good way
 to teach {{"porter-what-works"|cite}}. Partners can not only help each
@@ -318,7 +319,7 @@ How then can she clear up many different misconceptions in a
 reasonable time?
 
 The best solution developed so far is a technique called _[peer
-instruction][wikipedia-peer-instruction]_. Originally created by Eric
+instruction](GLOSSARY.md#peer-instruction)_. Originally created by Eric
 Mazur at Harvard, it has been studied extensively in a wide variety of
 contexts, including programming {{"porter-what-works"|cite}}. Peer
 instruction combines formative assessment with student discussion and

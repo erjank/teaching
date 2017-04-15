@@ -4,34 +4,37 @@ This appendix includes material that doesn't naturally fit anywhere else.
 
 ## Key Terms
 
-_Educational psychology_ is the study of how people learn. It touches
-on everything from the neuropsychology of perception and the
-mechanisms of memory to the sociology of school systems and the
-philosophical question of what we actually mean by "learning" (which
-turns out to be pretty complicated once you start looking beyond the
-standardized Western classroom). Within the broad scope of educational
-psychology, two specific perspectives have primarily influenced our
-teaching practices (and by extension, this instructor training).
+_[Educational psychology](GLOSSARY.md#educational-psychology)_ is the
+study of how people learn. It touches on everything from the
+neuropsychology of perception and the mechanisms of memory to the
+sociology of school systems and the philosophical question of what we
+actually mean by "learning" (which turns out to be pretty complicated
+once you start looking beyond the standardized Western
+classroom). Within the broad scope of educational psychology, two
+specific perspectives have primarily influenced our teaching practices
+(and by extension, this instructor training).
 
-The first perspective is _cognitivism_, which treats learning as a
-problem in neuropsychology. Cognitivists focus their attention on
-things like pattern recognition, memory formation, and recall. It is
-good at answering low-level questions, but generally ignores larger
-issues like, "What do we mean by 'learning'?" and, "Who gets to
-decide?"
+The first perspective is _[cognitivism](GLOSSARY.md#cognitivism)_,
+which treats learning as a problem in neuropsychology. Cognitivists
+focus their attention on things like pattern recognition, memory
+formation, and recall. It is good at answering low-level questions,
+but generally ignores larger issues like, "What do we mean by
+'learning'?" and, "Who gets to decide?"
 
 The second perspective is _[situated
-learning][wikipedia-situated-learning]_, which focuses on how
-_[legitimate peripheral participation][wikipedia-peripheral]_ leads to
-people becoming members of a _[community of practice]_.
-Unpacking those terms, the situated learning perspective focuses on the
-transition from being a newcomer to being accepted as a peer by those
-who already do the activity in question. Situated learning is directly
-relevant to our learners, many of whom ease into scientific computing by
-doing small tasks that experienced practitioners would regard as
-straightforward, but who learn how to take on bigger and more novel
-challenges both from what they do and from the feedback (and welcome) it
-elicits. It is equally relevant to our instructors (i.e., you), who are
+learning](GLOSSARY.md#situated-learning)_, which focuses on how
+_[legitimate peripheral
+participation](GLOSSARY.md#legitimate-peripheral-participation)_ leads
+to people becoming members of a _[community of
+practice][GLOSSARY.md#community-of-practice]_.  Unpacking those terms,
+the situated learning perspective focuses on the transition from being
+a newcomer to being accepted as a peer by those who already do the
+activity in question. Situated learning is directly relevant to our
+learners, many of whom ease into scientific computing by doing small
+tasks that experienced practitioners would regard as straightforward,
+but who learn how to take on bigger and more novel challenges both
+from what they do and from the feedback (and welcome) it elicits. It
+is equally relevant to our instructors (i.e., you), who are
 approaching evidence-based teaching in the same way.
 
 For example, Software and Data Carpentry aim to serve researchers who
@@ -47,40 +50,47 @@ with the community of practice.
 
 > **Other Perspectives**
 >
-> There are many other perspectives outside cognitivist theory—see [this
-> site][learning-theories] for summaries. Besides cognitivism, those
-> encountered most frequently include _behaviorism_ (which treats
-> education as stimulus/response conditioning), _constructivism_ (which
-> considers learning an active process during which learners construct
-> knowledge for themselves), _connectivism_ (which emphasizes the social
-> aspects of learning, particularly those made possible by the
-> Internet), and _connectionism_, a cognitivist theory that explains
-> learning as creating connections between concepts.  And yes, it would
-> help if their names were less similar…
+
+> There are many other perspectives outside cognitivist theory—see
+> [this site][learning-theories] for summaries. Besides cognitivism,
+> those encountered most frequently include
+> _[behaviorism](GLOSSARY.md#behaviorism)_ (which treats education as
+> stimulus/response conditioning),
+> _[constructivism](GLOSSARY.md#constructivism)_ (which considers
+> learning an active process during which learners construct knowledge
+> for themselves), _[connectivism](GLOSSARY.md#connectivism)_ (which
+> emphasizes the social aspects of learning, particularly those made
+> possible by the Internet), and
+> _[connectionism](GLOSSARY.md#connectionism)_, a cognitivist theory
+> that explains learning as creating connections between concepts.
+> And yes, it would help if their names were less similar…
 
 Educational psychology does not tell us how to teach on its own
 because it under-constrains the problem: in real life, several
 different teaching methods might be consistent with what we currently
 know about how learning works. We therefore have to try those methods
 in the class, with actual learners, in order to find out how well they
-balance the different forces in play. This is called _instructional
-design_ (ID).  If educational psychology is the science, ID is the
-engineering.
+balance the different forces in play. This is called _[instructional
+design](GLOSSARY.md#instructional-design)_.  If educational psychology
+is the science, instructional design is the engineering.
 
 FIXME: more on ID
 
 In the end, effective teaching often depends on what the teacher knows.
 The things teachers know can be divided into:
 
-*   _content knowledge_, such as the "what" of programming;
+*   _[content knowledge](GLOSSARY.md#content-knowledge)_, such as the
+    "what" of programming;
 
-*   _general pedagogical knowledge_, i.e., an understanding of the
-    psychology of learning; and
+*   _[general pedagogical
+    knowledge](GLOSSARY.md#general-pedagogical-knowledge)_, i.e., an
+    understanding of the psychology of learning; and
 
-*   the _pedagogical content knowledge_ (PCK) that connects the two. PCK
-    is things like what examples to use when teaching how parameters are
-    passed to a function, or what misconceptions about wildcard
-    expansion are most common.
+*   the _[pedagogical content
+    knowledge](GLOSSARY.md#pedagogical-content-knowledge)_ (PCK) that
+    connects the two. PCK is things like what examples to use when
+    teaching how parameters are passed to a function, or what
+    misconceptions about wildcard expansion are most common.
 
 FIXME: more on PCK
 
@@ -411,7 +421,4 @@ they identify include:
 [learning-theories]: http://www.learning-theories.com/
 [live-coding-bad]: https://youtu.be/bXxBeNkKmJE
 [live-coding-good]: https://youtu.be/SkPmwe_WjeY
-[wikipedia-community]: https://en.wikipedia.org/wiki/Community_of_practice
 [wikipedia-learning-modalities]: https://en.wikipedia.org/wiki/Learning_styles#Learning_modalities
-[wikipedia-peripheral]: https://en.wikipedia.org/wiki/Legitimate_peripheral_participation
-[wikipedia-situated-learning]: https://en.wikipedia.org/wiki/Situated_learning

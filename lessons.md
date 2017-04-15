@@ -16,11 +16,11 @@ Most people design lessons as follows:
     exam.
 
 There's a better way, but to explain it, we first need to explain how
-_[test-driven development][wikipedia-tdd]_ (TDD) is used in software
-development.  Programmers who are using TDD don't write software and
-then (possibly) write tests.  Instead, they write the tests first,
-then write just enough new software to make those tests pass, and then
-clean up a bit.
+_[test-driven development](GLOSSARY.md#test-driven-development)_ (TDD)
+is used in software development.  Programmers who are using TDD don't
+write software and then (possibly) write tests.  Instead, they write
+the tests first, then write just enough new software to make those
+tests pass, and then clean up a bit.
 
 TDD works because writing tests forces programmers to specify exactly
 what they're trying to accomplish and what "done" looks like. It's
@@ -37,10 +37,12 @@ work and really, really wants to be done.
 FIXME: introduce Dee Fink's free book here
 
 A similar "backward" method works very well for lesson design.  This
-method is something called _reverse instructional design_ or
-_understanding by design_ (after a book by Wiggins and McTighe
-with that name {{"wiggins-mctighe"|cite}}).  There are several
-variations, but the one we recommend has the following steps:
+method is something called _[reverse instructional
+design](GLOSSARY.md#reverse-instructional-design)_ or _[understanding
+by design](GLOSSARY.md#understanding-by-design)_ (after a book by
+Wiggins and McTighe with that name {{"wiggins-mctighe"|cite}}).  There
+are several variations, but the one we recommend has the following
+steps:
 
 1.  Create learner profiles (discussed in the next section) to figure
     out who you are trying to teach and what will appeal to them.
@@ -102,11 +104,11 @@ course hasn't prepared them for.
 ## Learner Profiles
 
 The first piece of the process above is figuring out who your audience
-is.  One way to do this is to write two or three _learner
-profiles_. This technique is borrowed from user interface design,
-where short profiles of typical users are created to help designers
-think about their audience's needs, and to give them a shorthand for
-talking about specific cases.
+is.  One way to do this is to write two or three _[learner
+profiles](GLOSSARY.md#learner-profile)_. This technique is borrowed
+from user interface design, where short profiles of typical users are
+created to help designers think about their audience's needs, and to
+give them a shorthand for talking about specific cases.
 
 Learner profiles have five parts: the person's general background,
 what they already know, what *they* think they want to do, how
@@ -147,12 +149,11 @@ would Jorge face?"
 
 Summative and formative assessments help instructors figure out what
 they're going to teach, but in order to communicate that to learners
-and other instructors, a course description should also
-have _learning objectives_. A learning objective is a single
+and other instructors, a course description should also have
+_[learning objectives](GLOSSARY.md#learning-objective)_ (sometimes
+also called a *learning goal*). A learning objective is a single
 sentence describing what a learner will be able to do once they have
 sat through the lesson in order to demonstrate what they have learned.
-
-FIXME: also called "learning goals"
 
 Learning objectives are meant to ensure that everyone has the same
 understanding of what a lesson is supposed to accomplish. For example,
@@ -171,10 +172,11 @@ each of this would be backed by a very different lesson:
 
 > **Objectives vs. Outcomes**
 > 
-> A _learning objective_ is what a lesson strives to achieve.  A
-> _learning outcome_ is what it actually achieves, i.e., what
-> learners actually take away.  The role of summative assessment is
-> therefore to compare outcomes with objectives.
+> A learning objective is what a lesson strives to achieve.  A
+> _[learning outcome](GLOSSARY.md#learning-outcome)_ is what it
+> actually achieves, i.e., what learners actually take away.  The role
+> of summative assessment is therefore to compare outcomes with
+> objectives.
 
 More specifically, a good learning objective has a *measurable or
 verifiable verb* that states what the learner will do, and specifies
@@ -234,4 +236,3 @@ objectives.
 {% references %} {% endreferences %}
 
 [wikipedia-bloom]: https://en.wikipedia.org/wiki/Bloom's_taxonomy
-[wikipedia-tdd]: https://en.wikipedia.org/wiki/Test-driven_development

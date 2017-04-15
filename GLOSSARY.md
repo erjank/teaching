@@ -12,9 +12,9 @@ FIXME
 
 FIXME
 
-## Cognitive Load
+## Cognitive Load Theory
 
-FIXME
+[FIXME][wikipedia-cognitive-load]
 
 ## Cognitivism
 
@@ -22,7 +22,7 @@ FIXME
 
 ## Community of Practice
 
-FIXME
+[FIXME][wikipedia-community]
 
 ## Competent Practitioner
 
@@ -41,6 +41,10 @@ FIXME
 FIXME
 
 ## Constructivism
+
+FIXME
+
+## Content Knowledge
 
 FIXME
 
@@ -72,7 +76,13 @@ FIXME
 
 FIXME
 
-## Fluid Representations
+## Fixed Mindset
+
+[FIXME][wikipedia-mindset]
+
+See also [growth mindset](#growth-mindset).
+
+## Fluid Representation
 
 FIXME
 
@@ -84,9 +94,15 @@ FIXME
 
 FIXME
 
+## Growth Mindset
+
+[FIXME][wikipedia-mindset]
+
+See also [fixed mindset](#fixed-mindset).
+
 ## Impostor Syndrome
 
-FIXME
+[FIXME][wikipedia-impostor]
 
 ## Inclusivity
 
@@ -94,7 +110,7 @@ FIXME
 
 ## Inquiry-Based Learning
 
-FIXME
+[FIXME][wikipedia-inquiry]
 
 ## Instructional Design
 
@@ -122,7 +138,7 @@ What a lesson actually achieves.
 
 ## Legitimate Peripheral Participation
 
-FIXME
+[FIXME][wikipedia-peripheral-participation]
 
 ## Live Coding
 
@@ -154,11 +170,11 @@ FIXME
 
 ## Peer Instruction
 
-FIXME
+[FIXME][wikipedia-peer-instruction]
 
 ## Persistent Memory
 
-FIXME
+See [long-term memory](#long-term-memory).
 
 ## Plausible Distractor
 
@@ -178,15 +194,15 @@ FIXME
 
 ## Short-Term Memory
 
-See also [working memory](#working-memory).
+FIXME
 
 ## Situated Learning
 
-FIXME
+[FIXME][wikipedia-situated-learning]
 
 ## Stereotype Threat
 
-FIXME
+[FIXME][wikipedia-stereotype]
 
 ## Summative Assessment
 
@@ -198,7 +214,7 @@ FIXME
 
 ## Test-Driven Development
 
-FIXME
+[FIXME][wikipedia-tdd]
 
 ## Understanding by Design
 
@@ -207,3 +223,14 @@ See [reverse instructional design](#reverse-instructional-design).
 ## Working Memory
 
 See also [short-term memory](#short-term-memory).
+
+[wikipedia-cognitive-load]: https://en.wikipedia.org/wiki/Cognitive_load
+[wikipedia-community]: https://en.wikipedia.org/wiki/Community_of_practice
+[wikipedia-impostor]: https://en.wikipedia.org/wiki/Impostor_syndrome
+[wikipedia-inquiry]: https://en.wikipedia.org/wiki/Inquiry-based_learning
+[wikipedia-mindset]: https://en.wikipedia.org/wiki/Mindset#Fixed_mindset_and_growth_mindset
+[wikipedia-peer-instruction]: https://en.wikipedia.org/wiki/Peer_instruction
+[wikipedia-peripheral-participation]: https://en.wikipedia.org/wiki/Legitimate_peripheral_participation
+[wikipedia-situated-learning]: https://en.wikipedia.org/wiki/Situated_learning
+[wikipedia-stereotype]: https://en.wikipedia.org/wiki/Stereotype_threat
+[wikipedia-tdd]: https://en.wikipedia.org/wiki/Test-driven_development

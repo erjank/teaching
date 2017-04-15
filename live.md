@@ -8,10 +8,11 @@ And as in those fields, we have a collection of small tips and tricks
 to make teaching work better.
 
 The first of our recommended teaching practices is so central that it
-deserves a chapter of its own: _live coding_.  When they are live
-coding, instructors don't use slides.  Instead, they go through the
-lesson material, typing in the code or instructions, with their
-learners following along.  Its advantages are:
+deserves a chapter of its own: _[live
+coding](glossary.md#live-coding)_.  When they are live coding,
+instructors don't use slides.  Instead, they go through the lesson
+material, typing in the code or instructions, with their learners
+following along.  Its advantages are:
 
 1.  Watching a program being written is more compelling than watching
     someone page through slides that present bits and pieces of the same

@@ -61,7 +61,8 @@ worse:
 > have been equally drab. Without *jugyokenkyu*, how could you
 > even teach?
 
-So what does _jugyokenkyu_ look like in practice?
+So what does _[jugyokenkyu](GLOSSARY.md#jugyokenkyu)_ look like in
+practice?
 
 > In order to graduate, education majors not only had to watch their
 > assigned master teacher work, they had to effectively replace him,
@@ -162,14 +163,14 @@ Barker et al found something similar {{"barker-practice-adoption"|cite}}:
 > layouts. Positive student feedback is taken as strong evidence by
 > faculty that they should continue a practice.
 
-This phenomenon is sometimes called _lateral knowledge transfer_:
-someone sets out to teach X, but while watching them, their audience
-actually learns Y as well (or instead). For example, an instructor
-might set out to show people how to do a particular statistical
-analysis in R, but what her learners might take away is some new
-keyboard shortcuts in R Studio. Live coding makes this much more
-likely because it allows learners to see the "how" as well as the
-"what".
+This phenomenon is sometimes called _[lateral knowledge
+transfer](GLOSSARY.md#lateral-knowledge-transfer)_: someone sets out
+to teach X, but while watching them, their audience actually learns Y
+as well (or instead). For example, an instructor might set out to show
+people how to do a particular statistical analysis in R, but what her
+learners might take away is some new keyboard shortcuts in R
+Studio. Live coding makes this much more likely because it allows
+learners to see the "how" as well as the "what".
 
 FIXME: make a stronger connection between *jugyokenkyu* and lateral
 knowledge transfer.

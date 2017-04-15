@@ -36,19 +36,20 @@ This metaphor helps explain many observed aspects of expert behavior:
 *   Experts are frequently so familiar with their subject that they can
     no longer imagine what it's like to *not* see the world that
     way. As a result, they are often less good at teaching the subject
-    than people with less expertise who still remember what it's like to
-    have to learn the things. This phenomenon is called _expert
-    blind spot_, and while it can be overcome with training, it's part
-    of why there is no correlation between how good someone is at
-    doing research in an area and how good they are at teaching it
+    than people with less expertise who still remember what it's like
+    to have to learn the things. This phenomenon is called _[expert
+    blind spot](GLOSSARY.md#(GLOSSARY.md#xpert-blind-spot))_, and
+    while it can be overcome with training, it's part of why there is
+    no correlation between how good someone is at doing research in an
+    area and how good they are at teaching it
     {{"marsh-hattie-teaching"|cite}}.
 
-*   Densely-connected knowledge graphs are also the basis for
-    experts' _fluid representations_, i.e., their ability to switch
-    back and forth between different views of a problem
-    {{"petre-expertise"|cite}}.  For example, when trying to solve a
-    problem in mathematics, we might switch between tackling it
-    geometrically and representing it as a set of equations to be
+*   Densely-connected knowledge graphs are also the basis for experts'
+    _[fluid representations](GLOSSARY.md#fluid-representation)_, i.e.,
+    their ability to switch back and forth between different views of
+    a problem {{"petre-expertise"|cite}}.  For example, when trying to
+    solve a problem in mathematics, we might switch between tackling
+    it geometrically and representing it as a set of equations to be
     solved.
 
 *   Finally, this metaphor also explains why experts are better at
@@ -83,10 +84,12 @@ remembered.
 > expert in some field is widely quoted, but reality is more complex.
 > Doing exactly the same thing over and over again is much more likely
 > to solidify bad habits than perfect performance.  What actually
-> works is _deliberate practice_ (also sometimes called _reflective
-> practice_), which is doing similar but subtly different things,
-> paying attention to what works and what doesn't, and then changing
-> behavior in response to that feedback to get cumulatively better.
+> works is _[deliberate practice](GLOSSARY.md#deliberate-practice)_
+> (also sometimes called _[reflective
+> practice](GLOSSARY.md#reflective-practice)_), which is doing similar
+> but subtly different things, paying attention to what works and what
+> doesn't, and then changing behavior in response to that feedback to
+> get cumulatively better.
 > 
 > A common progression is for people to go through three stages:
 > 
@@ -117,13 +120,13 @@ remembered.
 ## Concept Maps
 
 Our tool of choice to represent a knowledge graph (expert or
-otherwise) is a _concept map_.  A concept map is simply a picture
-of someone's mental model of a domain: facts are bubbles, and
-connections are labelled arcs. It is important that they are labelled:
-saying "X and Y are related" is only helpful if we explain what the
-relationship *is*. And yes, one person's fact may be another
-person's connection, but one of the benefits of concept mapping is
-that it makes those differences explicit.
+otherwise) is a _concept map(GLOSSARY.md#concept-map)_.  A concept map
+is simply a picture of someone's mental model of a domain: facts are
+bubbles, and connections are labelled arcs. It is important that they
+are labelled: saying "X and Y are related" is only helpful if we
+explain what the relationship *is*. And yes, one person's fact may be
+another person's connection, but one of the benefits of concept
+mapping is that it makes those differences explicit.
 
 > **Externalizing Cognition**
 > 
@@ -131,10 +134,11 @@ that it makes those differences explicit.
 > subject.  For example, Andrew Abela's [decision tree][abela-chart]
 > presents a mental model of how to choose the right kind of chart for
 > different kinds of questions and data.  Maps, flowcharts, and
-> blueprints can also be useful in some contexts.  What each does
-> is _externalize cognition_, i.e., make thought processes and
-> mental models visible so that they can be compared, contrasted, and
-> combined.
+> blueprints can also be useful in some contexts.  What each does is
+> _[externalize
+> cognition](GLOSSARY.md#(GLOSSARY.md#xternalized-cognition))_, i.e.,
+> make thought processes and mental models visible so that they can be
+> compared, contrasted, and combined.
 
 To show what concept maps look like, consider this simple `for
 loop in Python:
@@ -207,35 +211,37 @@ Concept maps can be used in many ways:
 
 The graph model of knowledge is wrong but useful, but another simple
 model has a sound physical basis.  As a rough approximation, human
-memory can be divided into two distinct layers. The first is
-called _long-term_ or _persistent memory_. It is where we
-store things like our password, our home address, and what the clown
-did at our eighth birthday party that scared us so much. It is
-essentially unbounded: barring injury or disease, we will die before
-it fills up.  However, it is also slow to access–too slow to help us
-handle hungry lions and disgruntled family members.
+memory can be divided into two distinct layers. The first is called
+_[long-term](GLOSSARY.md#long-term-memory)_ or _[persistent
+memory](GLOSSARY.md#persistent-memory)_. It is where we store things
+like our password, our home address, and what the clown did at our
+eighth birthday party that scared us so much. It is essentially
+unbounded: barring injury or disease, we will die before it fills up.
+However, it is also slow to access–too slow to help us handle hungry
+lions and disgruntled family members.
 
-Evolution has therefore given us a second system called _short-term_
-or _working memory_. It is much faster, but also much smaller: in
-1956, Miller estimated that the average adult's working memory could
-hold 7±2 items for a few seconds before things started to drop
-out[^1]. This is why phone numbers are typically 7 or 8 digits long:
-back when phones had dials instead of keypads, that was the longest
-string of numbers most adults could remember accurately for as long as
-it took the dial to go around and around. It's also why sports teams
-tend to have about half a dozen members, or be broken down into
+Evolution has therefore given us a second system called
+_[short-term](GLOSSARY.md#short-term-memory)_ or _[working
+memory](GLOSSARY.md#working-memory)_. It is much faster, but also much
+smaller: in 1956, Miller estimated that the average adult's working
+memory could hold 7±2 items for a few seconds before things started to
+drop out[^1]. This is why phone numbers are typically 7 or 8 digits
+long: back when phones had dials instead of keypads, that was the
+longest string of numbers most adults could remember accurately for as
+long as it took the dial to go around and around. It's also why sports
+teams tend to have about half a dozen members, or be broken down into
 smaller groups (such as the forwards and backs in rugby).
 
 > **Chunking**
 > 
 > Our minds can store larger numbers of facts in short-term memory by
-> creating _chunks_. For example, most of us will remember a word we
-> read as a single item, rather than as a sequence of letters.
-> Similarly, the pattern made by five spots on cards or dice is
-> remembered as a whole rather than as five separate pieces of
-> information.  Chunks allow us to manage larger problems, but can
-> also mislead us if we mis-identify something, i.e., see it as
-> something it isn't.
+> creating _[chunks](GLOSSARY.md#chunking)_. For example, most of us
+> will remember a word we read as a single item, rather than as a
+> sequence of letters.  Similarly, the pattern made by five spots on
+> cards or dice is remembered as a whole rather than as five separate
+> pieces of information.  Chunks allow us to manage larger problems,
+> but can also mislead us if we mis-identify something, i.e., see it
+> as something it isn't.
 >
 > FIXME: experts have more and larger chunks.  Refer forward to
 > the material from Neil Brown on patterns in "Load".

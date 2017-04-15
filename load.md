@@ -19,16 +19,18 @@ says:
 
 The paper set off a minor academic firestorm, because beneath the
 jargon the authors were claiming that _[inquiry-based
-learning][wikipedia-inquiry]_–allowing learners to ask their own
-questions, set their own goals, and find their own path through a
-subject–is intuitively appealing, but doesn't actually work very
-well. Kirschner et al argued that this was because it requires
-learners to simultaneously master both a domain's factual content and
-its problem-solving strategies.
+learning](GLOSSARY.md#inquiry-based-learning)_ doesn't actually work
+very well.  Inquiry-based learning is the practice of allowing
+learners to ask their own questions, set their own goals, and find
+their own path through a subject, just as they would when solving
+problems in real life.  It is intuitively appealing, but Kirschner
+argued that it overloads learners, since it requires them to
+simultaneously master both a domain's factual content and its
+problem-solving strategies.
 
-More specifically, the theory of _[cognitive
-load][wikipedia-cognitive-load]_ posits that people have to deal with
-three things when they're learning:
+More specifically, _[cognitive load
+theory](GLOSSARY.md#cognitive-load-theory)_ posits that people have to
+deal with three things when they're learning:
 
 1.  *Intrinsic* load is what people have to keep in mind in order to
     carry out a learning task.  In a programming class, this might be
@@ -49,14 +51,14 @@ According to this theory, searching for a solution strategy is an
 extra burden on top of applying that strategy. We can therefore
 accelerate learning by giving learners worked examples that show them
 a problem and a detailed step-by-step solution, followed by a series
-of _faded examples_. The first of these presents a nearly-complete use
-of the same problem-solving strategy just demonstrated, but with a
-small number of blanks for the learner to fill in. The next problem is
-also of the same type, but has more blanks, and so on until the
-learner is asked to solve the entire problem.  (The material that
-*isn't* blank is often referred to as _scaffolding_, since it serves
-the same purpose as the scaffolding set up temporarily at a building
-site.)
+of _[faded examples](GLOSSARY.md#faded-example)_. The first of these
+presents a nearly-complete use of the same problem-solving strategy
+just demonstrated, but with a small number of blanks for the learner
+to fill in. The next problem is also of the same type, but has more
+blanks, and so on until the learner is asked to solve the entire
+problem.  (The material that *isn't* blank is often referred to as
+_[scaffolding](GLOSSARY.md#scaffolding)_, since it serves the same
+purpose as the scaffolding set up temporarily at a building site.)
 
 For example, someone teaching Python might start by explaining this:
 
@@ -146,12 +148,13 @@ However, there is no doubt that faded examples are effective.
 > at part of the diagram will trigger recall of what was being said.
 
 Another way to use cognitive load theory to construct exercises is
-called a _Parsons Problem_.  If you are teaching someone to
-speak a new language, you could ask them a question, and then give
-them the words they need to answer the question, but in jumbled
-order.  Their task is to put the words in the right order to answer
-the question grammatically, which frees them from having to think
-simultaneously about what to say *and* how to say it.
+called a _[Parsons Problem](GLOSSARY.md#parsons-problem)_.  If you are
+teaching someone to speak a new language, you could ask them a
+question, and then give them the words they need to answer the
+question, but in jumbled order.  Their task is to put the words in the
+right order to answer the question grammatically, which frees them
+from having to think simultaneously about what to say *and* how to say
+it.
 
 Similarly, when teaching people to program, you can give them the
 lines of code they need to solve a problem, and ask them to put them
@@ -251,6 +254,4 @@ with that person as a learner to help identify different loads.
 {% references %} {% endreferences %}
 
 [cognitive-load-unfalsifiable]: https://edtechdev.wordpress.com/2009/11/16/cognitive-load-theory-failure/
-[wikipedia-cognitive-load]: https://en.wikipedia.org/wiki/Cognitive_load
-[wikipedia-inquiry]: https://en.wikipedia.org/wiki/Inquiry-based_learning
 [wikipedia-split-attention]: https://en.wikipedia.org/wiki/Split_attention_effect
