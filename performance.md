@@ -246,6 +246,9 @@ FIXME: opening sentence about *giving* feedback
 
 FIXME: forward reference to feedback on demo video
 
+FIXME: refer back to formative assessment discussion - feedback on
+teaching is meant to be formative.
+
 > **Studio Classes**
 > 
 > Architecture schools often include studio classes, in which students

@@ -188,8 +188,8 @@ questionnaire like the one below.  It doesn't tell us everything we
 might want to know, but it does give trainers a pretty clear idea of
 who they're speaking to.
 
-1.  Have you ever participated in a Software Carpentry or Data Carpentry
-    workshop? (Check all that apply.)
+1.  Have you ever participated in a Software Carpentry workshop?
+    (Check all that apply.)
     *   Yes, as a learner.
     *   Yes, as a helper.
     *   Yes, as an organizer.
@@ -215,17 +215,17 @@ who they're speaking to.
     *   A certification or short course
     *   A full degree
 
-1.  How frequently do you work with the tools that Data Carpentry and
-    Software Carpentry teach, such as R, Python, MATLAB, Perl, SQL, Git,
-    OpenRefine, and the Unix Shell?
+1.  How frequently do you work with the tools that Software Carpentry
+    teaches, such as R, Python, MATLAB, Perl, SQL, Git, and the Unix
+    Shell?
     *   Every day
     *   A few times a week
     *   A few times a month
     *   A few times a year
     *   Never or almost never
 
-1.  How often would you expect to teach on Software or Data Carpentry
-    Workshops after this training?
+1.  How often would you expect to teach a Software Carpentry workshop
+    after this training?
     *   Not at all
     *   Once a year
     *   Several times a year
@@ -287,6 +287,8 @@ hope to get the best of both worlds.
 
 ## Pair Programming
 
+FIXME: define pair programming.
+
 Pair programming is a good practice in real life, and also a good way
 to teach {{"porter-what-works"|cite}}. Partners can not only help each
 other out during the practical, but can also clarify each other's
@@ -300,6 +302,10 @@ When pair programming is used it's important to put *everyone* in
 pairs, not just the learners who are struggling, so that no one feels
 singled out. It's also useful to have people sit in new places (and
 hence pair with different partners) after each coffee or meal break.
+
+FIXME: comment on the importance of switching roles within each pair.
+
+FIXME: comment on pros and cons of having pairs switch up.
 
 ## Have Learners Make Predictions
 
@@ -353,6 +359,9 @@ FIXME: important to have learners record their votes so that they
 can't change their minds afterward and rationalize it (making
 excuses to themselves like "I just misread the question") - value
 comes from the jarring experience of having their answer be wrong.
+
+FIXME: include reference to Peter Newbury's guide
+http://www.cwsei.ubc.ca/Files/ReadySetReact_3fold.pdf
 
 ## Setting Up Your Learners
 

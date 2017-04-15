@@ -1,15 +1,15 @@
 # Motivation and Demotivation
 
-Learners need encouragement to step out into new and familiar terrain,
-so this chapter discusses ways instructors can motivate them.  More
+Learners need encouragement to step out into unfamiliar terrain, so
+this chapter discusses ways instructors can motivate them.  More
 importantly, it discusses ways that we can accidentally *demotivate*
 them, and how we can avoid doing that.
 
 People learn best when they care about the topic and believe they can
 master it. This presents us with a problem because most people don't
 actually want to program: they want to make music or compare changes
-to zoning laws with family incomes, and rightly regarding programming
-as a tax they have to pay in order to do so. In addition, their early
+to zoning laws with family incomes, and rightly regard programming as
+a tax they have to pay in order to do so. In addition, their early
 experiences with programming are often demoralizing, and believing
 that something will be hard to learn is a self-fulfilling prophecy.
 
@@ -50,13 +50,13 @@ they'll stick with us.
 
 The best-studied use of this idea is the media computation approach
 developed by Guzdial and Ericson at Georgia Tech
-{{"guzdial-mediacomp-retrospective"|cite}}.
-Instead of printing "hello world" or summing the first ten integers,
-their students' first program opens an image, resizes it to create at
-thumbnail, and saves the result. This is an *authentic task*,
-i.e., something that learners believe they would actually do in real
-life. It is also *tangible*: if the image comes out the wrong
-size, learners have a concrete starting point for debugging.
+{{"guzdial-mediacomp-retrospective"|cite}}.  Instead of printing
+"hello world" or summing the first ten integers, their students' first
+program opens an image, resizes it to create a thumbnail, and saves
+the result. This is an *authentic task*, i.e., something that learners
+believe they would actually do in real life. It is also *tangible*: if
+the image comes out the wrong size, learners have a concrete starting
+point for debugging.
 
 > **Strategies for Motivating Learners**
 > 
@@ -266,6 +266,8 @@ have also shown that the simple action of telling learners about the
 different mindsets before a course can improve learning outcomes for
 the whole group.
 
+FIXME: use of gendered pronoun in the preceding paragraph
+
 As with stereotype threat, [there are
 concerns][growth-mindset-concerns] that research on grown mindset has
 been oversold, or will be much more difficult to put into practice
@@ -385,7 +387,7 @@ usefulness"?  In the shared notes, write the task and where it fits
 on the grid. As a group, discuss how these relate back to the "teach
 most immediately useful first" approach.
 
-### Pick One
+### Implement One Strategy for Inclusivity
 
 Pick one activity or change in practice from Lee's paper
 {{"lee-create-inclusive-community"|cite}} that you would like to work

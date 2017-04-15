@@ -1,8 +1,13 @@
 # Checklists
 
+FIXME: make it clear that these are sample checklists for actual
+workshops, not instructor training events.
+
 See Atul Gawande's 2007 article "[The Checklist][gawande-checklist]"
 for a look at how using checklists can save lives (and make many other
 things better too).
+
+FIXME: also refer to https://twitter.com/holden/status/852891255423946753
 
 ## Scheduling the Event
 

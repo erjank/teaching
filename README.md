@@ -41,6 +41,9 @@ learners.  It covers:
 *   how insights and techniques borrowed from the performing arts can
     make you a better teacher.
 
+FIXME: brief note on terminology distinguishing actual workshops from
+instructor training workshops.
+
 ## History
 
 I started teaching people how to program in the late 1980s.  At first,

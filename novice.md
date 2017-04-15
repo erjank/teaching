@@ -122,6 +122,8 @@ Broadly speaking, learners' misconceptions fall into three categories:
     belief that can't be reasoned away, such as "WiFi gives you
     cancer".
 
+## Formative Assessment
+
 Teaching is most effective when instructors have a way to identify and
 clear up learners' misconceptions *while they are teaching*.  The
 technical term for this is *formative assessment*, which is
@@ -133,19 +135,21 @@ teacher might ask a student to play a scale very slowly in order to
 see whether she is breathing correctly, and if she is not, what she
 should change.
 
-The counterpoint to formative assessment is *summative
-assessment*, which is used at the end of the lesson to tell whether
-the desired learning took place and whether the learner is ready to
-move on.  Learners either pass or fail a summative assessment. One
-example is a driving exam, which reassures the rest of society that
-someone can safely be allowed on the road.
+The counterpoint to formative assessment is *summative assessment*,
+which is used at the end of the lesson to tell whether the desired
+learning took place and whether the learner is ready to move on[^2].
+Learners either pass or fail a summative assessment. One example is a
+driving exam, which reassures the rest of society that someone can
+safely be allowed on the road.
 
 > **Connecting Formative and Summative Assessment**
 > 
 > One rule to use when designing lessons is that formative assessments
 > should prepare people for summative assessments: no one should ever
-> encounter a question on an exam for which the teaching did not prepare
-> them.
+> encounter a question on an exam for which the teaching did not
+> prepare them.  This doesn't mean that novel problems should not
+> appear, but that if they do, learners should have have practice with
+> and feedback on tackling novel problems beforehand.
 
 In order to be useful during teaching, a formative assessment has to
 be quick to administer and give an unambiguous result. The most widely
@@ -191,14 +195,15 @@ political issue to your audience.
 
 Instructors should use MCQs or some other kind of formative assessment
 at least every 10-15 minutes in order to make sure that the class is
-actually learning. Since the average attention span is usually only this
-long, formative assessments also help break up instructional time and
-re-focus attention. Formative assessments can also be used preemptively:
-if you start a class with an MCQ and everyone can answer it correctly,
-then you can safely skip the part of the lecture in which you were going
-to explain something that your learners already know. (Doing this also
-helps show learners that the instructor cares about how much they are
-learning.)
+actually learning. Since the average attention span is usually only
+this long, formative assessments also help break up instructional time
+and re-focus attention. Formative assessments can also be used
+preemptively: if you start a class with an MCQ and everyone can answer
+it correctly, then you can safely skip the part of the lecture in
+which you were going to explain something that your learners already
+know. Doing this also helps show learners that the instructor cares
+about how much they are learning, and respects their time enough not
+to waste it.
 
 > **When to Proceed?**
 > 
@@ -221,18 +226,21 @@ learning.)
 
 <!-- comment needed to separate blockquotes -->
 
-> **A Note on MCQ Design**
+> **Notes on MCQ Design**
 > 
-> *   A good MCQ tests for conceptual misunderstanding rather than simple
->     factual knowledge. If you are having a hard time coming up with
->     diagnostic distractors, then either you need to think more about your
->     learners' mental models, or your question simply isn't a good starting
->     point for an MCQ.
+> 1.  A good MCQ tests for conceptual misunderstanding rather than
+>     simple factual knowledge. If you are having a hard time coming
+>     up with diagnostic distractors, then either you need to think
+>     more about your learners' mental models, or your question simply
+>     isn't a good starting point for an MCQ.
 > 
-> *   When you are trying to come up with distractors, think about questions
->     that learners asked or problems they had the last time you taught this
->     subject. If you haven't taught it before, think about your own
->     misconceptions or ask colleagues about their experiences.
+> 2.  When you are trying to come up with distractors, think about
+>     questions that learners asked or problems they had the last time
+>     you taught this subject. If you haven't taught it before, think
+>     about your own misconceptions or ask colleagues about their
+>     experiences.  You can also ask open-ended questions in one class
+>     to collect misconceptions about material to be covered in a
+>     later class.
 
 <!-- comment needed to separate blockquotes -->
 
@@ -267,6 +275,9 @@ their point of view.
 
 If you haven't done so already, you should start using these three
 teaching practices in your instructor training workshop:
+
+FIXME: make it clear that this refers to a class where *this material*
+is being taught.
 
 *   [Use sticky notes as status flags](/practices/#stickies)
 
@@ -331,6 +342,10 @@ to get coffee.
 **Footnotes**
 
 [^1]: It's Victoria.
+
+[^2]: "When the cook tastes the soup, that’s formative: When the
+      guests taste the soup, that’s summative." (Michael Scriven,
+      as quoted by Debra Dirksen.)
 
 ----
 

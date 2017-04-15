@@ -13,15 +13,15 @@ cases where the normal rules don't apply.  They also somehow make this
 look effortless: in most cases, they just know what the right answer
 is.
 
-What makes someone an expert? The answer isn't that they know more
-facts: competent practitioners can memorize a lot of trivia without
-any noticeable improvement to their performance.  Instead, imagine for
-a moment that we store knowledge as a graph in which facts are nodes
-and relationships are arcs. (This is emphatically *not* how our
-brains work, but it's a useful metaphor.) The key difference between
-experts and people who are "merely competent" is that experts have
-many more connections, i.e., their mental models are much more densely
-connected.
+What makes someone an expert? The answer isn't just that they know
+more facts: competent practitioners can memorize a lot of trivia
+without any noticeable improvement to their performance.  Instead,
+imagine for a moment that we store knowledge as a graph in which facts
+are nodes and relationships are arcs. (This is emphatically *not* how
+our brains work, but it's a useful metaphor.) The key difference
+between experts and people who are "merely competent" is that experts
+have many more connections, i.e., their mental models are much more
+densely connected.
 
 This metaphor helps explain many observed aspects of expert behavior:
 
@@ -227,17 +227,6 @@ it took the dial to go around and around. It's also why sports teams
 tend to have about half a dozen members, or be broken down into
 smaller groups (such as the forwards and backs in rugby).
 
-> **Serial Position Effect**
-> 
-> When we memorize words in a list and are asked to immediately recall
-> them, the words first presented will have the best chance to be
-> transferred into long-term memory. On the other hand, the items that
-> are presented last might still be in short-term memory. These are
-> referred to as the primacy and recency effects, respectively, and
-> together they form the *serial position effect*.
-
-<!-- -->
-
 > **Chunking**
 > 
 > Our minds can store larger numbers of facts in short-term memory by
@@ -293,19 +282,6 @@ just how many pieces of separate information will need to be
 > discussion can be…vigorous.
 
 ## Challenges
-
-### The Serial Position Effect
-
-Read the following list and try to memorize the items in it: cat,
-apple, ball, tree, square, head, house, door, box, car, king, hammer,
-milk, fish, book, tape, arrow, flower, key, shoe.
-
-Without looking at the list again, write down as many words from the
-list as you can. Compare to other members of the group. What words are
-remembered the most?
-
-[This website][serial-position] implements an interactive version of
-this exercise.
 
 ### Concept Mapping
 

@@ -8,6 +8,7 @@
   * [Dedication](index.md#dedication)
   * [Challenges](index.md#challenges)
 * [Helping Novices Build Mental Models](novice.md)
+  * [Formative Assessment](novice.md#formative-assessment)
   * [Teaching Practices](novice.md#teaching-practices)
   * [Challenges](novice.md#challenges)
 * [Teaching as a Performance Art](performance.md)

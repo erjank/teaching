@@ -30,18 +30,20 @@ More specifically, the theory of *[cognitive
 load][wikipedia-cognitive-load]* posits that people have to deal with
 three things when they're learning:
 
-*   *Intrinsic* load is what people have to keep in mind in order to
+FIXME: link back to chunking
+
+1.  *Intrinsic* load is what people have to keep in mind in order to
     carry out a learning task.  In a programming class, this might be
     understanding what a variable is, or understanding how assignment in
     a programming language is different from creating a reference to a
     cell in a spreadsheet.
 
-*   *Germane* load is the (desirable) mental effort required to
+2.  *Germane* load is the (desirable) mental effort required to
     create linkages between new information and old (which is one of the
     things that distinguishes learning from memorization).  An example
     might be learning how to loop through a collection in Python.
 
-*   *Extraneous* load is everything else that distracts or gets in
+3.  *Extraneous* load is everything else that distracts or gets in
     the way, such as knowing that tabs look like multiple characters but
     only count as one when indenting Python code.
 
@@ -49,12 +51,13 @@ According to this theory, searching for a solution strategy is an
 extra burden on top of applying that strategy. We can therefore
 accelerate learning by giving learners worked examples that show them
 a problem and a detailed step-by-step solution, followed by a series
-of *faded examples*. The first of these presents a
-nearly-complete use of the same problem-solving strategy just
-demonstrated, but with a small number of blanks for the learner to
-fill in. The next problem is also of the same type, but has more
-blanks, and so on until the learner is asked to solve the entire
-problem.
+of *faded examples*. The first of these presents a nearly-complete use
+of the same problem-solving strategy just demonstrated, but with a
+small number of blanks for the learner to fill in. The next problem is
+also of the same type, but has more blanks, and so on until the
+learner is asked to solve the entire problem.
+
+FIXME: introduce the term "scaffolding" here.
 
 For example, someone teaching Python might start by explaining this:
 

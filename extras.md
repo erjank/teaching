@@ -162,6 +162,8 @@ this can be done while setting up before the start of the class.
 
 ## You Are Not Your Learners
 
+FIXME: important enough to move into main text
+
 People learn best when they care about the topic and believe they can
 master it. Neither fact is particularly surprising, but their
 practical implications have a lot of impact on what we teach, and the
@@ -208,8 +210,9 @@ lead-in to lunchtime discussion.
 
 One of the key elements of this training course is recording trainees
 and having them, and their peers, critique those recordings. We were
-introduced to this practice by UBC's Warren Code, and it has evolved to
-the following:
+introduced to this practice by UBC's Warren Code, who learned it from
+the [Instructional Skills Workshop](https://iswnetwork.ca/), and it
+has evolved to the following:
 
 1.  On day 1, show trainees a short clip (3-4 minutes) of someone teaching
     a lesson and have them give feedback as a group. This feedback is
@@ -368,8 +371,8 @@ This was the first format we used, and we no longer recommend it.
 
 ### Two-Day In-Person
 
-This was the second method we tried. The biggest change was the
-introduction of recorded teaching exercises.
+This was the second method we tried, and the one we now recommend. The
+biggest change was the introduction of recorded teaching exercises.
 
 *   Several times during the training, participants are divided into
     groups of three and asked to teach a short lesson (typically 2-3
@@ -406,6 +409,25 @@ geographically distributed.
     than by using the Etherpad chat.
 
 *   We do the video lecture exercise as in the two-day in-person training.
+
+## Why We Are Not a MOOC
+
+> *If you use robots to teach, you teach people to be robots.*  
+> – variously attributed
+
+Massive open online courses (MOOCs) in which students watch videos
+instead of attending lectures, and then do assignments that are
+(usually) robo-graded, were a hot topic a few years ago.  Now that the
+hype has worn off, though, it's clear that they aren't as effective as
+their more enthusiastic proponents claimed they would
+be {{"ubell-moocs"|cite}}.
+
+Recorded content is ineffective for most novices learners because it
+cannot intervene to clear up specific learners' misconceptions. Some
+people happen to already have the right conceptual categories for a
+subject, or happen to form them correctly early on; these are the ones
+who stick with most massive online courses, but many discussions of
+the effectiveness of such courses ignore this survivor bias.
 
 ## Effecting Change
 
@@ -459,25 +481,6 @@ they identify include:
     governed by a complex system. Innovation will occur through the
     collective action of self-organizing groups within the system. This
     collective action can be stimulated, but not controlled.
-
-## Why We Are Not a MOOC
-
-> *If you use robots to teach, you teach people to be robots.*  
-> – variously attributed
-
-Massive open online courses (MOOCs) in which students watch videos
-instead of attending lectures, and then do assignments that are
-(usually) robo-graded, were a hot topic a few years ago.  Now that the
-hype has worn off, though, it's clear that they aren't as effective as
-their more enthusiastic proponents claimed they would
-be {{"ubell-moocs"|cite}}.
-
-Recorded content is ineffective for most novices learners because it
-cannot intervene to clear up specific learners' misconceptions. Some
-people happen to already have the right conceptual categories for a
-subject, or happen to form them correctly early on; these are the ones
-who stick with most massive online courses, but many discussions of
-the effectiveness of such courses ignore this survivor bias.
 
 ----
 
