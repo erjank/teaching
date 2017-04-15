@@ -54,9 +54,9 @@ developed by Guzdial and Ericson at Georgia Tech
 "hello world" or summing the first ten integers, their students' first
 program opens an image, resizes it to create a thumbnail, and saves
 the result. This is an _authentic task_, i.e., something that learners
-believe they would actually do in real life. It is also _tangible_: if
-the image comes out the wrong size, learners have a concrete starting
-point for debugging.
+believe they would actually do in real life. It is also has a
+_tangible artefact_: if the image comes out the wrong size, learners
+have a concrete starting point for debugging.
 
 > **Strategies for Motivating Learners**
 > 

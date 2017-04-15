@@ -18,11 +18,11 @@ says:
 > "internal" guidance.
 
 The paper set off a minor academic firestorm, because beneath the
-jargon the authors were claiming that
-_[inquiry-based-learning][wikipedia-inquiry]_–allowing learners to ask
-their own questions, set their own goals, and find their own path
-through a subject–is intuitively appealing, but doesn't actually work
-very well. Kirschner et al argued that this was because it requires
+jargon the authors were claiming that _[inquiry-based
+learning][wikipedia-inquiry]_–allowing learners to ask their own
+questions, set their own goals, and find their own path through a
+subject–is intuitively appealing, but doesn't actually work very
+well. Kirschner et al argued that this was because it requires
 learners to simultaneously master both a domain's factual content and
 its problem-solving strategies.
 

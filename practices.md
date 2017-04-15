@@ -37,8 +37,8 @@ understand it all.
 An important part of making a class productive is to treat everyone
 with respect.  We therefore strongly recommend that every group
 offering classes based on this material adopt a Code of Conduct like
-the one in [Conduct](/conduct/), and require people taking part in
-the class to abide by it.
+the one in [Conduct](/conduct/), and require people taking part in the
+class to abide by it.
 
 We believe equally strongly that your actual programming classes
 should also have and enforce a Code of Conduct.  Programming is a
@@ -50,8 +50,8 @@ than any "technical" topic you teach.
 If you do this, hosts should point people at it during registration,
 and instructors should remind attendees of it at the start of the
 workshop. The Code of Conduct doesn't just tell everyone what the
-rules are: it tells them that there *are* rules, and that they
-can therefore expect a safe and welcoming learning experience.
+rules are: it tells them that there *are* rules, and that they can
+therefore expect a safe and welcoming learning experience.
 
 If you are an instructor, and believe that someone in a workshop has
 violated the Code of Conduct, you may warn them, ask them to
@@ -65,33 +65,32 @@ you do:
     conflicting claims about who said what.
 
 *   Contact the organizer or host of your class as soon as you can and
-    describe what happened.  Remember, a Code of Conduct is meaningless
-    without a procedure for enforcing it.
+    describe what happened.  Remember, a Code of Conduct is
+    meaningless without a procedure for enforcing it.
 
 A Code of Conduct cannot stop people from being offensive, any more
-than laws against theft stop people from stealing. What it *can*
-do is make expectations and consequences clear.  In our experience,
-people rarely violate the Code of Conduct in person, though some are
-more likely to online, where they feel less inhibited.  And remember,
-a Code of Conduct is *not* an infringement on free speech.
-People have a right to say what they think, but that doesn't mean they
-have a right to speak wherever and whenever they want.  If someone
-wishes to say something disparaging about someone else, they can go
-and find a space of their own in which to say it.
+than laws against theft stop people from stealing. What it *can* do is
+make expectations and consequences clear.  In our experience, people
+rarely violate the Code of Conduct in person, though some are more
+likely to online, where they feel less inhibited.  And remember, a
+Code of Conduct is *not* an infringement on free speech.  People have
+a right to say what they think, but that doesn't mean they have a
+right to speak wherever and whenever they want.  If someone wishes to
+say something disparaging about someone else, they can go and find a
+space of their own in which to say it.
 
 ## Take Notes Together
 
 Many studies have shown that taking notes while learning improves
-retention {{"aiken-note-taking"|cite}},
-{{"bohay-note-taking"|cite}}.  As discussed in
-[Memory](/memory/), this happens because taking notes forces you to
-organize and reflect on material as it's coming in, which in turn
-increases the likelihood that you will transfer it to long-term memory
-in a usable way.
+retention {{"aiken-note-taking"|cite}}, {{"bohay-note-taking"|cite}}.
+As discussed in [Memory](/memory/), this happens because taking notes
+forces you to organize and reflect on material as it's coming in,
+which in turn increases the likelihood that you will transfer it to
+long-term memory in a usable way.
 
 Our experience, and some recent research findings, lead us to believe
-that taking notes *collaboratively* helps learning even
-more {{"orndorff-note-taking"|cite}}, even though taking notes on a
+that taking notes *collaboratively* helps learning even more
+{{"orndorff-note-taking"|cite}}, even though taking notes on a
 computer is generally less effective than taking notes using pen and
 paper {{"mueller-note-taking"|cite}}.  Taking notes collaboratively:
 
@@ -101,29 +100,29 @@ paper {{"mueller-note-taking"|cite}}.  Taking notes collaboratively:
 
 *   It gives the more advanced learners in the class something useful to
     do.  Rather than getting bored and checking Twitter during class,
-    they often take the lead in recording what's being said, which keeps
-    them engaged, and allows less advanced learners to focus more of
-    their attention on new material.  Keeping the more advanced learners
-    busy also helps the whole class stay engaged because boredom is
-    infectious: if a handful of people start updating their Facebook
-    profiles, the people around them will start checking out too.
+    they often take the lead in recording what's being said, which
+    keeps them engaged, and allows less advanced learners to focus
+    more of their attention on new material.  Keeping the more
+    advanced learners busy also helps the whole class stay engaged
+    because boredom is infectious: if a handful of people start
+    updating their Facebook profiles, the people around them will
+    start checking out too.
 
-*   The notes the learners take are usually more helpful *to them*
-    than those the instructor would prepare in advance, since the learners
-    are more likely to write down what they actually found new, rather than
-    what the instructor predicted would be new.
+*   The notes the learners take are usually more helpful *to them* than
+    those the instructor would prepare in advance, since the learners
+    are more likely to write down what they actually found new, rather
+    than what the instructor predicted would be new.
 
 *   Glancing at the notes as they're being taken helps the instructor
     discover that the class didn't hear something important, or
     misunderstood it.
 
-We usually use [Etherpad][etherpad] for collaborative
-note-taking, though many instructors have shifted to
-[Google Docs][google-docs], both because it scales
-better and because it allows people to add images to the notes.
-Whichever is chosen, classes also use it to share snippets of code and
-small datasets, and as a way for learners to show instructors their
-work (by copying and pasting it in).
+We usually use [Etherpad][etherpad] or [Google Docs][google-docs] for
+collaborative note-taking.  The former makes it easy to see who's
+written what, while the latter scales better and allows people to add
+images to the notes.  Whichever is chosen, classes also use it to
+share snippets of code and small datasets, and as a way for learners
+to show instructors their work (by copying and pasting it in).
 
 Shared note-taking is almost always mentioned positively in
 post-workshop feedback.  However, it's also common for participants to
@@ -156,8 +155,8 @@ That said, there *are* things we can do:
 
 *   Before running a workshop, communicate its level clearly to everyone
     who's thinking of signing up by listing the topics that will be
-    covered and showing a few examples of exercises that people will be
-    asked to complete.
+    covered and showing a few examples of exercises that people will
+    be asked to complete.
 
 *   Provide multiple exercises for each teaching episode so that more
     advanced learners don't finish early and get bored.
@@ -172,12 +171,12 @@ That said, there *are* things we can do:
     up.
 
 The most important thing is to accept that no class can possibly meet
-everyone's individual needs. If the instructor slows down to accommodate
-two people who are struggling, the other 38 are not being well served.
-Equally, if she spends a few minutes talking about an advanced topic
-because two learners are bored, the 38 who don't understand it will feel
-left out. All we can do is tell our learners what we're doing and why,
-and hope that they'll understand.
+everyone's individual needs. If the instructor slows down to
+accommodate two people who are struggling, the other 38 are not being
+well served.  Equally, if she spends a few minutes talking about an
+advanced topic because two learners are bored, the 38 who don't
+understand it will feel left out. All we can do is tell our learners
+what we're doing and why, and hope that they'll understand.
 
 It's important to design lessons with a particular audience in mind.
 It's equally important to find out who's in each specific audience,
@@ -241,13 +240,13 @@ checked, they put the green sticky note on their laptop; if they run
 into a problem and need help, the put up the red one. This is better
 than having people raise their hands because:
 
-*   it's more discreet (which means they're more likely to
-    actually do it),
+*   it's more discreet (which means they're more likely to actually do
+    it),
 
 *   they can keep working while their flag is raised, and
 
-*   the instructor can quickly see from the front of the room what
-    state the class is in.
+*   the instructor can quickly see from the front of the room what state
+    the class is in.
 
 Sometimes a red sticky involves a technical problem that takes a bit
 more time to solve. To prevent this issue from slowing down the whole
@@ -261,16 +260,16 @@ FIXME: Sticky notes to distribute attention
 
 ## Minute Cards
 
-We frequently use sticky notes as _minute cards_: before each
-break, learners take a minute to write one positive thing on the green
-sticky note (e.g., one thing they've learned that they think will be
-useful), and one thing they found too fast, too slow, confusing, or
-irrelevant on the red one. They can use the red sticky note for
-questions that haven't yet been answered. While they are enjoying
-their coffee or lunch, the instructors review and cluster these to
-find patterns. It only takes a few minutes to see what learners are
-enjoying, what they still find confusing, what problems they're
-having, and what questions are still unanswered.
+We frequently use sticky notes as _minute cards_: before each break,
+learners take a minute to write one positive thing on the green sticky
+note (e.g., one thing they've learned that they think will be useful),
+and one thing they found too fast, too slow, confusing, or irrelevant
+on the red one. They can use the red sticky note for questions that
+haven't yet been answered. While they are enjoying their coffee or
+lunch, the instructors review and cluster these to find patterns. It
+only takes a few minutes to see what learners are enjoying, what they
+still find confusing, what problems they're having, and what questions
+are still unanswered.
 
 ## One Up, One Down
 
@@ -281,13 +280,13 @@ already been said. This requirement forces people to say things they
 otherwise might not: once all the "safe" feedback has been given,
 participants will start saying what they really think.
 
-Minute cards are anonymous; the alternating up-and-down feedback is not.
-Each mode has its strengths and weaknesses, and by providing both, we
-hope to get the best of both worlds.
+Minute cards are anonymous; the alternating up-and-down feedback is
+not.  Each mode has its strengths and weaknesses, and by providing
+both, we hope to get the best of both worlds.
 
 ## Pair Programming
 
-FIXME: define pair programming.
+FIXME: define _pair programming_.
 
 Pair programming is a good practice in real life, and also a good way
 to teach {{"porter-what-works"|cite}}. Partners can not only help each
@@ -309,7 +308,8 @@ FIXME: comment on pros and cons of having pairs switch up.
 
 ## Have Learners Make Predictions
 
-FIXME: https://journals.aps.org/prper/abstract/10.1103/PhysRevSTPER.9.020113
+FIXME:
+https://journals.aps.org/prper/abstract/10.1103/PhysRevSTPER.9.020113
 
 ## Peer Instruction
 
@@ -333,9 +333,10 @@ looks something like this:
     1.  If the students all have the right answer, move on.
     1.  If they all have the same wrong answer, address that specific
         misconception.
-    1.  If they have a mix of right and wrong answers, give them several
-        minutes to discuss those answers with one another in small groups
-        (typically 2-4 students) and then reconvene and vote again.
+    1.  If they have a mix of right and wrong answers, give them
+        several minutes to discuss those answers with one another in
+        small groups (typically 2-4 students) and then reconvene and
+        vote again.
 
 As [this video][video-peer-instruction] shows, group discussion
 significantly improves students' understanding because it forces them
@@ -356,9 +357,9 @@ FIXME: make it clear that the comment above is about actual classes,
 not instructor training workshops.
 
 FIXME: important to have learners record their votes so that they
-can't change their minds afterward and rationalize it (making
-excuses to themselves like "I just misread the question") - value
-comes from the jarring experience of having their answer be wrong.
+can't change their minds afterward and rationalize it (making excuses
+to themselves like "I just misread the question") - value comes from
+the jarring experience of having their answer be wrong.
 
 FIXME: include reference to Peter Newbury's guide
 http://www.cwsei.ubc.ca/Files/ReadySetReact_3fold.pdf
@@ -383,16 +384,16 @@ FIXME: Talk about getting learners' machines set up.
 > 
 > Some instructors use VPS over SSH or web browser pages instead. This
 > solve the installation issues, but makes us dependent on host
-> institutions' WiFi (which can be of highly variable quality), and has
-> the issues mentioned above with things like keyboard shortcuts.
+> institutions' WiFi (which can be of highly variable quality), and
+> has the issues mentioned above with things like keyboard shortcuts.
 
 ## Setting Up Your Own Enviornment
 
 FIXME: target here for forward ref from performance section about
 setting up your environment, e.g., having a glass of water to give
-yourself time to think.  Also talk about how it's OK to face away
-from your audience for a few moments to write on the board or walk
-through code, as long as it's only for a few moments.
+yourself time to think.  Also talk about how it's OK to face away from
+your audience for a few moments to write on the board or walk through
+code, as long as it's only for a few moments.
 
 ## Cough Drops
 
@@ -408,8 +409,8 @@ Course)?
 
 The first answer is that we did in 2010-11, but found the maintenance
 costs unsustainable. Making a small change to this webpage only takes
-a few minutes. but making *any* change to a video takes an hour
-or more. In addition, most people are much less comfortable recording
+a few minutes. but making *any* change to a video takes an hour or
+more. In addition, most people are much less comfortable recording
 themselves than contributing written material.
 
 The second answer is that doing outperforms watching.  Specifically, a
@@ -445,8 +446,8 @@ Think-pair-share works because, to paraphrase Oscar Wilde's Lady
 Windermere, people often can't know what they're thinking until
 they've heard themselves say it.  Pairing gives people new insight
 into their own thinking, and forces them to think through and resolve
-any gaps or contradictions *before* exposing their ideas to a
-larger group.
+any gaps or contradictions *before* exposing their ideas to a larger
+group.
 
 ## Challenges
 
