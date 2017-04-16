@@ -186,9 +186,8 @@ expectations. This is especially important when they have different
 backgrounds or cultural expectations about what's appropriate to say
 and what isn't.
 
-There are several things you can do when receiving feedback to make
-it more effective:
-FIXME: re-word this sentence
+You can get better feedback on your work from other people using
+techniques like these:
 
 1.  *Initiate feedback.* It's better to ask for feedback than to
     receive it unwillingly.
@@ -206,7 +205,7 @@ FIXME: re-word this sentence
     something you have chosen to work on helps you stay focused, which
     in turn increases the odds that you'll see progress.
 
-3.  Use a feedback translator. Have a fellow instructor (or other
+3.  *Use a feedback translator.* Have a fellow instructor (or other
     trusted person in the room) read over all the feedback and give an
     executive summary. It can be easier to hear "It sounds like most
     people are following, so you could speed up" than to read several
@@ -223,32 +222,32 @@ FIXME: re-word this sentence
     adjust their assessment of themselves the next time they feel that
     way.
 
-FIXME: opening sentence about *giving* feedback
+You can give feedback to others more effectively as well:
 
-1.  *Balance positive and negative feedback.*  One method is a
+1.  *Balance positive and negative feedback.* One method is a
     "compliment sandwiches" made up of one positive, one negative, and
-    a second positive observation.  Another (which we discuss below) is
-    to ask for at least one point in each of several categories.
+    a second positive observation.
 
-2.  The technique we find most useful for giving feedback is to create
-    a 2x2 grid and put each piece of feedback in one of its four
-    squares.  The vertical axis divides positive from negative; the
-    horizontal divides content from presentation, i.e., what was said
-    from how it was said.  Even this little bit of structure helps
-    people figure out what to say, and to separate those who have good
-    ideas that they can't communicate from those who are eloquent but
-    don't actually have anything to say.
-    FIXME: make it clear that people giving feedback use this rubric
-    *as they are writing down feedback* - it is not something that a
-    facilitator does afterward (although if feedback is being
-    collected, that's a useful step).
-    FIXME: explain the difference between content and presentation
-    much more clearly.
+2.  *Organize your feedback using a rubric.* Most people are more
+    comfortable giving and receiving feedback when they they feel that
+    understand the social rules governing what they are allowed to say
+    and how they are allowed to say it.  A facilitator can then
+    transcribe items into a shared document (or onto a whiteboard)
+    during discussion.
 
-FIXME: forward reference to feedback on demo video
+> **Two by Two**
+>
+> The rubric we find most useful for feedback on teaching is a 2x2
+> grid whose vertical axis is labelled "positive" and "negative", and
+> whose horizontal axis is labelled "content" (what was said) and
+> "presentation (how it was said).  Observers write each of their
+> comments in one of the grid's four squares as they are watching the
+> demonstration.
 
-FIXME: refer back to formative assessment discussion - feedback on
-teaching is meant to be formative.
+Whatever methods are used, the most important thing to remember is
+feedback on teaching is meant to be formative: its goal is to help
+people figure out what they are doing well and what they still need to
+work on.
 
 > **Studio Classes**
 > 
@@ -271,9 +270,15 @@ teaching is meant to be formative.
 > around more than we usually would.
 > 
 > Gamblers call nervous habits like this "tells".  While these are
-> often not as noticeable as you would think, it's good to identify ways
-> to keep yourself from pacing, or fiddling with your jewellery, or not
-> looking at the audience.
+> often not as noticeable as you would think, it's good to know
+> whether you pac, fiddle with your hair, look at your shoes, or
+> rattle the change in your pocket when you don't know the answer
+> to a question.
+>
+> You can't get rid of tells completely, and trying to do so can make
+> you obsess about them.  A better strategy is to try to displace
+> them, e.g., to train yourself to scrunch your toes inside your shoes
+> instead of cracking your knuckles.
 
 If you are interested in knowing more about giving and getting
 feedback, you may want to read Gormally et al's "Feedback about
@@ -282,11 +287,6 @@ discuss ways you could make peer-to-peer feedback a routine part of
 your teaching.  You may also enjoy Gawande's essay "Personal Best"
 {{"gawande-personal-best"|cite}}, which looks at the value of
 having a coach.
-
-FIXME: say that you can't get rid of tells completely (and that trying
-to do so can make you obsess about them and apologize to the
-audience).  Better is to try to displace them, e.g., scrunching toes
-inside shoes.
 
 FIXME: comment about engineering your environment to give you props
 to work with that don't reveal nervousness, like a glass of water.
