@@ -110,13 +110,10 @@ Broadly speaking, learners' misconceptions fall into three categories:
     reason through examples to see contradictions.
 
 3.  *Fundamental beliefs*, such as "the world is only a few thousand
-    years old" or "human beings cannot be affecting the planet's
-    climate". These usually cannot be addressed in class, since they
-    are deeply connected to the learner's social identity and often
-    cannot be reasoned away.
-    FIXME: provide a computing-related example of a fundamental
-    belief that can't be reasoned away, such as "WiFi gives you
-    cancer".
+    years old" or "some kinds of people are just naturally better at
+    programming than others" {{"patitsas-cs-grades"|cite}}.  These are
+    often deeply connected to the learner's social identity, and so
+    are resistant to evidence and cannot be reasoned away in class.
 
 ## Formative Assessment
 
