@@ -2,10 +2,6 @@
 
 FIXME: introduction
 
-FIXME: Never touch the keyboard.  Don't take over from the learner,
-instead talk them through it.  When you do it, it's magic, when they
-do it, they know at least what was done.
-
 FIXME: Confessional debugging.  Useful for them post-workshop.  If
 your program doesn't work, explain the problem aloud to your
 cat/dog/rubber duck, and often the problem and solution become clear.
@@ -256,7 +252,26 @@ problem.
 
 ## Use Sticky Notes to Distribute Attention
 
-FIXME: Sticky notes to distribute attention
+Sticky notes can also be used to ensure that the instructor's
+attention is fairly distributed.  Have each learner write their name
+on a sticky note and put it on their laptop.  Each time the instructor
+calls on them or answers one of their questions, their sticky note
+comes down.  Once all the sticky notes are down, everyone puts theirs
+up again.
+
+This technique makes it easy for the instructor to see who they
+haven't spoken with recently, which in turn helps them avoid the
+unconscious trap of only interacting with the most extroverted of
+their learners.  It also shows learners that attention is being
+distributed fairly, so that when they *are* called on, they won't feel
+like they're being picked on.
+
+## Never Touch the Learner's Keyboard
+
+It's often tempting to fix things for learners, but when you do, it
+can easily seem like magic (even if you narrate every step).  Instead,
+talk your learners through whatever they need to do.  It will take
+longer, but it's more likely to stick.
 
 ## Minute Cards
 
