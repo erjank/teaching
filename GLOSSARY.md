@@ -2,131 +2,187 @@
 
 ## Authentic Task
 
-FIXME
+A task which contains important elements of things that learners would
+do in real (non-classroom situations).  To be authentic, a task should
+require learners to construct their own answers rather than choose
+between provided answers, and to work with the same tools and data
+they would use in real life.
 
 ## Behaviorism
 
-FIXME
+A theory of learning whose central principle is stimulus and response,
+and whose goal is to explain behavior without recourse to internal
+mental states or other unobservables.
+
+See also [cognitivism](#cognitivism).
 
 ## Chunking
 
-FIXME
+The act of grouping related concepts together so that they can be
+stored and processed as a single unit.
 
 ## Cognitive Load Theory
 
-[FIXME][wikipedia-cognitive-load]
+[Cognitive load][wikipedia-cognitive-load] is the amount of mental
+effort required to solve a problem.  Cognitive load theory divides
+this effort into *intrinsic*, *extraneous*, and *germane*, and holds
+that people learn faster and better when extraneous load is reduced.
 
 ## Cognitivism
 
-FIXME
+A theory of learning that holds that mental states and processes can
+and must be included in models of learning.
+
+See also [behaviorism](#behaviorism).
 
 ## Community of Practice
 
-[FIXME][wikipedia-community]
+A self-perpetuating group of people who share and develop a craft or
+occupation, such as knitters, musicians, or programmers.
+
+See also [legitimate peripheral
+participation](#legitimate-peripheral-participation).
 
 ## Competent Practitioner
 
-FIXME
+Someone who can do normal tasks with normal effort under normal
+circumstances.
+
+See also [novice](#novice) and [expert](#novice).
 
 ## Concept Map
 
-FIXME
-
-## Connectionism
-
-FIXME
+A picture of a mental model in which concepts are nodes in a graph
+and relationships are (labelled) arcs.
 
 ## Connectivism
 
-FIXME
+A theory of learning which emphasizes its social aspects, particularly
+as enabled by the Internet and other technologies.
 
 ## Constructivism
 
-FIXME
+A theory of learning that views learners as actively constructing
+knowledge.
 
 ## Content Knowledge
 
-FIXME
+A person's understanding of a subject.
+
+See also [general pedagogical
+knowledge](#general-pedagogical-knowledge) and [pedagogical content
+knowledge](#pedagogical-content-knowledge).
 
 ## Deliberate Practice
 
-FIXME
+The act of observing performance of a task while doing it in order to
+improve ability.
 
 ## Diagnostic Power
 
-FIXME
+The degree to which a wrong answer to a question or exercise tells the
+instructor what misconceptions a particular learner has.
 
 ## Educational Psychology
 
-FIXME
+The study of how people learn.
+
+See also [instructional design](#instructional-design).
 
 ## Expert
 
-FIXME
+Someone who can diagnose and handle unusual situations, knows when the
+usual rules do not apply, and tends to recognize solutions rather than
+reasoning to them.
+
+See also [competent practitioner](#competent-practitioner) and
+[novice](#novice).
 
 ## Expert Blind Spot
 
-FIXME
+The inability of experts to empathize with novices who are
+encountering concepts or practices for the first time.
 
 ## Externalized Cognition
 
-FIXME
+The use of graphical, physical, or verbal aids to augment thinking.
 
 ## Faded Example
 
-FIXME
+A series of examples in which a steadily increasing number of key
+steps are blanked out.
+
+See also [scaffolding](#scaffolding).
 
 ## Fixed Mindset
 
-[FIXME][wikipedia-mindset]
+The belief that an ability is innate, and that failure is due to a
+lack of some necessary attribute.
 
 See also [growth mindset](#growth-mindset).
 
 ## Fluid Representation
 
-FIXME
+The ability to move quickly between different models of a problem.
 
 ## Formative Assessment
 
-FIXME
+Assessment that takes place during a lesson in order to give both the
+learner and the instructo feedback on actual understanding.
+
+See also [summative assessment](#summative-assessment).
 
 ## General Pedagogical Knowledge
 
-FIXME
+A person's understanding of the general principles of teaching.
+
+See also [content knowledge](#content-knowledge) and [pedagogical
+content knowledge](#pedagogical-content-knowledge).
 
 ## Growth Mindset
 
-[FIXME][wikipedia-mindset]
+The belief that ability comes with practice.
 
 See also [fixed mindset](#fixed-mindset).
 
 ## Impostor Syndrome
 
-[FIXME][wikipedia-impostor]
+A feeling of insecurity about one's accomplishments that manifests as
+a fear of being exposed as a fraud.
 
 ## Inclusivity
 
-FIXME
+Working actively to include people with diverse backgrounds and needs.
 
 ## Inquiry-Based Learning
 
-[FIXME][wikipedia-inquiry]
+The practice of allowing learners to ask their own questions, set
+their own goals, and find their own path through a subject.
 
 ## Instructional Design
 
-FIXME
+The craft of creating and evaluating specific lessons for specific
+audiences.
+
+See also [educational psychology](#educational-psychology).
 
 ## Jugyokenkyu
 
-FIXME
+Literally "lesson study", a set of practices that includes having
+teachers routinely observe one another and discuss lessons to share
+knowledge and improve skills.
 
 ## Lateral Knowledge Transfer
 
-FIXME
+The "accidental" transfer of knowledge that occurs when an instructor
+is teaching one thing, and the learner picks up another.
 
 ## Learner Profile
 
-FIXME
+A brief description of a typical target learner for a lesson that
+includes their general background, what they already know, what they
+want to do, how the lesson will help them, and any special needs they
+might have.
 
 ## Learning Objective
 
@@ -138,39 +194,62 @@ What a lesson actually achieves.
 
 ## Legitimate Peripheral Participation
 
-[FIXME][wikipedia-peripheral-participation]
+Newcomers' participation in simple, low-risk tasks that a [community
+of practice](#community-of-practice) recognizes as valid
+contributions.
 
 ## Live Coding
 
-FIXME
+The act of teaching programming by writing software in front of
+learners as the lesson progresses.
 
 ## Long-Term Memory
 
-FIXME
+The part of memory that stores information for long periods of time.
+Long-term memory is very large, but slow.
+
+See also [short-term memory](#short-term-memory).
 
 ## Minute Cards
 
-FIXME
+A feedback technique in which learners spend a minute writing one
+positive thing about a lesson (e.g., one thing they've learned) and
+one negative thing (e.g., a question that still hasn't been answered).
 
 ## Novice
 
-FIXME
+Someone who has not yet built a usable mental model of a domain.
+
+See also [competent practitioner](#competent-practitioner) and
+[expert](#expert).
 
 ## Pair Programming
 
-FIXME
+A software development practice in which two programmers share one
+computer.  One programmer (the driver) does the typing, while the
+other (the navigator) offers comments and suggestions in real time.
+Pair programming is often used as a teaching practice in programming
+classes.
 
 ## Parsons Problem
 
-FIXME
+An assessment technique developed by Dale Parsons and others in which
+learners rearrange given material to construct a correct answer to a
+question.
 
 ## Pedagogical Content Knowledge (PCK)
 
-FIXME
+The understanding of how to teach a particular subject, i.e., the best
+order in which to introduce topics and what examples to use.
+
+See also [content knowledge](#content-knowledge) and [general
+pedagogical knowledge](#general-pedagogical-knowledge).
 
 ## Peer Instruction
 
-[FIXME][wikipedia-peer-instruction]
+A teaching method in which an instructor poses a question and then
+students commit to a first answer, discuss answers with their peers,
+and commit to a (revised) answer.
 
 ## Persistent Memory
 
@@ -178,7 +257,10 @@ See [long-term memory](#long-term-memory).
 
 ## Plausible Distractor
 
-FIXME
+A wrong answer to a multiple-choice question that looks like it could
+be right.
+
+See also [diagnostic power](#diagnostic-power).
 
 ## Reflective Practice
 
@@ -186,35 +268,44 @@ See [deliberate practice](#deliberate-practice).
 
 ## Reverse Instructional Design
 
-FIXME
+An instructional design method that works backwards from a summative
+assessment to formative assessments and thence to lesson content.
 
 ## Scaffolding
 
-FIXME
+Extra material provided to early-stage learners to help them solve problems.
 
 ## Short-Term Memory
 
-FIXME
+The part of memory that briefly stores information that can be
+directly accessed by consciousness.
 
 ## Situated Learning
 
-[FIXME][wikipedia-situated-learning]
+A model of learning that focuses on people's transition from being
+newcomers to be accepted members of a [community of
+practice](#community-of-practice).
 
 ## Stereotype Threat
 
-[FIXME][wikipedia-stereotype]
+A situation in which people feel that they are at risk of being held
+to stereotypes of their social group.
 
 ## Summative Assessment
 
-FIXME
+Assessment that takes place at the end of a lesson to tell whether the
+desired learning has taken place.
 
 ## Tangible Artefact
 
-FIXME
+Something a learner can work on whose state gives feedback about the
+learner's progress and helps the learner diagnose mistakes.
 
 ## Test-Driven Development
 
-[FIXME][wikipedia-tdd]
+A software development practice in which programmers write tests first
+in order to give themselves concrete goals and clarify their
+understanding of what "done" looks like.
 
 ## Understanding by Design
 
@@ -225,12 +316,3 @@ See [reverse instructional design](#reverse-instructional-design).
 See also [short-term memory](#short-term-memory).
 
 [wikipedia-cognitive-load]: https://en.wikipedia.org/wiki/Cognitive_load
-[wikipedia-community]: https://en.wikipedia.org/wiki/Community_of_practice
-[wikipedia-impostor]: https://en.wikipedia.org/wiki/Impostor_syndrome
-[wikipedia-inquiry]: https://en.wikipedia.org/wiki/Inquiry-based_learning
-[wikipedia-mindset]: https://en.wikipedia.org/wiki/Mindset#Fixed_mindset_and_growth_mindset
-[wikipedia-peer-instruction]: https://en.wikipedia.org/wiki/Peer_instruction
-[wikipedia-peripheral-participation]: https://en.wikipedia.org/wiki/Legitimate_peripheral_participation
-[wikipedia-situated-learning]: https://en.wikipedia.org/wiki/Situated_learning
-[wikipedia-stereotype]: https://en.wikipedia.org/wiki/Stereotype_threat
-[wikipedia-tdd]: https://en.wikipedia.org/wiki/Test-driven_development

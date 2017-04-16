@@ -50,7 +50,6 @@ with the community of practice.
 
 > **Other Perspectives**
 >
-
 > There are many other perspectives outside cognitivist theory—see
 > [this site][learning-theories] for summaries. Besides cognitivism,
 > those encountered most frequently include
@@ -58,12 +57,10 @@ with the community of practice.
 > stimulus/response conditioning),
 > _[constructivism](GLOSSARY.md#constructivism)_ (which considers
 > learning an active process during which learners construct knowledge
-> for themselves), _[connectivism](GLOSSARY.md#connectivism)_ (which
-> emphasizes the social aspects of learning, particularly those made
-> possible by the Internet), and
-> _[connectionism](GLOSSARY.md#connectionism)_, a cognitivist theory
-> that explains learning as creating connections between concepts.
-> And yes, it would help if their names were less similar…
+> for themselves), and _[connectivism](GLOSSARY.md#connectivism)_
+> (which emphasizes the social aspects of learning, particularly those
+> made possible by the Internet).  And yes, it would help if their
+> names were less similar…
 
 Educational psychology does not tell us how to teach on its own
 because it under-constrains the problem: in real life, several
