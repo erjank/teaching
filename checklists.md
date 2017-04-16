@@ -94,4 +94,33 @@ Note that trainers do not examine their own trainees:
 having them examine each other's helps balance load
 and maintain consistency of curriculum and standards.
 
+## Travel Kit
+
+Here are a few things instructors take with them when they travel to
+teach:
+
+*   sticky notes
+*   cough drops
+*   good shoes (because you'll be standing most of the day)
+*   a spare power adapter
+*   a spare shirt
+*   deodorant
+*   a variety of video adapters
+*   laptop stickers
+*   a toothbrush or some mouthwash
+*   a granola bar or some other emergency snack
+*   Eno or some other antacid (because road food)
+*   business cards
+*   a printed copy of notes for reference during teaching (or a tablet or other "extra" device)
+*   an insulated cup for tea/coffee
+*   spare glasses/contacts
+*   a notebook and pen
+*   some sort of WiFi hub (in case networking in the room isn't working)
+*   extra whiteboard markers
+*   a laser pointer
+*   a packet of wet wipes (because spills happen)
+*   a few USB drives with installers for various platforms (just in case)
+*   running shoes, a bathing suit, a yoga mat, or whatever else you exercise in or with
+*   a small notepad for writing down snippets of code for participants
+
 [gawande-checklist]: http://www.newyorker.com/magazine/2007/12/10/the-checklist

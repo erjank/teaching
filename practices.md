@@ -398,7 +398,16 @@ code, as long as it's only for a few moments.
 
 ## Cough Drops
 
-FIXME: explain cough drops.
+If you talk all day to a room full of people, your throat gets raw
+because you are irritating the epithelial cells in your larynx and
+pharynx.  This doesn't just make you hoarse–it also makes you more
+vulnerable to infection (which is part of the reason people often come
+down with colds after teaching).
+
+The best way to protect yourself against this is to keep your throat
+lined, and the best way to do that is to use cough drops early and
+often.  Rhe right ones will also help delay the onset of coffee
+breath, for which your learners will probably be grateful.
 
 ## Teaching Online
 
