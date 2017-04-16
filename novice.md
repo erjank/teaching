@@ -181,13 +181,8 @@ looks like it could be right: instructors will often put
 supposedly-silly answers like "a fish!" on MCQs, but they don't
 provide any insight and learners actually don't find them
 funny. "Diagnostic power" means that each of the distractors helps the
-instructor figure out what to explain to that particular learner next.
-FIXME: add footnote saying that written funny usually just sounds
-forced (comedy is harder to write than tragedy), and that spontaneous
-funny while teaching usually works better.  That said, spontaneous can
-easily go wrong if you don't think through the implications: what's a
-joke to your circle of friends may turn out to be a serious political
-issue to your audience.
+instructor figure out what to explain to that particular learner
+next[^4].
 
 Instructors should use MCQs or some other kind of formative assessment
 at least every 10-15 minutes in order to make sure that the class is
@@ -349,6 +344,14 @@ to get coffee.
 [^3]: "When the cook tastes the soup, that's formative: When the
       guests taste the soup, that’s summative." (Michael Scriven,
       as quoted by Debra Dirksen.)
+
+[^4]: Most jokes are less funny when written down, and become even
+      less funny with each re-reading.  Being spontaneously funny
+      while teaching usually works better, but can easily wrong:
+      what's a joke to your circle of friends may turn out to be a
+      serious political issue to your audience.  If you do make jokes
+      when teaching, don't make them at the expense of any group, or
+      of anyone except possibly yourself.
 
 ----
 
