@@ -1,24 +1,28 @@
 # Checklists
 
-FIXME: make it clear that these are sample checklists for actual
-workshops, not instructor training events.
+Atul Gawande's 2007 article "[The Checklist][gawande-checklist]"
+popularized the idea that using checklists can save lives (and make
+many other things better too).  The results of recent studies have
+been more nuanced {{"aveling-checklists"|cite}}
+{{"urbach-checklists"|cite}}, but we still find them useful,
+particularly when bringing new instructors onto a team.
 
-See Atul Gawande's 2007 article "[The Checklist][gawande-checklist]"
-for a look at how using checklists can save lives (and make many other
-things better too).
-
-FIXME: also refer to https://twitter.com/holden/status/852891255423946753
+The checklists below are used before, during, and after instructor
+training events, and can easily be adapted for end-learner workshops
+as well.  We recommend that every group build and maintain its own
+checklists customized for its instructors' and learners' needs.
 
 ## Scheduling the Event
 
 1.  Decide if it will be in person, online for one site, or online for
-    several.
+    several sites.
 
-1.  Talk through expectations with the host(s).  If it is in person,
-    make sure the host knows they're covering travel costs for
-    trainers.
+1.  Talk through expectations with the host(s) and make sure that
+    everyone agrees on who is covering travel costs.
 
-1.  Determine who is allowed to attend.
+1.  Determine who is allowed to take part: is the event open to all
+    comers, restricted to members of one organization, or something in
+    between?
 
 1.  Arrange trainers.
 
@@ -30,18 +34,17 @@ FIXME: also refer to https://twitter.com/holden/status/852891255423946753
 
 1.  Get names and email addresses of attendees from host(s).
 
-1.  Make sure people are added to whatever online registration system is
+1.  Make sure people are added to whatever registration system is
     being used.
 
 ## Setting Up
 
-1.  Set up a one-page website for the workshop.
-
-1.  Add the URL for the workshop website to the tracking system.
+1.  Set up a web page with details on the workshop, including date,
+    location, and a list of what participants are expected to bring.
 
 1.  Check whether any attendees have special needs.
 
-1.  If the workshop is online, test the video conference link.
+1.  If the workshop is online, test the video conferencing link.
 
 1.  Make sure attendees will all have network access.
 
@@ -52,7 +55,7 @@ FIXME: also refer to https://twitter.com/holden/status/852891255423946753
     *   background readings
     *   a description of any pre-requisite tasks
 
-## During the Event
+## At the Start of the Event
 
 1.  Remind everyone of the code of conduct.
 
@@ -62,37 +65,14 @@ FIXME: also refer to https://twitter.com/holden/status/852891255423946753
 
 1.  Collect relevant online account IDs (e.g., GitHub IDs).
 
-1.  Go through the checkout procedure point by point.
+## At the End of the Event
 
-1.  Explain how to contribute to lessons.
+1.  Update attendance records.  Be sure to also record who
+    participated as an instructor or helper.
 
-## After the Event
+1.  Administer a post-workshop survey.
 
-1.  Update online records of who participated in what role.
-
-1.  Administer the post-training survey.
-
-1.  Email attendees about the checkout process.
-
-1.  Debrief with the head of instructor training.
-
-1.  Oversee final demonstrations.
-
-## Between Instructor Training Sessions
-
-1.  Sign up to lead group lesson discussions.
-
-1.  Monitor lessons for contributions and give feedback.
-
-## After Trainees Complete
-
-1.  Send new instructors a completion message.
-
-1.  Create certificates and send them to learners.
-
-Note that trainers do not examine their own trainees:
-having them examine each other's helps balance load
-and maintain consistency of curriculum and standards.
+1.  Update the course notes and/or checklists.
 
 ## Travel Kit
 
