@@ -17,14 +17,7 @@ For our purposes, we simplify the five stages to three:
     they don't know, i.e., they don't yet know what the key ideas in
     the domain are or how they relate. They reason by analogy and
     guesswork, borrowing bits and pieces of their mental models of
-    other domains which seem superficially similar. One sign that
-    someone is a novice is that their questions aren't even wrong.
-
-    FIXME: provide explanation of what "not even wrong" means or give
-    an example.
-
-    FIXME: footnote pointing to motivation chapter about how important
-    it is not to shame novices for their lack of understanding.
+    other domains which seem superficially similar[^1].
 
 2.  A _[competent practitioner](GLOSSARY.md#competent-practitioner)_
     is someone who has a mental model that's good enough for everyday
@@ -109,7 +102,7 @@ that just ain't so."
 Broadly speaking, learners' misconceptions fall into three categories:
 
 1.  Simple *factual errors*, such as believing that Vancouver is the
-    capital of British Columbia[^1]. These are simple to correct, but
+    capital of British Columbia[^2]. These are simple to correct, but
     getting the facts right is not enough on its own.
 
 2.  *Broken models*, such as believing that motion and acceleration
@@ -142,7 +135,7 @@ change.
 The counterpoint to formative assessment is _[summative
 assessment](GLOSSARY.md#summative-assessment)_, which is used at the
 end of the lesson to tell whether the desired learning took place and
-whether the learner is ready to move on[^2].  Learners either pass or
+whether the learner is ready to move on[^3].  Learners either pass or
 fail a summative assessment. One example is a driving exam, which
 reassures the rest of society that someone can safely be allowed on
 the road.
@@ -347,9 +340,16 @@ to get coffee.
 
 **Footnotes**
 
-[^1]: It's Victoria.
+[^1]: One sign that someone is a novice is that the things they say
+      aren't even wrong, e.g., they think there's a difference between
+      programs they type in character by character and identical ones
+      that they have copied and pasted.  As we will discuss
+      [later](motivation.md), it is very important not to shame
+      novices for this.
 
-[^2]: "When the cook tastes the soup, that's formative: When the
+[^2]: It's Victoria.
+
+[^3]: "When the cook tastes the soup, that's formative: When the
       guests taste the soup, that’s summative." (Michael Scriven,
       as quoted by Debra Dirksen.)
 
