@@ -225,7 +225,7 @@ participants in a workshop based on this book.
 
 ## Teaching Practices
 
-We suggest that workshops based on this material adopt three teaching
+We suggest that instructor training workshops use these three teaching
 practices right from the start:
 
 *   Have a [code of conduct](/practices/#conduct).

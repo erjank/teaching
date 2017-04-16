@@ -267,9 +267,6 @@ their point of view.
 If you haven't done so already, you should start using these three
 teaching practices in your instructor training workshop:
 
-FIXME: make it clear that this refers to a class where *this material*
-is being taught.
-
 *   [Use sticky notes as status flags](/practices/#stickies)
 
 *   [Use sticky notes to distribute attention](/practices/#attention)
@@ -301,24 +298,21 @@ misconceptions *not* tested for?
 
 ### Other Kinds of Formative Assessment
 
+A good formative assessment requires people to think through a
+problem.  For example, consider this question from
+{{"epstein-thinking-physics"|cite}}.  Imagine that you have placed a
+cake of ice in a bathtub and then filled the tub to the rim with
+water. When the ice melts, does the water level go up (so that the tub
+overflows), go down, or stay the same?
+
+The correct answer is that the level stays the same: the ice displaces
+its own weight in water, so it exactly fills the "hole" it has made
+when it melts.  Figuring this out why helps people build a model of
+the relationship between weight, volume, and density.
+
 Describe another kind of formative assessment you have seen or used and
 explain how it helps both the instructor and the learner figure out
 where they are and what they need to do next.
-
-### Icebergs
-
-An example of how solving problems can help people correct broken
-mental models, consider this problem from
-{{"epstein-thinking-physics"|cite}}.  Imagine that you have
-placed a cake of ice in a bathtub and then filled the tub to the rim
-with water. When the ice melts, does the water level go up (so that
-the tub overflows), go down, or stay the same?
-
-FIXME: figure
-
-The correct answer is that it stays the same; figuring out why helps
-people build a model of the relationship between weight, volume, and
-density.
 
 ### Minutes Cards
 
