@@ -41,30 +41,19 @@ following along.  Its advantages are:
     talking about mistakes, learners will be more comfortable doing so
     too.
 
-> FIXME: downsides of live coding from Neil Brown are:
->
-> 1. Too slow, either too slow typing or spending too much time
-> looking at notes to try to remember what they meant to type in
->
-> 2. Spending time typing in boilerplate.  Willingham says "Memory is
-> the residue of thought" {{"willingham-dont-like-school"|cite}} and
-> if you spend your time typing boilerplate (import statements, helper
-> functions which are not of interest, try/catch blocks when the
-> lesson is not about exceptions).
->
-> Add (a) know what you're going to type in, perhaps have the exact
-> final code printed out or on a tablet nearby and (b) make sure you
-> are live coding the interesting part.  If uninteresting, have it
-> pre-entered, or have it ready to copy and paste at the point you
-> need it, explaining to audience why they don't need to pay attention
-> to that part.
->
-> If you've given a lesson several times, you're unlikely to make
-> anything other than basic typing mistakes (which usually aren't
-> informative). It's worth remembering "real" mistakes and making them
-> deliberately, but that often feels forced.  A better approach is to
-> get learners to tell you what to do next ("twitch coding") in the
-> hope that this will get you into the weeds.
+Live coding does have some drawbacks, but with practice, these can be
+avoided or worked around:
+
+1.  Instructors can go too slowly, either because they are not good
+    typists or by spending too much time looking at notes to try to
+    remember what they meant to type.
+
+2.  Typing in boilerplate code that is needed by the lesson, but not
+    directly relevant to it (such as library import statements)
+    increases the [extraneous cognitive load](load.md) on your
+    learners.  Willingham says "Memory is the residue of thought"
+    {{"willingham-dont-like-school"|cite}}, so if you spend your time
+    typing boilerplate, that may be what learners will take away.
 
 Live coding is an example of the "I/We/You" approach to teaching
 discussed in [Performance](/performance/).  It takes a bit of practice
@@ -102,19 +91,21 @@ Here are some tips to make your live coding better:
     and you increase the chance of people with hearing difficulties
     being able to follow the workshop.
 
-2.  *Take it slow.*  For every command you type, every word of code
-    you write, every menu item or website button you click, say out loud
-    what you are doing while you do it. Then point to the command and
+2.  *Take it slow.* For every command you type, every word of code you
+    write, every menu item or website button you click, say out loud
+    what you are doing while you do it, then point to the command and
     its output on the screen and go through it a second time. This not
     only slows you down, it allows learners who are following along to
     copy what you do, or to catch up, even when they are looking at
-    their screen while doing it. If the output of your command or code
-    makes what you just typed disappear from view, scroll back up so
-    learners can see it again - this is especially needed for the Unix
-    shell lesson.
+    their screen while doing it.  Whatever you do, *don't* copy and
+    paste code: doing this practically guarantees that you'll race
+    ahead of your learners.
 
-    Other options are to execute the same command a second time, or to
-    copy and paste the last command(s) into the workshop's shared notes.
+    If the output of your command or code makes what you just typed
+    disappear from view, scroll back up so learners can see it again -
+    this is especially needed for the Unix shell lesson.  Other
+    options are to execute the same command a second time, or to copy
+    and paste the last command(s) into the workshop's shared notes.
 
 3.  *Mirror your learner's environment as much as possible.*  You
     may have set up your environment to your liking, with a very simple
@@ -221,6 +212,13 @@ Here are some tips to make your live coding better:
 
     > *The typos are the pedagogy.*  
     > – Emily Jane McTavish
+
+    Note: if you've given a lesson several times, you're unlikely to
+    make anything other than basic typing mistakes (which usually
+    aren't informative). It's worth remembering "real" mistakes and
+    making them deliberately, but that often feels forced.  A better
+    approach is to get learners to tell you what to do next in the
+    hope that this will get you into the weeds.
 
 10. It's OK to *face the screen occasionally*, particularly when you
     are walking through a section of code statement by statement or
