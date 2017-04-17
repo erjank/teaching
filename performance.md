@@ -298,17 +298,15 @@ and it has evolved to the following:
 
 1.  Split into groups of three.
 
-2.  Have each person introduce themselves and then explain, in no more
-    than 90 seconds, the key idea or ideas from the Carpentry lesson
-    episode they chose before the start of the training course to another
-    person in the group while the third person records it (video and
-    audio) using a cell phone or some other handheld device.
+2.  Each person rotates through the roles of instructor, audience, and
+    videographer.  As the instructor, they have two minutes to explain
+    one key idea from their research (or other work) as if they were
+    talking to a class of interested high school students. The person
+    pretending to be the audience is there to be attentive, while the
+    videographer records the session using a cellphone or similar
+    device.
 
-3.  After the first person finishes, rotate roles (she becomes the
-    videographer, her audience becomes the instructor, the person who was
-    recording becomes the audience) and then rotate roles again.
-
-4.  After everyone in the group of three has finished teaching, watch the
+3.  After everyone in the group of three has finished teaching, watch the
     videos as a group. Everyone gives feedback on all three videos, i.e.,
     people give feedback on themselves as well as on others.
 
@@ -323,6 +321,39 @@ the cycle is teach-review-teach-review, the last person to teach runs
 out of time. Doing all the reviewing after all the teaching also helps
 put a bit of distance between the teaching and the reviewing, which
 makes the exercise slightly less excruciating.
+
+In order for this exercise to work well:
+
+*   Groups must be physically separated to reduce audio cross-talk
+    between their recordings. In practice, this means 2-3 groups in a
+    normal-sized classroom, with the rest using nearby breakout spaces,
+    coffee lounges, offices, or (on one occasion) a janitor's storage
+    closet.
+
+*   Do all three recordings before reviewing any of them, because
+    otherwise the person to go last is short-changed on time.
+
+*   People must give feedback on themselves, as well as giving feedback
+    on each other, so that they can calibrate their impressions of their
+    own teaching according to the impressions of other people. (We find
+    that most people are harder on themselves than others are, and it's
+    important for them to realize this.)
+
+*   At the end of day 1, ask trainees to review the lesson episode you
+    will use for the live coding demonstration at the start of day 2.
+
+*   Try to make at least one mistake during the demonstration of live
+    coding so that trainees can see you talk through diagnosis and
+    recovery, and draw attention afterward to the fact that you did
+    this.
+
+The announcement of this exercise is often greeted with groans and
+apprehension, since few people enjoy seeing or hearing themselves.
+However, it is consistently rated as one of the most valuable parts of
+the class, and also serves as an ice breaker: we want pairs of
+instructors at actual workshops to give one another feedback, and
+that's much easier to do once they've had some practice and have a
+rubric to follow.
 
 > **Setting Up Your Teaching Environment**
 >

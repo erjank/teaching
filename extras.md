@@ -183,67 +183,10 @@ lunch on day 2: it means day 2 starts with *their* questions
 (which wakes them up), and the demotivational story is a good
 lead-in to lunchtime discussion.
 
-## Video Recorded Lessons
-
-FIXME: back ref
-
-1.  On day 1, show trainees a short clip (3-4 minutes) of someone teaching
-    a lesson and have them give feedback as a group. This feedback is
-    organized on two axes: positive versus negative, and content versus
-    presentation. The first axis is explained as "things to be repeated
-    and emphasized" versus "things to be improved", while the second is
-    explained by contrasting people who have good ideas, but can't
-    communicate them (all content, no presentation) with people who speak
-    well, but don't actually have anything to say.
-
-1.  Trainees are then asked to work in groups of three. Each person
-    rotates through the roles of instructor, audience, and videographer.
-    As the instructor, they have two minutes to explain one key idea from
-    their research (or other work) as if they were talking to a class of
-    interested high school students. The person pretending to be the
-    audience is there to be attentive, while the videographer records the
-    session using a cellphone or similar device.
-
-1.  After everyone has taught, the trio sits together and watches all
-    three videos in succession, writing out feedback on the same 2x2 grid
-    introduced above. Once all the videos have been reviewed, the group
-    rejoins the class; each person puts all the feedback on themselves
-    into the shared notes.
-
-In order for this exercise to work well:
-
-*   Groups must be physically separated to reduce audio cross-talk
-    between their recordings. In practice, this means 2-3 groups in a
-    normal-sized classroom, with the rest using nearby breakout spaces,
-    coffee lounges, offices, or (on one occasion) a janitor's storage
-    closet.
-
-*   Do all three recordings before reviewing any of them, because
-    otherwise the person to go last is short-changed on time.
-
-*   People must give feedback on themselves, as well as giving feedback
-    on each other, so that they can calibrate their impressions of their
-    own teaching according to the impressions of other people. (We find
-    that most people are harder on themselves than others are, and it's
-    important for them to realize this.)
-
-*   At the end of day 1, ask trainees to review the lesson episode you
-    will use for the live coding demonstration at the start of day 2.
-
-*   Try to make at least one mistake during the demonstration of live
-    coding so that trainees can see you talk through diagnosis and
-    recovery, and draw attention afterward to the fact that you did
-    this.
-
-The announcement of this exercise is often greeted with groans and
-apprehension, since few people enjoy seeing or hearing themselves.
-However, it is consistently rated as one of the most valuable parts of
-the class, and also serves as an ice breaker: we want pairs of
-instructors at actual workshops to give one another feedback, and
-that's much easier to do once they've had some practice and have a
-rubric to follow.
-
 ## Feedback on Live Coding Demo Videos
+
+The two lists below summarize key feedback on the two videos used
+in the discussion of [live coding](live.md).
 
 [Part 1: How Not to Do It][live-coding-bad]
 
@@ -255,10 +198,6 @@ rubric to follow.
 *   Instructor is typing commands without saying them out loud.
 
 *   Instructor uses fancy shell prompt in the console window.
-    FIXME: explain what this is and why it's bad.
-    FIXME: put this into live coding section: "Try to mirror the setup
-    that participants will have if they have just started with a stock
-    installation."
 
 *   Instructor uses small font in not full-screen console window with
     black background.
