@@ -67,14 +67,21 @@ because it under-constrains the problem: in real life, several
 different teaching methods might be consistent with what we currently
 know about how learning works. We therefore have to try those methods
 in the class, with actual learners, in order to find out how well they
-balance the different forces in play. This is called _[instructional
+balance the different forces in play.
+
+Doing this is called _[instructional
 design](GLOSSARY.md#instructional-design)_.  If educational psychology
-is the science, instructional design is the engineering.
+is the science, instructional design is the engineering.  For example,
+there are good reasons to believe that children will learn how to read
+best by starting with the sounds of letters and working up to words.
+However, there are equally good reasons to believe that children will
+learn best if they are taught to recognize entire simple words like
+"open" and "stop", so that they can start using their knowledge
+sooner[^1].  The only way to tell which approach works best for most
+children, most of the time, is to try them both out[^2].
 
-FIXME: more on ID
-
-In the end, effective teaching often depends on what the teacher knows.
-The things teachers know can be divided into:
+Unsurprisingly, effective teaching depends on what the teacher knows,
+which can be divided into:
 
 *   _[content knowledge](GLOSSARY.md#content-knowledge)_, such as the
     "what" of programming;
@@ -405,6 +412,20 @@ they identify include:
     governed by a complex system. Innovation will occur through the
     collective action of self-organizing groups within the system. This
     collective action can be stimulated, but not controlled.
+
+---
+
+**Footnotes**
+
+[^1]: The first approach is called "phonics", and the second, "whole
+      language".  The whole language approach may seem nonsensical,
+      but more than a billion people have learned to read and write
+      Chinese and similar ideogrammatic languages in exactly this way.
+
+[^2]: And to control other variables, because in practice, the
+      teacher's enthusiasm for the teaching method may have more of an
+      impact than the method itself, since children will model their
+      teacher's excitement (or lack thereof) for a subject.
 
 ----
 
