@@ -75,6 +75,10 @@ wrong size, learners have a concrete starting point for debugging.
 
 ## Demotivation
 
+> *Women aren't leaving computing because they don't know what it's
+> like; they're leaving because they **do** know.  
+> – variously attributed
+
 If you are teaching free-range learners, they are probably already
 motivated–if they weren't, they wouldn't be in your classroom. The
 challenge is therefore not to demotivate them.  Unfortunately, we can
@@ -89,10 +93,10 @@ doesn't care about them or the lesson, they won't care either. And if
 people believe the class is unfair, they will also be demotivated,
 even if it is unfair in their favor (because consciously or
 unconsciously they will worry that they will some day find themselves
-in the group on the losing end). Finally, a "holier-than-thou" or
-contemptuous attitude from an instructor is a quick way to alienate a
-classroom and cause learners to tune out.
-FIXME: add citations here {{"wilkinson-pickett-spirit-level"|cite}}
+in the group on the losing end
+{{"wilkinson-pickett-spirit-level"|cite}}). Finally, a
+"holier-than-thou" or contemptuous attitude from an instructor is a
+quick way to alienate a classroom and cause learners to tune out.
 
 Here are some quick ways to demotivate your learners:
 
@@ -137,16 +141,15 @@ Here are some quick ways to demotivate your learners:
 
 > **Never Learn Alone**
 > 
-> One way to support at-risk learners of all kinds is to have people
+> One way to support learners who have been subject to systematic
+> exclusion or discrimination (overt or otherwise) is to have people
 > sign up for workshops in small teams rather than as individuals. If
 > an entire lab group comes, or if attendees are drawn from the same
 > (or closely-related) disciplines, everyone in the room will know in
 > advance that they will be with at least a few people they trust,
 > which increases the chances of them actually coming. It also helps
-> after the workshop: if people come with their labmates, they can
-> work together to implement what they've learned.
-> FIXME: define "at-risk learners" as those who have been on the
-> receiving end of systematic discrimination.
+> after the workshop: if people come with their friends or colleagues,
+> they can work together to implement what they've learned.
 
 ## Impostor Syndrome
 
@@ -216,9 +219,6 @@ because they have some deficit, such as lack of prior experience) and
 instead use a systems approach (i.e., we need to change the system
 because it produces these disparities).
 
-FIXME: women aren't leaving computing because they don't know what
-it's like; they're leaving because they *do* know.
-
 A great example of how stereotypes work in general was presented in
 Patitsas et al's "Evidence That Computer Science Grades Are Not
 Bimodal" {{"patitsas-cs-grades"|cite}}.  This thought-provoking paper
@@ -260,15 +260,13 @@ future performance. On the other hand, if people believe that a skill
 is learned and can be improved, they do better on average.
 
 A person's mindset can be shaped by subtle cues. For example, if a
-child is told, "You did a good job, you must be very smart," she is
-likely to develop a fixed mindset. If on the other hand she is told,
-"You did a good job, you must have worked very hard," she is likely
+child is told, "You did a good job, you must be very smart," they are
+likely to develop a fixed mindset. If on the other hand they are told,
+"You did a good job, you must have worked very hard," they are likely
 to develop a growth mindset, and subsequently achieve more. Studies
 have also shown that the simple action of telling learners about the
 different mindsets before a course can improve learning outcomes for
 the whole group.
-
-FIXME: use of gendered pronoun in the preceding paragraph
 
 As with stereotype threat, [there are
 concerns][growth-mindset-concerns] that research on grown mindset has
