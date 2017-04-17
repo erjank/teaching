@@ -1,8 +1,5 @@
 # Teaching as a Performance Art
 
-FIXME: shorten the quoted sections and be more direct about what
-*jugyokenkyu* is and how to implement it.
-
 Many people assume that teachers are born, not made. From politicians
 to researchers and teachers themselves, reformers have designed
 systems to find and promote those who can teach and eliminate those
@@ -35,70 +32,28 @@ James Stigler discovered during a visit to Japan in the early 1990s:
 > students to a shared conclusion (We).
 
 It's tempting but wrong to think that this particular teaching
-technique is some kind of secret sauce. The actual key is revealed in
-the description of Akihiko Takahashi's work. In 1991, he visited the
-United States in a vain attempt to find the classrooms described a
-decade earlier in a report by the National Council of Teachers of
-Mathematics. He couldn't find them. Instead, he found that American
-teachers met once a year (if that) to exchange ideas about teaching,
-compared to the weekly or even daily meetings he was used to. What was
-worse:
+technique is some kind of secret sauce. The actual key is a practice
+called _[jugyokenkyu](GLOSSARY.md#jugyokenkyu)_, which means "lesson
+study":
 
-> The teachers described lessons they gave and things students said,
-> but they did not *see* the practices. When it came to observing
-> actual lessons–watching each other teach–they simply had no
-> opportunity… They had, he realized, no *jugyokenkyu*.
-> Translated literally as "lesson study", *jugyokenkyu* is a
-> bucket of practices that Japanese teachers use to hone their craft,
-> from observing each other at work to discussing the lesson afterward
-> to studying curriculum materials with colleagues. The practice is so
-> pervasive in Japanese schools that it is…effectively
-> invisible.
-> 
-> And here lay the answer to [Akihiko's] puzzle. Of course the
-> American teachers' work fell short of the model set by their best
-> thinkers… Without *jugyokenkyu*, his own classes would
-> have been equally drab. Without *jugyokenkyu*, how could you
-> even teach?
-
-So what does _[jugyokenkyu](GLOSSARY.md#jugyokenkyu)_ look like in
-practice?
-
-> In order to graduate, education majors not only had to watch their
-> assigned master teacher work, they had to effectively replace him,
-> installing themselves in his classroom first as observers and then,
-> by the third week, as a wobbly…approximation of the teacher
-> himself.  It worked like a kind of teaching relay. Each trainee took
-> a subject, planning five days' worth of lessons… [and
+> *Jugyokenkyu* is a bucket of practices that Japanese teachers use to
+> hone their craft, from observing each other at work to discussing
+> the lesson afterward to studying curriculum materials with
+> colleagues. The practice is so pervasive in Japanese schools that it
+> is…effectively invisible.
+>
+> In order to graduate, [Japanese] education majors not only had to
+> watch their assigned master teacher work, they had to effectively
+> replace him, installing themselves in his classroom first as
+> observers and then, by the third week, as a wobbly…approximation of
+> the teacher himself.  It worked like a kind of teaching relay. Each
+> trainee took a subject, planning five days' worth of lessons… [and
 > then] each took a day. To pass the baton, you had to teach a day's
 > lesson in every single subject: the one you planned and the four you
-> did not… and you had to do it right under your master
-> teacher's nose. Afterward, everyone–the teacher, the college
-> students, and sometimes even another outside observer–would sit
-> around a formal table to talk about what they saw.
-> 
-> [Trainees] stayed in…class until the students
-> left… They talked about what [the master teacher] had
-> done, but they spent more time poring over how the students had
-> responded: what they wrote in their notes; the ideas they came up
-> with, right and wrong; the architecture of the group
-> discussion…
-> 
-> …By the time he arrived in [the US], [Akihiko had]
-> become…famous… giving public lessons that attracted
-> hundreds, and, in one case, an audience of a thousand. He had a
-> seemingly magical effect on children… But Akihiko knew he was
-> no virtuoso. "It is not only me," he always said…
-> "*Many* people." After all, it was his mentor…who had
-> taught him the new approach to teaching… And [he] had
-> crafted the approach along with the other math teachers in [his
-> ward] and beyond. Together, the group met regularly to discuss
-> their plans for teaching… [At] the end of a discussion,
-> they'd invite each other to their classrooms to study the
-> results. In retrospect, this was the most important lesson: not how
-> to give a lesson, but how to study teaching, using the cycle
-> of *jugyokenkyu* to put…work under a microscope and
-> improve it.
+> did not… and you had to do it right under your master teacher's
+> nose. Afterward, everyone–the teacher, the college students, and
+> sometimes even another outside observer–would sit around a formal
+> table to talk about what they saw.
 
 Putting work under a microscope in order to improve it is commonplace
 in sports and music.  A professional musician, for example, will
@@ -135,33 +90,22 @@ paper sums up their findings:
 > Naïve models of educational change assume this lack of adoption
 > arises from failure to properly disseminate promising work, but
 > evidence suggests that dissemination via publication is simply not
-> effective… We asked educators to describe changes they had
-> made to their teaching practice and analyzed the resulting
-> stories… Of the 99 change stories analyzed, only three
-> demonstrate an active search for new practices or materials on the
-> part of teachers, and published materials were consulted in just
-> eight of the stories. Most of the changes occurred locally, without
-> input from outside sources, or involved only personal interaction
-> with other educators.
+> effective… We asked educators to describe changes they had made to
+> their teaching practice… Of the 99 change stories analyzed, only
+> three demonstrate an active search for new practices or materials on
+> the part of teachers, and published materials were consulted in just
+> eight… Most of the changes occurred locally, without input from
+> outside sources, or involved only personal interaction with other
+> educators.
 
 Barker et al found something similar {{"barker-practice-adoption"|cite}}:
 
 > Adoption is not a "rational action," however, but an iterative
 > series of decisions made in a social context, relying on normative
-> traditions, social cueing, and emotional or intuitive
-> processes… Faculty are not likely to use educational research
-> findings as the basis for adoption decisions. Faculty become aware
-> of innovative practices either because a problem leads them to
-> intentionally seek them out, or they hear about them through funded
-> initiatives, conferences and journals, or from colleagues. They
-> experiment (or not) for several reasons, depending on institutional
-> expectations and policies, perceived costs and benefits for
-> themselves and students, and the influence of role models. Faculty
-> tend to trust other faculty whose work and institutional context is
-> more like their own. The choice to try out practices competes with
-> the need to "cover" material, as well as with classroom
-> layouts. Positive student feedback is taken as strong evidence by
-> faculty that they should continue a practice.
+> traditions, social cueing, and emotional or intuitive processes…
+> Faculty are not likely to use educational research findings as the
+> basis for adoption decisions… Positive student feedback is taken as
+> strong evidence by faculty that they should continue a practice.
 
 This phenomenon is sometimes called _[lateral knowledge
 transfer](GLOSSARY.md#lateral-knowledge-transfer)_: someone sets out
@@ -170,10 +114,8 @@ as well (or instead). For example, an instructor might set out to show
 people how to do a particular statistical analysis in R, but what her
 learners might take away is some new keyboard shortcuts in R
 Studio. Live coding makes this much more likely because it allows
-learners to see the "how" as well as the "what".
-
-FIXME: make a stronger connection between *jugyokenkyu* and lateral
-knowledge transfer.
+learners to see the "how" as well as the "what", and *jugyokenkyu*
+works because it creates more opportunities for this to happen.
 
 ## Feedback
 
