@@ -241,12 +241,8 @@ smaller groups (such as the forwards and backs in rugby).
 > cards or dice is remembered as a whole rather than as five separate
 > pieces of information.  Chunks allow us to manage larger problems,
 > but can also mislead us if we mis-identify something, i.e., see it
-> as something it isn't.
->
-> One key finding in cognition research is that experts have more and
-> larger chunks than non-experts, i.e., experts "see" larger patterns,
-> and have more patterns to match things against.  We will discuss
-> this in more detail [later](load.md#pattern-recognition).
+> as something it isn't.  We will discuss this in more detail
+> [later](load.md#pattern-recognition).
 
 7±2 is probably the most important number in programming. When
 someone is trying to write the next line of a program, or understand
