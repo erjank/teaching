@@ -34,15 +34,13 @@ someone who hasn't written a program *yet* is more likely to test
 it objectively than someone who has just put in several hours of hard
 work and really, really wants to be done.
 
-FIXME: introduce Dee Fink's free book here
-
 A similar "backward" method works very well for lesson design.  This
 method is something called _[reverse instructional
 design](GLOSSARY.md#reverse-instructional-design)_ or _[understanding
-by design](GLOSSARY.md#understanding-by-design)_ (after a book by
-Wiggins and McTighe with that name {{"wiggins-mctighe"|cite}}).  There
-are several variations, but the one we recommend has the following
-steps:
+by design](GLOSSARY.md#understanding-by-design)_ after a book by that
+name {{"wiggins-mctighe"|cite}}; a similar method is described in
+{{"fink-significant"|cite}}[^1].  In brief, lessons should be designed
+as follows:
 
 1.  Create learner profiles (discussed in the next section) to figure
     out who you are trying to teach and what will appeal to them.
@@ -231,8 +229,16 @@ Write one more learning objectives for something you currently teach
 or plan to teach.  Working with a partner, critique and improve the
 objectives.
 
+---
+
+**Footnotes**
+
+[^1]: A summary of {{"fink-significant"|cite}} is [freely available
+      online][fink-short].
+
 ----
 
 {% references %} {% endreferences %}
 
+[fink-short]: https://www.deefinkandassociates.com/GuidetoCourseDesignAug05.pdf
 [wikipedia-bloom]: https://en.wikipedia.org/wiki/Bloom's_taxonomy
