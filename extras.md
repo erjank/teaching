@@ -288,16 +288,16 @@ rubric to follow.
 
 *   Instructor is typing commands without saying them out loud.
 
-*   Instructor uses fancy shell prompt.
+*   Instructor uses fancy shell prompt in the console window.
     FIXME: explain what this is and why it's bad.
     FIXME: put this into live coding section: "Try to mirror the setup
     that participants will have if they have just started with a stock
     installation."
 
-*   Instructor uses small font in not full-screen terminal window with
+*   Instructor uses small font in not full-screen console window with
     black background.
 
-*   The terminal window bottom is partially blocked by the learner's
+*   The console window bottom is partially blocked by the learner's
     heads for those sitting in the back.
 
 *   Instructor receives a a pop-up notification in the middle of the
@@ -319,12 +319,12 @@ rubric to follow.
 *   Instructor moves to the screen to point out details of commands or
     results.
 
-*   Instructor simply uses `$ ` as shell prompt.
+*   Instructor simply uses `$ ` as shell prompt in the console window.
 
-*   Instructor uses big font in wide-screen terminal window with white
+*   Instructor uses big font in wide-screen console window with white
     background.
 
-*   The terminal window bottom is above the learner's heads for those
+*   The console window bottom is above the learner's heads for those
     sitting in the back.
 
 *   Instructor makes mistake (a typo) and uses the occasion to

@@ -126,31 +126,45 @@ Here are some tips to make your live coding better:
     their laptop, or a separate `teaching-only' account on the service
     being taught (e.g., Github).
 
-4.  *Use the screen wisely.* Use a big font, and maximize the
-    window. A black font on a lightly-tinted background works better
-    than a light font on a dark background.
-    FIXME: explain why lightly-tinted and why not light on dark.
+4.  *Use the screen wisely.* You will need to enlarge your font
+    considerably in order for people to read it from the back of the
+    room, which means you can put much less on the screen than you're
+    used to[^1].  Maximize your window, and then ask everyone to give
+    you a thumbs-up or thumbs-down on its readability.  Use a black
+    font on a lightly-tinted background rather than a light font on a
+    dark background–the light tint will glare less than a pure white
+    background.
 
     When the bottom of the projector screen is at the same height, or
     below, the heads of the learners, people in the back won't be able
     to see the lower parts. Draw up the bottom of your window(s) to
     compensate.
 
+    Pay attention to the room lighting as well: it should not be fully
+    dark, and there should be no lights directly on or above the
+    presenter's screen.  If needed, reposition the tables so all
+    learners can see the screen.
+
     If you can get a second screen, use it: the extra screen real
-    estate will allow you to have your code and its behavior side by
-    side.
-    FIXME: explain this point better.
-    It will usually require its own PC or laptop, so you may
-    need to ask a helper to control it. You could use the second
-    screen to show the Etherpad content, or the lesson material, or
-    illustrations.
+    estate will allow you to display your code on one side and its
+    output or behavior on the other.  The second screen may require
+    its own PC or laptop, so you may need to ask a helper to control
+    it.
 
-    Pay attention to the lighting (not too dark, no lights directly
-    on/above the presenter's screen) and if needed, reposition the
-    tables so all learners can see the screen, and helpers can easily
-    reach all learners.
+    > **Multiple Personalities**
+    >
+    > If you teach using a console window, such as a Unix shell, it's
+    > important to tell people when you run an in-console text editor
+    > and when you return to the console prompt.  Most novices have
+    > never seen a window take on multiple personalities in this way,
+    > and can quickly become confused (particularly if the window is
+    > hosting an interactive interpreter prompt for Python or some
+    > other language as well as running shell commands and hosting
+    > an editor).
 
-5.  *Use illustrations.*  Most lesson material comes with
+5.  FIXME: Table layout
+
+6.  *Use illustrations.*  Most lesson material comes with
     illustrations, and these may help learners to understand the stages
     of the lesson and to organize the material. What can work really
     well is when you as instructor generate the illustrations on the
@@ -161,13 +175,13 @@ Here are some tips to make your live coding better:
     have to move between your laptop and the blackboard) and gathers the
     learners' attention to you as well.
 
-6.  *Avoid distractions.*  Turn off any notifications you may use
+7.  *Avoid distractions.*  Turn off any notifications you may use
     on your laptop, such as those from social media, email, etc. Seeing
     notifications flash by on the screen distracts you as well as the
     learners - and may even result in awkward situations when a message
     pops up you'd rather not have others see.
 
-7.  *Improvise after you know the material.*  The first time you
+8.  *Improvise after you know the material.*  The first time you
     teach a new lesson, you should stick fairly closely to the topics it
     lays out and the order they're in.  It may be tempting to deviate
     from the material because you would like to show a neat trick, or
@@ -194,7 +208,7 @@ Here are some tips to make your live coding better:
     displaying one virtual desktop while flipping back and forth to
     another.
 
-8.  *Embrace mistakes.*
+9.  *Embrace mistakes.*
 
     No matter how well prepared you are, you will be making
     mistakes. Typo's are hard to avoid, you may overlook something from
@@ -208,10 +222,10 @@ Here are some tips to make your live coding better:
     > *The typos are the pedagogy.*  
     > – Emily Jane McTavish
 
-9.  FIXME: it's OK to face the screen occasionally (ref back to
+10. FIXME: it's OK to face the screen occasionally (ref back to
     comment in practices section about this).
 
-10. *Have fun.* Teaching is performance art and can be rather serious
+11. *Have fun.* Teaching is performance art and can be rather serious
     business. On the one hand, don't let this scare you - it is much
     easier than performing Hamlet. You have an excellent script at
     your disposal, after all! On the other hand, it is OK to add an
@@ -274,6 +288,15 @@ to are expected to be familiar with.
     with the mouse?
 
 *   What will you try to do differently next time?
+
+
+---
+
+**Footnotes**
+
+[^1]: You will often be reduced to 60-70 columns and 20-30 rows, which
+      basically means that you're using a 21st Century supercomputer
+      to emulate an early-1980s VT100 terminal.
 
 ----
 
