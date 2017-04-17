@@ -153,9 +153,7 @@ Here are some tips to make your live coding better:
     > other language as well as running shell commands and hosting
     > an editor).
 
-5.  FIXME: Table layout
-
-6.  *Use illustrations.*  Most lesson material comes with
+5.  *Use illustrations.*  Most lesson material comes with
     illustrations, and these may help learners to understand the stages
     of the lesson and to organize the material. What can work really
     well is when you as instructor generate the illustrations on the
@@ -166,13 +164,13 @@ Here are some tips to make your live coding better:
     have to move between your laptop and the blackboard) and gathers the
     learners' attention to you as well.
 
-7.  *Avoid distractions.*  Turn off any notifications you may use
+6.  *Avoid distractions.*  Turn off any notifications you may use
     on your laptop, such as those from social media, email, etc. Seeing
     notifications flash by on the screen distracts you as well as the
     learners - and may even result in awkward situations when a message
     pops up you'd rather not have others see.
 
-8.  *Improvise after you know the material.*  The first time you
+7.  *Improvise after you know the material.*  The first time you
     teach a new lesson, you should stick fairly closely to the topics it
     lays out and the order they're in.  It may be tempting to deviate
     from the material because you would like to show a neat trick, or
@@ -199,7 +197,7 @@ Here are some tips to make your live coding better:
     displaying one virtual desktop while flipping back and forth to
     another.
 
-9.  *Embrace mistakes.*
+8.  *Embrace mistakes.*
 
     No matter how well prepared you are, you will be making
     mistakes. Typo's are hard to avoid, you may overlook something from
@@ -220,7 +218,7 @@ Here are some tips to make your live coding better:
     approach is to get learners to tell you what to do next in the
     hope that this will get you into the weeds.
 
-10. It's OK to *face the screen occasionally*, particularly when you
+9.  It's OK to *face the screen occasionally*, particularly when you
     are walking through a section of code statement by statement or
     drawing a diagram, but you shouldn't do this for more than a few
     seconds at a time[^2].  A good rule of thumb is to treat the
@@ -228,7 +226,7 @@ Here are some tips to make your live coding better:
     stare at someone for as long as you are spending looking at the
     screen, it's time to turn around and face your audience.
 
-11. *Have fun.* Teaching is performance art and can be rather serious
+10. *Have fun.* Teaching is performance art and can be rather serious
     business. On the one hand, don't let this scare you - it is much
     easier than performing Hamlet. You have an excellent script at
     your disposal, after all! On the other hand, it is OK to add an

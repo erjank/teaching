@@ -47,6 +47,7 @@
   * [Collaborative Debugging](practices.md#collaborative-debugging)
   * [Peer Instruction](practices.md#peer-instruction)
   * [Setting Up Your Learners](practices.md#setting-up-your-learners)
+  * [Setting Up Tables](practices.md#setting-up-tables)
   * [Setting Up Your Own Environment](practices.md#setting-up-your-own-environment)
   * [Cough Drops](practices.md#cough-drops)
   * [Teaching Online](practices.md#teaching-online)

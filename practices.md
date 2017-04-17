@@ -441,6 +441,24 @@ learners assist people who have run into trouble.
 > institutions' WiFi (which can be of highly variable quality), and
 > has the issues mentioned above with things like keyboard shortcuts.
 
+## Setting Up Tables
+
+You may not have any control over the layout of the desks or tables in
+the room in which your programming workshop takes place, but if you
+do, we find it's best to have:
+
+*   all tables on the same level (rather than banked seating),
+
+*   four people per table (so that each table can have two pairs if
+    you choose to use pair programming), and
+
+*   in-floor power outlets (so that you don't have to run power cords
+    across the floor that people can trip over).
+
+Whatever layout you have, try to make sure the seats have good back
+support, since people are going to be in them for an extended period,
+and check that every seat has an unobstructed view of the screen.
+
 ## Setting Up Your Own Environment
 
 Setting up your environment is just as important as setting up your
