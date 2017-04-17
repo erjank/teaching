@@ -51,7 +51,6 @@
   * [Think-Pair-Share](practices.md#think-pair-share)
   * [Challenges](practices.md#challenges)
 * [Live Coding](live.md)
-  * [FIXME](live.md#fixme)
   * [Challenges](live.md#challenges)
 * [Why I Teach](next.md)
 

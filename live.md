@@ -227,7 +227,7 @@ Here are some tips to make your live coding better:
     co-instructors and helpers for feedback when you are unsure of the
     effect your behaviour has on the workshop.
 
-> ## FIXME
+> **FIXME**
 > 
 > Another tip that might be useful to put somewhere: if you have
 > participants on multiple OSes, it might be worth pointing out any
