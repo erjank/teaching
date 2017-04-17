@@ -6,28 +6,6 @@ FIXME: Confessional debugging.  Useful for them post-workshop.  If
 your program doesn't work, explain the problem aloud to your
 cat/dog/rubber duck, and often the problem and solution become clear.
 
-FIXME: I get the feeling that your workshops usually involve many
-small exercises.  In our Greenfoot workshops we tend to work on
-building up one program over several hours.  For this purpose, I
-usually do backwards design: start with the final program I want
-learners to finish with.  Then I remove the most complex part (that I
-actually want them to write) and make that the last exercise.  Then
-remove the second most complex part, which is the penultimate
-exercise.  And so on, until I've removed one of the easiest parts I
-want them to write.  Any remaining code is boilerplate which I don't
-want them to write, and that forms the starting file(s) which I give
-out.  (You could say that ideally this is blank, but often you just
-have some stuff you need, e.g. import statements or helper functions,
-which you need to give them but which you're not going to get them to
-write.
-
-FIXME: Relatedly, we use a principle "Never a blank page" for our
-work, on the basis that blank pages are intimidating, whereas
-modifying some existing code is more realistic and gives some initial
-structure.  Obviously there's a tension here, as giving existing code
-increases cognitive load and learners can get distracted trying to
-understand it all.
-
 ## Have a Code of Conduct
 
 An important part of making a class productive is to treat everyone
@@ -74,6 +52,26 @@ a right to say what they think, but that doesn't mean they have a
 right to speak wherever and whenever they want.  If someone wishes to
 say something disparaging about someone else, they can go and find a
 space of their own in which to say it.
+
+## Never a Blank Page
+
+Programming workshops (and other kinds of classes) can be built around
+a set of independent exercises, develop a single extended example in
+stages, or use a mixed strategy.  The main advantages of independent
+exercises are that people who fall behind can easily re-synchronize,
+and that lesson developers can add, remove, and rearrange material at
+will.  A single extended example, on the other hand, will show
+learners how the bits and pieces they're learning fit together: in
+educational parlance, it provides more opportunity for them to
+integrate their knowledge.
+
+Whichever approach you take, learners should never start with a blank
+page (or screen), since they often find this intimidating or
+bewildering.  Modifying existing code instead of writing new code from
+scratch doesn't just give them structure: it is also more realistic.
+Keep in mind, however, that starter code may increase cognitive load,
+since learners can be distracted by trying to understand it all before
+they start their own work.
 
 ## Take Notes Together
 

@@ -103,11 +103,11 @@ def acronymize(words):
 
 Faded examples work because they introduce the problem-solving
 strategy piece by piece. At each step, learners have one new problem
-to tackle.  This is less intimidating than a blank screen or a blank
-sheet of paper.  It also encourages learners to think about the
-similarities and differences between various approaches, which helps
-create the linkages in the mental model that instructors want them to
-form.
+to tackle.  As [discussed later](practices.md#never-a-blank-page),
+this is less intimidating than a blank screen or a blank sheet of
+paper.  It also encourages learners to think about the similarities
+and differences between various approaches, which helps create the
+linkages in the mental model that instructors want them to form.
 
 The key to constructing a good faded example is to think about the
 problem-solving strategy or solution pattern that it is meant to

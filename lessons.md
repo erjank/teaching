@@ -68,6 +68,18 @@ This method helps to keep teaching focused on its objectives. It also
 ensures that learners don't face anything on the final exam that the
 course hasn't prepared them for.
 
+> **Building Lessons by Subtracting Complexity**
+>
+
+> One way to build a programming lesson is to write the program you
+> want learners to finish with, then remove the most complex part that
+> you want them to write and make it the last exercise. You can then
+> remove the next most complex part you want them to write and make it
+> the penultimate exercise, and so on.  Anything that's left–i.e.,
+> anything you don't want them to write as an exercise–becomes the
+> starter file(s) that you give them.  This typically includes things
+> like importing libraries or helper functions to access data.
+
 > **How and Why to Fake It**
 > 
 > One of the most influential papers in the history of software

@@ -35,6 +35,7 @@
   * [Challenges](motivation.md#challenges)
 * [Teaching Practices](practices.md)
   * [Have a Code of Conduct](practices.md#have-a-code-of-conduct)
+  * [Never a Blank Page](practices.md#never-a-blank-page)
   * [Take Notes Together](practices.md#take-notes-together)
   * [Assess Learners' Motivation and Prior Knowledge](practices.md#assess-learners-motivation-and-prior-knowledge)
   * [Use Sticky Notes as Status Flags](practices.md#use-sticky-notes-as-status-flags)
