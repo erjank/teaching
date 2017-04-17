@@ -333,7 +333,11 @@ doesn't dominate the session[^1].
 
 ## Have Learners Make Predictions
 
-FIXME: https://journals.aps.org/prper/abstract/10.1103/PhysRevSTPER.9.020113
+Research has shown that people learn more from demonstrations if they
+are asked to predict what's going to happen
+{{"miller-predictions-2013"|cite}}.  Doing this fits naturally into
+live coding: after adding or changing a few lines of a program, ask
+someone what is going to happen when it's run.
 
 ## Collaborative Debugging
 
@@ -380,27 +384,48 @@ presented gives students one more chance to solidify their
 understanding.
 
 Peer instruction is essentially a way to provide one-to-one mentorship
-in a scalable way. Despite this, we usually do not use it in our
-workshops because it takes people time to adapt to a new way of
-learning–time that we typically don't have in our compressed two-day
-format.
+in a scalable way. Despite this, we usually do not use it in either
+programming workshops or instructor training workshops because it
+takes people time to adapt to a new way of learning–time that we
+typically don't have in our compressed two-day format.
 
-FIXME: make it clear that the comment above is about actual classes,
-not instructor training workshops.
-
-FIXME: important to have learners record their votes so that they
-can't change their minds afterward and rationalize it (making excuses
-to themselves like "I just misread the question") - value comes from
-the jarring experience of having their answer be wrong.
+> **Taking a Stand**
+>
+> Note that it is important to have learners record their votes so
+> that they can't change their minds afterward and rationalize it by
+> making excuses to themselves like "I just misread the question".
+> Much of the value of peer instruction comes from the jarring
+> experience of having their answer be wrong and having to think
+> through the reasons why.
 
 ## Setting Up Your Learners
 
-Learners tell us that it is important to them to leave the workshop
-with their own machine set up to do real work. We therefore continue
-to teach on all three major platforms (Linux, Mac OS X, and Windows),
-even though it would be simpler to require learners to use just one.
+Adult learners tell us that it is important to them to leave
+programming workshops with their own machine set up to do real
+work. We therefore strongly recommend that instructors be prepared to
+teach on all three major platforms (Linux, Mac OS, and Windows), even
+though it would be simpler to require learners to use just one.
 
-FIXME: Talk about getting learners' machines set up.
+To aid in this, put detailed setup instructions for all three
+platforms on the workshop's website, and email learners a couple of
+days before the workshop starts to remind them to do the setup.  Even
+with this, a few people will always show up without the right
+software, either because their other commitments didn't allow them to
+go through the setup or because they ran into problems.  To detect
+this, have everyone run some simple command as soon as they arrive and
+show the instructors the result, and then have helpers and other
+learners assist people who have run into trouble.
+
+> **Common Denominators**
+> 
+> If you have participants using several different operating systems,
+> avoid using features which are OS-specific, and point out any that
+> you *do* use.  For example, some shell commands take different
+> options on Mac OS than on Linux, while the "minimize window"
+> controls and behavior on Windows are different from those on other
+> platforms.
+
+<!-- comment to separate blockquotes -->
 
 > **Virtual Machines**
 > 
@@ -418,11 +443,18 @@ FIXME: Talk about getting learners' machines set up.
 
 ## Setting Up Your Own Environment
 
-FIXME: target here for forward ref from performance section about
-setting up your environment, e.g., having a glass of water to give
-yourself time to think.  Also talk about how it's OK to face away from
-your audience for a few moments to write on the board or walk through
-code, as long as it's only for a few moments.
+Setting up your environment is just as important as setting up your
+learners', but more involved.  As well as having all the software that
+they need, and network access to the tool they're using to take notes,
+you should also have a glass of water, or a cup of tea or coffee.
+This helps keep your throat lubricated (as discussed in the next
+section), but its real purpose is to give you an excuse to pause for a
+couple of seconds and think when someone asks a hard question or you
+lose track of what you were going to say next.
+
+You will probably also want some whiteboard pens and a few of the
+other things described in the [travel kit
+checklist](checklists.md#travel-kit).
 
 ## Cough Drops
 

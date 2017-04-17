@@ -81,7 +81,8 @@ teach:
 
 *   sticky notes
 *   cough drops
-*   good shoes (because you'll be standing most of the day)
+*   good shoes
+    (because you'll be standing most of the day)
 *   a spare power adapter
 *   a spare shirt
 *   deodorant
@@ -91,15 +92,19 @@ teach:
 *   a granola bar or some other emergency snack
 *   Eno or some other antacid (because road food)
 *   business cards
-*   a printed copy of notes for reference during teaching (or a tablet or other "extra" device)
+*   a printed copy of notes for reference during teaching
+    (or a tablet or other "extra" device)
 *   an insulated cup for tea/coffee
 *   spare glasses/contacts
 *   a notebook and pen
-*   some sort of WiFi hub (in case networking in the room isn't working)
+*   a portable WiFi hub
+    (in case networking in the room isn't working)
 *   extra whiteboard markers
 *   a laser pointer
-*   a packet of wet wipes (because spills happen)
-*   a few USB drives with installers for various platforms (just in case)
+*   a packet of wet wipes
+    (because spills happen)
+*   a few USB drives with installers for various operating systems
+    (just in case)
 *   running shoes, a bathing suit, a yoga mat, or whatever else you exercise in or with
 *   a small notepad for writing down snippets of code for participants
 

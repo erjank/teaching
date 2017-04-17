@@ -222,8 +222,13 @@ Here are some tips to make your live coding better:
     > *The typos are the pedagogy.*  
     > – Emily Jane McTavish
 
-10. FIXME: it's OK to face the screen occasionally (ref back to
-    comment in practices section about this).
+10. It's OK to *face the screen occasionally*, particularly when you
+    are walking through a section of code statement by statement or
+    drawing a diagram, but you shouldn't do this for more than a few
+    seconds at a time[^2].  A good rule of thumb is to treat the
+    screen as one of your learners: if it would be uncomfortable to
+    stare at someone for as long as you are spending looking at the
+    screen, it's time to turn around and face your audience.
 
 11. *Have fun.* Teaching is performance art and can be rather serious
     business. On the one hand, don't let this scare you - it is much
@@ -240,18 +245,6 @@ Here are some tips to make your live coding better:
     was fun' after something worked well is a good start. Ask your
     co-instructors and helpers for feedback when you are unsure of the
     effect your behaviour has on the workshop.
-
-> **FIXME**
-> 
-> Another tip that might be useful to put somewhere: if you have
-> participants on multiple OSes, it might be worth pointing out any
-> features which are OS-specific to avoid confusing learners on other
-> OSes.  For example, Michael records Greenfoot videos on Mac, and
-> I've seen one commenter say they don't have the red/yellow/green
-> icons at the top of the window and ask if this is an issue.  That's
-> more cosmetic, but I imagine there's all sorts of gotchas elsewhere
-> (e.g. Mac's shell commands are the BSD versions which have less
-> command line arguments than the GNU versions you'd find on Linux).
 
 ## Challenges
 
@@ -297,6 +290,10 @@ to are expected to be familiar with.
 [^1]: You will often be reduced to 60-70 columns and 20-30 rows, which
       basically means that you're using a 21st Century supercomputer
       to emulate an early-1980s VT100 terminal.
+
+[^2]: Looking at the screen for a few seconds can help lower your
+      anxiety levels, since it gives you a brief break from being
+      looked at by all… those… eyes…
 
 ----
 

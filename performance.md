@@ -288,10 +288,6 @@ your teaching.  You may also enjoy Gawande's essay "Personal Best"
 {{"gawande-personal-best"|cite}}, which looks at the value of
 having a coach.
 
-FIXME: comment about engineering your environment to give you props
-to work with that don't reveal nervousness, like a glass of water.
-Forward ref to practices section.
-
 ## How to Practice Teaching
 
 FIXME: introduce this section
@@ -323,6 +319,13 @@ the cycle is teach-review-teach-review, the last person to teach runs
 out of time. Doing all the reviewing after all the teaching also helps
 put a bit of distance between the teaching and the reviewing, which
 makes the exercise slightly less excruciating.
+
+> **Setting Up Your Teaching Environment**
+>
+> If the room setup allows it, try to [set up your
+> environment](practices.md#setting-up-your-own-environment) to mimic
+> what you would use in an actual classroom: have a glass of water
+> handy, stand instead of sitting, and so on.
 
 ## Challenges
 
