@@ -403,7 +403,7 @@ FIXME: Talk about getting learners' machines set up.
 > institutions' WiFi (which can be of highly variable quality), and
 > has the issues mentioned above with things like keyboard shortcuts.
 
-## Setting Up Your Own Enviornment
+## Setting Up Your Own Environment
 
 FIXME: target here for forward ref from performance section about
 setting up your environment, e.g., having a glass of water to give
@@ -421,7 +421,7 @@ down with colds after teaching).
 
 The best way to protect yourself against this is to keep your throat
 lined, and the best way to do that is to use cough drops early and
-often.  Rhe right ones will also help delay the onset of coffee
+often.  The right ones will also help delay the onset of coffee
 breath, for which your learners will probably be grateful.
 
 ## Teaching Online

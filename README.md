@@ -147,7 +147,7 @@ would work.
 I started using these ideas in [Software Carpentry](swc-site) in 2012,
 and the results were everything I'd hoped for.  Designing lessons with
 different stage of cognitive development in mind, using live coding
-instead of slides, and adopting lightweight realtime assessment
+instead of slides, and adopting lightweight real-time assessment
 mechanisms[^1] all made our workshops more effective.
 
 What made the biggest difference, though, was offering a short course

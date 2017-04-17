@@ -128,7 +128,7 @@ The ability to move quickly between different models of a problem.
 ## Formative Assessment
 
 Assessment that takes place during a lesson in order to give both the
-learner and the instructo feedback on actual understanding.
+learner and the instructor feedback on actual understanding.
 
 See also [summative assessment](#summative-assessment).
 

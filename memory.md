@@ -193,7 +193,7 @@ Concept maps can be used in many ways:
     of doing things initially slows people down–if a student is trying
     to make sense of basic economics, asking them to figure out how to
     draw their thoughts at the same time is an unfair load.
-    FIXME: Neil Brown is sceptical of whether novices can effectively
+    FIXME: Neil Brown is skeptical of whether novices can effectively
     map their understanding, since introspection and explanation of
     understanding are generally more advanced skills than
     understanding itself.
