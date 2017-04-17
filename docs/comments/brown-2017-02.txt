@@ -206,7 +206,3 @@ You have a tip here about not using fancy bash prompts.  I wonder if this is a m
 Another tip that might be useful to put somewhere: if you have participants on multiple OSes, it might be worth pointing out any features which are OS-specific to avoid confusing learners on other OSes.  For example, Michael records Greenfoot videos on Mac, and I've seen one commenter say they don't have the red/yellow/green icons at the top of the window and ask if this is an issue.  That's more cosmetic, but I imagine there's all sorts of gotchas elsewhere (e.g. Mac's shell commands are the BSD versions which have less command line arguments than the GNU versions you'd find on Linux).
 
 And as a more general point, some of the material in appendix D feels like it belongs in the main text (e.g. section D.5 on video recorded lessons) rather than here in appendix D, which I take to be primarily a short summary of points from the main text.  But this might be confusion over where we are on the ladder again.
-
-
-
-

@@ -34,11 +34,96 @@ learners.  It covers:
 
 *   how to design and improve lessons efficiently and collaboratively;
 
-*   how and why live coding is a better way to teach programming than
-    lectures or self-directed practice; and
+*   how and why [live coding](/live/) (i.e., writing programs step by
+    step in front of learners) is a better way to teach programming
+    than lectures or self-directed practice; and
 
 *   how insights and techniques borrowed from the performing arts can
     make you a better teacher.
+
+## How to Use This Material
+
+This material has been taught as a multi-week online class, as a
+two-day in-person class, and as a two-day class in which the learners
+are in co-located groups and the instructor participates remotely.
+
+> **Terminology**
+>
+> When we talk about workshops, we will try to be clear about whether
+> we're discussing ones whose subject is programming, and which are
+> aimed at general learners, and those whose subject is now to teach
+> (and are using this material).  We usually refer to the latter as
+> "instructor training workshops".
+
+### In-Person
+
+In our experience, this is the most effective way to deliver an
+instructor training workshop.
+
+*   Participants are physically together for one or two days.  When they
+    need to work in small groups (e.g., for practice teaching), some
+    or all of them go to nearby breakout spaces.  Participants bring
+    their own tablets or laptops to view and edit online material
+    during the class, and use pen and paper and/or whiteboards for
+    some exercises.
+
+*   Participants use Etherpad or Google Doc for in-person training, both
+    for [shared note-taking](practices.md#take-notes-together) and for
+    posting exercise solutions and feedback on recorded lessons.
+    Questions and discussion are done aloud.
+
+*   Several times during the training, participants are put in groups of
+    three to teach for 2-3 minutes.  The mechanics are described
+    [later](performance.md#how-to-practice-teaching), and while
+    participants are initially intimidated at first, they routinely
+    rank it as the most useful part of the class.
+
+### Two-Day Online With Groups
+
+In this format, learners are in groups of 4-12, but those groups are
+geographically distributed.
+
+*   Each class uses an Etherpad or Google Doc for [shared
+    note-taking](practices.md#take-notes-together), and more
+    importantly for asking and answering questions: having several
+    dozen people try to talk on a call works poorly, so in most
+    sessions, the instructor does the talking and learners respond
+    through the note-taking tool's chat.
+
+*   Each group of learners is together in a room using one camera and
+    microphone, rather than each being on the call separately. We have
+    found that having good audio matters more than having good video,
+    and that the better the audio, the more learners can communicate
+    with the instructor and other rooms by voice rather than by using
+    the Etherpad chat.
+
+*   We do the video lecture exercise as in the two-day in-person training.
+
+### Multi-Week Online
+
+This was the first format we used, and we no longer recommend it.
+
+*   We met every week or every second week for an hour via web
+    conferencing. Each meeting was held twice (or even three times) to
+    accommodate learners' time zones and because video conferencing
+    systems can't handle 60+ people at once.
+
+*   We used web conferencing and shared note-taking as described above
+    for online group classes.
+    
+*   Learners posted homework online between classes, and commented on
+    each other's work.  (In practice, comments were relatively rare:
+    people seemed to prefer to discuss material in the web chats.)
+
+*   We used a WordPress blog for the first ten rounds of training, then
+    a GitHub-backed blog, and finally Piazza.  WordPress worked best:
+    setting up accounts was tedious, but everything after that ran
+    smoothly.  Using a GitHub blog worked so poorly that we didn't try
+    it again: a third of the participants found it extremely
+    frustrating, and post-publication commentary was awkward.  Piazza
+    was better than GitHub, but still not as easy for participants to
+    pick up as WordPress. In particular, it was hard to find things
+    once there were more than a dozen homework categories.
 
 ## History
 
@@ -62,7 +147,7 @@ would work.
 I started using these ideas in [Software Carpentry](swc-site) in 2012,
 and the results were everything I'd hoped for.  Designing lessons with
 different stage of cognitive development in mind, using live coding
-instead of slides, and adopting lightweight realtime assessment
+instead of slides, and adopting lightweight real-time assessment
 mechanisms[^1] all made our workshops more effective.
 
 What made the biggest difference, though, was offering a short course
@@ -86,8 +171,10 @@ Neal Davis, Rayna Harris, Kate Hertweck, Christina Koch, Sue
 McClatchy, Lex Nederbragt, Elizabeth Patitsas, Aleksandra Pawlik,
 Ariel Rokem, Tracy Teal, Fiona Tweedie, Allegra Via, Anelda van der
 Walt, Belinda Weaver, Jason Williams, and the hundreds of people who
-have gone through it over the years.  If you find it useful, I hope
-you will pass on whatever you have learned to someone else.
+have gone through it over the years.  I am also grateful to Neil
+Brown, Warren Code, and Mark Degani for their feedback on this
+version.  If you find it useful, I hope you will pass on whatever you
+have learned to someone else.
 
 ## Who You Are
 
@@ -138,9 +225,8 @@ participants in a workshop based on this book.
 
 ## Teaching Practices
 
-This material can be read on its own, but will be more effective when
-used in an intensive in-person class.  We suggest that workshops adopt
-these three teaching practices right from the start:
+We suggest that instructor training workshops use these three teaching
+practices right from the start:
 
 *   Have a [code of conduct](/practices/#conduct).
 
@@ -151,8 +237,8 @@ these three teaching practices right from the start:
 
 ## Dedication
 
-This book is dedicated to my mother, who taught a lot of children how
-to read and write, and to believe in themselves.
+This book is dedicated to my mother, Doris Wilson, who taught a lot of
+children how to read and write, and to believe in themselves.
 
 ## Challenges
 

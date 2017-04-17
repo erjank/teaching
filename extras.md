@@ -1,39 +1,40 @@
-----
-
-# Instructor's Guide
+# Extra Material
 
 This appendix includes material that doesn't naturally fit anywhere else.
 
 ## Key Terms
 
-*Educational psychology* is the study of how people learn. It touches
-on everything from the neuropsychology of perception and the
-mechanisms of memory to the sociology of school systems and the
-philosophical question of what we actually mean by "learning" (which
-turns out to be pretty complicated once you start looking beyond the
-standardized Western classroom). Within the broad scope of educational
-psychology, two specific perspectives have primarily influenced our
-teaching practices (and by extension, this instructor training).
+_[Educational psychology](GLOSSARY.md#educational-psychology)_ is the
+study of how people learn. It touches on everything from the
+neuropsychology of perception and the mechanisms of memory to the
+sociology of school systems and the philosophical question of what we
+actually mean by "learning" (which turns out to be pretty complicated
+once you start looking beyond the standardized Western
+classroom). Within the broad scope of educational psychology, two
+specific perspectives have primarily influenced our teaching practices
+(and by extension, this instructor training).
 
-The first perspective is *cognitivism*, which treats learning as a
-problem in neuropsychology. Cognitivists focus their attention on
-things like pattern recognition, memory formation, and recall. It is
-good at answering low-level questions, but generally ignores larger
-issues like, "What do we mean by 'learning'?" and, "Who gets to
-decide?"
+The first perspective is _[cognitivism](GLOSSARY.md#cognitivism)_,
+which treats learning as a problem in neuropsychology. Cognitivists
+focus their attention on things like pattern recognition, memory
+formation, and recall. It is good at answering low-level questions,
+but generally ignores larger issues like, "What do we mean by
+'learning'?" and, "Who gets to decide?"
 
-The second perspective is *[situated
-learning][wikipedia-situated-learning]*, which focuses on how
-*[legitimate peripheral participation][wikipedia-peripheral]* leads to
-people becoming members of a *[community of practice]*.
-Unpacking those terms, the situated learning perspective focuses on the
-transition from being a newcomer to being accepted as a peer by those
-who already do the activity in question. Situated learning is directly
-relevant to our learners, many of whom ease into scientific computing by
-doing small tasks that experienced practitioners would regard as
-straightforward, but who learn how to take on bigger and more novel
-challenges both from what they do and from the feedback (and welcome) it
-elicits. It is equally relevant to our instructors (i.e., you), who are
+The second perspective is _[situated
+learning](GLOSSARY.md#situated-learning)_, which focuses on how
+_[legitimate peripheral
+participation](GLOSSARY.md#legitimate-peripheral-participation)_ leads
+to people becoming members of a _[community of
+practice][GLOSSARY.md#community-of-practice]_.  Unpacking those terms,
+the situated learning perspective focuses on the transition from being
+a newcomer to being accepted as a peer by those who already do the
+activity in question. Situated learning is directly relevant to our
+learners, many of whom ease into scientific computing by doing small
+tasks that experienced practitioners would regard as straightforward,
+but who learn how to take on bigger and more novel challenges both
+from what they do and from the feedback (and welcome) it elicits. It
+is equally relevant to our instructors (i.e., you), who are
 approaching evidence-based teaching in the same way.
 
 For example, Software and Data Carpentry aim to serve researchers who
@@ -49,40 +50,44 @@ with the community of practice.
 
 > **Other Perspectives**
 >
-> There are many other perspectives outside cognitivist theory—see [this
-> site][learning-theories] for summaries. Besides cognitivism, those
-> encountered most frequently include *behaviorism* (which treats
-> education as stimulus/response conditioning), *constructivism* (which
-> considers learning an active process during which learners construct
-> knowledge for themselves), *connectivism* (which emphasizes the social
-> aspects of learning, particularly those made possible by the
-> Internet), and *connectionism*, a cognitivist theory that explains
-> learning as creating connections between concepts.  And yes, it would
-> help if their names were less similar…
+> There are many other perspectives outside cognitivist theory—see
+> [this site][learning-theories] for summaries. Besides cognitivism,
+> those encountered most frequently include
+> _[behaviorism](GLOSSARY.md#behaviorism)_ (which treats education as
+> stimulus/response conditioning),
+> _[constructivism](GLOSSARY.md#constructivism)_ (which considers
+> learning an active process during which learners construct knowledge
+> for themselves), and _[connectivism](GLOSSARY.md#connectivism)_
+> (which emphasizes the social aspects of learning, particularly those
+> made possible by the Internet).  And yes, it would help if their
+> names were less similar…
 
 Educational psychology does not tell us how to teach on its own
 because it under-constrains the problem: in real life, several
 different teaching methods might be consistent with what we currently
 know about how learning works. We therefore have to try those methods
 in the class, with actual learners, in order to find out how well they
-balance the different forces in play. This is called *instructional
-design* (ID).  If educational psychology is the science, ID is the
-engineering.
+balance the different forces in play. This is called _[instructional
+design](GLOSSARY.md#instructional-design)_.  If educational psychology
+is the science, instructional design is the engineering.
 
 FIXME: more on ID
 
 In the end, effective teaching often depends on what the teacher knows.
 The things teachers know can be divided into:
 
-*   *content knowledge*, such as the "what" of programming;
+*   _[content knowledge](GLOSSARY.md#content-knowledge)_, such as the
+    "what" of programming;
 
-*   *general pedagogical knowledge*, i.e., an understanding of the
-    psychology of learning; and
+*   _[general pedagogical
+    knowledge](GLOSSARY.md#general-pedagogical-knowledge)_, i.e., an
+    understanding of the psychology of learning; and
 
-*   the *pedagogical content knowledge* (PCK) that connects the two. PCK
-    is things like what examples to use when teaching how parameters are
-    passed to a function, or what misconceptions about wildcard
-    expansion are most common.
+*   the _[pedagogical content
+    knowledge](GLOSSARY.md#pedagogical-content-knowledge)_ (PCK) that
+    connects the two. PCK is things like what examples to use when
+    teaching how parameters are passed to a function, or what
+    misconceptions about wildcard expansion are most common.
 
 FIXME: more on PCK
 
@@ -164,6 +169,8 @@ this can be done while setting up before the start of the class.
 
 ## You Are Not Your Learners
 
+FIXME: important enough to move into main text
+
 People learn best when they care about the topic and believe they can
 master it. Neither fact is particularly surprising, but their
 practical implications have a lot of impact on what we teach, and the
@@ -210,8 +217,9 @@ lead-in to lunchtime discussion.
 
 One of the key elements of this training course is recording trainees
 and having them, and their peers, critique those recordings. We were
-introduced to this practice by UBC's Warren Code, and it has evolved to
-the following:
+introduced to this practice by UBC's Warren Code, who learned it from
+the [Instructional Skills Workshop](https://iswnetwork.ca/), and it
+has evolved to the following:
 
 1.  On day 1, show trainees a short clip (3-4 minutes) of someone teaching
     a lesson and have them give feedback as a group. This feedback is
@@ -280,7 +288,11 @@ rubric to follow.
 
 *   Instructor is typing commands without saying them out loud.
 
-*   Instructor uses fancy bash prompt.
+*   Instructor uses fancy shell prompt.
+    FIXME: explain what this is and why it's bad.
+    FIXME: put this into live coding section: "Try to mirror the setup
+    that participants will have if they have just started with a stock
+    installation."
 
 *   Instructor uses small font in not full-screen terminal window with
     black background.
@@ -307,7 +319,7 @@ rubric to follow.
 *   Instructor moves to the screen to point out details of commands or
     results.
 
-*   Instructor simply uses `$ ` as bash prompt.
+*   Instructor simply uses `$ ` as shell prompt.
 
 *   Instructor uses big font in wide-screen terminal window with white
     background.
@@ -326,84 +338,24 @@ highlight a few of the things that could have been done
 differently. This will give everyone some confidence in how to handle
 these situations in the future.
 
-## Logistics
+## Why We Are Not a MOOC
 
-This course has been taught as a multi-week online class, as a two-day
-in-person class, and as a two-day class in which the learners are in
-co-located groups and the instructor participates remotely.
+> *If you use robots to teach, you teach people to be robots.*  
+> – variously attributed
 
-### Multi-Week Online
+Massive open online courses (MOOCs) in which students watch videos
+instead of attending lectures, and then do assignments that are
+(usually) robo-graded, were a hot topic a few years ago.  Now that the
+hype has worn off, though, it's clear that they aren't as effective as
+their more enthusiastic proponents claimed they would
+be {{"ubell-moocs"|cite}}.
 
-This was the first format we used, and we no longer recommend it.
-
-*   We met every week or every second week for an hour using Google
-    Hangout or BlueJeans. Each meeting is held twice (or even three
-    times) to accommodate learners' time zones and because video
-    conferencing systems can't handle 60+ people at once.
-
-*   Each meeting also uses an Etherpad or Google Doc for shared
-    note-taking, and more importantly for asking and answering
-    questions: having several dozen people try to talk on a call hasn't
-    worked, so in most sessions, the instructor does the talking and
-    learners respond through the Etherpad chat.
-
-*   Learners post homework online between classes, and comment on each
-    other's work.  In practice, it turned out to be hard to get people
-    to comment in detail (or at all).
-
-*   We used a WordPress blog for the first ten rounds of training.
-    People found writing and commenting on posts straightforward, but
-    setting up dozens of logins was tedious.
-
-*   We tried a GitHub-backed blog in the Winter 2015 class. It didn't
-    work nearly as well: a third of the participants found it extremely
-    frustrating, and post-publication commentary was awkward.
-
-*   We tried Piazza in the Fall 2015 class. It was better than GitHub,
-    but still not as good as a simple WordPress blog. In particular, it
-    was hard to find things once there were more than a dozen homework
-    categories.
-
-### Two-Day In-Person
-
-This was the second method we tried. The biggest change was the
-introduction of recorded teaching exercises.
-
-*   Several times during the training, participants are divided into
-    groups of three and asked to teach a short lesson (typically 2-3
-    minutes long). In turn, one person is the teacher, one the audience,
-    and one the videographer, who records the teacher using a handheld
-    device such as a phone. Group members then rotate roles: the teacher
-    becomes the listener, the listener records, and the videographer
-    teaches. Once all three have finished teaching, the group reviews
-    all three videos, and everyone gives feedback on everyone (including
-    themselves). This feedback then goes into the Etherpad for
-    discussion.
-
-*   It's important to record all three videos and then watch all three:
-    if the cycle is teach-review-teach-review, the last person to teach
-    runs out of time. Doing all the reviewing after all the teaching
-    also helps put a bit of distance between the teaching and the
-    reviewing, which makes the exercise slightly less excruciating.
-
-*   We use Etherpad or Google Doc for in-person training, both for
-    note-taking and for posting exercise solutions and feedback on
-    recorded lessons.  Questions and discussion are done aloud.
-
-### Two-Day Online With Groups
-
-In this format, learners are in groups of 4-12, but those groups are
-geographically distributed.
-
-*   We use Google Hangouts and either Etherpad or Google Docs as in the
-    multi-week version. Each group of learners is together in a room
-    using one camera and microphone, rather than each being on the call
-    separately. We have found that having good audio matters more than
-    having good video, and that the better the audio, the more learners
-    can communicate with the instructor and other rooms by voice rather
-    than by using the Etherpad chat.
-
-*   We do the video lecture exercise as in the two-day in-person training.
+Recorded content is ineffective for most novices learners because it
+cannot intervene to clear up specific learners' misconceptions. Some
+people happen to already have the right conceptual categories for a
+subject, or happen to form them correctly early on; these are the ones
+who stick with most massive online courses, but many discussions of
+the effectiveness of such courses ignore this survivor bias.
 
 ## Effecting Change
 
@@ -458,25 +410,6 @@ they identify include:
     collective action of self-organizing groups within the system. This
     collective action can be stimulated, but not controlled.
 
-## Why We Are Not a MOOC
-
-> *If you use robots to teach, you teach people to be robots.*  
-> – variously attributed
-
-Massive open online courses (MOOCs) in which students watch videos
-instead of attending lectures, and then do assignments that are
-(usually) robo-graded, were a hot topic a few years ago.  Now that the
-hype has worn off, though, it's clear that they aren't as effective as
-their more enthusiastic proponents claimed they would
-be {{"ubell-moocs"|cite}}.
-
-Recorded content is ineffective for most novices learners because it
-cannot intervene to clear up specific learners' misconceptions. Some
-people happen to already have the right conceptual categories for a
-subject, or happen to form them correctly early on; these are the ones
-who stick with most massive online courses, but many discussions of
-the effectiveness of such courses ignore this survivor bias.
-
 ----
 
 {% references %} {% endreferences %}
@@ -485,7 +418,4 @@ the effectiveness of such courses ignore this survivor bias.
 [learning-theories]: http://www.learning-theories.com/
 [live-coding-bad]: https://youtu.be/bXxBeNkKmJE
 [live-coding-good]: https://youtu.be/SkPmwe_WjeY
-[wikipedia-community]: https://en.wikipedia.org/wiki/Community_of_practice
 [wikipedia-learning-modalities]: https://en.wikipedia.org/wiki/Learning_styles#Learning_modalities
-[wikipedia-peripheral]: https://en.wikipedia.org/wiki/Legitimate_peripheral_participation
-[wikipedia-situated-learning]: https://en.wikipedia.org/wiki/Situated_learning

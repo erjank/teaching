@@ -8,37 +8,63 @@ And as in those fields, we have a collection of small tips and tricks
 to make teaching work better.
 
 The first of our recommended teaching practices is so central that it
-deserves a chapter of its own: live coding.  When they are live
-coding, instructors don't use slides.  Instead, they through the
-lesson material, typing in the code or instructions, with their
-learners following along.  Its advantages are:
+deserves a chapter of its own: _[live
+coding](glossary.md#live-coding)_.  When they are live coding,
+instructors don't use slides.  Instead, they go through the lesson
+material, typing in the code or instructions, with their learners
+following along.  Its advantages are:
 
-*   Watching a program being written is more compelling than watching
+1.  Watching a program being written is more compelling than watching
     someone page through slides that present bits and pieces of the same
     code.
 
-*   It enables instructors to be more responsive to "what if?"
+2.  It enables instructors to be more responsive to "what if?"
     questions. Where a slide deck is like a railway track, live coding
     allows instructors to go off road and follow their learners'
     interests.
 
-*   It facilitates lateral knowledge transfer: people learn more than we
+3.  It facilitates lateral knowledge transfer: people learn more than we
     realized we were teaching by watching *how* instructors do
     things.
 
-*   It slows the instructor down: if she has to type in the program as
+4.  It slows the instructor down: if she has to type in the program as
     she goes along, she can only go twice as fast as her learners,
     rather than ten-fold faster as she could with slides.
 
-*   Learners get to see instructors' mistakes *and how to diagnose
+5.  Learners get to see instructors' mistakes *and how to diagnose
     and correct them*. Novices are going to spend most of their time
     doing this, but it's left out of most textbooks.
 
-*   Watching instructors make mistakes shows learners that it's all
+6.  Watching instructors make mistakes shows learners that it's all
     right to make mistakes of their.  Most people model the behavior of
     their teachers: if the instructor isn't embarrassed about making and
     talking about mistakes, learners will be more comfortable doing so
     too.
+
+> FIXME: downsides of live coding from Neil Brown are:
+>
+> 1. Too slow, either too slow typing or spending too much time
+> looking at notes to try to remember what they meant to type in
+>
+> 2. Spending time typing in boilerplate.  Willingham says "Memory is
+> the residue of thought" {{"willingham-dont-like-school"|cite}} and
+> if you spend your time typing boilerplate (import statements, helper
+> functions which are not of interest, try/catch blocks when the
+> lesson is not about exceptions).
+>
+> Add (a) know what you're going to type in, perhaps have the exact
+> final code printed out or on a tablet nearby and (b) make sure you
+> are live coding the interesting part.  If uninteresting, have it
+> pre-entered, or have it ready to copy and paste at the point you
+> need it, explaining to audience why they don't need to pay attention
+> to that part.
+>
+> If you've given a lesson several times, you're unlikely to make
+> anything other than basic typing mistakes (which usually aren't
+> informative). It's worth remembering "real" mistakes and making them
+> deliberately, but that often feels forced.  A better approach is to
+> get learners to tell you what to do next ("twitch coding") in the
+> hope that this will get you into the weeds.
 
 Live coding is an example of the "I/We/You" approach to teaching
 discussed in [Performance](/performance/).  It takes a bit of practice
@@ -76,7 +102,7 @@ Here are some tips to make your live coding better:
     and you increase the chance of people with hearing difficulties
     being able to follow the workshop.
 
-1.  *Take it slow.*  For every command you type, every word of code
+2.  *Take it slow.*  For every command you type, every word of code
     you write, every menu item or website button you click, say out loud
     what you are doing while you do it. Then point to the command and
     its output on the screen and go through it a second time. This not
@@ -90,7 +116,7 @@ Here are some tips to make your live coding better:
     Other options are to execute the same command a second time, or to
     copy and paste the last command(s) into the workshop's shared notes.
 
-1.  *Mirror your learner's environment as much as possible.*  You
+3.  *Mirror your learner's environment as much as possible.*  You
     may have set up your environment to your liking, with a very simple
     or rather fancy Unix prompt, colour schemes for your development
     environment, keyboard shortcuts etc. Your learners usually won't
@@ -100,24 +126,31 @@ Here are some tips to make your live coding better:
     their laptop, or a separate `teaching-only' account on the service
     being taught (e.g., Github).
 
-1.  *Use the screen wisely.*  Use a big font, and maximize the
-    window. A black font on a white background works better than a light
-    font on a dark background. When the bottom of the projector screen
-    is at the same height, or below, the heads of the learners, people
-    in the back won't be able to see the lower parts. Draw up the bottom
-    of your window(s) to compensate.
+4.  *Use the screen wisely.* Use a big font, and maximize the
+    window. A black font on a lightly-tinted background works better
+    than a light font on a dark background.
+    FIXME: explain why lightly-tinted and why not light on dark.
 
-    If you can get a second screen, use it! It will usually require its
-    own PC or laptop, so you may need to ask a helper to control it. You
-    could use the second screen to show the Etherpad content, or the
-    lesson material, or illustrations.
+    When the bottom of the projector screen is at the same height, or
+    below, the heads of the learners, people in the back won't be able
+    to see the lower parts. Draw up the bottom of your window(s) to
+    compensate.
+
+    If you can get a second screen, use it: the extra screen real
+    estate will allow you to have your code and its behavior side by
+    side.
+    FIXME: explain this point better.
+    It will usually require its own PC or laptop, so you may
+    need to ask a helper to control it. You could use the second
+    screen to show the Etherpad content, or the lesson material, or
+    illustrations.
 
     Pay attention to the lighting (not too dark, no lights directly
     on/above the presenter's screen) and if needed, reposition the
     tables so all learners can see the screen, and helpers can easily
     reach all learners.
 
-1.  *Use illustrations.*  Most lesson material comes with
+5.  *Use illustrations.*  Most lesson material comes with
     illustrations, and these may help learners to understand the stages
     of the lesson and to organize the material. What can work really
     well is when you as instructor generate the illustrations on the
@@ -128,13 +161,13 @@ Here are some tips to make your live coding better:
     have to move between your laptop and the blackboard) and gathers the
     learners' attention to you as well.
 
-1.  *Avoid distractions.*  Turn off any notifications you may use
+6.  *Avoid distractions.*  Turn off any notifications you may use
     on your laptop, such as those from social media, email, etc. Seeing
     notifications flash by on the screen distracts you as well as the
     learners - and may even result in awkward situations when a message
     pops up you'd rather not have others see.
 
-1.  *Improvise after you know the material.*  The first time you
+7.  *Improvise after you know the material.*  The first time you
     teach a new lesson, you should stick fairly closely to the topics it
     lays out and the order they're in.  It may be tempting to deviate
     from the material because you would like to show a neat trick, or
@@ -161,7 +194,7 @@ Here are some tips to make your live coding better:
     displaying one virtual desktop while flipping back and forth to
     another.
 
-1.  *Embrace mistakes.*
+8.  *Embrace mistakes.*
 
     No matter how well prepared you are, you will be making
     mistakes. Typo's are hard to avoid, you may overlook something from
@@ -172,24 +205,39 @@ Here are some tips to make your live coding better:
     spend most of their time making the same and other mistakes, but how
     to deal with them is left out of most textbooks.
 
-1.  *Have fun.*  Teaching is performance art and can be rather
-    serious business. On the one hand, don't let this scare you - it is
-    much easier than performing Hamlet. You have an excellent script at
+    > *The typos are the pedagogy.*  
+    > – Emily Jane McTavish
+
+9.  FIXME: it's OK to face the screen occasionally (ref back to
+    comment in practices section about this).
+
+10. *Have fun.* Teaching is performance art and can be rather serious
+    business. On the one hand, don't let this scare you - it is much
+    easier than performing Hamlet. You have an excellent script at
     your disposal, after all! On the other hand, it is OK to add an
     element of play, i.e. use humor and improvisation to liven up the
     workshop. How much you are able and willing to do this is really a
-    matter of personality and taste - as well as experience. It becomes
-    easier when you are more familiar with the material, allowing you to
-    relax more. Choose your words and actions wisely, though. Remember
-    that we want the learners to have a welcoming experience and a
-    positive learning environment - a misplaced joke can ruin this in an
-    instant. Start small, even just saying `that was fun' after
-    something worked well is a good start. Ask your co-instructors and
-    helpers for feedback when you are unsure of the effect you behaviour
-    has on the workshop.
+    matter of personality and taste - as well as experience. It
+    becomes easier when you are more familiar with the material,
+    allowing you to relax more. Choose your words and actions wisely,
+    though. Remember that we want the learners to have a welcoming
+    experience and a positive learning environment - a misplaced joke
+    can ruin this in an instant. Start small, even just saying `that
+    was fun' after something worked well is a good start. Ask your
+    co-instructors and helpers for feedback when you are unsure of the
+    effect your behaviour has on the workshop.
 
-> *The typos are the pedagogy.*  
-> – Emily Jane McTavish
+> **FIXME**
+> 
+> Another tip that might be useful to put somewhere: if you have
+> participants on multiple OSes, it might be worth pointing out any
+> features which are OS-specific to avoid confusing learners on other
+> OSes.  For example, Michael records Greenfoot videos on Mac, and
+> I've seen one commenter say they don't have the red/yellow/green
+> icons at the top of the window and ask if this is an issue.  That's
+> more cosmetic, but I imagine there's all sorts of gotchas elsewhere
+> (e.g. Mac's shell commands are the BSD versions which have less
+> command line arguments than the GNU versions you'd find on Linux).
 
 ## Challenges
 
@@ -215,7 +263,7 @@ in preparation for this workshop, explain in advance to your fellow
 trainee what you will be teaching and what the learners you teach it
 to are expected to be familiar with.
 
-*   What felt different about live coding (vs.~standing up and
+*   What felt different about live coding (versus standing up and
     lecturing)? What was harder/easier?
 
 *   Did you make any mistakes? If so, how did you handle them?

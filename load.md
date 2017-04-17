@@ -1,5 +1,3 @@
-----
-
 # Cognitive Load
 
 In 2006, Kirschner, Sweller, and Clark published a paper titled "Why
@@ -20,30 +18,32 @@ says:
 > "internal" guidance.
 
 The paper set off a minor academic firestorm, because beneath the
-jargon the authors were claiming that
-*[inquiry-based-learning][wikipedia-inquiry]*–allowing learners to ask
-their own questions, set their own goals, and find their own path
-through a subject–is intuitively appealing, but doesn't actually work
-very well. Kirschner et al argued that this was because it requires
-learners to simultaneously master both a domain's factual content and
-its problem-solving strategies.
+jargon the authors were claiming that _[inquiry-based
+learning](GLOSSARY.md#inquiry-based-learning)_ doesn't actually work
+very well.  Inquiry-based learning is the practice of allowing
+learners to ask their own questions, set their own goals, and find
+their own path through a subject, just as they would when solving
+problems in real life.  It is intuitively appealing, but Kirschner
+argued that it overloads learners, since it requires them to
+simultaneously master both a domain's factual content and its
+problem-solving strategies.
 
-More specifically, the theory of *[cognitive
-load][wikipedia-cognitive-load]* posits that people have to deal with
-three things when they're learning:
+More specifically, _[cognitive load
+theory](GLOSSARY.md#cognitive-load-theory)_ posits that people have to
+deal with three things when they're learning:
 
-*   *Intrinsic* load is what people have to keep in mind in order to
+1.  *Intrinsic* load is what people have to keep in mind in order to
     carry out a learning task.  In a programming class, this might be
     understanding what a variable is, or understanding how assignment in
     a programming language is different from creating a reference to a
     cell in a spreadsheet.
 
-*   *Germane* load is the (desirable) mental effort required to
+2.  *Germane* load is the (desirable) mental effort required to
     create linkages between new information and old (which is one of the
     things that distinguishes learning from memorization).  An example
     might be learning how to loop through a collection in Python.
 
-*   *Extraneous* load is everything else that distracts or gets in
+3.  *Extraneous* load is everything else that distracts or gets in
     the way, such as knowing that tabs look like multiple characters but
     only count as one when indenting Python code.
 
@@ -51,12 +51,14 @@ According to this theory, searching for a solution strategy is an
 extra burden on top of applying that strategy. We can therefore
 accelerate learning by giving learners worked examples that show them
 a problem and a detailed step-by-step solution, followed by a series
-of *faded examples*. The first of these presents a
-nearly-complete use of the same problem-solving strategy just
-demonstrated, but with a small number of blanks for the learner to
-fill in. The next problem is also of the same type, but has more
+of _[faded examples](GLOSSARY.md#faded-example)_. The first of these
+presents a nearly-complete use of the same problem-solving strategy
+just demonstrated, but with a small number of blanks for the learner
+to fill in. The next problem is also of the same type, but has more
 blanks, and so on until the learner is asked to solve the entire
-problem.
+problem.  (The material that *isn't* blank is often referred to as
+_[scaffolding](GLOSSARY.md#scaffolding)_, since it serves the same
+purpose as the scaffolding set up temporarily at a building site.)
 
 For example, someone teaching Python might start by explaining this:
 
@@ -146,12 +148,13 @@ However, there is no doubt that faded examples are effective.
 > at part of the diagram will trigger recall of what was being said.
 
 Another way to use cognitive load theory to construct exercises is
-called a *Parson's Problem*.  If you are teaching someone to
-speak a new language, you could ask them a question, and then give
-them the words they need to answer the question, but in jumbled
-order.  Their task is to put the words in the right order to answer
-the question grammatically, which frees them from having to think
-simultaneously about what to say *and* how to say it.
+called a _[Parson's Problem](GLOSSARY.md#parsons-problem)_.  If you are
+teaching someone to speak a new language, you could ask them a
+question, and then give them the words they need to answer the
+question, but in jumbled order.  Their task is to put the words in the
+right order to answer the question grammatically, which frees them
+from having to think simultaneously about what to say *and* how to say
+it.
 
 Similarly, when teaching people to program, you can give them the
 lines of code they need to solve a problem, and ask them to put them
@@ -159,6 +162,51 @@ in the right order.  This allows them to concentrate on control flow
 and data dependencies, i.e., on what has to happen before what,
 without being distracted by variable naming or trying to remember what
 functions to call.
+
+## FIXME
+
+*This entire section comes from Neil Brown's feedback*
+
+The main thing I took from cognitive load, Sweller, and books like Dan
+Willingham's "Why don't students like school" and Kahneman's "Thinking
+Fast and Slow": we can think via pattern recognition and by reasoning.
+The key thing about experts is that they have a lot more patterns
+stored, and only reason at the high end, whereas novices reason at the
+low end.
+
+I find this observation very helpful to explain a lot of novice/expert
+differences, and things like the expert blind spot.  A lot of teachers
+say they get their students to plan algorithms on paper before taking
+to the keyboard to code.  I used to dislike this advice, because I
+much prefer sitting down and coding directly.  But what I came to
+realize was that I don't need to plan the algorithm: I just recognise
+what is needed and start regurgitating the pattern(s), perhaps with a
+little reasoning to mesh a couple of patterns together.  Novices go
+about it a totally different way.  Such a key point: novices
+qualitatively use a different process than experts.  A bit more on
+that here:
+
+https://academiccomputing.wordpress.com/2013/07/10/programming-from-memory/
+
+There was a chunk of work on this in the 1980s which you could briefly
+discuss here: a series of workshops called Empirical Studies of
+Programming with researchers like Soloway had papers which tried to
+categorize all the patterns.  I believe that theoretically this is
+correct, but in practice it turned into a long slog that wouldn't
+actually result in much use to anyone: the catalogue would be too
+large to flick through and too dry to memorize directly.  But really
+some of the work on design patterns is exactly in this vein.  A bit
+more on that here:
+
+https://academiccomputing.wordpress.com/2013/07/29/goals-plans-and-code/
+
+To some extent you can view the challenge of teaching programming as
+the struggle to instill as many of these patterns as possible into
+learner's minds.  Probably with lots of exercises that particularly
+cover certain patterns.  I think to some extent we do design like this
+(practice loops a lot) but I'm not sure anyone ever thinks of it in
+these terms.  You also have the complication that you're not
+necessarily aiming for expert level...
 
 ## Challenges
 
@@ -206,6 +254,4 @@ with that person as a learner to help identify different loads.
 {% references %} {% endreferences %}
 
 [cognitive-load-unfalsifiable]: https://edtechdev.wordpress.com/2009/11/16/cognitive-load-theory-failure/
-[wikipedia-cognitive-load]: https://en.wikipedia.org/wiki/Cognitive_load
-[wikipedia-inquiry]: https://en.wikipedia.org/wiki/Inquiry-based_learning
 [wikipedia-split-attention]: https://en.wikipedia.org/wiki/Split_attention_effect

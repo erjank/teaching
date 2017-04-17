@@ -16,11 +16,11 @@ Most people design lessons as follows:
     exam.
 
 There's a better way, but to explain it, we first need to explain how
-*[test-driven development][wikipedia-tdd]* (TDD) is used in software
-development.  Programmers who are using TDD don't write software and
-then (possibly) write tests.  Instead, they write the tests first,
-then write just enough new software to make those tests pass, and then
-clean up a bit.
+_[test-driven development](GLOSSARY.md#test-driven-development)_ (TDD)
+is used in software development.  Programmers who are using TDD don't
+write software and then (possibly) write tests.  Instead, they write
+the tests first, then write just enough new software to make those
+tests pass, and then clean up a bit.
 
 TDD works because writing tests forces programmers to specify exactly
 what they're trying to accomplish and what "done" looks like. It's
@@ -35,10 +35,12 @@ it objectively than someone who has just put in several hours of hard
 work and really, really wants to be done.
 
 A similar "backward" method works very well for lesson design.  This
-method is something called *reverse instructional design* or
-*understanding by design* (after a book by Wiggins and McTighe
-with that name {{"wiggins-mctighe"|cite}}).  There are several
-variations, but the one we recommend has the following steps:
+method is something called _[reverse instructional
+design](GLOSSARY.md#reverse-instructional-design)_ or _[understanding
+by design](GLOSSARY.md#understanding-by-design)_ after a book by that
+name {{"wiggins-mctighe"|cite}}; a similar method is described in
+{{"fink-significant"|cite}}[^1].  In brief, lessons should be designed
+as follows:
 
 1.  Create learner profiles (discussed in the next section) to figure
     out who you are trying to teach and what will appeal to them.
@@ -100,11 +102,11 @@ course hasn't prepared them for.
 ## Learner Profiles
 
 The first piece of the process above is figuring out who your audience
-is.  One way to do this is to write two or three *learner
-profiles*. This technique is borrowed from user interface design,
-where short profiles of typical users are created to help designers
-think about their audience's needs, and to give them a shorthand for
-talking about specific cases.
+is.  One way to do this is to write two or three _[learner
+profiles](GLOSSARY.md#learner-profile)_. This technique is borrowed
+from user interface design, where short profiles of typical users are
+created to help designers think about their audience's needs, and to
+give them a shorthand for talking about specific cases.
 
 Learner profiles have five parts: the person's general background,
 what they already know, what *they* think they want to do, how
@@ -145,8 +147,9 @@ would Jorge face?"
 
 Summative and formative assessments help instructors figure out what
 they're going to teach, but in order to communicate that to learners
-and other instructors, a course description should also
-have *learning objectives*. A learning objective is a single
+and other instructors, a course description should also have
+_[learning objectives](GLOSSARY.md#learning-objective)_ (sometimes
+also called a *learning goal*). A learning objective is a single
 sentence describing what a learner will be able to do once they have
 sat through the lesson in order to demonstrate what they have learned.
 
@@ -167,18 +170,20 @@ each of this would be backed by a very different lesson:
 
 > **Objectives vs. Outcomes**
 > 
-> A learning *objective* is what a lesson strives to achieve.  A
-> learning *outcome* is what it actually achieves, i.e., what
-> learners actually take away.  The role of summative assessment is
-> therefore to compare outcomes with objectives.
+> A learning objective is what a lesson strives to achieve.  A
+> _[learning outcome](GLOSSARY.md#learning-outcome)_ is what it
+> actually achieves, i.e., what learners actually take away.  The role
+> of summative assessment is therefore to compare outcomes with
+> objectives.
 
 More specifically, a good learning objective has a *measurable or
 verifiable verb* that states what the learner will do, and specifies
-the *criteria for acceptable performance*.  Writing these kinds
-of learning objectives may initially seem restrictive or limiting, but
-will make both you and your learners happier in the long run. You will
-end up with clear guidelines for both your teaching and assessment,
-and your learners will appreciate the clear expectations.
+the *criteria for acceptable performance*.  Writing these kinds of
+learning objectives may initially seem restrictive or limiting, but
+will make both you, your fellow instructors, and your learners happier
+in the long run. You will end up with clear guidelines for both your
+teaching and assessment, and your learners will appreciate the clear
+expectations.
 
 One tool that can help when writing learning objectives is [Bloom's
 taxonomy][wikipedia-bloom], which was first published in 1956.  It
@@ -187,24 +192,26 @@ hierarchical, measurable, stable, and cross-cultural.  The table below
 defines the levels in Bloom's Taxonomy and shows some of the verbs
 typically used in learning objectives written for each level.
 
-| Level | Definition | Verbs |
-| ----- | ---------- | ----- |
-| Knowledge | recalling learned information | name, define, recall |
-| Comprehension | explaining the meaning of information | restate, locate, explain, recognize |
-| Application | applying what one knows to novel, concrete situations | apply, demonstrate, use |
-| Analysis | breaking down a whole into its component parts and explaining how each part contributes to the whole | differentiate, criticize, compare |
-| Synthesis | assembling components to form a new and integrated whole | design, construct, organize |
-| Evaluation | using evidence to make judgments about the relative merits of ideas and materials | choose, rate, select |
+| Level         | Definition                                                                                           | Verbs                               |
+| ------------- | ---------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| Knowledge     | recalling learned information                                                                        | name, define, recall                |
+| Comprehension | explaining the meaning of information                                                                | restate, locate, explain, recognize |
+| Application   | applying what one knows to novel, concrete situations                                                | apply, demonstrate, use             |
+| Analysis      | breaking down a whole into its component parts and explaining how each part contributes to the whole | differentiate, criticize, compare   |
+| Synthesis     | assembling components to form a new and integrated whole                                             | design, construct, organize         |
+| Evaluation    | using evidence to make judgments about the relative merits of ideas and materials                    | choose, rate, select                |
+
+FIXME: add link to http://www.cwsei.ubc.ca/Files/ComSc_LG/CPSC_Learning_Goals.pdf
 
 Another way to understand what makes for a good learning objective
 is to see how a poor one can be improved:
 
-| Objective | Comments |
-| --------- | -------- |
-| *Learner will be given opportunities to learn good programming practices.* | Describes the lesson's content, not the attributes of successful students. |
-| *Learner will have a better appreciation for good programming practices.* | Doesn't start with an active verb or define the level of learning, and the subject of learning has no context and is not specific. |
-| *Learner will understand how to program in R.* | Starts with an active verb, but doesn't define the level of learning, and the subject of learning is still too vague for assessment. |
-| *Learner will write one-page read-filter-summarize-print data analysis scripts for tabular data using R and R Studio.* | Starts with an active verb, defines the level of learning, and provides context to ensure that outcomes can be assessed. |
+| Objective                                                                                                              | Comments                                                                                                                             |
+| ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| *Learner will be given opportunities to learn good programming practices.*                                             | Describes the lesson's content, not the attributes of successful students.                                                           |
+| *Learner will have a better appreciation for good programming practices.*                                              | Doesn't start with an active verb or define the level of learning, and the subject of learning has no context and is not specific.   |
+| *Learner will understand how to program in R.*                                                                         | Starts with an active verb, but doesn't define the level of learning, and the subject of learning is still too vague for assessment. |
+| *Learner will write one-page read-filter-summarize-print data analysis scripts for tabular data using R and R Studio.* | Starts with an active verb, defines the level of learning, and provides context to ensure that outcomes can be assessed.             |
 
 Baume's guide to writing and using good learning outcomes
 {{"baume-outcomes"|cite}} is a good longer discussion of these issues.
@@ -222,9 +229,16 @@ Write one more learning objectives for something you currently teach
 or plan to teach.  Working with a partner, critique and improve the
 objectives.
 
+---
+
+**Footnotes**
+
+[^1]: A summary of {{"fink-significant"|cite}} is [freely available
+      online][fink-short].
+
 ----
 
 {% references %} {% endreferences %}
 
+[fink-short]: https://www.deefinkandassociates.com/GuidetoCourseDesignAug05.pdf
 [wikipedia-bloom]: https://en.wikipedia.org/wiki/Bloom's_taxonomy
-[wikipedia-tdd]: https://en.wikipedia.org/wiki/Test-driven_development

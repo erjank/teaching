@@ -1,16 +1,18 @@
 # Teaching as a Performance Art
 
+FIXME: shorten the quoted sections and be more direct about what
+*jugyokenkyu* is and how to implement it.
+
 Many people assume that teachers are born, not made. From politicians
 to researchers and teachers themselves, reformers have designed
 systems to find and promote those who can teach and eliminate those
-who can't. But as Elizabeth Green explains in
-*Building a Better Teacher* {{"green-babt"|cite}}, that
-assumption is wrong, which is why educational reforms based on it
-have repeatedly failed.
+who can't. But as Elizabeth Green explains in *Building a Better
+Teacher* {{"green-babt"|cite}}, that assumption is wrong, which is why
+educational reforms based on it have repeatedly failed.
 
-The book is written as a history of the people who have put that puzzle
-together in the US. Its core begins with a discussion of what James
-Stigler discovered during a visit to Japan in the early 1990s:
+The book is written as a history of the people who have put that
+puzzle together in the US. Its core begins with a discussion of what
+James Stigler discovered during a visit to Japan in the early 1990s:
 
 > Some American teachers called their pattern "I, We, You": After
 > checking homework, teachers announced the day's topic, demonstrating
@@ -59,7 +61,8 @@ worse:
 > have been equally drab. Without *jugyokenkyu*, how could you
 > even teach?
 
-So what does *jugyokenkyu* look like in practice?
+So what does _[jugyokenkyu](GLOSSARY.md#jugyokenkyu)_ look like in
+practice?
 
 > In order to graduate, education majors not only had to watch their
 > assigned master teacher work, they had to effectively replace him,
@@ -160,14 +163,17 @@ Barker et al found something similar {{"barker-practice-adoption"|cite}}:
 > layouts. Positive student feedback is taken as strong evidence by
 > faculty that they should continue a practice.
 
-This phenomenon is sometimes called *lateral knowledge transfer*:
-someone sets out to teach X, but while watching them, their audience
-actually learns Y as well (or instead). For example, an instructor
-might set out to show people how to do a particular statistical
-analysis in R, but what her learners might take away is some new
-keyboard shortcuts in R Studio. Live coding makes this much more
-likely because it allows learners to see the "how" as well as the
-"what".
+This phenomenon is sometimes called _[lateral knowledge
+transfer](GLOSSARY.md#lateral-knowledge-transfer)_: someone sets out
+to teach X, but while watching them, their audience actually learns Y
+as well (or instead). For example, an instructor might set out to show
+people how to do a particular statistical analysis in R, but what her
+learners might take away is some new keyboard shortcuts in R
+Studio. Live coding makes this much more likely because it allows
+learners to see the "how" as well as the "what".
+
+FIXME: make a stronger connection between *jugyokenkyu* and lateral
+knowledge transfer.
 
 ## Feedback
 
@@ -180,12 +186,13 @@ expectations. This is especially important when they have different
 backgrounds or cultural expectations about what's appropriate to say
 and what isn't.
 
-There are several things you can do to make feedback more effective:
+You can get better feedback on your work from other people using
+techniques like these:
 
 1.  *Initiate feedback.* It's better to ask for feedback than to
     receive it unwillingly.
 
-1.  *Choose your own questions*, i.e., ask for specific
+2.  *Choose your own questions*, i.e., ask for specific
     feedback. It's a lot harder for someone to answer, "What do you
     think?" than to answer either, "What is one thing I could have
     done as an instructor to make this lesson more effective?"  or "If
@@ -198,18 +205,13 @@ There are several things you can do to make feedback more effective:
     something you have chosen to work on helps you stay focused, which
     in turn increases the odds that you'll see progress.
 
-1.  *Balance positive and negative feedback.*  One method is a
-    "compliment sandwiches" made up of one positive, one negative, and
-    a second positive observation.  Another (which we discuss below) is
-    to ask for at least one point in each of several categories.
-
-1.  Use a feedback translator. Have a fellow instructor (or other
+3.  *Use a feedback translator.* Have a fellow instructor (or other
     trusted person in the room) read over all the feedback and give an
     executive summary. It can be easier to hear "It sounds like most
     people are following, so you could speed up" than to read several
     notes all saying, "this is too slow" or "this is boring".
 
-1.  Most importantly, *be kind to yourself*.  Many of us are very
+4.  Most importantly, *be kind to yourself*.  Many of us are very
     critical of ourselves, so it's always helpful to jot down what we
     thought of ourselves *before* getting feedback from others.
     That allows us to compare what we think of our performance with what
@@ -220,14 +222,32 @@ There are several things you can do to make feedback more effective:
     adjust their assessment of themselves the next time they feel that
     way.
 
-The technique we find most useful for giving feedback is to create a
-2x2 grid and put each piece of feedback in one of its four
-squares.  The vertical axis divides positive from negative; the
-horizontal divides content from presentation, i.e., what was said from
-how it was said.  Even this little bit of structure helps people
-figure out what to say, and to separate those who have good ideas that
-they can't communicate from those who are eloquent but don't actually
-have anything to say.
+You can give feedback to others more effectively as well:
+
+1.  *Balance positive and negative feedback.* One method is a
+    "compliment sandwiches" made up of one positive, one negative, and
+    a second positive observation.
+
+2.  *Organize your feedback using a rubric.* Most people are more
+    comfortable giving and receiving feedback when they they feel that
+    understand the social rules governing what they are allowed to say
+    and how they are allowed to say it.  A facilitator can then
+    transcribe items into a shared document (or onto a whiteboard)
+    during discussion.
+
+> **Two by Two**
+>
+> The rubric we find most useful for feedback on teaching is a 2x2
+> grid whose vertical axis is labelled "positive" and "negative", and
+> whose horizontal axis is labelled "content" (what was said) and
+> "presentation (how it was said).  Observers write each of their
+> comments in one of the grid's four squares as they are watching the
+> demonstration.
+
+Whatever methods are used, the most important thing to remember is
+feedback on teaching is meant to be formative: its goal is to help
+people figure out what they are doing well and what they still need to
+work on.
 
 > **Studio Classes**
 > 
@@ -240,7 +260,7 @@ have anything to say.
 > in music serve a similar purpose, and a few people have experimented
 > with using live coding at conferences or online in similar ways.
 
-<!-- -->
+<!-- comment needed to separate blockquotes -->
 
 > **Tells**
 > 
@@ -250,9 +270,15 @@ have anything to say.
 > around more than we usually would.
 > 
 > Gamblers call nervous habits like this "tells".  While these are
-> often not as noticeable as you would think, it's good to identify ways
-> to keep yourself from pacing, or fiddling with your jewellery, or not
-> looking at the audience.
+> often not as noticeable as you would think, it's good to know
+> whether you pac, fiddle with your hair, look at your shoes, or
+> rattle the change in your pocket when you don't know the answer
+> to a question.
+>
+> You can't get rid of tells completely, and trying to do so can make
+> you obsess about them.  A better strategy is to try to displace
+> them, e.g., to train yourself to scrunch your toes inside your shoes
+> instead of cracking your knuckles.
 
 If you are interested in knowing more about giving and getting
 feedback, you may want to read Gormally et al's "Feedback about
@@ -262,44 +288,63 @@ your teaching.  You may also enjoy Gawande's essay "Personal Best"
 {{"gawande-personal-best"|cite}}, which looks at the value of
 having a coach.
 
-## Challenges
+FIXME: comment about engineering your environment to give you props
+to work with that don't reveal nervousness, like a glass of water.
+Forward ref to practices section.
 
-### Giving Feedback
+## How to Practice Teaching
 
-1.  Watch [this video][video-bad-teaching] as a group and then give
-    feedback on it. Organize feedback along two axes: positive
-    vs. negative and content vs. presentation.
-
-1.  Have each person in the class add one point to a 2x2 grid
-    on a whiteboard (or in the shared notes) without duplicating any
-    points that are already up there.
-
-What did other people see that you missed?  What did they think that
-you strongly agree or disagree with?
-
-### Feedback on Your Teaching
+FIXME: introduce this section
 
 1.  Split into groups of three.
 
-1.  Have each person introduce themselves and then explain, in no more
+2.  Have each person introduce themselves and then explain, in no more
     than 90 seconds, the key idea or ideas from the Carpentry lesson
     episode they chose before the start of the training course to another
     person in the group while the third person records it (video and
     audio) using a cell phone or some other handheld device.
 
-1.  After the first person finishes, rotate roles (she becomes the
+3.  After the first person finishes, rotate roles (she becomes the
     videographer, her audience becomes the instructor, the person who was
     recording becomes the audience) and then rotate roles again.
 
-1.  After everyone in the group of three has finished teaching, watch the
+4.  After everyone in the group of three has finished teaching, watch the
     videos as a group. Everyone gives feedback on all three videos, i.e.,
     people give feedback on themselves as well as on others.
 
-1.  After everyone has given feedback on all of the videos, return to the
+5.  After everyone has given feedback on all of the videos, return to the
     main group and put all of the feedback into the notes.  Again, try to
     divide positive from negative and content from presentation.  Try
     also to identify each person's tells: what do they do that betrays
     nervousness, and how noticeable is it?
+
+It's important to record all three videos and then watch all three: if
+the cycle is teach-review-teach-review, the last person to teach runs
+out of time. Doing all the reviewing after all the teaching also helps
+put a bit of distance between the teaching and the reviewing, which
+makes the exercise slightly less excruciating.
+
+## Challenges
+
+### Give Feedback
+
+1.  Watch [this video][video-bad-teaching] as a group and then give
+    feedback on it. Organize feedback along two axes: positive
+    vs. negative and content vs. presentation.
+
+2.  Have each person in the class add one point to a 2x2 grid on a
+    whiteboard (or in the shared notes) without duplicating any points
+    that are already up there.
+
+What did other people see that you missed?  What did they think that
+you strongly agree or disagree with?
+
+### Practice Giving Feedback
+
+Use the process described above to practice your teaching in groups of
+three.
+
+FIXME: more detail
 
 ----
 

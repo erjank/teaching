@@ -1,5 +1,3 @@
-----
-
 # Why I Teach
 
 When I first started volunteering at the University of Toronto, students

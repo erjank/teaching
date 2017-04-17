@@ -1,15 +1,15 @@
 # Motivation and Demotivation
 
-In order for learners to step out into new and familiar terrain, they
-need encouragement. This chapter discusses typical ways that learners
-can be motivated, and more importantly, ways that we can demotivate
-them.
+Learners need encouragement to step out into unfamiliar terrain, so
+this chapter discusses ways instructors can motivate them.  More
+importantly, it discusses ways that we can accidentally *demotivate*
+them, and how we can avoid doing that.
 
 People learn best when they care about the topic and believe they can
 master it. This presents us with a problem because most people don't
 actually want to program: they want to make music or compare changes
-to zoning laws with family incomes, and rightly regarding programming
-as a tax they have to pay in order to do so. In addition, their early
+to zoning laws with family incomes, and rightly regard programming as
+a tax they have to pay in order to do so. In addition, their early
 experiences with programming are often demoralizing, and believing
 that something will be hard to learn is a self-fulfilling prophecy.
 
@@ -50,13 +50,14 @@ they'll stick with us.
 
 The best-studied use of this idea is the media computation approach
 developed by Guzdial and Ericson at Georgia Tech
-{{"guzdial-mediacomp-retrospective"|cite}}.
-Instead of printing "hello world" or summing the first ten integers,
-their students' first program opens an image, resizes it to create at
-thumbnail, and saves the result. This is an *authentic task*,
+{{"guzdial-mediacomp-retrospective"|cite}}.  Instead of printing
+"hello world" or summing the first ten integers, their students' first
+program opens an image, resizes it to create a thumbnail, and saves
+the result. This is an _[authentic task](GLOSSARY.md#authentic-task)_,
 i.e., something that learners believe they would actually do in real
-life. It is also *tangible*: if the image comes out the wrong
-size, learners have a concrete starting point for debugging.
+life. It is also has a _[tangible
+artefact](GLOSSARY.md#tangible-artefact)_: if the image comes out the
+wrong size, learners have a concrete starting point for debugging.
 
 > **Strategies for Motivating Learners**
 > 
@@ -74,18 +75,26 @@ size, learners have a concrete starting point for debugging.
 
 ## Demotivation
 
+> *Women aren't leaving computing because they don't know what it's
+> like; they're leaving because they **do** know.  
+> – variously attributed
+
 If you are teaching free-range learners, they are probably already
 motivated–if they weren't, they wouldn't be in your classroom. The
 challenge is therefore not to demotivate them.  Unfortunately, we can
 do this by accident much more easily than you might think.
 
-A most powerful demotivators are *indifference* and
-*unfairness*.  If learners believe that the instructor or the
-educational system doesn't care about them or the lesson, they won't
-care either. And if people believe the class is unfair, they will also
-be demotivated, even if it is unfair in their favor (because
-consciously or unconsciously they will worry that they will some day
-find themselves in the group on the losing end). Finally, a
+The three most powerful demotivators are *unpredictability*,
+*indifference*, and *unfairness*.
+FIXME: add material about unpredictability.
+
+If learners believe that the instructor or the educational system
+doesn't care about them or the lesson, they won't care either. And if
+people believe the class is unfair, they will also be demotivated,
+even if it is unfair in their favor (because consciously or
+unconsciously they will worry that they will some day find themselves
+in the group on the losing end
+{{"wilkinson-pickett-spirit-level"|cite}}). Finally, a
 "holier-than-thou" or contemptuous attitude from an instructor is a
 quick way to alienate a classroom and cause learners to tune out.
 
@@ -132,22 +141,23 @@ Here are some quick ways to demotivate your learners:
 
 > **Never Learn Alone**
 > 
-> One way to support at-risk learners of all kinds is to have people
-> sign up for workshops in small teams rather than as individuals. If an
-> entire lab group comes, or if attendees are drawn from the same (or
-> closely-related) disciplines, everyone in the room will know in
-> advance that they will be with at least a few people they trust, which
-> increases the chances of them actually coming. It also helps after the
-> workshop: if people come with their labmates, they can work together
-> to implement what they've learned.
+> One way to support learners who have been subject to systematic
+> exclusion or discrimination (overt or otherwise) is to have people
+> sign up for workshops in small teams rather than as individuals. If
+> an entire lab group comes, or if attendees are drawn from the same
+> (or closely-related) disciplines, everyone in the room will know in
+> advance that they will be with at least a few people they trust,
+> which increases the chances of them actually coming. It also helps
+> after the workshop: if people come with their friends or colleagues,
+> they can work together to implement what they've learned.
 
 ## Impostor Syndrome
 
-*[Impostor syndrome][wikipedia-impostor]* is the belief that one is
-not good enough for a job or position, that one's achievements are
-lucky flukes, and an accompanying fear of being "found out". Impostor
-syndrome seems to be particularly common among [high achievers who
-undertake publicly visible work][usenix-impostor].
+_[Impostor syndrome](GLOSSARY.md#impostor-syndrome)_ is the belief
+that one is not good enough for a job or position, that one's
+achievements are lucky flukes, and an accompanying fear of being
+"found out". Impostor syndrome seems to be particularly common among
+[high achievers who undertake publicly visible work][usenix-impostor].
 
 Academic work is frequently undertaken alone or in small groups but
 the results are shared and criticized publicly. In addition, we rarely
@@ -187,15 +197,15 @@ teaching about and dealing with imposter syndrome.
 
 Reminding people of negative stereotypes, even in subtle ways, makes
 them anxious about the risk of confirming those stereotypes, which in
-turn reduces their performance. This is called *[stereotype
-thread][wikipedia-stereotype]*, and the clearest examples in computing
+turn reduces their performance. This is called _[stereotype
+threat](GLOSSARY.md#stereotype-threat)_, and the clearest examples in computing
 are gender-related.  Depending on whose numbers you trust, only 12-18%
 of programmers are women, and those figures have actually been getting
 worse over the last 20 years. There are many reasons for this (see
-{{"margolis-fisher-clubhouse"|cite}} and
-{{"margolis-shallow"|cite}}), and {{"steele-vivaldi"|cite}}
-summarizes what we know about stereotype threat in general and
-presents some strategies for mitigating it in the classroom.
+{{"margolis-fisher-clubhouse"|cite}} and {{"margolis-shallow"|cite}}),
+and {{"steele-vivaldi"|cite}} summarizes what we know about stereotype
+threat in general and presents some strategies for mitigating it in
+the classroom.
 
 However, while there's lots of evidence that unwelcoming climates
 demotivate members of under-represented groups, it's not clear that
@@ -239,19 +249,20 @@ programmers and others aren't, but Mark Guzdial has called this belief
 ## Mindset
 
 Learners can be demotivated in subtler ways as well. For example,
-Dweck and others have studied the differences of [fixed mindset and
-growth mindset][wikipedia-mindset]. If people believe that competence
-in some area is intrinsic (i.e., that you either "have the gene" for
-it or you don't), *everyone* does worse, including the supposedly
-advantaged.  The reason is that if they don't get it at first, they
-figure they just don't have that aptitude, which biases future
-performance. On the other hand, if people believe that a skill is
-learned and can be improved, they do better on average.
+Dweck and others have studied the differences of [fixed
+mindset](GLOSSARY.md#fixed-mindset) and [growth
+mindset](GLOSSARY.md#growth-mindset). If people believe that
+competence in some area is intrinsic (i.e., that you either "have the
+gene" for it or you don't), *everyone* does worse, including the
+supposedly advantaged.  The reason is that if they don't get it at
+first, they figure they just don't have that aptitude, which biases
+future performance. On the other hand, if people believe that a skill
+is learned and can be improved, they do better on average.
 
 A person's mindset can be shaped by subtle cues. For example, if a
-child is told, "You did a good job, you must be very smart," she is
-likely to develop a fixed mindset. If on the other hand she is told,
-"You did a good job, you must have worked very hard," she is likely
+child is told, "You did a good job, you must be very smart," they are
+likely to develop a fixed mindset. If on the other hand they are told,
+"You did a good job, you must have worked very hard," they are likely
 to develop a growth mindset, and subsequently achieve more. Studies
 have also shown that the simple action of telling learners about the
 different mindsets before a course can improve learning outcomes for
@@ -328,19 +339,19 @@ the right place to start.  A few other recommendations are:
 
 ## Inclusivity
 
-*Inclusivity* is a policy of including people who might otherwise
-be excluded or marginalized. In computing, it means making a positive
-effort to be more welcoming to women, people of color, people with
-various sexual orientations, the elderly, the physically challenged,
-the formerly incarcerated, the economically disadvantaged, and
-everyone else who doesn't fit Silicon Valley's white/Asian male
-demographic. Lee's paper "What can I do today to create a more
-inclusive community in CS?" {{"lee-create-inclusive-community"|cite}}
-is a brief, practical guide to doing that with references to the
-research literature. These help learners who belong to one or more
-marginalized or excluded groups, but help motivate everyone else as
-well; while they are phrased in terms of term-long courses, many can
-be applied in our workshops:
+_[Inclusivity](GLOSSARY.md#inclusivity)_ is a policy of including
+people who might otherwise be excluded or marginalized. In computing,
+it means making a positive effort to be more welcoming to women,
+people of color, people with various sexual orientations, the elderly,
+the physically challenged, the formerly incarcerated, the economically
+disadvantaged, and everyone else who doesn't fit Silicon Valley's
+white/Asian male demographic. Lee's paper "What can I do today to
+create a more inclusive community in CS?"
+{{"lee-create-inclusive-community"|cite}} is a brief, practical guide
+to doing that with references to the research literature. These help
+learners who belong to one or more marginalized or excluded groups,
+but help motivate everyone else as well; while they are phrased in
+terms of term-long courses, many can be applied in our workshops:
 
 *   Ask learners to email you before the workshop to explain how they
     believe the training could help them achieve their goals.
@@ -376,7 +387,7 @@ usefulness"?  In the shared notes, write the task and where it fits
 on the grid. As a group, discuss how these relate back to the "teach
 most immediately useful first" approach.
 
-### Pick One
+### Implement One Strategy for Inclusivity
 
 Pick one activity or change in practice from Lee's paper
 {{"lee-create-inclusive-community"|cite}} that you would like to work
@@ -434,8 +445,5 @@ assessments that reinforce the status quo?
 [w3c-accessibility]: http://www.w3.org/WAI/training/accessible
 [webaim]: http://webaim.org/
 [wikipedia-curb-cuts]: https://en.wikipedia.org/wiki/Curb_cut
-[wikipedia-impostor]: https://en.wikipedia.org/wiki/Impostor_syndrome
-[wikipedia-mindset]: https://en.wikipedia.org/wiki/Mindset#Fixed_mindset_and_growth_mindset
 [wikipedia-nihil]: https://en.wikipedia.org/wiki/Nothing_About_Us_Without_Us
 [wikipedia-screen-reader]: https://en.wikipedia.org/wiki/Screen_reader
-[wikipedia-stereotype]: https://en.wikipedia.org/wiki/Stereotype_threat

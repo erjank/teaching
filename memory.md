@@ -13,15 +13,15 @@ cases where the normal rules don't apply.  They also somehow make this
 look effortless: in most cases, they just know what the right answer
 is.
 
-What makes someone an expert? The answer isn't that they know more
-facts: competent practitioners can memorize a lot of trivia without
-any noticeable improvement to their performance.  Instead, imagine for
-a moment that we store knowledge as a graph in which facts are nodes
-and relationships are arcs. (This is emphatically *not* how our
-brains work, but it's a useful metaphor.) The key difference between
-experts and people who are "merely competent" is that experts have
-many more connections, i.e., their mental models are much more densely
-connected.
+What makes someone an expert? The answer isn't just that they know
+more facts: competent practitioners can memorize a lot of trivia
+without any noticeable improvement to their performance.  Instead,
+imagine for a moment that we store knowledge as a graph in which facts
+are nodes and relationships are arcs. (This is emphatically *not* how
+our brains work, but it's a useful metaphor.) The key difference
+between experts and people who are "merely competent" is that experts
+have many more connections, i.e., their mental models are much more
+densely connected.
 
 This metaphor helps explain many observed aspects of expert behavior:
 
@@ -36,17 +36,20 @@ This metaphor helps explain many observed aspects of expert behavior:
 *   Experts are frequently so familiar with their subject that they can
     no longer imagine what it's like to *not* see the world that
     way. As a result, they are often less good at teaching the subject
-    than people with less expertise who still remember what it's like to
-    have to learn the things. This phenomenon is called *expert
-    blind spot*, and while it can be overcome with training, it's part
-    of why world-famous researchers are often poor lecturers.
+    than people with less expertise who still remember what it's like
+    to have to learn the things. This phenomenon is called _[expert
+    blind spot](GLOSSARY.md#(GLOSSARY.md#xpert-blind-spot))_, and
+    while it can be overcome with training, it's part of why there is
+    no correlation between how good someone is at doing research in an
+    area and how good they are at teaching it
+    {{"marsh-hattie-teaching"|cite}}.
 
-*   Densely-connected knowledge graphs are also the basis for
-    experts' *fluid representations*, i.e., their ability to switch
-    back and forth between different views of a problem
-    {{"petre-expertise"|cite}}.  For example, when trying to solve a
-    problem in mathematics, we might switch between tackling it
-    geometrically and representing it as a set of equations to be
+*   Densely-connected knowledge graphs are also the basis for experts'
+    _[fluid representations](GLOSSARY.md#fluid-representation)_, i.e.,
+    their ability to switch back and forth between different views of
+    a problem {{"petre-expertise"|cite}}.  For example, when trying to
+    solve a problem in mathematics, we might switch between tackling
+    it geometrically and representing it as a set of equations to be
     solved.
 
 *   Finally, this metaphor also explains why experts are better at
@@ -80,12 +83,13 @@ remembered.
 > The idea that ten thousand hours of practice will make someone an
 > expert in some field is widely quoted, but reality is more complex.
 > Doing exactly the same thing over and over again is much more likely
-> to solidify bad habits than perfect performance.  What actually works
-> is *deliberate practice* (also sometimes called
-> *reflective practice*), which is doing similar but subtly
-> different things, paying attention to what works and what doesn't, and
-> then changing behavior in response to that feedback to get
-> cumulatively better.
+> to solidify bad habits than perfect performance.  What actually
+> works is _[deliberate practice](GLOSSARY.md#deliberate-practice)_
+> (also sometimes called _[reflective
+> practice](GLOSSARY.md#reflective-practice)_), which is doing similar
+> but subtly different things, paying attention to what works and what
+> doesn't, and then changing behavior in response to that feedback to
+> get cumulatively better.
 > 
 > A common progression is for people to go through three stages:
 > 
@@ -94,11 +98,11 @@ remembered.
 >     summer holiday, and get feedback from a teacher telling them how to
 >     improve it.
 > 
-> 1.  They *learn how to give feedback*.  For example, they might
+> 2.  They *learn how to give feedback*.  For example, they might
 >     write an essay about character development in *The Catcher in
 >     the Rye*, and get feedback on their critique from a teacher.
 > 
-> 1.  They *apply what they've learned about feedback to themselves*.
+> 3.  They *apply what they've learned about feedback to themselves*.
 >     At some point, they start critiquing their own work in real time (or
 >     nearly so) using the critical skills they've built up in steps 1 and
 >     2.  Doing this is so much faster than waiting for feedback from
@@ -116,24 +120,25 @@ remembered.
 ## Concept Maps
 
 Our tool of choice to represent a knowledge graph (expert or
-otherwise) is a *concept map*.  A concept map is simply a picture
-of someone's mental model of a domain: facts are bubbles, and
-connections are labelled arcs. It is important that they are labelled:
-saying "X and Y are related" is only helpful if we explain what the
-relationship *is*. And yes, one person's fact may be another
-person's connection, but one of the benefits of concept mapping is
-that it makes those differences explicit.
+otherwise) is a _concept map(GLOSSARY.md#concept-map)_.  A concept map
+is simply a picture of someone's mental model of a domain: facts are
+bubbles, and connections are labelled arcs. It is important that they
+are labelled: saying "X and Y are related" is only helpful if we
+explain what the relationship *is*. And yes, one person's fact may be
+another person's connection, but one of the benefits of concept
+mapping is that it makes those differences explicit.
 
 > **Externalizing Cognition**
 > 
 > Concept maps are just one way to represent our understanding of a
 > subject.  For example, Andrew Abela's [decision tree][abela-chart]
-> presents a mental mode of how to choose the right kind of chart for
+> presents a mental model of how to choose the right kind of chart for
 > different kinds of questions and data.  Maps, flowcharts, and
-> blueprints can also be useful in some contexts.  What each does
-> is *externalize cognition*, i.e., make thought processes and
-> mental models visible so that they can be compared, contrasted, and
-> combined.
+> blueprints can also be useful in some contexts.  What each does is
+> _[externalize
+> cognition](GLOSSARY.md#(GLOSSARY.md#xternalized-cognition))_, i.e.,
+> make thought processes and mental models visible so that they can be
+> compared, contrasted, and combined.
 
 To show what concept maps look like, consider this simple `for
 loop in Python:
@@ -151,13 +156,11 @@ whose output is:
 *c
 ~~~
 
-The three key "things" in this loop are shown in
-\figrefsub{fig:for-loop-concepts}{a},  but they are only half the
-story–and arguably, the less important half.
-\figrefsub{fig:for-loop-concepts}{b} shows the *relationships* between
-those things.  We can go further and add two more relationships that are
-usually (but not always) true as shown in
-\figrefsub{fig:for-loop-concepts}{c}.
+The three key "things" in this loop are shown in the first part of the
+figure below, but they are only half the story–and arguably, the less
+important half.  The second part shows the *relationships* between
+those things.  We can go further and add two more relationships that
+are usually (but not always) true as shown in the third part.
 
 ![Concept Maps](fig/for-loop-concepts.png)
 
@@ -168,20 +171,20 @@ Concept maps can be used in many ways:
     content from order: in our experience, people rarely wind up
     teaching things in the order in which they first drew them.
 
-1.  They also aid communication between lesson designers. Instructors
+2.  They also aid communication between lesson designers. Instructors
     with very different ideas of what they're trying to teach are likely
     to pull their learners in different directions. Drawing and sharing
     concept maps isn't guaranteed to prevent this, but it certainly
     helps.
 
-1.  Concept maps also aid communication with learners. While it's
+3.  Concept maps also aid communication with learners. While it's
     possible to give learners a pre-drawn map at the start of a lesson
     for them to annotate, it's better to draw it piece by piece while
     teaching to reinforce the ties between what's in the map and what
     the instructor said. (We will return to this idea when we discuss
     Mayer's work on multimedia learning in [Cognitive Load](/load/).
 
-1.  Concept maps are also a useful for assessment: having learners draw
+4.  Concept maps are also a useful for assessment: having learners draw
     concept maps of what they think they just heard shows the instructor
     what was missed and what was mis-understood.  However, reviewing
     learners' concept maps is too time-consuming for use in class, but
@@ -190,6 +193,10 @@ Concept maps can be used in many ways:
     of doing things initially slows people down–if a student is trying
     to make sense of basic economics, asking them to figure out how to
     draw their thoughts at the same time is an unfair load.
+    FIXME: Neil Brown is skeptical of whether novices can effectively
+    map their understanding, since introspection and explanation of
+    understanding are generally more advanced skills than
+    understanding itself.
 
 > **Meetings, Meetings, Meetings**
 > 
@@ -204,47 +211,40 @@ Concept maps can be used in many ways:
 
 The graph model of knowledge is wrong but useful, but another simple
 model has a sound physical basis.  As a rough approximation, human
-memory can be divided into two distinct layers. The first is
-called *long-term* or *persistent memory*. It is where we
-store things like our password, our home address, and what the clown
-did at our eighth birthday party that scared us so much. It is
-essentially unbounded: barring injury or disease, we will die before
-it fills up.  However, it is also slow to access–too slow to help us
-handle hungry lions and disgruntled family members.
+memory can be divided into two distinct layers. The first is called
+_[long-term](GLOSSARY.md#long-term-memory)_ or _[persistent
+memory](GLOSSARY.md#persistent-memory)_. It is where we store things
+like our password, our home address, and what the clown did at our
+eighth birthday party that scared us so much. It is essentially
+unbounded: barring injury or disease, we will die before it fills up.
+However, it is also slow to access–too slow to help us handle hungry
+lions and disgruntled family members.
 
-Evolution has therefore given us a second system
-called *short-term* or *working memory*. It is much faster,
-but also much smaller: in 1956, Miller estimated that the average
-adult's working memory could hold 7±2 items for a few seconds
-before things started to drop out. This is why phone numbers are
-typically 7 or 8 digits long: back when phones had dials instead of
-keypads, that was the longest string of numbers most adults could
-remember accurately for as long as it took the dial to go around and
-around. It's also why sports teams tend to have about half a dozen
-members, or be broken down into smaller groups (such as the forwards
-and backs in rugby).
-
-> **Serial Position Effect**
-> 
-> When we memorize words in a list and are asked to immediately recall
-> them, the words first presented will have the best chance to be
-> transferred into long-term memory. On the other hand, the items that
-> are presented last might still be in short-term memory. These are
-> referred to as the primacy and recency effects, respectively, and
-> together they form the *serial position effect*.
-
-<!-- -->
+Evolution has therefore given us a second system called
+_[short-term](GLOSSARY.md#short-term-memory)_ or _[working
+memory](GLOSSARY.md#working-memory)_. It is much faster, but also much
+smaller: in 1956, Miller estimated that the average adult's working
+memory could hold 7±2 items for a few seconds before things started to
+drop out[^1]. This is why phone numbers are typically 7 or 8 digits
+long: back when phones had dials instead of keypads, that was the
+longest string of numbers most adults could remember accurately for as
+long as it took the dial to go around and around. It's also why sports
+teams tend to have about half a dozen members, or be broken down into
+smaller groups (such as the forwards and backs in rugby).
 
 > **Chunking**
 > 
 > Our minds can store larger numbers of facts in short-term memory by
-> creating *chunks*. For example, most of us will remember a word
-> we read as a single item, rather than as a sequence of letters.
-> Similarly, the pattern made by five spots on cards or dice is
-> remembered as a whole rather than as five separate pieces of
-> information.  Chunks allow us to manage larger problems, but can also
-> mislead us if we mis-identify something, i.e., see it as something it
-> isn't.
+> creating _[chunks](GLOSSARY.md#chunking)_. For example, most of us
+> will remember a word we read as a single item, rather than as a
+> sequence of letters.  Similarly, the pattern made by five spots on
+> cards or dice is remembered as a whole rather than as five separate
+> pieces of information.  Chunks allow us to manage larger problems,
+> but can also mislead us if we mis-identify something, i.e., see it
+> as something it isn't.
+>
+> FIXME: experts have more and larger chunks.  Refer forward to
+> the material from Neil Brown on patterns in "Load".
 
 7±2 is probably the most important number in programming. When
 someone is trying to write the next line of a program, or understand
@@ -288,19 +288,6 @@ just how many pieces of separate information will need to be
 
 ## Challenges
 
-### The Serial Position Effect
-
-Read the following list and try to memorize the items in it: cat,
-apple, ball, tree, square, head, house, door, box, car, king, hammer,
-milk, fish, book, tape, arrow, flower, key, shoe.
-
-Without looking at the list again, write down as many words from the
-list as you can. Compare to other members of the group. What words are
-remembered the most?
-
-[This website][serial-position] implements an interactive version of
-this exercise.
-
 ### Concept Mapping
 
 Create a hand drawn concept map for something you would teach in five
@@ -309,6 +296,13 @@ multiple choice question for earlier.) Trade with a partner, and
 critique each other's maps. Do they present concepts or surface
 detail? Which of the relationships in your partner's map do you
 consider concepts and vice versa?
+
+---
+
+**Footnotes**
+
+[^1]: More recent estimates put the number closer to 4±1, which means
+that effective chunking is even more important than first thought.
 
 ----
 

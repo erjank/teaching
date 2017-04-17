@@ -13,24 +13,24 @@ statements about what's true for the majority.)
 
 For our purposes, we simplify the five stages to three:
 
-*   A *novice* is someone who doesn't know what they don't know,
-    i.e., they don't yet know what the key ideas in the domain are or
-    how they relate. They reason by analogy and guesswork, borrowing
-    bits and pieces of their mental models of other domains which seem
-    superficially similar. One sign that someone is a novice is that
-    their questions aren't even wrong.
+1.  A _[novice](GLOSSARY.md#novice)_ is someone who doesn't know what
+    they don't know, i.e., they don't yet know what the key ideas in
+    the domain are or how they relate. They reason by analogy and
+    guesswork, borrowing bits and pieces of their mental models of
+    other domains which seem superficially similar[^1].
 
-*   A *competent practitioner* is someone who has a mental model
-    that's good enough for everyday purposes: they can do normal tasks
-    with normal effort under normal circumstances. This model does not
-    have to be completely accurate in order to be useful: for example,
-    the average driver's mental model of how a car works probably
-    doesn't include most of the complexities that a mechanical engineer
-    would be concerned with.
+2.  A _[competent practitioner](GLOSSARY.md#competent-practitioner)_
+    is someone who has a mental model that's good enough for everyday
+    purposes: they can do normal tasks with normal effort under normal
+    circumstances. This model does not have to be completely accurate
+    in order to be useful: for example, the average driver's mental
+    model of how a car works probably doesn't include most of the
+    complexities that a mechanical engineer would be concerned with.
 
-*   An *expert* is someone who can easily handle situations that are
-    out of the ordinary, diagnose the causes of problems, and so on. We
-    will discuss expertise in more detail in [Memory](/memory/).
+3.  An _[expert](GLOSSARY.md#expert)_ is someone who can easily handle
+    situations that are out of the ordinary, diagnose the causes of
+    problems, and so on. We will discuss expertise in more detail in
+    [Memory](/memory/).
 
 One example of a mental model is the ball-and-spring model of
 molecules that most of us encountered in high school chemistry. Atoms
@@ -43,11 +43,24 @@ this model is wrong, but useful for many purposes.
 Novices, competent practitioners, and experts need to be taught
 differently.  In particular, presenting novices with a pile of facts
 early on is counter-productive, because they don't yet have a model to
-fit those facts into.  (In fact, presenting too many facts too soon
-can actually reinforce the incorrect mental model they've cobbled
-together.)
+fit those facts into.  In fact, presenting too many facts too soon can
+actually reinforce the incorrect mental model they've cobbled
+together.  As [Derek Muller
+wrote](https://fnoschese.wordpress.com/2011/03/17/khan-academy-and-the-effectiveness-of-science-videos/)
+about this in the context of video instruction for science students:
 
-Instead, the goal with novices is *to help them construct a working
+> Students have existing ideas about scientific phenomena before
+> viewing a video. If the video presents scientific concepts in a
+> clear, well illustrated way, students believe they are learning but
+> they do not engage with the media on a deep enough level to realize
+> that what was is presented differs from their prior knowledge.
+>
+> There is hope, however. Presenting students' common misconceptions
+> in a video alongside the scientific concepts has been shown to
+> increase learning by increasing the amount of mental effort students
+> expend while watching it.
+
+The goal with novices is therefore *to help them construct a working
 mental model* so that they have somewhere to put facts.  As an example
 of what this means in practice, Software Carpentry's [lesson on the
 Unix shell][swc-unix] introduces fifteen commands in three
@@ -88,44 +101,50 @@ that just ain't so."
 
 Broadly speaking, learners' misconceptions fall into three categories:
 
-*   Simple *factual errors*, such as believing that Vancouver is
-    the capital of British Columbia. These are simple to correct, but
+1.  Simple *factual errors*, such as believing that Vancouver is the
+    capital of British Columbia[^2]. These are simple to correct, but
     getting the facts right is not enough on its own.
 
-*   *Broken models*, such as believing that motion and acceleration
+2.  *Broken models*, such as believing that motion and acceleration
     must be in the same direction. We can address these by having them
     reason through examples to see contradictions.
 
-*   *Fundamental beliefs*, such as "the world is only a few
-    thousand years old" or "human beings cannot be affecting the
-    planet's climate". These usually cannot be addressed in class,
-    since they are deeply connected to the learner's social identity and
-    often cannot be reasoned away.
+3.  *Fundamental beliefs*, such as "the world is only a few thousand
+    years old" or "some kinds of people are just naturally better at
+    programming than others" {{"patitsas-cs-grades"|cite}}.  These are
+    often deeply connected to the learner's social identity, and so
+    are resistant to evidence and cannot be reasoned away in class.
+
+## Formative Assessment
 
 Teaching is most effective when instructors have a way to identify and
 clear up learners' misconceptions *while they are teaching*.  The
-technical term for this is *formative assessment*, which is
-assessment that takes place during the lesson in order to form or
-shape it.  Learners don't pass or fail formative assessments; instead,
-its main purpose is to tell both the instructor and the learner how
-the learner is doing, and what to focus on next.  For example, a music
-teacher might ask a student to play a scale very slowly in order to
-see whether she is breathing correctly, and if she is not, what she
-should change.
+technical term for this is _[formative
+assessment](GLOSSARY.md#formative-assessment)_, which is assessment
+that takes place during the lesson in order to form or shape it.
+Learners don't pass or fail formative assessments; instead, its main
+purpose is to tell both the instructor and the learner how the learner
+is doing, and what to focus on next.  For example, a music teacher
+might ask a student to play a scale very slowly in order to see
+whether she is breathing correctly, and if she is not, what she should
+change.
 
-The counterpoint to formative assessment is *summative
-assessment*, which is used at the end of the lesson to tell whether
-the desired learning took place and whether the learner is ready to
-move on.  Learners either pass or fail a summative assessment. One
-example is a driving exam, which reassures the rest of society that
-someone can safely be allowed on the road.
+The counterpoint to formative assessment is _[summative
+assessment](GLOSSARY.md#summative-assessment)_, which is used at the
+end of the lesson to tell whether the desired learning took place and
+whether the learner is ready to move on[^3].  Learners either pass or
+fail a summative assessment. One example is a driving exam, which
+reassures the rest of society that someone can safely be allowed on
+the road.
 
 > **Connecting Formative and Summative Assessment**
 > 
 > One rule to use when designing lessons is that formative assessments
 > should prepare people for summative assessments: no one should ever
-> encounter a question on an exam for which the teaching did not prepare
-> them.
+> encounter a question on an exam for which the teaching did not
+> prepare them.  This doesn't mean that novel problems should not
+> appear, but that if they do, learners should have have practice with
+> and feedback on tackling novel problems beforehand.
 
 In order to be useful during teaching, a formative assessment has to
 be quick to administer and give an unambiguous result. The most widely
@@ -155,24 +174,27 @@ valuable insight:
 *   If she answers 33 then she knows she has to carry the 1, but is
     carrying it back into the same column it came from.
 
-Each of these incorrect answers is a *plausible distractor* with
-*diagnostic power*.   "Plausible" means that it looks like it
-could be right: instructors will often put supposedly-silly answers
-like "a fish!" on MCQs, but they don't provide any insight and
-learners actually don't find them funny. "Diagnostic power" means
-that each of the distractors helps the instructor figure out what to
-explain to that particular learner next.
+Each of these incorrect answers is a _[plausible
+distractor](GLOSSARY.md#plausible-distractor)_ with _[diagnostic
+power](GLOSSARY.md#diagnostic-power)_.  "Plausible" means that it
+looks like it could be right: instructors will often put
+supposedly-silly answers like "a fish!" on MCQs, but they don't
+provide any insight and learners actually don't find them
+funny. "Diagnostic power" means that each of the distractors helps the
+instructor figure out what to explain to that particular learner
+next[^4].
 
 Instructors should use MCQs or some other kind of formative assessment
 at least every 10-15 minutes in order to make sure that the class is
-actually learning. Since the average attention span is usually only this
-long, formative assessments also help break up instructional time and
-re-focus attention. Formative assessments can also be used preemptively:
-if you start a class with an MCQ and everyone can answer it correctly,
-then you can safely skip the part of the lecture in which you were going
-to explain something that your learners already know. (Doing this also
-helps show learners that the instructor cares about how much they are
-learning.)
+actually learning. Since the average attention span is usually only
+this long, formative assessments also help break up instructional time
+and re-focus attention. Formative assessments can also be used
+preemptively: if you start a class with an MCQ and everyone can answer
+it correctly, then you can safely skip the part of the lecture in
+which you were going to explain something that your learners already
+know. Doing this also helps show learners that the instructor cares
+about how much they are learning, and respects their time enough not
+to waste it.
 
 > **When to Proceed?**
 > 
@@ -193,75 +215,35 @@ learning.)
 > teaching practices you use, you won't always be able to give everyone
 > the help they need.
 
-<!-- separate blockquotes -->
+<!-- comment needed to separate blockquotes -->
 
-> **Peer Instruction**
+> **Notes on MCQ Design**
 > 
-> No matter how good a teacher is, she can only say one thing at a time.
-> How then can she clear up many different misconceptions in a reasonable
-> time?
+> 1.  A good MCQ tests for conceptual misunderstanding rather than
+>     simple factual knowledge. If you are having a hard time coming
+>     up with diagnostic distractors, then either you need to think
+>     more about your learners' mental models, or your question simply
+>     isn't a good starting point for an MCQ.
 > 
-> The best solution developed so far is a technique called *[peer
-> instruction][wikipedia-peer-instruction]. Originally created by Eric
-> Mazur at Harvard, it has been studied extensively in a wide variety
-> of contexts, including programming
-> {{"porter-what-works"|cite}}. Peer instruction combines
-> formative assessment with student discussion and looks something
-> like this:
-> 
-> 1.  Give a brief introduction to the topic.
-> 
-> 1.  Give students an MCQ that probes for misconceptions (rather than
->     simple factual knowledge).
-> 
-> 1.  Have all the students vote on their answers to the MCQ.
->     1.  If the students all have the right answer, move on.
->     1.  If they all have the same wrong answer, address that specific
->         misconception.
->     1.  If they have a mix of right and wrong answers, give them several
->         minutes to discuss those answers with one another in small groups
->         (typically 2-4 students) and then reconvene and vote again.
-> 
-> As [this video][video-peer-instruction]
-> shows, group discussion significantly improves students' understanding
-> because it forces them to clarify their thinking, which can be enough to
-> call out gaps in reasoning. Re-polling the class then lets the
-> instructor know if they can move on, or if further explanation is
-> necessary. A final round of additional explanation and discussion after
-> the correct answer is presented gives students one more chance to
-> solidify their understanding.
-> 
-> Peer instruction is essentially a way to provide one-to-one mentorship
-> in a scalable way. Despite this, we usually do not use it in our
-> workshops because it takes people time to learn a new way to
-> learn–time that we don't have in our compressed two-day format.
+> 2.  When you are trying to come up with distractors, think about
+>     questions that learners asked or problems they had the last time
+>     you taught this subject. If you haven't taught it before, think
+>     about your own misconceptions or ask colleagues about their
+>     experiences.  You can also ask open-ended questions in one class
+>     to collect misconceptions about material to be covered in a
+>     later class.
 
-<!-- -->
-
-> **A Note on MCQ Design**
-> 
-> *   A good MCQ tests for conceptual misunderstanding rather than simple
->     factual knowledge. If you are having a hard time coming up with
->     diagnostic distractors, then either you need to think more about your
->     learners' mental models, or your question simply isn't a good starting
->     point for an MCQ.
-> 
-> *   When you are trying to come up with distractors, think about questions
->     that learners asked or problems they had the last time you taught this
->     subject. If you haven't taught it before, think about your own
->     misconceptions or ask colleagues about their experiences.
-
-<!-- -->
+<!-- comment needed to separate blockquotes -->
 
 > **Concept Inventories**
 > 
-> The [Force Concept Inventory][wikipedia-fci]
-> is a set of MCQs designed to gauge understanding of
-> basic Newtonian mechanics. By interviewing a large number of
-> respondents, correlating their misconceptions with patterns of right and
-> wrong answers to questions, and then improving the questions, it's
-> possible to construct a very precise diagnostic tool. However, it's very
-> costly to do this, and students' ability to search for answers on the
+> The [Force Concept Inventory][wikipedia-fci] is a set of MCQs
+> designed to gauge understanding of basic Newtonian mechanics. By
+> interviewing a large number of respondents, correlating their
+> misconceptions with patterns of right and wrong answers to
+> questions, and then improving the questions, it's possible to
+> construct a very precise diagnostic tool. However, it's very costly
+> to do this, and students' ability to search for answers on the
 > internet is an ever-increasing threat to its validity.
 
 <!-- -->
@@ -316,24 +298,21 @@ misconceptions *not* tested for?
 
 ### Other Kinds of Formative Assessment
 
+A good formative assessment requires people to think through a
+problem.  For example, consider this question from
+{{"epstein-thinking-physics"|cite}}.  Imagine that you have placed a
+cake of ice in a bathtub and then filled the tub to the rim with
+water. When the ice melts, does the water level go up (so that the tub
+overflows), go down, or stay the same?
+
+The correct answer is that the level stays the same: the ice displaces
+its own weight in water, so it exactly fills the "hole" it has made
+when it melts.  Figuring this out why helps people build a model of
+the relationship between weight, volume, and density.
+
 Describe another kind of formative assessment you have seen or used and
 explain how it helps both the instructor and the learner figure out
 where they are and what they need to do next.
-
-### Icebergs
-
-An example of how solving problems can help people correct broken
-mental models, consider this problem from
-{{"epstein-thinking-physics"|cite}}.  Imagine that you have
-placed a cake of ice in a bathtub and then filled the tub to the rim
-with water. When the ice melts, does the water level go up (so that
-the tub overflows), go down, or stay the same?
-
-FIXME: figure
-
-The correct answer is that it stays the same; figuring out why helps
-people build a model of the relationship between weight, volume, and
-density.
 
 ### Minutes Cards
 
@@ -342,6 +321,31 @@ green sticky note, and one question you have about the material on the
 red. Do *not* put your name on the notes: this is meant to be
 anonymous feedback. Add your notes to the pile by the door as you leave
 to get coffee.
+
+---
+
+**Footnotes**
+
+[^1]: One sign that someone is a novice is that the things they say
+      aren't even wrong, e.g., they think there's a difference between
+      programs they type in character by character and identical ones
+      that they have copied and pasted.  As we will discuss
+      [later](motivation.md), it is very important not to shame
+      novices for this.
+
+[^2]: It's Victoria.
+
+[^3]: "When the cook tastes the soup, that's formative: When the
+      guests taste the soup, that’s summative." (Michael Scriven,
+      as quoted by Debra Dirksen.)
+
+[^4]: Most jokes are less funny when written down, and become even
+      less funny with each re-reading.  Being spontaneously funny
+      while teaching usually works better, but can easily wrong:
+      what's a joke to your circle of friends may turn out to be a
+      serious political issue to your audience.  If you do make jokes
+      when teaching, don't make them at the expense of any group, or
+      of anyone except possibly yourself.
 
 ----
 

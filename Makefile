@@ -27,7 +27,7 @@ words :
 
 ## fixme      : look for undone work.
 fixme :
-	fgrep -i -n fixme *.tex | fgrep -v settings.tex
+	fgrep -i -n fixme *.md
 
 ## clean      : clean up junk files.
 clean :
