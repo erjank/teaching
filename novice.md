@@ -327,26 +327,13 @@ to get coffee.
 
 **Footnotes**
 
-[^1]: One sign that someone is a novice is that the things they say
-      aren't even wrong, e.g., they think there's a difference between
-      programs they type in character by character and identical ones
-      that they have copied and pasted.  As we will discuss
-      [later](motivation.md), it is very important not to shame
-      novices for this.
+[^1]: One sign that someone is a novice is that the things they say aren't even wrong, e.g., they think there's a difference between programs they type in character by character and identical ones that they have copied and pasted.  As we will discuss [later](motivation.md), it is very important not to shame novices for this.
 
 [^2]: It's Victoria.
 
-[^3]: "When the cook tastes the soup, that's formative: When the
-      guests taste the soup, that’s summative." (Michael Scriven,
-      as quoted by Debra Dirksen.)
+[^3]: "When the cook tastes the soup, that's formative. when the guests taste the soup, that’s summative." (Michael Scriven, as quoted by Debra Dirksen.)
 
-[^4]: Most jokes are less funny when written down, and become even
-      less funny with each re-reading.  Being spontaneously funny
-      while teaching usually works better, but can easily wrong:
-      what's a joke to your circle of friends may turn out to be a
-      serious political issue to your audience.  If you do make jokes
-      when teaching, don't make them at the expense of any group, or
-      of anyone except possibly yourself.
+[^4]: Most jokes are less funny when written down, and become even less funny with each re-reading.  Being spontaneously funny while teaching usually works better, but can easily wrong: what's a joke to your circle of friends may turn out to be a serious political issue to your audience.  If you do make jokes when teaching, don't make them at the expense of any group, or of anyone except possibly yourself.
 
 [swc-unix]: http://swcarpentry.github.io/shell-novice/
 [video-peer-instruction]: https://www.youtube.com/watch?v=2LbuoxAy56o

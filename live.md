@@ -284,13 +284,9 @@ to are expected to be familiar with.
 
 **Footnotes**
 
-[^1]: You will often be reduced to 60-70 columns and 20-30 rows, which
-      basically means that you're using a 21st Century supercomputer
-      to emulate an early-1980s VT100 terminal.
+[^1]: You will often be reduced to 60-70 columns and 20-30 rows, which basically means that you're using a 21st Century supercomputer to emulate an early-1980s VT100 terminal.
 
-[^2]: Looking at the screen for a few seconds can help lower your
-      anxiety levels, since it gives you a brief break from being
-      looked at by all… those… eyes…
+[^2]: Looking at the screen for a few seconds can help lower your anxiety levels, since it gives you a brief break from being looked at by all… those… eyes…
 
 [live-coding-bad]: https://youtu.be/bXxBeNkKmJE
 [live-coding-good]: https://youtu.be/SkPmwe_WjeY

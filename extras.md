@@ -321,15 +321,9 @@ approaches they identify include:
 
 **Footnotes**
 
-[^1]: The first approach is called "phonics", and the second, "whole
-      language".  The whole language approach may seem nonsensical,
-      but more than a billion people have learned to read and write
-      Chinese and similar ideogrammatic languages in exactly this way.
+[^1]: The first approach is called "phonics", and the second, "whole language".  The whole language approach may seem nonsensical, but more than a billion people have learned to read and write Chinese and similar ideogrammatic languages in exactly this way.
 
-[^2]: And to control other variables, because in practice, the
-      teacher's enthusiasm for the teaching method may have more of an
-      impact than the method itself, since children will model their
-      teacher's excitement (or lack thereof) for a subject.
+[^2]: And to control other variables, because in practice, the teacher's enthusiasm for the teaching method may have more of an impact than the method itself, since children will model their teacher's excitement (or lack thereof) for a subject. 
 
 [cs-teaching-tips]: http://csteachingtips.org/
 [learning-theories]: http://www.learning-theories.com/

@@ -433,10 +433,7 @@ indicators of success?" What are examples in your own experience of
 
 **Footnotes**
 
-[^1]: In extreme situations, learners may developed [learned
-      helplessness]: when repeatedly subjected to negative feedback
-      that they have no way to escape, they may learn not to even try
-      to escape when they could.
+[^1]: In extreme situations, learners may developed [learned helplessness]: when repeatedly subjected to negative feedback that they have no way to escape, they may learn not to even try to escape when they could.
 
 [accessibility-conferences]: https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences
 [ada-resources]: http://adainitiative.org/continue-our-work/impostor-syndrome-training/

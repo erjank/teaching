@@ -299,8 +299,7 @@ consider concepts and vice versa?
 
 **Footnotes**
 
-[^1]: More recent estimates put the number closer to 4±1, which means
-that effective chunking is even more important than first thought.
+[^1]: More recent estimates put the number closer to 4±1, which means that effective chunking is even more important than first thought.
 
 [abela-chart]: http://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf
 [serial-position]: http://cat.xula.edu/thinker/memory/working/serial

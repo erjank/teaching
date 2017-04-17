@@ -553,10 +553,7 @@ of your own.  What do you most want to know about their background?
 
 **Footnotes**
 
-[^1]: The [Dunning-Kruger Effect][wikipedia-dunning-kruger] can easily
-      come into play in pair programming: whoever *thinks* they know
-      the most can dominate the session regardless of how much they
-      *actually* know.
+[^1]: The [Dunning-Kruger Effect][wikipedia-dunning-kruger] can easily come into play in pair programming: whoever *thinks* they know the most can dominate the session regardless of how much they *actually* know.
 
 [etherpad]: http://etherpad.org
 [google-docs]: https://docs.google.com

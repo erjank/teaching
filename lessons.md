@@ -206,47 +206,42 @@ hierarchical, measurable, stable, and cross-cultural.  The list below
 defines the levels in Bloom's Taxonomy and shows some of the verbs
 typically used in learning objectives written for each level.
 
-Knowledge: name, define, recall
-:   Recalling learned information.
+* Knowledge: recalling learned information (name, define, recall).
 
-Comprehension: restate, locate, explain, recognize
-:   Explaining the meaning of information.
+* Comprehension: explaining the meaning of information (restate, locate, explain, recognize).
 
-Application: apply, demonstrate, use
-:   Applying what one knows to novel, concrete situations.
+* Application: applying what one knows to novel, concrete situations (apply, demonstrate, use).
 
-Analysis: differentiate, criticize, compare
-:   Breaking down a whole into its component parts and
-    explaining how each part contributes to the whole.
+* Analysis: breaking down a whole into its component parts and explaining how each part contributes to the whole (differentiate, criticize, compare).
 
-Synthesis: design, construct, organize
-:   Assembling components to form a new and integrated whole.
+Synthesis: assembling components to form a new and integrated whole (design, construct, organize).
 
-Evaluation: choose, rate, select
-:   Using evidence to make judgments about the relative
-    merits of ideas and materials.
+Evaluation: using evidence to make judgments about the relative merits of ideas and materials (choose, rate, select).
 
 Another way to understand what makes for a good learning objective
 is to see how a poor one can be improved:
 
-Learner will be given opportunities to learn good programming practices.
+*   Learner will be given opportunities to learn good programming practices.
+    <br>
+    *Describes the lesson's content, not the attributes of successful
+    students.*
 
-:   Describes the lesson's content, not the attributes of successful
-    students.
+*   Learner will have a better appreciation for good programming practices.
+    <br>
+    *Doesn't start with an active verb or define the level of learning,
+    and the subject of learning has no context and is not specific.*
 
-Learner will have a better appreciation for good programming practices.
-:   Doesn't start with an active verb or define the level of learning,
-    and the subject of learning has no context and is not specific.
-
-Learner will understand how to program in R.
-:   Starts with an active verb, but doesn't define the level of
+*   Learner will understand how to program in R.
+    <br>
+    *Starts with an active verb, but doesn't define the level of
     learning, and the subject of learning is still too vague for
-    assessment.
+    assessment.*
 
-Learner will write one-page read-filter-summarize-print data
-analysis scripts for tabular data using R and R Studio.
-:   Starts with an active verb, defines the level of learning,
-    and provides context to ensure that outcomes can be assessed.
+*   Learner will write one-page read-filter-summarize-print data
+    analysis scripts for tabular data using R and R Studio.
+    <br>
+    *Starts with an active verb, defines the level of learning,
+    and provides context to ensure that outcomes can be assessed.*
 
 Baume's guide to writing and using good learning outcomes
 [Baume2009](biblio.md#baume-outcomes) is a good longer discussion of
@@ -271,8 +266,7 @@ objectives.
 
 **Footnotes**
 
-[^1]: A summary of [Fink2013](biblio.md#fink-significant) is [freely
-      available online][fink-short].
+[^1]: A summary of [Fink2013](biblio.md#fink-significant) is [freely available online][fink-short].
 
 [fink-short]: https://www.deefinkandassociates.com/GuidetoCourseDesignAug05.pdf
 [ubc-learning-goals]: http://www.cwsei.ubc.ca/Files/ComSc_LG/CPSC_Learning_Goals.pdf
