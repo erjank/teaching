@@ -215,11 +215,7 @@ lead-in to lunchtime discussion.
 
 ## Video Recorded Lessons
 
-One of the key elements of this training course is recording trainees
-and having them, and their peers, critique those recordings. We were
-introduced to this practice by UBC's Warren Code, who learned it from
-the [Instructional Skills Workshop](https://iswnetwork.ca/), and it
-has evolved to the following:
+FIXME: back ref
 
 1.  On day 1, show trainees a short clip (3-4 minutes) of someone teaching
     a lesson and have them give feedback as a group. This feedback is

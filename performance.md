@@ -290,7 +290,11 @@ having a coach.
 
 ## How to Practice Teaching
 
-FIXME: introduce this section
+One of the key elements of instructor training is recording trainees
+and having them, and their peers, critique those recordings. We were
+introduced to this practice by UBC's Warren Code, who learned it from
+the [Instructional Skills Workshop][instructional-skills-workshop],
+and it has evolved to the following:
 
 1.  Split into groups of three.
 
@@ -344,14 +348,20 @@ you strongly agree or disagree with?
 
 ### Practice Giving Feedback
 
-Use the process described above to practice your teaching in groups of
-three.
-
-FIXME: more detail
+Use the process described [above](#how-to-practice-teaching) to
+practice teaching in groups of three.  When your group is done, the
+instructor will add one point of feedback from each participant to a
+2x2 grid on the whiteboard or in the shared notes, without accepting
+duplicates.  Participants should not say whether the point they offer
+was made by them, about them, or neither: the goal at this stage is
+primarily for people to become comfortable with giving and receiving
+feedback, and to establish a consensus about what sorts of things to
+look for.
 
 ----
 
 {% references %} {% endreferences %}
 
+[instructional-skills-workshop]: https://iswnetwork.ca/
 [video-bad-teaching]: https://www.youtube.com/watch?v=-ApVt04rB4U
 [wikipedia-deming]: https://en.wikipedia.org/wiki/W._Edwards_Deming
