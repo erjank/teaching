@@ -184,19 +184,19 @@ Concept maps can be used in many ways:
     the instructor said. (We will return to this idea when we discuss
     Mayer's work on multimedia learning in [Cognitive Load](/load/).
 
-4.  Concept maps are also a useful for assessment: having learners draw
-    concept maps of what they think they just heard shows the instructor
-    what was missed and what was mis-understood.  However, reviewing
-    learners' concept maps is too time-consuming for use in class, but
-    very useful in weekly lectures *once learners are familiar with
-    the technique*.  The qualification is necessary because any new way
-    of doing things initially slows people down–if a student is trying
-    to make sense of basic economics, asking them to figure out how to
-    draw their thoughts at the same time is an unfair load.
-    FIXME: Neil Brown is skeptical of whether novices can effectively
-    map their understanding, since introspection and explanation of
-    understanding are generally more advanced skills than
-    understanding itself.
+4.  Concept maps are also a useful for assessment: having learners
+    draw concept maps of what they think they just heard shows the
+    instructor what was missed and what was mis-understood.  However,
+    reviewing learners' concept maps is too time-consuming for use in
+    class, but very useful in weekly lectures *once learners are
+    familiar with the technique*.  The qualification is necessary
+    because any new way of doing things initially slows people down–if
+    a student is trying to make sense of basic programming, asking
+    them to figure out how to draw their thoughts at the same time is
+    an unfair load.  Finally, some instructors are skeptical of
+    whether novices can effectively map their understanding, since
+    introspection and explanation of understanding are generally more
+    advanced skills than understanding itself.
 
 > **Meetings, Meetings, Meetings**
 > 
@@ -243,8 +243,10 @@ smaller groups (such as the forwards and backs in rugby).
 > but can also mislead us if we mis-identify something, i.e., see it
 > as something it isn't.
 >
-> FIXME: experts have more and larger chunks.  Refer forward to
-> the material from Neil Brown on patterns in "Load".
+> One key finding in cognition research is that experts have more and
+> larger chunks than non-experts, i.e., experts "see" larger patterns,
+> and have more patterns to match things against.  We will discuss
+> this in more detail [later](load.md#pattern-recognition).
 
 7±2 is probably the most important number in programming. When
 someone is trying to write the next line of a program, or understand
