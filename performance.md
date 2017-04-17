@@ -326,7 +326,7 @@ makes the exercise slightly less excruciating.
 
 ## Challenges
 
-### Giving Feedback
+### Give Feedback
 
 1.  Watch [this video][video-bad-teaching] as a group and then give
     feedback on it. Organize feedback along two axes: positive
@@ -338,8 +338,6 @@ makes the exercise slightly less excruciating.
 
 What did other people see that you missed?  What did they think that
 you strongly agree or disagree with?
-
-FIXME: step 3 is to compare feedback with some provided by us.
 
 ### Practice Giving Feedback
 
