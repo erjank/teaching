@@ -76,17 +76,19 @@ they start their own work.
 ## Take Notes Together
 
 Many studies have shown that taking notes while learning improves
-retention {{"aiken-note-taking"|cite}}, {{"bohay-note-taking"|cite}}.
-As discussed in [Memory](/memory/), this happens because taking notes
-forces you to organize and reflect on material as it's coming in,
-which in turn increases the likelihood that you will transfer it to
-long-term memory in a usable way.
+retention [Aiken1975](biblio.md#aiken-note-taking),
+[Bohay2011](biblio.md#bohay-note-taking).  As discussed in
+[Memory](/memory/), this happens because taking notes forces you to
+organize and reflect on material as it's coming in, which in turn
+increases the likelihood that you will transfer it to long-term memory
+in a usable way.
 
 Our experience, and some recent research findings, lead us to believe
 that taking notes *collaboratively* helps learning even more
-{{"orndorff-note-taking"|cite}}, even though taking notes on a
-computer is generally less effective than taking notes using pen and
-paper {{"mueller-note-taking"|cite}}.  Taking notes collaboratively:
+[Orndorff2015](biblio.md#orndorff-note-taking), even though taking
+notes on a computer is generally less effective than taking notes
+using pen and paper [Mueller2014](biblio.md#mueller-note-taking).
+Taking notes collaboratively:
 
 *   It allows people to compare what they think they're hearing with
     what other people are hearing, which helps them fill in gaps and
@@ -306,9 +308,9 @@ the typing, while the other (called the navigator) offers comments and
 suggestions.  The two switch roles several times per hour.
 
 Pair programming is a good practice in real life, and also a good way
-to teach {{"hannay-pairing"|cite}}
-{{"porter-what-works"|cite}}. Partners can not only help each other
-out during the practical, but can also clarify each other's
+to teach [Hannay2009](biblio.md#hannay-pairing)
+[Porter2013](biblio.md#porter-what-works). Partners can not only help
+each other out during the practical, but can also clarify each other's
 misconceptions when the solution is presented, and discuss common
 research interests during breaks. To facilitate this, we strongly
 prefer flat (dinner-style) seating to banked (theater-style) seating;
@@ -335,9 +337,9 @@ doesn't dominate the session[^1].
 
 Research has shown that people learn more from demonstrations if they
 are asked to predict what's going to happen
-{{"miller-predictions-2013"|cite}}.  Doing this fits naturally into
-live coding: after adding or changing a few lines of a program, ask
-someone what is going to happen when it's run.
+[Miller2013](biblio.md#miller-predictions).  Doing this fits naturally
+into live coding: after adding or changing a few lines of a program,
+ask someone what is going to happen when it's run.
 
 ## Collaborative Debugging
 
@@ -354,11 +356,12 @@ How then can she clear up many different misconceptions in a
 reasonable time?
 
 The best solution developed so far is a technique called _[peer
-instruction](GLOSSARY.md#peer-instruction)_. Originally created by Eric
-Mazur at Harvard, it has been studied extensively in a wide variety of
-contexts, including programming {{"porter-what-works"|cite}}. Peer
-instruction combines formative assessment with student discussion and
-looks something like this:
+instruction](GLOSSARY.md#peer-instruction)_. Originally created by
+Eric Mazur at Harvard, it has been studied extensively in a wide
+variety of contexts, including programming
+[Porter2013](biblio.md#porter-what-works). Peer instruction combines
+formative assessment with student discussion and looks something like
+this:
 
 1.  Give a brief introduction to the topic.
 
@@ -502,12 +505,13 @@ more. In addition, most people are much less comfortable recording
 themselves than contributing written material.
 
 The second answer is that doing outperforms watching.  Specifically, a
-recent paper by Koedinger et al {{"koedinger-doing-watching"|cite}}
-estimated "…the learning benefit from extra doing (1 SD increase) to
-be more than six times that of extra watching or reading." "Doing", in
-this case, refers to completing an interactive or mimetic task with
-feedback, while "benefit" refers to both "completion rates" and
-"overall performance".
+recent paper by Koedinger et al
+[Koedinger2015](biblio.md#koedinger-doing-watching) estimated "…the
+learning benefit from extra doing (1 SD increase) to be more than six
+times that of extra watching or reading." "Doing", in this case,
+refers to completing an interactive or mimetic task with feedback,
+while "benefit" refers to both "completion rates" and "overall
+performance".
 
 And while we do not (yet) have empirical data, we believe very
 strongly that many novices would give up in despair if required to
@@ -553,10 +557,6 @@ of your own.  What do you most want to know about their background?
       come into play in pair programming: whoever *thinks* they know
       the most can dominate the session regardless of how much they
       *actually* know.
-
-----
-
-{% references %} {% endreferences %}
 
 [etherpad]: http://etherpad.org
 [google-docs]: https://docs.google.com

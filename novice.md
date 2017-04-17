@@ -4,12 +4,13 @@ The first task in teaching is to figure out who your learners are and
 how best to help them.  Our approach is based on the [Dreyfus model of
 skill acquisition][wikipedia-dreyfus], and more specifically on the
 work of researchers like Patricia Benner, who studied how nurses
-progress from being novices to being experts {{"benner"|cite}}.
-Benner identified five stages of cognitive development that most
-people go through in a fairly consistent way.  (We say "most" and
-"fairly" because human beings are variable, and there will always be
-outliers.  However, that shouldn't prevent us from making strong
-statements about what's true for the majority.)
+progress from being novices to being experts
+[Benner2000](biblio.md#benner-expertise).  Benner identified five
+stages of cognitive development that most people go through in a
+fairly consistent way.  (We say "most" and "fairly" because human
+beings are variable, and there will always be outliers.  However, that
+shouldn't prevent us from making strong statements about what's true
+for the majority.)
 
 For our purposes, we simplify the five stages to three:
 
@@ -86,13 +87,13 @@ both ideas.
 > they are anything but to newcomers). Equally, manuals frustrate
 > novices because they use jargon and *don't* explain things. One of
 > the reasons Unix and C became popular is that Kernighan et al's
-> trilogy {{"kernighan-plauger-elements"|cite}},
-> {{"kernighan-pike-upe"|cite}},
-> {{"kernighan-ritchie-c"|cite}} somehow managed to be good
-> tutorials *and* good manuals at the same time. Ray and Ray's book on
-> Unix {{"ray-ray-unix"|cite}} and Fehily's introduction to SQL
-> {{"fehily-sql"|cite}} are among the very few other books in
-> computing that have accomplished this.
+> trilogy [Kernighan1982](biblio.md#kernighan-plauger-elements),
+> [Kernighan1984](biblio.md#kernighan-pike-upe),
+> [Kernighan1988](biblio.md#kernighan-ritchie-c) somehow managed to be
+> good tutorials *and* good manuals at the same time. Ray and Ray's
+> book on Unix [Ray2014](biblio.md#ray-ray-unix) and Fehily's
+> introduction to SQL [Fehily2008](biblio.md#fehily-sql) are among the
+> very few other books in computing that have accomplished this.
 
 One of the challenges in building a mental model is to clear away
 things that *don't* belong.  As Mark Twain said, "It ain't what
@@ -111,9 +112,10 @@ Broadly speaking, learners' misconceptions fall into three categories:
 
 3.  *Fundamental beliefs*, such as "the world is only a few thousand
     years old" or "some kinds of people are just naturally better at
-    programming than others" {{"patitsas-cs-grades"|cite}}.  These are
-    often deeply connected to the learner's social identity, and so
-    are resistant to evidence and cannot be reasoned away in class.
+    programming than others"
+    [Patitsas2016](biblio.md#patitsas-cs-grades).  These are often
+    deeply connected to the learner's social identity, and so are
+    resistant to evidence and cannot be reasoned away in class.
 
 ## Formative Assessment
 
@@ -250,11 +252,10 @@ to waste it.
 
 > **We Know Less Than We Think**
 > 
-> Brown and Altadmri's "Investigating Novice Programming Mistakes:
-> Educator Beliefs vs Student Data" {{"brown-empirical"|cite}} compared
-> teachers' opinions about common programming errors with data from over
-> 100,000 students, and finds only weak consensus amongst teachers and
-> between teachers and data.
+> [Brown2014](biblio.md#brown-empirical) compared teachers' opinions
+> about common programming errors with data from over 100,000
+> students, and finds only weak consensus amongst teachers and between
+> teachers and data.
 
 Designing an MCQ with plausible distractors is useful even if it is
 never used in class because it forces the instructor to think about
@@ -300,10 +301,10 @@ misconceptions *not* tested for?
 
 A good formative assessment requires people to think through a
 problem.  For example, consider this question from
-{{"epstein-thinking-physics"|cite}}.  Imagine that you have placed a
-cake of ice in a bathtub and then filled the tub to the rim with
-water. When the ice melts, does the water level go up (so that the tub
-overflows), go down, or stay the same?
+[Epstein2002](biblio.md#epstein-thinking-physics).  Imagine that you
+have placed a cake of ice in a bathtub and then filled the tub to the
+rim with water. When the ice melts, does the water level go up (so
+that the tub overflows), go down, or stay the same?
 
 The correct answer is that the level stays the same: the ice displaces
 its own weight in water, so it exactly fills the "hole" it has made
@@ -346,10 +347,6 @@ to get coffee.
       serious political issue to your audience.  If you do make jokes
       when teaching, don't make them at the expense of any group, or
       of anyone except possibly yourself.
-
-----
-
-{% references %} {% endreferences %}
 
 [swc-unix]: http://swcarpentry.github.io/shell-novice/
 [video-peer-instruction]: https://www.youtube.com/watch?v=2LbuoxAy56o

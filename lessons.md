@@ -38,9 +38,9 @@ A similar "backward" method works very well for lesson design.  This
 method is something called _[reverse instructional
 design](GLOSSARY.md#reverse-instructional-design)_ or _[understanding
 by design](GLOSSARY.md#understanding-by-design)_ after a book by that
-name {{"wiggins-mctighe"|cite}}; a similar method is described in
-{{"fink-significant"|cite}}[^1].  In brief, lessons should be designed
-as follows:
+name [Wiggins2005](biblio.md#wiggins-mctighe); a similar method is
+described in [Fink2013](biblio.md#fink-significant)[^1].  In brief,
+lessons should be designed as follows:
 
 1.  Create learner profiles (discussed in the next section) to figure
     out who you are trying to teach and what will appeal to them.
@@ -97,18 +97,20 @@ course hasn't prepared them for.
 
 > **Teaching to the Test**
 > 
-> Reverse instructional design is *not* the same thing as
-> "teaching to the test". When using RID, teachers set goals to aid in
-> lesson design, and may never actually give the final exam that they
+> Reverse instructional design is *not* the same thing as "teaching to
+> the test". When using RID, teachers set goals to aid in lesson
+> design, and may never actually give the final exam that they
 > wrote. In many school systems, on the other hand, an external
-> authority defines assessment criteria for all learners, regardless of
-> their individual situations, and the outcomes of those summative
+> authority defines assessment criteria for all learners, regardless
+> of their individual situations, and the outcomes of those summative
 > assessments directly affect the teachers' pay and promotion.
-> Green's *Building a Better Teacher* {{"green-babt"|cite}} argues that this focus on
-> measurement is appealing to those with the power to set the tests, but
-> is unlikely to improve outcomes unless it is coupled with support for
-> teachers to make improvements based on test outcomes.  This is often missing, because as Scott
-> pointed out in {{"scott-state"|cite}}, large organizations usually
+> Green's *Building a Better Teacher*
+> [Green2014](biblio.md#green-babt) argues that this focus on
+> measurement is appealing to those with the power to set the tests,
+> but is unlikely to improve outcomes unless it is coupled with
+> support for teachers to make improvements based on test outcomes.
+> This is often missing, because as Scott pointed out in
+> [Scott1999](biblio.md#scott-state), large organizations usually
 > value uniformity over productivity.
 
 ## Learner Profiles
@@ -247,9 +249,10 @@ analysis scripts for tabular data using R and R Studio.
     and provides context to ensure that outcomes can be assessed.
 
 Baume's guide to writing and using good learning outcomes
-{{"baume-outcomes"|cite}} is a good longer discussion of these issues.
-[This list of learning goals][ubc-learning-goals] from the University
-of British Columbia may also provide some useful guidance.
+[Baume2009](biblio.md#baume-outcomes) is a good longer discussion of
+these issues.  [This list of learning goals][ubc-learning-goals] from
+the University of British Columbia may also provide some useful
+guidance.
 
 ## Challenges
 
@@ -268,12 +271,8 @@ objectives.
 
 **Footnotes**
 
-[^1]: A summary of {{"fink-significant"|cite}} is [freely available
-      online][fink-short].
-
-----
-
-{% references %} {% endreferences %}
+[^1]: A summary of [Fink2013](biblio.md#fink-significant) is [freely
+      available online][fink-short].
 
 [fink-short]: https://www.deefinkandassociates.com/GuidetoCourseDesignAug05.pdf
 [ubc-learning-goals]: http://www.cwsei.ubc.ca/Files/ComSc_LG/CPSC_Learning_Goals.pdf

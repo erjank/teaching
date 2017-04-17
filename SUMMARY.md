@@ -57,13 +57,12 @@
 * [Live Coding](live.md)
   * [Challenges](live.md#challenges)
 * [Why I Teach](next.md)
-
------
-
 * [Code of Conduct](CONDUCT.md)
 * [License](LICENSE.md)
 * [The Rules](rules.md)
-* [Further Reading](reading.md)
+* [Bibliography](biblio.md)
+  * [What to Read Next](biblio.md#what-to-read-next)
+  * [Other References](biblio.md#other-references)
 * [Contributing](CONTRIBUTING.md)
 * [Checklists](checklists.md)
   * [Scheduling the Event](checklists.md#scheduling-the-event)

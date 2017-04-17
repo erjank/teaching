@@ -42,15 +42,15 @@ This metaphor helps explain many observed aspects of expert behavior:
     while it can be overcome with training, it's part of why there is
     no correlation between how good someone is at doing research in an
     area and how good they are at teaching it
-    {{"marsh-hattie-teaching"|cite}}.
+    [Marsh2002](biblio.md#marsh-hattie-teaching).
 
 *   Densely-connected knowledge graphs are also the basis for experts'
     _[fluid representations](GLOSSARY.md#fluid-representation)_, i.e.,
     their ability to switch back and forth between different views of
-    a problem {{"petre-expertise"|cite}}.  For example, when trying to
-    solve a problem in mathematics, we might switch between tackling
-    it geometrically and representing it as a set of equations to be
-    solved.
+    a problem [Petre2016](biblio.md#petre-expertise).  For example,
+    when trying to solve a problem in mathematics, we might switch
+    between tackling it geometrically and representing it as a set of
+    equations to be solved.
 
 *   Finally, this metaphor also explains why experts are better at
     diagnosis than competent practitioners: more linkages between facts
@@ -108,14 +108,14 @@ remembered.
 >     2.  Doing this is so much faster than waiting for feedback from
 >     others that proficiency suddenly starts to take off.
 > 
-> A meta-study conducted in 2014 {{"macnamara-deliberate"|cite}} found
-> that "…deliberate practice explained 26% of the variance in
-> performance for games, 21% for music, 18% for sports, 4% for
-> education, and less than 1% for professions." One explanation for
-> this variation is that deliberate practice works best when the rules
-> for evaluating success are very stable, but is less effective when
-> there are more factors at play (i.e., when it's harder to connect
-> cause to effect).
+> A meta-study conducted in 2014
+> [Macnamara2014](biblio.md#macnamara-deliberate) found that
+> "…deliberate practice explained 26% of the variance in performance
+> for games, 21% for music, 18% for sports, 4% for education, and less
+> than 1% for professions." One explanation for this variation is that
+> deliberate practice works best when the rules for evaluating success
+> are very stable, but is less effective when there are more factors
+> at play (i.e., when it's harder to connect cause to effect).
 
 ## Concept Maps
 
@@ -301,10 +301,6 @@ consider concepts and vice versa?
 
 [^1]: More recent estimates put the number closer to 4±1, which means
 that effective chunking is even more important than first thought.
-
-----
-
-{% references %} {% endreferences %}
 
 [abela-chart]: http://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf
 [serial-position]: http://cat.xula.edu/thinker/memory/working/serial

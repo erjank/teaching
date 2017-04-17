@@ -137,14 +137,15 @@ In 2010, I re-started a project called [Software Carpentry](swc-site).
 Its aim was (and is) to teach basic computing skills to researchers
 from a wide range of disciplines so that they could get more done in
 less time and with less pain.  In the two years that followed, I
-discovered resources like Mark Guzdial's blog {{"guzdial-blog"|cite}}
-and the book *How Learning Works* {{"ambrose-hlw"|cite}}.  These led
-me to other sources {{"lemov-champion"|cite}}
-{{"huston-dont-know"|cite}} {{"green-babt"|cite}} that showed me what
-I could do to make my teaching better, and why I should believe it
-would work.
+discovered resources like Mark Guzdial's blog
+[Guzdial2017](biblio.md#guzdial-blog) and the book *How Learning
+Works* [Ambrose2010](biblio.md#ambrose-hlw).  These led me to other
+sources [Lemov2014](biblio.md#lemov-champion)
+[Huston2009](biblio.md#huston-dont-know)
+[Green2014](biblio.md#green-babt) that showed me what I could do to
+make my teaching better, and why I should believe it would work.
 
-I started using these ideas in [Software Carpentry](swc-site) in 2012,
+I started using these ideas in [Software Carpentry][swc-site] in 2012,
 and the results were everything I'd hoped for.  Designing lessons with
 different stage of cognitive development in mind, using live coding
 instead of slides, and adopting lightweight real-time assessment
@@ -252,10 +253,6 @@ took, and what made it so great.
 **Footnotes**
 
 [^1]: Most involving sticky notes.
-
-----
-
-{% references %} {% endreferences %}
 
 [license]: /license/
 [swc-site]: http://software-carpentry.org

@@ -78,9 +78,5 @@ what I've done for the last thirteen years. The world doesn't get
 better on its own. It gets better because people *make* it better:
 penny by penny, vote by vote, and one lesson at a time.
 
-----
-
-{% references %} {% endreferences %}
-
 [famous5]: http://www.canuck.com/famous5/html/history.html
 [orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html

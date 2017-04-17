@@ -52,8 +52,9 @@ avoided or worked around:
     directly relevant to it (such as library import statements)
     increases the [extraneous cognitive load](load.md) on your
     learners.  Willingham says "Memory is the residue of thought"
-    {{"willingham-dont-like-school"|cite}}, so if you spend your time
-    typing boilerplate, that may be what learners will take away.
+    [Willingham2010](biblio.md#willingham-dont-like-school), so if you
+    spend your time typing boilerplate, that may be what learners will
+    take away.
 
 Live coding is an example of the "I/We/You" approach to teaching
 discussed in [Performance](/performance/).  It takes a bit of practice
@@ -290,10 +291,6 @@ to are expected to be familiar with.
 [^2]: Looking at the screen for a few seconds can help lower your
       anxiety levels, since it gives you a brief break from being
       looked at by all… those… eyes…
-
-----
-
-{% references %} {% endreferences %}
 
 [live-coding-bad]: https://youtu.be/bXxBeNkKmJE
 [live-coding-good]: https://youtu.be/SkPmwe_WjeY

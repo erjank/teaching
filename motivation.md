@@ -50,23 +50,24 @@ they'll stick with us.
 
 The best-studied use of this idea is the media computation approach
 developed by Guzdial and Ericson at Georgia Tech
-{{"guzdial-mediacomp-retrospective"|cite}}.  Instead of printing
-"hello world" or summing the first ten integers, their students' first
-program opens an image, resizes it to create a thumbnail, and saves
-the result. This is an _[authentic task](GLOSSARY.md#authentic-task)_,
-i.e., something that learners believe they would actually do in real
-life. It is also has a _[tangible
-artefact](GLOSSARY.md#tangible-artefact)_: if the image comes out the
-wrong size, learners have a concrete starting point for debugging.
+[Guzdial2013](biblio.md#guzdial-mediacomp-retrospective).  Instead of
+printing "hello world" or summing the first ten integers, their
+students' first program opens an image, resizes it to create a
+thumbnail, and saves the result. This is an _[authentic
+task](GLOSSARY.md#authentic-task)_, i.e., something that learners
+believe they would actually do in real life. It is also has a
+_[tangible artefact](GLOSSARY.md#tangible-artefact)_: if the image
+comes out the wrong size, learners have a concrete starting point for
+debugging.
 
 > **Strategies for Motivating Learners**
 > 
-> *How Learning Works* {{"ambrose-hlw"|cite}} contains a list of
+> [Ambrose2010](biblio.md#ambrose-hlw) contains a list of
 > evidence-based methods to motivate learners.  None of them are
-> surprising–it's hard to imagine someone saying that we
-> *shouldn't* identify and reward what we value–but it's
-> useful to check lessons against these points to make sure they're
-> doing at least a few of these things.
+> surprising–it's hard to imagine someone saying that we *shouldn't*
+> identify and reward what we value–but it's useful to check lessons
+> against these points to make sure they're doing at least a few of
+> these things.
 > 
 > What's missing from this list is strategies to motivate the
 > *instructor*. Learners respond to an instructor's enthusiasm, and
@@ -88,18 +89,17 @@ The three most powerful demotivators are *unpredictability*,
 *indifference*, and *unfairness*.  Unpredictability demotivates people
 because if there's no reliable connection between what they do and
 what outcome they achieve, there's no reason for them to try to do
-anything[^1].  If learners believe that the instructor or the educational
-system doesn't care about them or the lesson, they won't care
-either. And if people believe the class is unfair, they will also be
-demotivated, even if it is unfair in their favor (because consciously
-or unconsciously they will worry that they will some day find
-themselves in the group on the losing end
-{{"wilkinson-pickett-spirit-level"|cite}}).
+anything[^1].  If learners believe that the instructor or the
+educational system doesn't care about them or the lesson, they won't
+care either. And if people believe the class is unfair, they will also
+be demotivated, even if it is unfair in their favor (because
+consciously or unconsciously they will worry that they will some day
+find themselves in the group on the losing end
+[Wilkinson2011](biblio.md#wilkinson-pickett-spirit-level)).
 
 Here are some quick ways to demotivate your learners:
 
 *   A "holier-than-thou" or contemptuous attitude from an instructor.
-
 
 *   Tell learners they are rubbish because they use Excel and/or Word,
     don't modularize their code, etc.
@@ -199,14 +199,15 @@ teaching about and dealing with imposter syndrome.
 Reminding people of negative stereotypes, even in subtle ways, makes
 them anxious about the risk of confirming those stereotypes, which in
 turn reduces their performance. This is called _[stereotype
-threat](GLOSSARY.md#stereotype-threat)_, and the clearest examples in computing
-are gender-related.  Depending on whose numbers you trust, only 12-18%
-of programmers are women, and those figures have actually been getting
-worse over the last 20 years. There are many reasons for this (see
-{{"margolis-fisher-clubhouse"|cite}} and {{"margolis-shallow"|cite}}),
-and {{"steele-vivaldi"|cite}} summarizes what we know about stereotype
-threat in general and presents some strategies for mitigating it in
-the classroom.
+threat](GLOSSARY.md#stereotype-threat)_, and the clearest examples in
+computing are gender-related.  Depending on whose numbers you trust,
+only 12-18% of programmers are women, and those figures have actually
+been getting worse over the last 20 years. There are many reasons for
+this (see [Margolis2003](biblio.md#margolis-fisher-clubhouse) and
+[Margolis2010](biblio.md#margolis-shallow)), and
+[Steele2011](biblio.md#steele-vivaldi) summarizes what we know about
+stereotype threat in general and presents some strategies for
+mitigating it in the classroom.
 
 However, while there's lots of evidence that unwelcoming climates
 demotivate members of under-represented groups, it's not clear that
@@ -222,9 +223,9 @@ because it produces these disparities).
 
 A great example of how stereotypes work in general was presented in
 Patitsas et al's "Evidence That Computer Science Grades Are Not
-Bimodal" {{"patitsas-cs-grades"|cite}}.  This thought-provoking paper
-showed that people see evidence for a "geek gene" where none exists.
-As the paper's abstract says:
+Bimodal" [Patitsas2016](biblio.md#patitsas-cs-grades).  This
+thought-provoking paper showed that people see evidence for a "geek
+gene" where none exists.  As the paper's abstract says:
 
 > Although it has never been rigorously demonstrated, there is a
 > common belief that CS grades are bimodal. We statistically analyzed
@@ -348,11 +349,12 @@ the physically challenged, the formerly incarcerated, the economically
 disadvantaged, and everyone else who doesn't fit Silicon Valley's
 white/Asian male demographic. Lee's paper "What can I do today to
 create a more inclusive community in CS?"
-{{"lee-create-inclusive-community"|cite}} is a brief, practical guide
-to doing that with references to the research literature. These help
-learners who belong to one or more marginalized or excluded groups,
-but help motivate everyone else as well; while they are phrased in
-terms of term-long courses, many can be applied in our workshops:
+[Lee2017](biblio.md#lee-create-inclusive-community) is a brief,
+practical guide to doing that with references to the research
+literature. These help learners who belong to one or more marginalized
+or excluded groups, but help motivate everyone else as well; while
+they are phrased in terms of term-long courses, many can be applied in
+our workshops:
 
 *   Ask learners to email you before the workshop to explain how they
     believe the training could help them achieve their goals.
@@ -391,9 +393,9 @@ most immediately useful first" approach.
 ### Implement One Strategy for Inclusivity
 
 Pick one activity or change in practice from Lee's paper
-{{"lee-create-inclusive-community"|cite}} that you would like to work
-on.  Put a reminder in your calendar three months in the future to
-self-check whether you have done something about it.
+[Lee2017](biblio.md#lee-create-inclusive-community) that you would
+like to work on.  Put a reminder in your calendar three months in the
+future to self-check whether you have done something about it.
 
 ### Brainstorming Motivational Strategies
 
@@ -420,13 +422,12 @@ sentence in this challenge assumed you could actually walk?
 
 ### Who Decides?
 
-In Littky and Grabelle's *The Big Picture: Education is Everyone's
-Business* {{"littky-big-picture"|cite}}, Kenneth Wesson wrote, "If
-poor inner-city children consistently outscored children from wealthy
-suburban homes on standardized tests, is anyone naive enough to
-believe that we would still insist on using these tests as indicators
-of success?" What are examples in your own experience of "objective"
-assessments that reinforce the status quo?
+In [Littky2004](biblio.md#littky-big-picture), Kenneth Wesson wrote,
+"If poor inner-city children consistently outscored children from
+wealthy suburban homes on standardized tests, is anyone naive enough
+to believe that we would still insist on using these tests as
+indicators of success?" What are examples in your own experience of
+"objective" assessments that reinforce the status quo?
 
 ---
 
@@ -436,10 +437,6 @@ assessments that reinforce the status quo?
       helplessness]: when repeatedly subjected to negative feedback
       that they have no way to escape, they may learn not to even try
       to escape when they could.
-
-----
-
-{% references %} {% endreferences %}
 
 [accessibility-conferences]: https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences
 [ada-resources]: http://adainitiative.org/continue-our-work/impostor-syndrome-training/
