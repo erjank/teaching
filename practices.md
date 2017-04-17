@@ -1,10 +1,10 @@
 # Teaching Practices
 
-FIXME: introduction
-
-FIXME: Confessional debugging.  Useful for them post-workshop.  If
-your program doesn't work, explain the problem aloud to your
-cat/dog/rubber duck, and often the problem and solution become clear.
+Just as domain expertise is often a matter of [pattern
+matching](load.md#pattern-matching), teaching expertise often comes
+down to using good practices consistently.  None of the practices
+described below are essential (except having a code of conduct), but
+each will improve lesson delivery.
 
 ## Have a Code of Conduct
 
@@ -319,14 +319,29 @@ When pair programming is used it's important to put *everyone* in
 pairs, not just the learners who are struggling, so that no one feels
 singled out. It's also useful to have people sit in new places (and
 hence pair with different partners) after each coffee or meal break.
+It's also important to have people switch roles within each pair three
+or four times per hour, so that the stronger personality in each pair
+doesn't dominate the session[^1].
 
-FIXME: comment on the importance of switching roles within each pair.
-
-FIXME: comment on pros and cons of having pairs switch up.
+> **Switching Partners**
+>
+> Instructors have mixed opinions on whether people should be required
+> to change partners at regular intervals.  On the one hand, it gives
+> everyone a chance to gain new insights and make new friends.  On the
+> other, it is uncomfortable for introverts, and moving computers and
+> power adapters to new desks several times a day is disruptive.
 
 ## Have Learners Make Predictions
 
 FIXME: https://journals.aps.org/prper/abstract/10.1103/PhysRevSTPER.9.020113
+
+## Collaborative Debugging
+
+If you are live coding and your program doesn't work, explain the
+symptoms to your learners.  The underlying cause often then becomes
+clear; if it doesn't, have them take turns suggesting things to try
+next.  Be careful not to let one or two people dominate the
+discussion.
 
 ## Peer Instruction
 
@@ -479,6 +494,15 @@ group.
 Using the [questionnaire shown earlier](#assess) as a template, create
 a short questionnaire you could give learners before teaching a class
 of your own.  What do you most want to know about their background?
+
+---
+
+**Footnotes**
+
+[^1]: The [Dunning-Kruger Effect][wikipedia-dunning-kruger] can easily
+      come into play in pair programming: whoever *thinks* they know
+      the most can dominate the session regardless of how much they
+      *actually* know.
 
 ----
 
