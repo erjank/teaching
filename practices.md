@@ -302,11 +302,15 @@ both, we hope to get the best of both worlds.
 
 ## Pair Programming
 
-FIXME: define _[pair programming](GLOSSARY.md#pair-programming)_.
+_Pair programming_ is a software development practice in which two
+programmers share one computer.  One person (called the driver) does
+the typing, while the other (called the navigator) offers comments and
+suggestions.  The two switch roles several times per hour.
 
 Pair programming is a good practice in real life, and also a good way
-to teach {{"porter-what-works"|cite}}. Partners can not only help each
-other out during the practical, but can also clarify each other's
+to teach {{"hannay-pairing"|cite}}
+{{"porter-what-works"|cite}}. Partners can not only help each other
+out during the practical, but can also clarify each other's
 misconceptions when the solution is presented, and discuss common
 research interests during breaks. To facilitate this, we strongly
 prefer flat (dinner-style) seating to banked (theater-style) seating;
