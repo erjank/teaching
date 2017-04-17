@@ -94,9 +94,10 @@ which can be divided into:
     knowledge](GLOSSARY.md#pedagogical-content-knowledge)_ (PCK) that
     connects the two. PCK is things like what examples to use when
     teaching how parameters are passed to a function, or what
-    misconceptions about wildcard expansion are most common.
-
-FIXME: more on PCK
+    misconceptions about wildcard expansion are most common.  For
+    example, an instructor could write variable names and values on
+    paper plates and then stack and unstack them to show how the call
+    stack works.
 
 A great example of PCK is Gelman and Nolan's *[Teaching Statistics: A
 Bag of Tricks]* {{"gelman-stats"|cite}}, which is full of PCK for
@@ -174,44 +175,6 @@ very least, everyone should add their name to the Etherpad, but its also
 good for everyone at a given site to know who all is in the group. Note:
 this can be done while setting up before the start of the class.
 
-## You Are Not Your Learners
-
-FIXME: important enough to move into main text
-
-People learn best when they care about the topic and believe they can
-master it. Neither fact is particularly surprising, but their
-practical implications have a lot of impact on what we teach, and the
-order in which we teach it.
-
-First, as noted in [Motivation](/motivation/), most people don't
-actually want to program: they want to build a website or check on
-zoning regulations, and programming is just a tax they have to pay
-along the way. They don't care how hash tables work, or even that hash
-tables exist; they just want to know how to process data faster. We
-therefore have to make sure that everything we teach is useful right
-away, and conversely that we don't teach anything just because it's
-"fundamental".
-
-Second, believing that something will be hard to learn is a
-self-fulfilling prophecy. This is why it's important not to say that
-something is easy: if someone who has been told that tries it, and it
-doesn't work, they are more likely to become discouraged.
-
-It's also why installing and configuring software is a much bigger
-problem for us than experienced programmers like to acknowledge. It
-isn't just the time we lose at the start of boot camps as we try to
-get a Unix shell working on Windows, or set up a version control
-client on some idiosyncratic Linux distribution.
-
-It isn't even the unfairness of asking students to debug things that
-depend on precisely the knowledge they have come to learn, but which
-they don't yet have. The real problem is that every such failure
-reinforces the belief that computing is hard, and that they'd have a
-better chance of making next Thursday's deadline at work if they kept
-doing things the way they always have. For these reasons, we have
-adopted a "teach most immediately useful first" approach described
-in [Motivation](/motivation/).
-
 ## Overnight Homework
 
 In a two-day class, have learners read the operations checklists as
@@ -280,7 +243,7 @@ instructors at actual workshops to give one another feedback, and
 that's much easier to do once they've had some practice and have a
 rubric to follow.
 
-### Feedback on Live Coding Demo Videos
+## Feedback on Live Coding Demo Videos
 
 [Part 1: How Not to Do It][live-coding-bad]
 

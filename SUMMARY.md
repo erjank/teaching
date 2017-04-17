@@ -20,6 +20,7 @@
   * [Challenges](memory.md#challenges)
 * [Cognitive Load](load.md)
   * [Pattern Recognition](load.md#pattern-recognition)
+  * [You Are Not Your Learners](load.md#you-are-not-your-learners)
   * [Challenges](load.md#challenges)
 * [Designing Lessons](lessons.md)
   * [Learner Profiles](lessons.md#learner-profiles)
@@ -65,20 +66,18 @@
 * [Further Reading](reading.md)
 * [Contributing](CONTRIBUTING.md)
 * [Checklists](checklists.md)
-/checklists.md#scheduling-the-event">Scheduling the Event
-/checklists.md#setting-up">Setting Up
-/checklists.md#during-the-event">During the Event
-/checklists.md#after-the-event">After the Event
-/checklists.md#between-instructor-training-sessions">Between Instructor Training Sessions
-/checklists.md#after-trainees-complete">After Trainees Complete
+  * [Scheduling the Event](checklists.md#scheduling-the-event)
+  * [Setting Up](checklists.md#setting-up)
+  * [At the Start of the Event](checklists.md#at-the-start-of-the-event)
+  * [At the End of the Event](checklists.md#at-the-end-of-the-event)
+  * [Travel Kit](checklists.md#travel-kit)
 * [Extra Material](extras.md)
-/extras.md#key-terms">Key Terms
-/extras.md#myths">Myths
-/extras.md#starting-out">Starting Out
-/extras.md#you-are-not-your-learners">You Are Not Your Learners
-/extras.md#overnight-homework">Overnight Homework
-/extras.md#video-recorded-lessons">Video Recorded Lessons
-/extras.md#motivation-and-demotivation">Motivation and Demotivation
-/extras.md#logistics">Logistics
-/extras.md#effecting-change">Effecting Change
-/extras.md#why-we-are-not-a-mooc">Why We Are Not a MOOC
+  * [Key Terms](extras.md#key-terms)
+  * [Myths](extras.md#myths)
+  * [Starting Out](extras.md#starting-out)
+  * [Overnight Homework](extras.md#overnight-homework)
+  * [Video Recorded Lessons](extras.md#video-recorded-lessons)
+  * [Feedback on Live Coding Demo Videos](extras.md#feedback-on-live-coding-demo-videos)
+  * [Motivation and Demotivation](extras.md#motivation-and-demotivation)
+  * [Why We Are Not a MOOC](extras.md#why-we-are-not-a-mooc)
+  * [Effecting Change](extras.md#effecting-change)
