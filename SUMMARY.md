@@ -19,7 +19,7 @@
   * [Seven Plus or Minus Two](memory.md#seven-plus-or-minus-two)
   * [Challenges](memory.md#challenges)
 * [Cognitive Load](load.md)
-  * [FIXME](load.md#fixme)
+  * [Pattern Recognition](load.md#pattern-recognition)
   * [Challenges](load.md#challenges)
 * [Designing Lessons](lessons.md)
   * [Learner Profiles](lessons.md#learner-profiles)

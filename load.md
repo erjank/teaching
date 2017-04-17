@@ -163,9 +163,9 @@ and data dependencies, i.e., on what has to happen before what,
 without being distracted by variable naming or trying to remember what
 functions to call.
 
-## FIXME
+## Pattern Recognition
 
-*This entire section comes from Neil Brown's feedback*
+FIXME: This entire section comes from Neil Brown's feedback
 
 The main thing I took from cognitive load, Sweller, and books like Dan
 Willingham's "Why don't students like school" and Kahneman's "Thinking
