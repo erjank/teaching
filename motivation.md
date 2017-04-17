@@ -85,15 +85,15 @@ challenge is therefore not to demotivate them.  Unfortunately, we can
 do this by accident much more easily than you might think.
 
 The three most powerful demotivators are *unpredictability*,
-*indifference*, and *unfairness*.
-FIXME: add material about unpredictability.
-
-If learners believe that the instructor or the educational system
-doesn't care about them or the lesson, they won't care either. And if
-people believe the class is unfair, they will also be demotivated,
-even if it is unfair in their favor (because consciously or
-unconsciously they will worry that they will some day find themselves
-in the group on the losing end
+*indifference*, and *unfairness*.  Unpredictability demotivates people
+because if there's no reliable connection between what they do and
+what outcome they achieve, there's no reason for them to try to do
+anything.  If learners believe that the instructor or the educational
+system doesn't care about them or the lesson, they won't care
+either. And if people believe the class is unfair, they will also be
+demotivated, even if it is unfair in their favor (because consciously
+or unconsciously they will worry that they will some day find
+themselves in the group on the losing end
 {{"wilkinson-pickett-spirit-level"|cite}}). Finally, a
 "holier-than-thou" or contemptuous attitude from an instructor is a
 quick way to alienate a classroom and cause learners to tune out.
