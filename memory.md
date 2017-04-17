@@ -42,12 +42,12 @@ This metaphor helps explain many observed aspects of expert behavior:
     while it can be overcome with training, it's part of why there is
     no correlation between how good someone is at doing research in an
     area and how good they are at teaching it
-    [Marsh2002](biblio.md#marsh-hattie-teaching).
+    [[Marsh2002](biblio.md#marsh-hattie-teaching)].
 
 *   Densely-connected knowledge graphs are also the basis for experts'
     _[fluid representations](GLOSSARY.md#fluid-representation)_, i.e.,
     their ability to switch back and forth between different views of
-    a problem [Petre2016](biblio.md#petre-expertise).  For example,
+    a problem [[Petre2016](biblio.md#petre-expertise)].  For example,
     when trying to solve a problem in mathematics, we might switch
     between tackling it geometrically and representing it as a set of
     equations to be solved.
@@ -109,7 +109,7 @@ remembered.
 >     others that proficiency suddenly starts to take off.
 > 
 > A meta-study conducted in 2014
-> [Macnamara2014](biblio.md#macnamara-deliberate) found that
+> [[Macnamara2014](biblio.md#macnamara-deliberate)] found that
 > "…deliberate practice explained 26% of the variance in performance
 > for games, 21% for music, 18% for sports, 4% for education, and less
 > than 1% for professions." One explanation for this variation is that

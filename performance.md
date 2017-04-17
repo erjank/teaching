@@ -4,7 +4,7 @@ Many people assume that teachers are born, not made. From politicians
 to researchers and teachers themselves, reformers have designed
 systems to find and promote those who can teach and eliminate those
 who can't. But as Elizabeth Green explains in
-[Gree2014](biblio.md#green-babt), that assumption is wrong, which is
+[[Gree2014](biblio.md#green-babt)], that assumption is wrong, which is
 why educational reforms based on it have repeatedly failed.
 
 The book is written as a history of the people who have put that
@@ -81,8 +81,8 @@ Demonstration lessons, in which one teacher is in front of a room full
 of students while other teachers observe, seem like a way to solve
 this.  However, Fincher and her colleagues studied how teaching
 practices are actually transferred using both a detailed case study
-[Fincher2007](biblio.md#fincher-warrens-questions) and analysis of
-change stories [Fincher2012](biblio.md#fincher-stories-change).  The
+[[Fincher2007](biblio.md#fincher-warrens-questions)] and analysis of
+change stories [[Fincher2012](biblio.md#fincher-stories-change)].  The
 abstract of the latter paper sums up their findings:
 
 > Innovative tools and teaching practices often fail to be adopted by
@@ -99,7 +99,7 @@ abstract of the latter paper sums up their findings:
 > educators.
 
 Barker et al found something similar
-[Barker2015](biblio.md#barker-practice-adoption):
+[[Barker2015](biblio.md#barker-practice-adoption)]:
 
 > Adoption is not a "rational action," however, but an iterative
 > series of decisions made in a social context, relying on normative
@@ -200,7 +200,7 @@ work on.
 > instructor critiques both the designs and the peer critiques, so
 > that participants are learning not only how to make buildings, but
 > how to give and get feedback
-> [Schon1984](biblio.md#schon-practitioner).  Master classes in music
+> [[Schon1984](biblio.md#schon-practitioner)].  Master classes in music
 > serve a similar purpose, and a few people have experimented with
 > using live coding at conferences or online in similar ways.
 
@@ -226,9 +226,9 @@ work on.
 
 If you are interested in knowing more about giving and getting
 feedback, you may want to read
-[Gormally2014](biblio.md#gormally-teaching-feedback) and discuss ways
+[[Gormally2014](biblio.md#gormally-teaching-feedback)] and discuss ways
 you could make peer-to-peer feedback a routine part of your teaching.
-You may also enjoy [Gawande2011](biblio.md#gawande-personal-best),
+You may also enjoy [[Gawande2011](biblio.md#gawande-personal-best)],
 which looks at the value of having a coach.
 
 ## How to Practice Teaching

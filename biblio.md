@@ -3,7 +3,7 @@
 ## What to Read Next
 
 <a id="ambrose-hlw">[Ambrose2010]</a>
-Susan A. Ambrose, Michael W. Bridges, Michele DiPietro, Marsha C. Lovett, and Marie K. Norman},
+Susan A. Ambrose, Michael W. Bridges, Michele DiPietro, Marsha C. Lovett, and Marie K. Norman:
 *[How Learning Works: Seven Research-Based Principles for Smart Teaching](https://www.amazon.com/How-Learning-Works-Research-Based-Principles/dp/0470484101/)*
 Jossey-Bass,
 2010,
@@ -31,7 +31,7 @@ W. W. Norton,
 
 <a id="guzdial-lcd">[Guzdial2015b]</a>
 Mark Guzdial:
-*[Learner-Centered Design of Computing Education: Research on Computing for Everyone](https://www.amazon.com/Learner-Centered-Design-Computing-Education-Human-Centered/dp/1627053514/):
+*[Learner-Centered Design of Computing Education: Research on Computing for Everyone](https://www.amazon.com/Learner-Centered-Design-Computing-Education-Human-Centered/dp/1627053514/)
 Morgan & Claypool,
 2015,
 978-1627053518.
@@ -99,17 +99,16 @@ Emma-Louise Aveling, Peter McCulloch, and Mary Dixon-Woods:
 
 <a id="barker-practice-adoption">[Barker2015]</a>
 Lecia Barker, Christopher Lynnly Hovey, and Jane Gruning:
-"What Influences CS Faculty to Adopt Teaching Practices?},
+"What Influences CS Faculty to Adopt Teaching Practices?",
 *Proc. 46th ACM Technical Symposium on Computer Science Education*,
 2015,
-10.1145/2676723.2677282,
-978-1450329668.
+10.1145/2676723.2677282.
 <br>
 *Describes findings from a two-part study of how computer science educators adopt new teaching practices.*
 
 <a id="baume-outcomes">[Baume2009]</a>
 D. Baume:
-"Writing and Using Good Learning Outcomes},
+"Writing and Using Good Learning Outcomes",
 Leeds Metropolitan University Press,
 2009,
 978-0-9560099-5-1.

@@ -3,8 +3,8 @@
 Atul Gawande's 2007 article "[The Checklist][gawande-checklist]"
 popularized the idea that using checklists can save lives (and make
 many other things better too).  The results of recent studies have
-been more nuanced [Aveling2013](biblio.md#aveling-checklists)
-[Urbach2014](biblio.md#urbach-checklists), but we still find them
+been more nuanced [[Aveling2013](biblio.md#aveling-checklists)]
+[[Urbach2014](biblio.md#urbach-checklists)], but we still find them
 useful, particularly when bringing new instructors onto a team.
 
 The checklists below are used before, during, and after instructor

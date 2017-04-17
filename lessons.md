@@ -38,8 +38,8 @@ A similar "backward" method works very well for lesson design.  This
 method is something called _[reverse instructional
 design](GLOSSARY.md#reverse-instructional-design)_ or _[understanding
 by design](GLOSSARY.md#understanding-by-design)_ after a book by that
-name [Wiggins2005](biblio.md#wiggins-mctighe); a similar method is
-described in [Fink2013](biblio.md#fink-significant)[^1].  In brief,
+name [[Wiggins2005](biblio.md#wiggins-mctighe)]; a similar method is
+described in [[Fink2013](biblio.md#fink-significant)][^1].  In brief,
 lessons should be designed as follows:
 
 1.  Create learner profiles (discussed in the next section) to figure
@@ -105,12 +105,12 @@ course hasn't prepared them for.
 > of their individual situations, and the outcomes of those summative
 > assessments directly affect the teachers' pay and promotion.
 > Green's *Building a Better Teacher*
-> [Green2014](biblio.md#green-babt) argues that this focus on
+> [[Green2014](biblio.md#green-babt)] argues that this focus on
 > measurement is appealing to those with the power to set the tests,
 > but is unlikely to improve outcomes unless it is coupled with
 > support for teachers to make improvements based on test outcomes.
 > This is often missing, because as Scott pointed out in
-> [Scott1999](biblio.md#scott-state), large organizations usually
+> [[Scott1999](biblio.md#scott-state)], large organizations usually
 > value uniformity over productivity.
 
 ## Learner Profiles
@@ -244,7 +244,7 @@ is to see how a poor one can be improved:
     and provides context to ensure that outcomes can be assessed.*
 
 Baume's guide to writing and using good learning outcomes
-[Baume2009](biblio.md#baume-outcomes) is a good longer discussion of
+[[Baume2009](biblio.md#baume-outcomes)] is a good longer discussion of
 these issues.  [This list of learning goals][ubc-learning-goals] from
 the University of British Columbia may also provide some useful
 guidance.
@@ -266,7 +266,7 @@ objectives.
 
 **Footnotes**
 
-[^1]: A summary of [Fink2013](biblio.md#fink-significant) is [freely available online][fink-short].
+[^1]: A summary of [[Fink2013](biblio.md#fink-significant)] is [freely available online][fink-short].
 
 [fink-short]: https://www.deefinkandassociates.com/GuidetoCourseDesignAug05.pdf
 [ubc-learning-goals]: http://www.cwsei.ubc.ca/Files/ComSc_LG/CPSC_Learning_Goals.pdf

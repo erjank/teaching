@@ -76,8 +76,8 @@ they start their own work.
 ## Take Notes Together
 
 Many studies have shown that taking notes while learning improves
-retention [Aiken1975](biblio.md#aiken-note-taking),
-[Bohay2011](biblio.md#bohay-note-taking).  As discussed in
+retention [[Aiken1975](biblio.md#aiken-note-taking)],
+[[Bohay2011](biblio.md#bohay-note-taking)].  As discussed in
 [Memory](/memory/), this happens because taking notes forces you to
 organize and reflect on material as it's coming in, which in turn
 increases the likelihood that you will transfer it to long-term memory
@@ -85,9 +85,9 @@ in a usable way.
 
 Our experience, and some recent research findings, lead us to believe
 that taking notes *collaboratively* helps learning even more
-[Orndorff2015](biblio.md#orndorff-note-taking), even though taking
+[[Orndorff2015](biblio.md#orndorff-note-taking)], even though taking
 notes on a computer is generally less effective than taking notes
-using pen and paper [Mueller2014](biblio.md#mueller-note-taking).
+using pen and paper [[Mueller2014](biblio.md#mueller-note-taking)].
 Taking notes collaboratively:
 
 *   It allows people to compare what they think they're hearing with
@@ -308,8 +308,8 @@ the typing, while the other (called the navigator) offers comments and
 suggestions.  The two switch roles several times per hour.
 
 Pair programming is a good practice in real life, and also a good way
-to teach [Hannay2009](biblio.md#hannay-pairing)
-[Porter2013](biblio.md#porter-what-works). Partners can not only help
+to teach [[Hannay2009](biblio.md#hannay-pairing)]
+[[Porter2013](biblio.md#porter-what-works)]. Partners can not only help
 each other out during the practical, but can also clarify each other's
 misconceptions when the solution is presented, and discuss common
 research interests during breaks. To facilitate this, we strongly
@@ -337,7 +337,7 @@ doesn't dominate the session[^1].
 
 Research has shown that people learn more from demonstrations if they
 are asked to predict what's going to happen
-[Miller2013](biblio.md#miller-predictions).  Doing this fits naturally
+[[Miller2013](biblio.md#miller-predictions)].  Doing this fits naturally
 into live coding: after adding or changing a few lines of a program,
 ask someone what is going to happen when it's run.
 
@@ -359,7 +359,7 @@ The best solution developed so far is a technique called _[peer
 instruction](GLOSSARY.md#peer-instruction)_. Originally created by
 Eric Mazur at Harvard, it has been studied extensively in a wide
 variety of contexts, including programming
-[Porter2013](biblio.md#porter-what-works). Peer instruction combines
+[[Porter2013](biblio.md#porter-what-works)]. Peer instruction combines
 formative assessment with student discussion and looks something like
 this:
 
@@ -506,7 +506,7 @@ themselves than contributing written material.
 
 The second answer is that doing outperforms watching.  Specifically, a
 recent paper by Koedinger et al
-[Koedinger2015](biblio.md#koedinger-doing-watching) estimated "…the
+[[Koedinger2015](biblio.md#koedinger-doing-watching)] estimated "…the
 learning benefit from extra doing (1 SD increase) to be more than six
 times that of extra watching or reading." "Doing", in this case,
 refers to completing an interactive or mimetic task with feedback,

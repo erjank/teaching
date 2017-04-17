@@ -50,7 +50,7 @@ they'll stick with us.
 
 The best-studied use of this idea is the media computation approach
 developed by Guzdial and Ericson at Georgia Tech
-[Guzdial2013](biblio.md#guzdial-mediacomp-retrospective).  Instead of
+[[Guzdial2013](biblio.md#guzdial-mediacomp-retrospective)].  Instead of
 printing "hello world" or summing the first ten integers, their
 students' first program opens an image, resizes it to create a
 thumbnail, and saves the result. This is an _[authentic
@@ -62,7 +62,7 @@ debugging.
 
 > **Strategies for Motivating Learners**
 > 
-> [Ambrose2010](biblio.md#ambrose-hlw) contains a list of
+> [[Ambrose2010](biblio.md#ambrose-hlw)] contains a list of
 > evidence-based methods to motivate learners.  None of them are
 > surprising–it's hard to imagine someone saying that we *shouldn't*
 > identify and reward what we value–but it's useful to check lessons
@@ -95,7 +95,7 @@ care either. And if people believe the class is unfair, they will also
 be demotivated, even if it is unfair in their favor (because
 consciously or unconsciously they will worry that they will some day
 find themselves in the group on the losing end
-[Wilkinson2011](biblio.md#wilkinson-pickett-spirit-level)).
+[[Wilkinson2011](biblio.md#wilkinson-pickett-spirit-level)]).
 
 Here are some quick ways to demotivate your learners:
 
@@ -203,9 +203,9 @@ threat](GLOSSARY.md#stereotype-threat)_, and the clearest examples in
 computing are gender-related.  Depending on whose numbers you trust,
 only 12-18% of programmers are women, and those figures have actually
 been getting worse over the last 20 years. There are many reasons for
-this (see [Margolis2003](biblio.md#margolis-fisher-clubhouse) and
-[Margolis2010](biblio.md#margolis-shallow)), and
-[Steele2011](biblio.md#steele-vivaldi) summarizes what we know about
+this (see [[Margolis2003](biblio.md#margolis-fisher-clubhouse)] and
+[[Margolis2010](biblio.md#margolis-shallow)]), and
+[[Steele2011](biblio.md#steele-vivaldi)] summarizes what we know about
 stereotype threat in general and presents some strategies for
 mitigating it in the classroom.
 
@@ -223,7 +223,7 @@ because it produces these disparities).
 
 A great example of how stereotypes work in general was presented in
 Patitsas et al's "Evidence That Computer Science Grades Are Not
-Bimodal" [Patitsas2016](biblio.md#patitsas-cs-grades).  This
+Bimodal" [[Patitsas2016](biblio.md#patitsas-cs-grades)].  This
 thought-provoking paper showed that people see evidence for a "geek
 gene" where none exists.  As the paper's abstract says:
 
@@ -349,7 +349,7 @@ the physically challenged, the formerly incarcerated, the economically
 disadvantaged, and everyone else who doesn't fit Silicon Valley's
 white/Asian male demographic. Lee's paper "What can I do today to
 create a more inclusive community in CS?"
-[Lee2017](biblio.md#lee-create-inclusive-community) is a brief,
+[[Lee2017](biblio.md#lee-create-inclusive-community)] is a brief,
 practical guide to doing that with references to the research
 literature. These help learners who belong to one or more marginalized
 or excluded groups, but help motivate everyone else as well; while
@@ -393,7 +393,7 @@ most immediately useful first" approach.
 ### Implement One Strategy for Inclusivity
 
 Pick one activity or change in practice from Lee's paper
-[Lee2017](biblio.md#lee-create-inclusive-community) that you would
+[[Lee2017](biblio.md#lee-create-inclusive-community)] that you would
 like to work on.  Put a reminder in your calendar three months in the
 future to self-check whether you have done something about it.
 
@@ -422,7 +422,7 @@ sentence in this challenge assumed you could actually walk?
 
 ### Who Decides?
 
-In [Littky2004](biblio.md#littky-big-picture), Kenneth Wesson wrote,
+In [[Littky2004](biblio.md#littky-big-picture)], Kenneth Wesson wrote,
 "If poor inner-city children consistently outscored children from
 wealthy suburban homes on standardized tests, is anyone naive enough
 to believe that we would still insist on using these tests as

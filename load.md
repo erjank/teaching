@@ -4,7 +4,7 @@ In 2006, Kirschner, Sweller, and Clark published a paper titled "Why
 Minimal Guidance During Instruction Does Not Work: An Analysis of the
 Failure of Constructivist, Discovery, Problem-Based, Experiential, and
 Inquiry-Based Teaching"
-[Kirschner2006](biblio.md#kirschner-minimal). Its abstract says:
+[[Kirschner2006](biblio.md#kirschner-minimal)]. Its abstract says:
 
 > Although unguided or minimally guided instructional approaches are
 > very popular and intuitively appealing…these approaches ignore both
@@ -127,7 +127,7 @@ However, there is no doubt that faded examples are effective.
 > 
 > Research by Mayer and colleagues on the [split-attention
 > effect][wikipedia-split-attention] is closely related to cognitive
-> load theory [Mayer2003](biblio.md#mayer-nine-ways).  Linguistic and
+> load theory [[Mayer2003](biblio.md#mayer-nine-ways)].  Linguistic and
 > visual input are processed by different parts of the human brain,
 > and linguistic and visual memories are stored separately as
 > well. This means that correlating linguistic, auditory, and visual
@@ -180,7 +180,7 @@ pactice, though, pattern catalogs are too large to flick through and
 too dry to memorize directly.  Giving names to a small number of
 patterns, though, does seem to help with teaching, primarily by giving
 the learners a richer vocabulary to think and communicate with
-[Kuittinen2004](biblio.md#kuittinen-patterns).
+[[Kuittinen2004](biblio.md#kuittinen-patterns)].
 
 ## You Are Not Your Learners
 

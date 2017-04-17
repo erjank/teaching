@@ -100,7 +100,7 @@ which can be divided into:
     stack works.
 
 A great example of PCK is Gelman and Nolan's *[Teaching Statistics: A
-Bag of Tricks]* [Gelman2002](biblio.md#gelman-stats), which is full of
+Bag of Tricks]* [[Gelman2002](biblio.md#gelman-stats)], which is full of
 PCK for teaching introductory statistics.  The [CS Teaching
 Tips][cs-teaching-tips] site is gathering similar ideas for computing.
 
@@ -111,7 +111,7 @@ learners as visual, auditory, or kinesthetic according to whether they
 like to see things, hear things, or do things. This scheme is easy to
 understand, but as de Bruyckere and colleagues point out in *Urban
 Myths About Learning and Education*
-[DeBruyckere2015](biblio.md#debruyckere-urban-myths), it is almost
+[[DeBruyckere2015](biblio.md#debruyckere-urban-myths)], it is almost
 certainly false.  Unfortunately, that hasn't stopped a large number of
 companies from marketing products based on it to parents and school
 boards.
@@ -125,7 +125,7 @@ people read less than they used to.
 
 Computing education has its own myths. Mark Guzdial's "Top 10 Myths
 About Teaching Computer Science"
-[Guzdial2015a](biblio.md#guzdial-top10) are:
+[[Guzdial2015a](biblio.md#guzdial-top10)] are:
 
 1.  The lack of women in Computer Science is just like all the other
     STEM fields.
@@ -154,7 +154,7 @@ About Teaching Computer Science"
 The last of these is the most pervasive and most damaging.  As
 discussed in [Motivation](/motivation/), Elizabeth Patitsas and others
 have shown that grades in computing classes are *not* bimodal
-[Patitsas2016](biblio.md#patitsas-cs-grades), i.e., there isn't one
+[[Patitsas2016](biblio.md#patitsas-cs-grades)], i.e., there isn't one
 group that gets it and another that doesn't. Many of the participants
 in our workshops have advanced degrees in intellectually demanding
 subjects, but have convinced themselves that they just don't have what
@@ -255,7 +255,7 @@ instead of attending lectures, and then do assignments that are
 (usually) robo-graded, were a hot topic a few years ago.  Now that the
 hype has worn off, though, it's clear that they aren't as effective as
 their more enthusiastic proponents claimed they would
-be [Ubell2017](biblio.md#ubell-moocs).
+be [[Ubell2017](biblio.md#ubell-moocs)].
 
 Recorded content is ineffective for most novices learners because it
 cannot intervene to clear up specific learners' misconceptions. Some
@@ -271,7 +271,7 @@ educational institutions, but in order for us to reach and help as
 many people as possible, we must eventually find ways to work with
 schools as they are.  Henderson et al's "Facilitating Change in
 Undergraduate STEM Instructional Practices"
-[Henderson2011](biblio.md#henderson-facilitating) discusses ways to
+[[Henderson2011](biblio.md#henderson-facilitating)] discusses ways to
 get educational institutions to actually change what they teach.  The
 approaches they identify include:
 

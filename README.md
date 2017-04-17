@@ -4,7 +4,7 @@
 >
 > *A Brief Introduction to Teaching* shows readers how to build and
 > deliver high-quality learning experiences to adults.  It is based on
-> [Software Carpentry](swc-site)'s [instructor training
+> [Software Carpentry][swc-site]'s [instructor training
 > course][swc-training], and all material is available under the
 > [Creative Commons - Attribution][license] license.
 
@@ -133,16 +133,16 @@ my learners actually understood.  I got better over time–at least, I
 thought I did–but still had no idea how effective I was compared to
 other teachers.
 
-In 2010, I re-started a project called [Software Carpentry](swc-site).
+In 2010, I re-started a project called [Software Carpentry][swc-site].
 Its aim was (and is) to teach basic computing skills to researchers
 from a wide range of disciplines so that they could get more done in
 less time and with less pain.  In the two years that followed, I
 discovered resources like Mark Guzdial's blog
-[Guzdial2017](biblio.md#guzdial-blog) and the book *How Learning
-Works* [Ambrose2010](biblio.md#ambrose-hlw).  These led me to other
-sources [Lemov2014](biblio.md#lemov-champion)
-[Huston2009](biblio.md#huston-dont-know)
-[Green2014](biblio.md#green-babt) that showed me what I could do to
+[[Guzdial2017](biblio.md#guzdial-blog)] and the book *How Learning
+Works* [[Ambrose2010](biblio.md#ambrose-hlw)].  These led me to other
+sources [[Lemov2014](biblio.md#lemov-champion)]
+[[Huston2009](biblio.md#huston-dont-know)]
+[[Green2014](biblio.md#green-babt)] that showed me what I could do to
 make my teaching better, and why I should believe it would work.
 
 I started using these ideas in [Software Carpentry][swc-site] in 2012,

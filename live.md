@@ -52,7 +52,7 @@ avoided or worked around:
     directly relevant to it (such as library import statements)
     increases the [extraneous cognitive load](load.md) on your
     learners.  Willingham says "Memory is the residue of thought"
-    [Willingham2010](biblio.md#willingham-dont-like-school), so if you
+    [[Willingham2010](biblio.md#willingham-dont-like-school)], so if you
     spend your time typing boilerplate, that may be what learners will
     take away.
 
