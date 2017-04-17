@@ -148,7 +148,7 @@ However, there is no doubt that faded examples are effective.
 > at part of the diagram will trigger recall of what was being said.
 
 Another way to use cognitive load theory to construct exercises is
-called a _[Parsons Problem](GLOSSARY.md#parsons-problem)_.  If you are
+called a _[Parson's Problem](GLOSSARY.md#parsons-problem)_.  If you are
 teaching someone to speak a new language, you could ask them a
 question, and then give them the words they need to answer the
 question, but in jumbled order.  Their task is to put the words in the
@@ -236,7 +236,7 @@ If there are people among the trainees who don't program at all, make
 sure that they are in separate groups and ask to the groups to work
 with that person as a learner to help identify different loads.
 
-### Create a Parsons Problem
+### Create a Parson's Problem
 
 1.  Write five or six lines of code that does something useful, jumble
     them, and ask your partner to put them in order.  If you are using

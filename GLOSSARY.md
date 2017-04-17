@@ -231,7 +231,7 @@ other (the navigator) offers comments and suggestions in real time.
 Pair programming is often used as a teaching practice in programming
 classes.
 
-## Parsons Problem
+## Parson's Problem
 
 An assessment technique developed by Dale Parsons and others in which
 learners rearrange given material to construct a correct answer to a
