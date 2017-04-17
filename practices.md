@@ -328,8 +328,7 @@ FIXME: comment on pros and cons of having pairs switch up.
 
 ## Have Learners Make Predictions
 
-FIXME:
-https://journals.aps.org/prper/abstract/10.1103/PhysRevSTPER.9.020113
+FIXME: https://journals.aps.org/prper/abstract/10.1103/PhysRevSTPER.9.020113
 
 ## Peer Instruction
 
@@ -380,9 +379,6 @@ FIXME: important to have learners record their votes so that they
 can't change their minds afterward and rationalize it (making excuses
 to themselves like "I just misread the question") - value comes from
 the jarring experience of having their answer be wrong.
-
-FIXME: include reference to Peter Newbury's guide
-http://www.cwsei.ubc.ca/Files/ReadySetReact_3fold.pdf
 
 ## Setting Up Your Learners
 
