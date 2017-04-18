@@ -15,6 +15,7 @@
   * [Feedback](performance.md#feedback)
   * [Challenges](performance.md#challenges)
 * [Expertise and Memory](memory.md)
+  * [Repetition vs. Deliberate Practices](memory.md#repetition-vs-deliberate-practice)
   * [Concept Maps](memory.md#concept-maps)
   * [Seven Plus or Minus Two](memory.md#seven-plus-or-minus-two)
   * [Challenges](memory.md#challenges)

@@ -6,7 +6,7 @@
 > not limited to, workshops, mailing lists, and online forums
 > (including source code repositories).  Workshop hosts are expected
 > to assist with enforcement of the Code of Conduct.
-> 
+>
 > If you believe someone is violating the Code of Conduct we ask that
 > you report it to the course organizer and/or the course's hosts.
 > All reports will be kept confidential.

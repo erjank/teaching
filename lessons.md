@@ -1,5 +1,16 @@
 # Designing Lessons
 
+> **Objectives**
+>
+> * Learners can describe the steps in reverse instructional design
+>   and explain why it generally produces better lessons than the
+>   usual "forward" lesson development process.
+> * Learners can define "teaching to the test" and explain why
+>   reverse instructional design is *not* the same thing.
+> * Learners can construct and critique five-part learner profiles.
+> * Learners can construct good learning objectives and critique
+>   learning objectives with reference to Bloom's Taxonomy.
+
 Most people design lessons as follows:
 
 1.  Someone tells you that you have to teach something you haven't
@@ -70,7 +81,6 @@ course hasn't prepared them for.
 
 > **Building Lessons by Subtracting Complexity**
 >
-
 > One way to build a programming lesson is to write the program you
 > want learners to finish with, then remove the most complex part that
 > you want them to write and make it the last exercise. You can then
@@ -79,6 +89,8 @@ course hasn't prepared them for.
 > anything you don't want them to write as an exercise–becomes the
 > starter file(s) that you give them.  This typically includes things
 > like importing libraries or helper functions to access data.
+
+<!-- comment needed to separate blockquotes -->
 
 > **How and Why to Fake It**
 > 
@@ -93,7 +105,7 @@ course hasn't prepared them for.
 > on something that occurs to us while we're writing an MCQ, we want the
 > notes we leave behind to present things in the order described above.
 
-<!-- -->
+<!-- comment needed to separate blockquotes -->
 
 > **Teaching to the Test**
 > 

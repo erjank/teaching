@@ -1,5 +1,18 @@
 # Motivation and Demotivation
 
+> **Objectives**
+>
+> * Learners can name and describe the three principal ways in which
+>   they can demotivate their own learners.
+> * Learners can define impostor syndrome and stereotype threat, and
+>   describe ways in which to combat each.
+> * Learners can describe the difference between fixed and growth
+>   mindset and explain the importance of encouraging the latter.
+> * Learners can describe and enact at least three things they can
+>   do to make their programming workshops more accessible.
+> * Learners can describe and enact at least three things they can
+>   do to make their programming workshops more inclusive.
+
 Learners need encouragement to step out into unfamiliar terrain, so
 this chapter discusses ways instructors can motivate them.  More
 importantly, it discusses ways that we can accidentally *demotivate*
@@ -138,7 +151,7 @@ Here are some quick ways to demotivate your learners:
 > have rules tells people a great deal about our values and about what
 > kind of learning experience they can expect.
 
-<!-- -->
+<!-- comment needed to separate blockquotes -->
 
 > **Never Learn Alone**
 > 

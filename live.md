@@ -1,7 +1,10 @@
 # Live Coding
 
-> *Teaching is theater not cinema.*  
-> – Neal Davis
+> **Objectives**
+>
+> * Learners can describe live coding and explain its advantages as a
+>   teaching practice for programming workshops.
+> * Learners can enact and critique live coding.
 
 Teaching is a performance art, just like drama, music, and athletics.
 And as in those fields, we have a collection of small tips and tricks
@@ -55,6 +58,9 @@ avoided or worked around:
     [[Willingham2010](biblio.md#willingham-dont-like-school)], so if you
     spend your time typing boilerplate, that may be what learners will
     take away.
+
+> *Teaching is theater not cinema.*  
+> – Neal Davis
 
 Live coding is an example of the "I/We/You" approach to teaching
 discussed in [Performance](/performance/).  It takes a bit of practice

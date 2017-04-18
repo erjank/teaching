@@ -110,7 +110,7 @@ This was the first format we used, and we no longer recommend it.
 
 *   We used web conferencing and shared note-taking as described above
     for online group classes.
-    
+
 *   Learners posted homework online between classes, and commented on
     each other's work.  (In practice, comments were relatively rare:
     people seemed to prefer to discuss material in the web chats.)
@@ -195,7 +195,7 @@ participants in a workshop based on this book.
 
 3.  Would like to learn techniques for explaining ideas and handling
     unexpected questions or situations.
-    
+
 4.  This workshop will introduce her to some basic classroom practices
     and give her a chance to try them out in front of a supportive
     audience.

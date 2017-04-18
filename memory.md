@@ -1,5 +1,17 @@
 # Expertise and Memory
 
+> **Objectives**
+>
+> * Learners can define expertise and explain its operation using
+>   a graph metaphor for cognition.
+> * Learners can explain the difference between repetition and
+>   deliberate practice.
+> * Learners can define and construct concept maps, and explain
+>   the benefits of externalizing cognition.
+> * Learners can differentiate long-term and short-term  memory,
+>   describe the capacity limits of the latter, and explain the
+>   the impact of these limits on teaching.
+
 The previous chapter looked at what distinguishes novices from
 competent practitioners.  Here, we will look at expertise: what it is,
 how people acquire it, and how it can be harmful as well as helpful.
@@ -78,44 +90,44 @@ you are to remain part of that group.  Similarly, the more connections
 a fact has to other facts, the more likely the fact is to be
 remembered.
 
-> **Repetition vs. Deliberate Practice**
-> 
-> The idea that ten thousand hours of practice will make someone an
-> expert in some field is widely quoted, but reality is more complex.
-> Doing exactly the same thing over and over again is much more likely
-> to solidify bad habits than perfect performance.  What actually
-> works is _[deliberate practice](gloss.md#deliberate-practice)_
-> (also sometimes called _[reflective
-> practice](gloss.md#reflective-practice)_), which is doing similar
-> but subtly different things, paying attention to what works and what
-> doesn't, and then changing behavior in response to that feedback to
-> get cumulatively better.
-> 
-> A common progression is for people to go through three stages:
-> 
-> 1.  They *learn how to do something given feedback from others*.
->     For example, they might write an essay about what they did on their
->     summer holiday, and get feedback from a teacher telling them how to
->     improve it.
-> 
-> 2.  They *learn how to give feedback*.  For example, they might
->     write an essay about character development in *The Catcher in
->     the Rye*, and get feedback on their critique from a teacher.
-> 
-> 3.  They *apply what they've learned about feedback to themselves*.
->     At some point, they start critiquing their own work in real time (or
->     nearly so) using the critical skills they've built up in steps 1 and
->     2.  Doing this is so much faster than waiting for feedback from
->     others that proficiency suddenly starts to take off.
-> 
-> A meta-study conducted in 2014
-> [[Macnamara2014](biblio.md#macnamara-deliberate)] found that
-> "…deliberate practice explained 26% of the variance in performance
-> for games, 21% for music, 18% for sports, 4% for education, and less
-> than 1% for professions." One explanation for this variation is that
-> deliberate practice works best when the rules for evaluating success
-> are very stable, but is less effective when there are more factors
-> at play (i.e., when it's harder to connect cause to effect).
+## Repetition vs. Deliberate Practice
+
+The idea that ten thousand hours of practice will make someone an
+expert in some field is widely quoted, but reality is more complex.
+Doing exactly the same thing over and over again is much more likely
+to solidify bad habits than perfect performance.  What actually works
+is _[deliberate practice](gloss.md#deliberate-practice)_ (also
+sometimes called _[reflective
+practice](gloss.md#reflective-practice)_), which is doing similar but
+subtly different things, paying attention to what works and what
+doesn't, and then changing behavior in response to that feedback to
+get cumulatively better.
+
+A common progression is for people to go through three stages:
+
+1.  They *learn how to do something given feedback from others*.
+    For example, they might write an essay about what they did on their
+    summer holiday, and get feedback from a teacher telling them how to
+    improve it.
+
+2.  They *learn how to give feedback*.  For example, they might
+    write an essay about character development in *The Catcher in
+    the Rye*, and get feedback on their critique from a teacher.
+
+3.  They *apply what they've learned about feedback to themselves*.
+    At some point, they start critiquing their own work in real time (or
+    nearly so) using the critical skills they've built up in steps 1 and
+    2.  Doing this is so much faster than waiting for feedback from
+    others that proficiency suddenly starts to take off.
+
+A meta-study conducted in 2014
+[[Macnamara2014](biblio.md#macnamara-deliberate)] found that
+"…deliberate practice explained 26% of the variance in performance for
+games, 21% for music, 18% for sports, 4% for education, and less than
+1% for professions." One explanation for this variation is that
+deliberate practice works best when the rules for evaluating success
+are very stable, but is less effective when there are more factors at
+play (i.e., when it's harder to connect cause to effect).
 
 ## Concept Maps
 
@@ -273,7 +285,7 @@ just how many pieces of separate information will need to be
 > them with labelled arcs, and adding any other concepts they think they
 > need.
 
-<!-- -->
+<!-- comment needed to separate blockquotes -->
 
 > **What Are We Doing Again?**
 > 

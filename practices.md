@@ -1,5 +1,13 @@
 # Teaching Practices
 
+> **Objectives**
+>
+> * Learners can name, describe, and enact four teaching practices that
+>   are appropriate to use in programming workshops for adults, and
+>   give a pedagogical justification for each.
+> * Learners can explain why instructors should *not* introduce new
+>   pedagogical practices in a short workshop.
+
 Just as domain expertise is often a matter of [pattern
 matching](load.md#pattern-matching), teaching expertise often comes
 down to using good practices consistently.  None of the practices
