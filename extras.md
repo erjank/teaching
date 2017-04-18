@@ -237,14 +237,6 @@ in the discussion of [live coding](live.md).
 *   Instructor makes mistake (a typo) and uses the occasion to
     illustrate how to interpret error-messages.
 
-## Motivation and Demotivation
-
-In the exercise on brainstorming demotivational experiences, review
-the comments in the shared notes. Rather than read all out loud,
-highlight a few of the things that could have been done
-differently. This will give everyone some confidence in how to handle
-these situations in the future.
-
 ## Why We Are Not a MOOC
 
 > *If you use robots to teach, you teach people to be robots.*  
