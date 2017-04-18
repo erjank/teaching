@@ -258,7 +258,7 @@ to waste it.
 > to do this, and students' ability to search for answers on the
 > internet is an ever-increasing threat to its validity.
 
-<!-- -->
+<!-- comment needed to separate blockquotes -->
 
 > **We Know Less Than We Think**
 > 
@@ -272,6 +272,26 @@ never used in class because it forces the instructor to think about
 the learners' mental models and how they might be broken–in short,
 to put themselves into the learners' heads and see the topic from
 their point of view.
+
+> **Why Not MOOCs**
+>
+> *If you use robots to teach, you teach people to be robots.*  
+> – variously attributed
+>
+> Massive open online courses (MOOCs) in which students watch videos
+> instead of attending lectures, and then do assignments that are
+> (usually) robo-graded, were a hot topic a few years ago.  Now that
+> the hype has worn off, though, it's clear that they aren't as
+> effective as their more enthusiastic proponents claimed they would
+> be [[Ubell2017](biblio.md#ubell-moocs)].
+>
+> Recorded content is ineffective for most novices learners because it
+> cannot intervene to clear up specific learners' misconceptions. Some
+> people happen to already have the right conceptual categories for a
+> subject, or happen to form them correctly early on; these are the
+> ones who stick with most massive online courses, but many
+> discussions of the effectiveness of such courses ignore this
+> survivor bias.
 
 ## Teaching Practices
 

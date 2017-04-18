@@ -237,25 +237,6 @@ in the discussion of [live coding](live.md).
 *   Instructor makes mistake (a typo) and uses the occasion to
     illustrate how to interpret error-messages.
 
-## Why We Are Not a MOOC
-
-> *If you use robots to teach, you teach people to be robots.*  
-> – variously attributed
-
-Massive open online courses (MOOCs) in which students watch videos
-instead of attending lectures, and then do assignments that are
-(usually) robo-graded, were a hot topic a few years ago.  Now that the
-hype has worn off, though, it's clear that they aren't as effective as
-their more enthusiastic proponents claimed they would
-be [[Ubell2017](biblio.md#ubell-moocs)].
-
-Recorded content is ineffective for most novices learners because it
-cannot intervene to clear up specific learners' misconceptions. Some
-people happen to already have the right conceptual categories for a
-subject, or happen to form them correctly early on; these are the ones
-who stick with most massive online courses, but many discussions of
-the effectiveness of such courses ignore this survivor bias.
-
 ## Effecting Change
 
 This guide is aimed primarily at people working outside mainstream

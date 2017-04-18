@@ -80,5 +80,4 @@
   * [Video Recorded Lessons](extras.md#video-recorded-lessons)
   * [Feedback on Live Coding Demo Videos](extras.md#feedback-on-live-coding-demo-videos)
   * [Motivation and Demotivation](extras.md#motivation-and-demotivation)
-  * [Why We Are Not a MOOC](extras.md#why-we-are-not-a-mooc)
   * [Effecting Change](extras.md#effecting-change)
