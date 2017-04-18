@@ -61,6 +61,30 @@ right to speak wherever and whenever they want.  If someone wishes to
 say something disparaging about someone else, they can go and find a
 space of their own in which to say it.
 
+## Starting Out
+
+To begin your class, the instructors should give a brief introduction
+that will convey their capacity to teach the material,
+accessibility and approachability, desire for student success, and
+enthusiasm. Tailor your introduction to the students' skill level so
+that you convey competence (without seeming too advanced) and
+demonstrate that you can relate to the students. Throughout the
+workshop, continually demonstrate that you are interested in student
+progress and that you are enthusiastic about the topics.
+
+Students should also introduce themselves (preferably verbally). At the
+very least, everyone should add their name to the Etherpad, but its also
+good for everyone at a given site to know who all is in the group. Note:
+this can be done while setting up before the start of the class.
+
+## Overnight Homework
+
+In a two-day class, have learners read the operations checklists as
+overnight homework and do their demotivational story just before
+lunch on day 2: it means day 2 starts with *their* questions
+(which wakes them up), and the demotivational story is a good
+lead-in to lunchtime discussion.
+
 ## Never a Blank Page
 
 Programming workshops (and other kinds of classes) can be built around
