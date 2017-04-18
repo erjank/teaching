@@ -37,8 +37,8 @@ from what they do and from the feedback (and welcome) it elicits. It
 is equally relevant to our instructors (i.e., you), who are
 approaching evidence-based teaching in the same way.
 
-For example, Software and Data Carpentry aim to serve researchers who
-are exploring data management and programming on their own (legitimate
+For example, Software Carpentry aims to serve researchers who are
+exploring data management and programming on their own (legitimate
 peripheral practice) and make them aware of other people doing that
 work (simply by attending the workshop) and the best practices and
 ideas of that community of practice, thereby giving them a way to
@@ -70,8 +70,8 @@ in the class, with actual learners, in order to find out how well they
 balance the different forces in play.
 
 Doing this is called _[instructional
-design](gloss.md#instructional-design)_.  If educational psychology
-is the science, instructional design is the engineering.  For example,
+design](gloss.md#instructional-design)_.  If educational psychology is
+the science, instructional design is the engineering.  For example,
 there are good reasons to believe that children will learn how to read
 best by starting with the sounds of letters and working up to words.
 However, there are equally good reasons to believe that children will
