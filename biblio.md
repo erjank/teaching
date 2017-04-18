@@ -493,6 +493,15 @@ David R. Urbach, Anand Govindarajan, Refik Saskin, Andrew S. Wilton, and Nancy N
 <br>
 *Reports a study showing that the introduction of surgical checklists did not have a significant effect on operative outcomes.*
 
+<a id="uttl-evaluations">[Uttl2016]</a>
+Bob Uttl, Carmela A. White, and Daniela Wong Gonzalez:
+"Meta-Analysis of Faculty's Teaching Effectiveness: Student Evaluation of Teaching Ratings and Student Learning Are Not Related"
+*Studies in Educational Evaluation*,
+2016,
+10.1016/j.stueduc.2016.08.007
+<br>
+*A summary of studies shown that how students rate a course and how much they actually learn are not related.*
+
 <a id="wiggins-mctighe">[Wiggins2005]</a>
 G.P. Wiggins and J. McTighe:
 *[Understanding by Design](https://www.amazon.com/Understanding-Design-Grant-Wiggins/dp/1416600353/):

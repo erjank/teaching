@@ -1,5 +1,7 @@
 # Summary
 
+## Core Material
+
 * [Introduction](README.md)
   * [History](index.md#history)
   * [Acknowledgments](index.md#acknowledgments)
@@ -59,7 +61,9 @@
   * [Challenges](practices.md#challenges)
 * [Live Coding](live.md)
   * [Challenges](live.md#challenges)
-* [Why I Teach](next.md)
+
+## Appendices
+
 * [Code of Conduct](CONDUCT.md)
 * [License](LICENSE.md)
 * [The Rules](rules.md)
@@ -81,3 +85,5 @@
   * [Feedback on Live Coding Demo Videos](extras.md#feedback-on-live-coding-demo-videos)
   * [Motivation and Demotivation](extras.md#motivation-and-demotivation)
   * [Effecting Change](extras.md#effecting-change)
+  * [Evaluating Impact](extras.md#evaluating-impact)
+* [Why I Teach](why.md)

@@ -266,13 +266,61 @@ approaches they identify include:
     collective action of self-organizing groups within the system. This
     collective action can be stimulated, but not controlled.
 
+## Evaluating Impact
+
+A key part of effecting change is to convince people that what you're
+doing is actually having a positive impact.  That turns out to be
+surprisingly hard[^3] for free-range programming workshops:
+
+1.  *Ask learners if the workshop was useful.* Study after study has
+    shown that there is no correlation between how highly learners
+    rate a course and how much they actually learn
+    [[Uttl2016](biblio.md#uttl-evaluations)], and most people working
+    in education are now aware of that.
+
+2.  *Give them an exam at the end of the workshop.*  Doing that
+    dramatically changes the feel of the workshop, and how much they
+    know at the end of the day is a poor predictor of how much they
+    will remember two or three months later.
+
+3.  *Give them an exam two or three months later.*  That's hard enough
+    to do in a traditional battery-farmed learning environment; doing
+    it with free-range learners is even harder.  In addition:
+
+    1.  The people who didn't get anything out of the workshop are
+        probably less likely to take part in follow-up, so feedback
+        gathered this way will be subject to self-selection bias.
+
+    2.  The fact that learners *remember* something doesn't
+        necessarily mean it was useful (although they are more likely
+        to remember things that are useful than things that aren't).
+
+4.  *See if they keep using what they learned.* This is a good way to
+    evaluate employment-oriented skills, but equally useful for things
+    people have learned for fun.  The problem is how to do it: you
+    probably shouldn't put spyware on their computers, and follow-up
+    surveys suffer from the same low return rate and self-selection
+    bias as exams.
+
+5.  *See if they recommend the workshop to friends.* This method often
+    strikes the best balance between informative and doable: if people
+    are recommending your workshop to other people, that's a pretty
+    good sign.
+
+There are many other options; the most important thing is to figure
+out early on how you're going to know whether you're teaching the
+right things the right way, and how you're going to convince potential
+backers that you're doing so.
+
 ---
 
 **Footnotes**
 
 [^1]: The first approach is called "phonics", and the second, "whole language".  The whole language approach may seem nonsensical, but more than a billion people have learned to read and write Chinese and similar ideogrammatic languages in exactly this way.
 
-[^2]: And to control other variables, because in practice, the teacher's enthusiasm for the teaching method may have more of an impact than the method itself, since children will model their teacher's excitement (or lack thereof) for a subject. 
+[^2]: And to control other variables, because in practice, the teacher's enthusiasm for the teaching method may have more of an impact than the method itself, since children will model their teacher's excitement (or lack thereof) for a subject.
+
+[^3]: Well, it surprised me…
 
 [cs-teaching-tips]: http://csteachingtips.org/
 [learning-theories]: http://www.learning-theories.com/
