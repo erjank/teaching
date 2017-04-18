@@ -276,7 +276,7 @@ longer, but it's more likely to stick.
 ## Minute Cards
 
 We frequently use sticky notes as _[minute
-cards](GLOSSARY.md#minute-cards)_: before each break, learners take a
+cards](gloss.md#minute-cards)_: before each break, learners take a
 minute to write one positive thing on the green sticky note (e.g., one
 thing they've learned that they think will be useful), and one thing
 they found too fast, too slow, confusing, or irrelevant on the red
@@ -356,7 +356,7 @@ How then can she clear up many different misconceptions in a
 reasonable time?
 
 The best solution developed so far is a technique called _[peer
-instruction](GLOSSARY.md#peer-instruction)_. Originally created by
+instruction](gloss.md#peer-instruction)_. Originally created by
 Eric Mazur at Harvard, it has been studied extensively in a wide
 variety of contexts, including programming
 [[Porter2013](biblio.md#porter-what-works)]. Peer instruction combines

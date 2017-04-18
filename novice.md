@@ -14,13 +14,13 @@ for the majority.)
 
 For our purposes, we simplify the five stages to three:
 
-1.  A _[novice](GLOSSARY.md#novice)_ is someone who doesn't know what
+1.  A _[novice](gloss.md#novice)_ is someone who doesn't know what
     they don't know, i.e., they don't yet know what the key ideas in
     the domain are or how they relate. They reason by analogy and
     guesswork, borrowing bits and pieces of their mental models of
     other domains which seem superficially similar[^1].
 
-2.  A _[competent practitioner](GLOSSARY.md#competent-practitioner)_
+2.  A _[competent practitioner](gloss.md#competent-practitioner)_
     is someone who has a mental model that's good enough for everyday
     purposes: they can do normal tasks with normal effort under normal
     circumstances. This model does not have to be completely accurate
@@ -28,7 +28,7 @@ For our purposes, we simplify the five stages to three:
     model of how a car works probably doesn't include most of the
     complexities that a mechanical engineer would be concerned with.
 
-3.  An _[expert](GLOSSARY.md#expert)_ is someone who can easily handle
+3.  An _[expert](gloss.md#expert)_ is someone who can easily handle
     situations that are out of the ordinary, diagnose the causes of
     problems, and so on. We will discuss expertise in more detail in
     [Memory](/memory/).
@@ -122,7 +122,7 @@ Broadly speaking, learners' misconceptions fall into three categories:
 Teaching is most effective when instructors have a way to identify and
 clear up learners' misconceptions *while they are teaching*.  The
 technical term for this is _[formative
-assessment](GLOSSARY.md#formative-assessment)_, which is assessment
+assessment](gloss.md#formative-assessment)_, which is assessment
 that takes place during the lesson in order to form or shape it.
 Learners don't pass or fail formative assessments; instead, its main
 purpose is to tell both the instructor and the learner how the learner
@@ -132,7 +132,7 @@ whether she is breathing correctly, and if she is not, what she should
 change.
 
 The counterpoint to formative assessment is _[summative
-assessment](GLOSSARY.md#summative-assessment)_, which is used at the
+assessment](gloss.md#summative-assessment)_, which is used at the
 end of the lesson to tell whether the desired learning took place and
 whether the learner is ready to move on[^3].  Learners either pass or
 fail a summative assessment. One example is a driving exam, which
@@ -177,8 +177,8 @@ valuable insight:
     carrying it back into the same column it came from.
 
 Each of these incorrect answers is a _[plausible
-distractor](GLOSSARY.md#plausible-distractor)_ with _[diagnostic
-power](GLOSSARY.md#diagnostic-power)_.  "Plausible" means that it
+distractor](gloss.md#plausible-distractor)_ with _[diagnostic
+power](gloss.md#diagnostic-power)_.  "Plausible" means that it
 looks like it could be right: instructors will often put
 supposedly-silly answers like "a fish!" on MCQs, but they don't
 provide any insight and learners actually don't find them

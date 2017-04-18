@@ -33,7 +33,7 @@ James Stigler discovered during a visit to Japan in the early 1990s:
 
 It's tempting but wrong to think that this particular teaching
 technique is some kind of secret sauce. The actual key is a practice
-called _[jugyokenkyu](GLOSSARY.md#jugyokenkyu)_, which means "lesson
+called _[jugyokenkyu](gloss.md#jugyokenkyu)_, which means "lesson
 study":
 
 > *Jugyokenkyu* is a bucket of practices that Japanese teachers use to
@@ -109,7 +109,7 @@ Barker et al found something similar
 > strong evidence by faculty that they should continue a practice.
 
 This phenomenon is sometimes called _[lateral knowledge
-transfer](GLOSSARY.md#lateral-knowledge-transfer)_: someone sets out
+transfer](gloss.md#lateral-knowledge-transfer)_: someone sets out
 to teach X, but while watching them, their audience actually learns Y
 as well (or instead). For example, an instructor might set out to show
 people how to do a particular statistical analysis in R, but what her

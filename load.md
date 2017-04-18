@@ -19,7 +19,7 @@ Inquiry-Based Teaching"
 
 The paper set off a minor academic firestorm, because beneath the
 jargon the authors were claiming that _[inquiry-based
-learning](GLOSSARY.md#inquiry-based-learning)_ doesn't actually work
+learning](gloss.md#inquiry-based-learning)_ doesn't actually work
 very well.  Inquiry-based learning is the practice of allowing
 learners to ask their own questions, set their own goals, and find
 their own path through a subject, just as they would when solving
@@ -29,7 +29,7 @@ simultaneously master both a domain's factual content and its
 problem-solving strategies.
 
 More specifically, _[cognitive load
-theory](GLOSSARY.md#cognitive-load-theory)_ posits that people have to
+theory](gloss.md#cognitive-load-theory)_ posits that people have to
 deal with three things when they're learning:
 
 1.  *Intrinsic* load is what people have to keep in mind in order to
@@ -51,13 +51,13 @@ According to this theory, searching for a solution strategy is an
 extra burden on top of applying that strategy. We can therefore
 accelerate learning by giving learners worked examples that show them
 a problem and a detailed step-by-step solution, followed by a series
-of _[faded examples](GLOSSARY.md#faded-example)_. The first of these
+of _[faded examples](gloss.md#faded-example)_. The first of these
 presents a nearly-complete use of the same problem-solving strategy
 just demonstrated, but with a small number of blanks for the learner
 to fill in. The next problem is also of the same type, but has more
 blanks, and so on until the learner is asked to solve the entire
 problem.  (The material that *isn't* blank is often referred to as
-_[scaffolding](GLOSSARY.md#scaffolding)_, since it serves the same
+_[scaffolding](gloss.md#scaffolding)_, since it serves the same
 purpose as the scaffolding set up temporarily at a building site.)
 
 For example, someone teaching Python might start by explaining this:
@@ -148,7 +148,7 @@ However, there is no doubt that faded examples are effective.
 > at part of the diagram will trigger recall of what was being said.
 
 Another way to use cognitive load theory to construct exercises is
-called a _[Parson's Problem](GLOSSARY.md#parsons-problem)_.  If you are
+called a _[Parson's Problem](gloss.md#parsons-problem)_.  If you are
 teaching someone to speak a new language, you could ask them a
 question, and then give them the words they need to answer the
 question, but in jumbled order.  Their task is to put the words in the

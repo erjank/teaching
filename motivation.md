@@ -54,9 +54,9 @@ developed by Guzdial and Ericson at Georgia Tech
 printing "hello world" or summing the first ten integers, their
 students' first program opens an image, resizes it to create a
 thumbnail, and saves the result. This is an _[authentic
-task](GLOSSARY.md#authentic-task)_, i.e., something that learners
+task](gloss.md#authentic-task)_, i.e., something that learners
 believe they would actually do in real life. It is also has a
-_[tangible artefact](GLOSSARY.md#tangible-artefact)_: if the image
+_[tangible artefact](gloss.md#tangible-artefact)_: if the image
 comes out the wrong size, learners have a concrete starting point for
 debugging.
 
@@ -154,7 +154,7 @@ Here are some quick ways to demotivate your learners:
 
 ## Impostor Syndrome
 
-_[Impostor syndrome](GLOSSARY.md#impostor-syndrome)_ is the belief
+_[Impostor syndrome](gloss.md#impostor-syndrome)_ is the belief
 that one is not good enough for a job or position, that one's
 achievements are lucky flukes, and an accompanying fear of being
 "found out". Impostor syndrome seems to be particularly common among
@@ -199,7 +199,7 @@ teaching about and dealing with imposter syndrome.
 Reminding people of negative stereotypes, even in subtle ways, makes
 them anxious about the risk of confirming those stereotypes, which in
 turn reduces their performance. This is called _[stereotype
-threat](GLOSSARY.md#stereotype-threat)_, and the clearest examples in
+threat](gloss.md#stereotype-threat)_, and the clearest examples in
 computing are gender-related.  Depending on whose numbers you trust,
 only 12-18% of programmers are women, and those figures have actually
 been getting worse over the last 20 years. There are many reasons for
@@ -252,8 +252,8 @@ programmers and others aren't, but Mark Guzdial has called this belief
 
 Learners can be demotivated in subtler ways as well. For example,
 Dweck and others have studied the differences of [fixed
-mindset](GLOSSARY.md#fixed-mindset) and [growth
-mindset](GLOSSARY.md#growth-mindset). If people believe that
+mindset](gloss.md#fixed-mindset) and [growth
+mindset](gloss.md#growth-mindset). If people believe that
 competence in some area is intrinsic (i.e., that you either "have the
 gene" for it or you don't), *everyone* does worse, including the
 supposedly advantaged.  The reason is that if they don't get it at
@@ -341,7 +341,7 @@ the right place to start.  A few other recommendations are:
 
 ## Inclusivity
 
-_[Inclusivity](GLOSSARY.md#inclusivity)_ is a policy of including
+_[Inclusivity](gloss.md#inclusivity)_ is a policy of including
 people who might otherwise be excluded or marginalized. In computing,
 it means making a positive effort to be more welcoming to women,
 people of color, people with various sexual orientations, the elderly,

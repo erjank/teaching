@@ -4,7 +4,7 @@ This appendix includes material that doesn't naturally fit anywhere else.
 
 ## Key Terms
 
-_[Educational psychology](GLOSSARY.md#educational-psychology)_ is the
+_[Educational psychology](gloss.md#educational-psychology)_ is the
 study of how people learn. It touches on everything from the
 neuropsychology of perception and the mechanisms of memory to the
 sociology of school systems and the philosophical question of what we
@@ -14,7 +14,7 @@ classroom). Within the broad scope of educational psychology, two
 specific perspectives have primarily influenced our teaching practices
 (and by extension, this instructor training).
 
-The first perspective is _[cognitivism](GLOSSARY.md#cognitivism)_,
+The first perspective is _[cognitivism](gloss.md#cognitivism)_,
 which treats learning as a problem in neuropsychology. Cognitivists
 focus their attention on things like pattern recognition, memory
 formation, and recall. It is good at answering low-level questions,
@@ -22,11 +22,11 @@ but generally ignores larger issues like, "What do we mean by
 'learning'?" and, "Who gets to decide?"
 
 The second perspective is _[situated
-learning](GLOSSARY.md#situated-learning)_, which focuses on how
+learning](gloss.md#situated-learning)_, which focuses on how
 _[legitimate peripheral
-participation](GLOSSARY.md#legitimate-peripheral-participation)_ leads
+participation](gloss.md#legitimate-peripheral-participation)_ leads
 to people becoming members of a _[community of
-practice][GLOSSARY.md#community-of-practice]_.  Unpacking those terms,
+practice][gloss.md#community-of-practice]_.  Unpacking those terms,
 the situated learning perspective focuses on the transition from being
 a newcomer to being accepted as a peer by those who already do the
 activity in question. Situated learning is directly relevant to our
@@ -53,11 +53,11 @@ with the community of practice.
 > There are many other perspectives outside cognitivist theory—see
 > [this site][learning-theories] for summaries. Besides cognitivism,
 > those encountered most frequently include
-> _[behaviorism](GLOSSARY.md#behaviorism)_ (which treats education as
+> _[behaviorism](gloss.md#behaviorism)_ (which treats education as
 > stimulus/response conditioning),
-> _[constructivism](GLOSSARY.md#constructivism)_ (which considers
+> _[constructivism](gloss.md#constructivism)_ (which considers
 > learning an active process during which learners construct knowledge
-> for themselves), and _[connectivism](GLOSSARY.md#connectivism)_
+> for themselves), and _[connectivism](gloss.md#connectivism)_
 > (which emphasizes the social aspects of learning, particularly those
 > made possible by the Internet).  And yes, it would help if their
 > names were less similar…
@@ -70,7 +70,7 @@ in the class, with actual learners, in order to find out how well they
 balance the different forces in play.
 
 Doing this is called _[instructional
-design](GLOSSARY.md#instructional-design)_.  If educational psychology
+design](gloss.md#instructional-design)_.  If educational psychology
 is the science, instructional design is the engineering.  For example,
 there are good reasons to believe that children will learn how to read
 best by starting with the sounds of letters and working up to words.
@@ -83,15 +83,15 @@ children, most of the time, is to try them both out[^2].
 Unsurprisingly, effective teaching depends on what the teacher knows,
 which can be divided into:
 
-*   _[content knowledge](GLOSSARY.md#content-knowledge)_, such as the
+*   _[content knowledge](gloss.md#content-knowledge)_, such as the
     "what" of programming;
 
 *   _[general pedagogical
-    knowledge](GLOSSARY.md#general-pedagogical-knowledge)_, i.e., an
+    knowledge](gloss.md#general-pedagogical-knowledge)_, i.e., an
     understanding of the psychology of learning; and
 
 *   the _[pedagogical content
-    knowledge](GLOSSARY.md#pedagogical-content-knowledge)_ (PCK) that
+    knowledge](gloss.md#pedagogical-content-knowledge)_ (PCK) that
     connects the two. PCK is things like what examples to use when
     teaching how parameters are passed to a function, or what
     misconceptions about wildcard expansion are most common.  For

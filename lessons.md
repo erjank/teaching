@@ -16,7 +16,7 @@ Most people design lessons as follows:
     exam.
 
 There's a better way, but to explain it, we first need to explain how
-_[test-driven development](GLOSSARY.md#test-driven-development)_ (TDD)
+_[test-driven development](gloss.md#test-driven-development)_ (TDD)
 is used in software development.  Programmers who are using TDD don't
 write software and then (possibly) write tests.  Instead, they write
 the tests first, then write just enough new software to make those
@@ -36,8 +36,8 @@ work and really, really wants to be done.
 
 A similar "backward" method works very well for lesson design.  This
 method is something called _[reverse instructional
-design](GLOSSARY.md#reverse-instructional-design)_ or _[understanding
-by design](GLOSSARY.md#understanding-by-design)_ after a book by that
+design](gloss.md#reverse-instructional-design)_ or _[understanding
+by design](gloss.md#understanding-by-design)_ after a book by that
 name [[Wiggins2005](biblio.md#wiggins-mctighe)]; a similar method is
 described in [[Fink2013](biblio.md#fink-significant)][^1].  In brief,
 lessons should be designed as follows:
@@ -117,7 +117,7 @@ course hasn't prepared them for.
 
 The first piece of the process above is figuring out who your audience
 is.  One way to do this is to write two or three _[learner
-profiles](GLOSSARY.md#learner-profile)_. This technique is borrowed
+profiles](gloss.md#learner-profile)_. This technique is borrowed
 from user interface design, where short profiles of typical users are
 created to help designers think about their audience's needs, and to
 give them a shorthand for talking about specific cases.
@@ -162,7 +162,7 @@ would Jorge face?"
 Summative and formative assessments help instructors figure out what
 they're going to teach, but in order to communicate that to learners
 and other instructors, a course description should also have
-_[learning objectives](GLOSSARY.md#learning-objective)_ (sometimes
+_[learning objectives](gloss.md#learning-objective)_ (sometimes
 also called a *learning goal*). A learning objective is a single
 sentence describing what a learner will be able to do once they have
 sat through the lesson in order to demonstrate what they have learned.
@@ -185,7 +185,7 @@ each of this would be backed by a very different lesson:
 > **Objectives vs. Outcomes**
 > 
 > A learning objective is what a lesson strives to achieve.  A
-> _[learning outcome](GLOSSARY.md#learning-outcome)_ is what it
+> _[learning outcome](gloss.md#learning-outcome)_ is what it
 > actually achieves, i.e., what learners actually take away.  The role
 > of summative assessment is therefore to compare outcomes with
 > objectives.
