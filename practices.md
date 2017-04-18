@@ -159,7 +159,7 @@ to keep an eye on.  We believe the positives outweigh the negatives,
 but think that some careful controlled studies would tell us whether
 we're right, and how to use it better.
 
-## Assess Learners' Motivation and Prior Knowledge
+## Assess Motivation and Prior Knowledge
 
 Most formal educational systems train people to treat all assessment
 as summative, i.e., to think of every interaction with a teacher as an

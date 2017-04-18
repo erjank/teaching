@@ -43,7 +43,7 @@
   * [Overnight Homework](practices.md#overnight-homework)
   * [Never a Blank Page](practices.md#never-a-blank-page)
   * [Take Notes Together](practices.md#take-notes-together)
-  * [Assess Learners' Motivation and Prior Knowledge](practices.md#assess-learners-motivation-and-prior-knowledge)
+  * [Assess Motivation and Prior Knowledge](practices.md#assess-motivation-and-prior-knowledge)
   * [Use Sticky Notes as Status Flags](practices.md#use-sticky-notes-as-status-flags)
   * [Use Sticky Notes to Distribute Attention](practices.md#use-sticky-notes-to-distribute-attention)
   * [Minute Cards](practices.md#minute-cards)
