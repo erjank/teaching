@@ -257,18 +257,17 @@ If there are people among the trainees who don't program at all, make
 sure that they are in separate groups and ask to the groups to work
 with that person as a learner to help identify different loads.
 
+*30 minutes*
+
 ### Create a Parson's Problem
 
-1.  Write five or six lines of code that does something useful, jumble
-    them, and ask your partner to put them in order.  If you are using
-    an indentation-based language like Python, do not indent any of the
-    lines; if you are using a curly-brace language like Java, do not
-    include any of the curly braces.
+Write five or six lines of code that does something useful, jumble
+them, and ask your partner to put them in order.  If you are using an
+indentation-based language like Python, do not indent any of the
+lines; if you are using a curly-brace language like Java, do not
+include any of the curly braces.
 
-1.  Create a second example similar to the first, but include one line
-    of code that isn't needed to solve the problem.  How much harder is
-    it for your partner to put things in order when there's unneeded
-    material getting in the way?
+*20 minutes*
 
 [cognitive-load-unfalsifiable]: https://edtechdev.wordpress.com/2009/11/16/cognitive-load-theory-failure/
 [wikipedia-design-patterns]: https://en.wikipedia.org/wiki/Software_design_pattern

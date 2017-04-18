@@ -387,8 +387,8 @@ our workshops:
 ## Challenges
 
 Several of these challenges use "think-pair-share".  If you have not
-already covered this, please look at [the description](/practices/#tps)
-now.
+already covered this, please look at [the
+description](practices.md#think-pair-share) now.
 
 ### Authentic Tasks
 
@@ -398,10 +398,12 @@ some stats in R, forked a repo) and explain how you would use it (or a
 simplified version of it) as an exercise or example in class.
 
 Pair up with your neighbor and decide where this exercise fits on a
-2x2 grid of "short/longtime to master" and "low/high
-usefulness"?  In the shared notes, write the task and where it fits
-on the grid. As a group, discuss how these relate back to the "teach
-most immediately useful first" approach.
+2x2 grid of "short/longtime to master" and "low/high usefulness"?  In
+the shared notes, write the task and where it fits on the grid. As a
+group, discuss how these relate back to the "teach most immediately
+useful first" approach.
+
+*15 minutes*
 
 ### Implement One Strategy for Inclusivity
 
@@ -410,6 +412,8 @@ Pick one activity or change in practice from Lee's paper
 like to work on.  Put a reminder in your calendar three months in the
 future to self-check whether you have done something about it.
 
+*5 minutes*
+
 ### Brainstorming Motivational Strategies
 
 Think back to a programming course (or any other) that you took in the
@@ -417,12 +421,16 @@ past, and identify one thing the instructor did that motivated you.
 Pair up with your neighbor and discuss it, and then share the story in
 the group notes.
 
+*15 minutes*
+
 ### Demotivational Experiences
 
 Think back to a time when you demotivated a student (or when you were
 demotivated as a student). Pair up with your neighbor and discuss what
 you could have done differently in the situation, and then share the
 story and what could have been done in the group notes.
+
+*15 minutes*
 
 ### Walk the Route
 
@@ -433,6 +441,8 @@ mobility issues. Now borrow a wheelchair and repeat the journey. How
 complete was your list of challenges? And did you notice that the first
 sentence in this challenge assumed you could actually walk?
 
+*15 minutes*
+
 ### Who Decides?
 
 In [[Littky2004](biblio.md#littky-big-picture)], Kenneth Wesson wrote,
@@ -441,6 +451,8 @@ wealthy suburban homes on standardized tests, is anyone naive enough
 to believe that we would still insist on using these tests as
 indicators of success?" What are examples in your own experience of
 "objective" assessments that reinforce the status quo?
+
+*15 minutes*
 
 ---
 

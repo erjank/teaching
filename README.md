@@ -248,6 +248,8 @@ children how to read and write, and to believe in themselves.
 In the online notes, write down your name, the best class you ever
 took, and what made it so great.
 
+*10 minutes*
+
 ---
 
 **Footnotes**

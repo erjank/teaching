@@ -288,13 +288,18 @@ teaching practices in your instructor training workshop:
 
 ### Your Mental Models
 
-What do you do for a living? What is one mental model you use to frame
-and understand your work?
+What is one mental model you use to frame and understand your work?
+Write a few sentences describing it in the shared notes, and give
+feedback on other learners' contributions.
+
+*5 minutes*
 
 ### Symptoms of Being a Novice
 
 What are the symptoms of being a novice?  I.e., what does someone do
 or say that leads you to classify them as a novice in some domain?
+
+*5 minutes*
 
 ### Modelling Novice Mental Models
 
@@ -306,6 +311,8 @@ When you are done, give your MCQ to a partner, and have a look at
 theirs.  Is the question ambiguous?  Are the misconceptions plausible?
 Do the distractors actually test for them?  Are any likely
 misconceptions *not* tested for?
+
+*20 minutes*
 
 ### Other Kinds of Formative Assessment
 
@@ -325,13 +332,7 @@ Describe another kind of formative assessment you have seen or used and
 explain how it helps both the instructor and the learner figure out
 where they are and what they need to do next.
 
-### Minutes Cards
-
-Write one thing you learned this morning that you found useful on your
-green sticky note, and one question you have about the material on the
-red. Do *not* put your name on the notes: this is meant to be
-anonymous feedback. Add your notes to the pile by the door as you leave
-to get coffee.
+*20 minutes*
 
 ---
 

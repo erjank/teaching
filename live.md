@@ -260,18 +260,18 @@ grid.  These videos assume learners know what a shell variable is,
 know how to use the `head` command, and are familiar with the contents
 of the data files being filtered.
 
+*20 minutes*
+
 ### See Then Do
 
-Teach 3-4 minutes of your chosen lesson episode using live coding to a
-fellow trainee, then swap and watch while that person live codes for
-you. Don't bother trying to record the live coding sessions–we have
-found that it's difficult to capture both the person and the screen
-with a handheld device–but give feedback the same way you have
-previously (positive and negative, content and presentation). If you
-decide to instead teach something from the lesson episode you selected
-in preparation for this workshop, explain in advance to your fellow
-trainee what you will be teaching and what the learners you teach it
-to are expected to be familiar with.
+Teach 3-4 minutes of a lesson using live coding to a fellow trainee,
+then swap and watch while that person live codes for you. Don't bother
+trying to record the live coding sessions–we have found that it's
+difficult to capture both the person and the screen with a handheld
+device–but give feedback the same way you have previously (positive
+and negative, content and presentation).  Explain in advance to your
+fellow trainee what you will be teaching and what the learners you
+teach it to are expected to be familiar with.
 
 *   What felt different about live coding (versus standing up and
     lecturing)? What was harder/easier?
@@ -285,6 +285,7 @@ to are expected to be familiar with.
 
 *   What will you try to do differently next time?
 
+*30 minutes*
 
 ---
 
