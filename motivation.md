@@ -449,8 +449,9 @@ In [[Littky2004](biblio.md#littky-big-picture)], Kenneth Wesson wrote,
 "If poor inner-city children consistently outscored children from
 wealthy suburban homes on standardized tests, is anyone naive enough
 to believe that we would still insist on using these tests as
-indicators of success?" What are examples in your own experience of
-"objective" assessments that reinforce the status quo?
+indicators of success?" Read [this article][nytimes-gifted], and then
+describe an example from your own experience of "objective"
+assessments that reinforced the status quo.
 
 *15 minutes*
 
@@ -465,6 +466,7 @@ indicators of success?" What are examples in your own experience of
 [growth-mindset-concerns]: http://www.learningspy.co.uk/psychology/growth-mindset-bollocks/
 [guzdial-myth]: http://cacm.acm.org/blogs/blog-cacm/189498-top-10-myths-about-teaching-computer-science/fulltext
 [high-achieving]: http://www.paulineroseclance.com/pdf/ip_high_achieving_women.pdf
+[nytimes-gifted]: https://mobile.nytimes.com/2016/04/10/upshot/why-talented-black-and-hispanic-students-can-go-undiscovered.html
 [recurse-rules]: https://www.recurse.com/manual#sec-environment
 [stereotype-threat-ambiguity]: http://www.europhd.net/html/_onda02/07/PDF/20th_lab_materials/jane/shapiro_neuberg_2007.pdf
 [stereotype-threat-replicability]: https://www.psychologytoday.com/blog/rabble-rouser/201512/is-stereotype-threat-overcooked-overstated-and-oversold
