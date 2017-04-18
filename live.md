@@ -260,7 +260,7 @@ grid.  These videos assume learners know what a shell variable is,
 know how to use the `head` command, and are familiar with the contents
 of the data files being filtered.
 
-*20 minutes*
+*(20 minutes)*
 
 ### See Then Do
 
@@ -285,7 +285,7 @@ teach it to are expected to be familiar with.
 
 *   What will you try to do differently next time?
 
-*30 minutes*
+*(30 minutes)*
 
 ---
 

@@ -257,7 +257,7 @@ If there are people among the trainees who don't program at all, make
 sure that they are in separate groups and ask to the groups to work
 with that person as a learner to help identify different loads.
 
-*30 minutes*
+*(30 minutes)*
 
 ### Create a Parson's Problem
 
@@ -267,7 +267,7 @@ indentation-based language like Python, do not indent any of the
 lines; if you are using a curly-brace language like Java, do not
 include any of the curly braces.
 
-*20 minutes*
+*(20 minutes)*
 
 [cognitive-load-unfalsifiable]: https://edtechdev.wordpress.com/2009/11/16/cognitive-load-theory-failure/
 [wikipedia-design-patterns]: https://en.wikipedia.org/wiki/Software_design_pattern

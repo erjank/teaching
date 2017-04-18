@@ -268,7 +268,7 @@ guidance.
 Working in pairs or small groups, create a five-point profile that
 describes one of your typical learners.
 
-*30 minutes*
+*(30 minutes)*
 
 ### Write Learning Objectives
 
@@ -276,7 +276,7 @@ Write one more learning objectives for something you currently teach
 or plan to teach.  Working with a partner, critique and improve the
 objectives.
 
-*20 minutes*
+*(20 minutes)*
 
 ---
 
