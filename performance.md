@@ -4,7 +4,7 @@ Many people assume that teachers are born, not made. From politicians
 to researchers and teachers themselves, reformers have designed
 systems to find and promote those who can teach and eliminate those
 who can't. But as Elizabeth Green explains in
-[[Gree2014](biblio.md#green-babt)], that assumption is wrong, which is
+[[Green2014](biblio.md#green-babt)], that assumption is wrong, which is
 why educational reforms based on it have repeatedly failed.
 
 The book is written as a history of the people who have put that
@@ -215,7 +215,7 @@ work on.
 > 
 > Gamblers call nervous habits like this "tells".  While these are
 > often not as noticeable as you would think, it's good to know
-> whether you pac, fiddle with your hair, look at your shoes, or
+> whether you pace, fiddle with your hair, look at your shoes, or
 > rattle the change in your pocket when you don't know the answer
 > to a question.
 >

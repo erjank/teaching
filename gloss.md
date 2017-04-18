@@ -296,8 +296,8 @@ to stereotypes of their social group.
 Assessment that takes place at the end of a lesson to tell whether the
 desired learning has taken place.
 
-**Tangible Artefact**:
-<a name="tangible-artefact"></a>
+**Tangible Artifact**:
+<a name="tangible-artifact"></a>
 Something a learner can work on whose state gives feedback about the
 learner's progress and helps the learner diagnose mistakes.
 

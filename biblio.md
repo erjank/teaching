@@ -449,7 +449,7 @@ Peachpit Press,
 *An introduction to Unix that is both a good tutorial and a good reference guide.*
 
 <a id="schon-practitioner">[Schon1984]</a>
-Donad A. Schön:
+Donald A. Schön:
 *[The Reflective Practitioner: How Professionals Think In Action](https://www.amazon.com/Reflective-Practitioner-Professionals-Think-Action/dp/0465068782/)*
 Basic Books,
 1984,
@@ -484,7 +484,7 @@ January 16, 2017.
 *A brief exploration of why MOOCs haven't lived up to claims made for them five years ago.*
 
 <a id="urbach-checklists">[Urbach2014]</a>
-David R. Urbach, Anand Govindarajan, Refik Saskin, Andrew S. Wilton, and Nancy N. Baxte:
+David R. Urbach, Anand Govindarajan, Refik Saskin, Andrew S. Wilton, and Nancy N. Baxter:
 "Introduction of Surgical Safety Checklists in Ontario, Canada."
 *New England Journal of Medicine*,
 370(11),

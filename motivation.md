@@ -56,7 +56,7 @@ students' first program opens an image, resizes it to create a
 thumbnail, and saves the result. This is an _[authentic
 task](gloss.md#authentic-task)_, i.e., something that learners
 believe they would actually do in real life. It is also has a
-_[tangible artefact](gloss.md#tangible-artefact)_: if the image
+_[tangible artifact](gloss.md#tangible-artifact)_: if the image
 comes out the wrong size, learners have a concrete starting point for
 debugging.
 

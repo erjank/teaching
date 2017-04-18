@@ -38,7 +38,7 @@ This metaphor helps explain many observed aspects of expert behavior:
     way. As a result, they are often less good at teaching the subject
     than people with less expertise who still remember what it's like
     to have to learn the things. This phenomenon is called _[expert
-    blind spot](gloss.md#xpert-blind-spot)_, and
+    blind spot](gloss.md#expert-blind-spot)_, and
     while it can be overcome with training, it's part of why there is
     no correlation between how good someone is at doing research in an
     area and how good they are at teaching it
@@ -135,7 +135,7 @@ mapping is that it makes those differences explicit.
 > presents a mental model of how to choose the right kind of chart for
 > different kinds of questions and data.  Maps, flowcharts, and
 > blueprints can also be useful in some contexts.  What each does is
-> _[externalize cognition](gloss.md#xternalized-cognition)_, i.e.,
+> _[externalize cognition](gloss.md#externalized-cognition)_, i.e.,
 > make thought processes and mental models visible so that they can be
 > compared, contrasted, and combined.
 

@@ -176,7 +176,7 @@ to search for information more quickly and more accurately.
 It is therefore tempting to try to teach patterns directly–in fact,
 supporting this is one of the reasons programmers have been so
 enthusiastic about [design patterns][wikipedia-design-patterns].  In
-pactice, though, pattern catalogs are too large to flick through and
+practice, though, pattern catalogs are too large to flick through and
 too dry to memorize directly.  Giving names to a small number of
 patterns, though, does seem to help with teaching, primarily by giving
 the learners a richer vocabulary to think and communicate with
