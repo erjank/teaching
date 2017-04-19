@@ -32,8 +32,8 @@ the great adventure of our time. Just think: a hundred and fifty years
 ago, most societies still practiced slavery. A hundred years ago, when
 my grandmother was young, she [wasn't legally a person][famous5] in
 Canada.  Fifty years ago, most of the world's people suffered under
-totalitarian rule; in the year I was born, judges could---and
-did---order electroshock therapy to "cure" homosexuals. Yes, there's
+totalitarian rule; in the year I was born, judges could–and
+did–order electroshock therapy to "cure" homosexuals. Yes, there's
 still a lot wrong with the world, but look at how many more choices we
 have than our grandparents did. Look at how many more things we can
 know, and be, and enjoy. And most importantly, look at how many other

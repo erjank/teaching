@@ -1,6 +1,6 @@
 # Summary
 
-## Core Material
+**Core Material**
 
 * [Introduction](README.md)
   * [History](index.md#history)
@@ -62,7 +62,7 @@
 * [Live Coding](live.md)
   * [Challenges](live.md#challenges)
 
-## Appendices
+**Appendices**
 
 * [Code of Conduct](CONDUCT.md)
 * [License](LICENSE.md)
