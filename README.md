@@ -133,40 +133,37 @@ my learners actually understood.  I got better over time–at least, I
 thought I did–but still had no idea how effective I was compared to
 other teachers.
 
-In 2010, I re-started a project called [Software Carpentry][swc-site].
+In 2010, I rebooted a project called [Software Carpentry][swc-site].
 Its aim was (and is) to teach basic computing skills to researchers
 from a wide range of disciplines so that they could get more done in
 less time and with less pain.  In the two years that followed, I
 discovered resources like Mark Guzdial's blog
 [[Guzdial2017](biblio.md#guzdial-blog)] and the book *How Learning
 Works* [[Ambrose2010](biblio.md#ambrose-hlw)].  These led me to other
-sources [[Lemov2014](biblio.md#lemov-champion)]
-[[Huston2009](biblio.md#huston-dont-know)]
+sources like [[Lemov2014](biblio.md#lemov-champion)],
+[[Huston2009](biblio.md#huston-dont-know)], and
 [[Green2014](biblio.md#green-babt)] that showed me what I could do to
 make my teaching better, and why I should believe it would work.
 
-I started using these ideas in [Software Carpentry][swc-site] in 2012,
-and the results were everything I'd hoped for.  Designing lessons with
-different stage of cognitive development in mind, using live coding
-instead of slides, and adopting lightweight real-time assessment
-mechanisms[^1] all made our workshops more effective.
+We started using these ideas in [Software Carpentry][swc-site] in
+2012, and the results were everything we'd hoped for.  Designing
+lessons with different stage of cognitive development in mind, using
+live coding instead of slides, and adopting lightweight real-time
+assessment mechanisms[^1] all made our workshops more effective.
 
 What made the biggest difference, though, was offering a short course
-to introduce people to these techniques and the ideas behind them.  I
-originally delivered the course online over multiple weeks, but by
-2014 I was teaching it in two intensive days (just like our regular
-software skills workshops).  A year later, "I" became "we" as people
-who had taught regular workshops began training new instructors as
-well.
-
-Over the last two years, I have run half-day and one-day versions of
-that course for people who want to teach programming to children,
-recent immigrants, women re-entering the workforce, and a wide variety
-of other groups.  Those experiences are the basis of this book.
+to introduce people to these techniques and the ideas behind them.
+This course was originally delivered online over multiple weeks, but
+by 2014 we were teaching it in two intensive days (just like our
+regular software skills workshops).  Over the last three years, I have
+run more than forty versions of that course for people who want to
+teach programming to children, recent immigrants, women re-entering
+the workforce, and a wide variety of other groups.  Those experiences
+are the basis of this book.
 
 ## Acknowledgments
 
-I am grateful to everyone who helped shape the Software Carpentry
+I am grateful to everyone who helped create Software Carpentry's
 instructor training course, including Erin Becker, Karen Cranston,
 Neal Davis, Rayna Harris, Kate Hertweck, Christina Koch, Sue
 McClatchy, Lex Nederbragt, Elizabeth Patitsas, Aleksandra Pawlik,
@@ -175,7 +172,7 @@ Walt, Belinda Weaver, Jason Williams, and the hundreds of people who
 have gone through it over the years.  I am also grateful to Neil
 Brown, Warren Code, and Mark Degani for their feedback on this
 version.  If you find it useful, I hope you will pass on whatever you
-have learned to someone else.
+learn to someone else.
 
 ## Who You Are
 
