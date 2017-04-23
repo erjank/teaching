@@ -416,12 +416,20 @@ future to self-check whether you have done something about it.
 
 ### Brainstorming Motivational Strategies
 
-Think back to a programming course (or any other) that you took in the
-past, and identify one thing the instructor did that motivated you.
-Pair up with your neighbor and discuss it, and then share the story in
-the group notes.
+1.  Think back to a programming course (or any other) that you took in
+    the past, and identify one thing the instructor did that motivated
+    you, and describe what could have been done afterward to correct
+    the situation.
 
-*(15 minutes)*
+2.  Pair up with your neighbor and discuss your stories, then add
+    your comments to the shared notes.
+
+3.  Review the comments in the shared notes as a group. Rather than
+    read them all out loud, highlight and discuss a few of the things
+    that could have been done differently. This will give everyone
+    some confidence in how to handle these situations in the future.
+
+*(20 minutes)*
 
 ### Demotivational Experiences
 

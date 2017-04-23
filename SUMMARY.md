@@ -1,5 +1,7 @@
 # Summary
 
+**Core Material**
+
 * [Introduction](README.md)
   * [History](index.md#history)
   * [Acknowledgments](index.md#acknowledgments)
@@ -37,6 +39,8 @@
   * [Challenges](motivation.md#challenges)
 * [Teaching Practices](practices.md)
   * [Have a Code of Conduct](practices.md#have-a-code-of-conduct)
+  * [Starting Out](practices.md#starting-out)
+  * [Overnight Homework](practices.md#overnight-homework)
   * [Never a Blank Page](practices.md#never-a-blank-page)
   * [Take Notes Together](practices.md#take-notes-together)
   * [Assess Motivation and Prior Knowledge](practices.md#assess-motivation-and-prior-knowledge)
@@ -57,7 +61,9 @@
   * [Challenges](practices.md#challenges)
 * [Live Coding](live.md)
   * [Challenges](live.md#challenges)
-* [Why I Teach](next.md)
+
+**Appendices**
+
 * [Code of Conduct](CONDUCT.md)
 * [License](LICENSE.md)
 * [The Rules](rules.md)
@@ -75,10 +81,9 @@
 * [Extra Material](extras.md)
   * [Key Terms](extras.md#key-terms)
   * [Myths](extras.md#myths)
-  * [Starting Out](extras.md#starting-out)
-  * [Overnight Homework](extras.md#overnight-homework)
   * [Video Recorded Lessons](extras.md#video-recorded-lessons)
   * [Feedback on Live Coding Demo Videos](extras.md#feedback-on-live-coding-demo-videos)
   * [Motivation and Demotivation](extras.md#motivation-and-demotivation)
-  * [Why We Are Not a MOOC](extras.md#why-we-are-not-a-mooc)
   * [Effecting Change](extras.md#effecting-change)
+  * [Evaluating Impact](extras.md#evaluating-impact)
+* [Why I Teach](why.md)
