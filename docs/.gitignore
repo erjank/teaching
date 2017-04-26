@@ -1,4 +1,8 @@
-.DS_Store
+*.aux
+*.log
+*.out
 *~
+.DS_Store
 _book
+ltx-book.tex
 node_modules

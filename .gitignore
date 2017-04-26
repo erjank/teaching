@@ -4,5 +4,8 @@
 *~
 .DS_Store
 _book
+docs/*.pdf
+docs/bin
+docs/template.tex
 ltx-book.tex
 node_modules
