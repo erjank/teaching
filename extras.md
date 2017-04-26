@@ -77,8 +77,18 @@ best by starting with the sounds of letters and working up to words.
 However, there are equally good reasons to believe that children will
 learn best if they are taught to recognize entire simple words like
 "open" and "stop", so that they can start using their knowledge
-sooner[^1].  The only way to tell which approach works best for most
-children, most of the time, is to try them both out[^2].
+sooner.
+
+The first approach is called "phonics", and the second, "whole
+language".  The whole language approach may seem upside down, but more
+than a billion people have learned to read and write Chinese and
+similar ideogrammatic languages in exactly this way.  The only way to
+tell which approach works best for most children, most of the time, is
+to try them both out.  These studies have to be done carefully,
+because so many other variables can have an impact on rules.  For
+example, the teacher's enthusiasm for the teaching method may matter
+more than the method itself, since children will model their teacher's
+excitement for a subject.
 
 Unsurprisingly, effective teaching depends on what the teacher knows,
 which can be divided into:
@@ -270,7 +280,7 @@ approaches they identify include:
 
 A key part of effecting change is to convince people that what you're
 doing is actually having a positive impact.  That turns out to be
-surprisingly hard[^3] for free-range programming workshops:
+surprisingly hard for free-range programming workshops:
 
 1.  *Ask learners if the workshop was useful.* Study after study has
     shown that there is no correlation between how highly learners
@@ -311,16 +321,6 @@ There are many other options; the most important thing is to figure
 out early on how you're going to know whether you're teaching the
 right things the right way, and how you're going to convince potential
 backers that you're doing so.
-
----
-
-**Footnotes**
-
-[^1]: The first approach is called "phonics", and the second, "whole language".  The whole language approach may seem nonsensical, but more than a billion people have learned to read and write Chinese and similar ideogrammatic languages in exactly this way.
-
-[^2]: And to control other variables, because in practice, the teacher's enthusiasm for the teaching method may have more of an impact than the method itself, since children will model their teacher's excitement (or lack thereof) for a subject.
-
-[^3]: Well, it surprised me…
 
 [cs-teaching-tips]: http://csteachingtips.org/
 [learning-theories]: http://www.learning-theories.com/

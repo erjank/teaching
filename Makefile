@@ -13,9 +13,17 @@ preview:
 publish :
 	@gitbook build . docs
 
-## pdf        : re-generate PDF
-pdf :
-	@gitbook pdf ./ ./teaching.pdf
+## gb-pdf     : re-generate PDF with GitBook
+gb-pdf :
+	@gitbook pdf ./ ./gb-book.pdf
+
+## ltx-pdf    : generate a book via LaTeX
+ltx-pdf :
+	./bin/concat.sh \
+	| pandoc -f markdown -t latex --template=template.tex -V fontsize=10pt -V papersize=a5 \
+	| bin/swapref.py \
+	>  ltx-book.tex
+	pdflatex ltx-book.tex
 
 ## spell      : check spelling
 spell :

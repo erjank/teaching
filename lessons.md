@@ -47,11 +47,13 @@ work and really, really wants to be done.
 
 A similar "backward" method works very well for lesson design.  This
 method is something called _[reverse instructional
-design](gloss.md#reverse-instructional-design)_ or _[understanding
-by design](gloss.md#understanding-by-design)_ after a book by that
-name [[Wiggins2005](biblio.md#wiggins-mctighe)]; a similar method is
-described in [[Fink2013](biblio.md#fink-significant)][^1].  In brief,
-lessons should be designed as follows:
+design](gloss.md#reverse-instructional-design)_ or _[understanding by
+design](gloss.md#understanding-by-design)_ after a book by that name
+[[Wiggins2005](biblio.md#wiggins-mctighe)]; a similar method is
+described in [[Fink2013](biblio.md#fink-significant)].  (A summary of
+[[Fink2013](biblio.md#fink-significant)] is [freely available
+online][fink-short].)  In brief, lessons should be designed as
+follows:
 
 1.  Create learner profiles (discussed in the next section) to figure
     out who you are trying to teach and what will appeal to them.
@@ -277,12 +279,6 @@ or plan to teach.  Working with a partner, critique and improve the
 objectives.
 
 *20 minutes*
-
----
-
-**Footnotes**
-
-[^1]: A summary of [[Fink2013](biblio.md#fink-significant)] is [freely available online][fink-short].
 
 [fink-short]: https://www.deefinkandassociates.com/GuidetoCourseDesignAug05.pdf
 [ubc-learning-goals]: http://www.cwsei.ubc.ca/Files/ComSc_LG/CPSC_Learning_Goals.pdf

@@ -102,13 +102,21 @@ The three most powerful demotivators are *unpredictability*,
 *indifference*, and *unfairness*.  Unpredictability demotivates people
 because if there's no reliable connection between what they do and
 what outcome they achieve, there's no reason for them to try to do
-anything[^1].  If learners believe that the instructor or the
-educational system doesn't care about them or the lesson, they won't
-care either. And if people believe the class is unfair, they will also
-be demotivated, even if it is unfair in their favor (because
-consciously or unconsciously they will worry that they will some day
-find themselves in the group on the losing end
+anything.  If learners believe that the instructor or the educational
+system doesn't care about them or the lesson, they won't care
+either. And if people believe the class is unfair, they will also be
+demotivated, even if it is unfair in their favor (because consciously
+or unconsciously they will worry that they will some day find
+themselves in the group on the losing end
 [[Wilkinson2011](biblio.md#wilkinson-pickett-spirit-level)]).
+
+> **Learning Not to Try**
+>
+> In extreme situations, learners may developed [learned
+> helplessness]: when repeatedly subjected to negative feedback that
+> they have no way to escape, they may learn not to even try to escape
+> when they could.
+
 
 Here are some quick ways to demotivate your learners:
 
@@ -462,12 +470,6 @@ describe an example from your own experience of "objective"
 assessments that reinforced the status quo.
 
 *15 minutes*
-
----
-
-**Footnotes**
-
-[^1]: In extreme situations, learners may developed [learned helplessness]: when repeatedly subjected to negative feedback that they have no way to escape, they may learn not to even try to escape when they could.
 
 [accessibility-conferences]: https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences
 [ada-resources]: http://adainitiative.org/continue-our-work/impostor-syndrome-training/

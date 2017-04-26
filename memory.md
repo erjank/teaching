@@ -236,11 +236,11 @@ _[short-term](gloss.md#short-term-memory)_ or _[working
 memory](gloss.md#working-memory)_. It is much faster, but also much
 smaller: in 1956, Miller estimated that the average adult's working
 memory could hold 7±2 items for a few seconds before things started to
-drop out[^1]. This is why phone numbers are typically 7 or 8 digits
-long: back when phones had dials instead of keypads, that was the
-longest string of numbers most adults could remember accurately for as
-long as it took the dial to go around and around. It's also why sports
-teams tend to have about half a dozen members, or be broken down into
+drop out.  This is why phone numbers are typically 7 or 8 digits long:
+back when phones had dials instead of keypads, that was the longest
+string of numbers most adults could remember accurately for as long as
+it took the dial to go around and around. It's also why sports teams
+tend to have about half a dozen members, or be broken down into
 smaller groups (such as the forwards and backs in rugby).
 
 > **Chunking**
@@ -250,10 +250,14 @@ smaller groups (such as the forwards and backs in rugby).
 > will remember a word we read as a single item, rather than as a
 > sequence of letters.  Similarly, the pattern made by five spots on
 > cards or dice is remembered as a whole rather than as five separate
-> pieces of information.  Chunks allow us to manage larger problems,
-> but can also mislead us if we mis-identify something, i.e., see it
-> as something it isn't.  We will discuss this in more detail
-> [later](load.md#pattern-recognition).
+> pieces of information.
+>
+> Chunks allow us to manage larger problems, but can also mislead us
+> if we mis-identify something, i.e., see it as something it isn't.
+> We will discuss this in more detail
+> [later](load.md#pattern-recognition).  Recent estimates put the size
+> of short-term memory at 4±1, which means that effective chunking
+> (discussed below) is even more important than first thought.
 
 7±2 is probably the most important number in programming. When
 someone is trying to write the next line of a program, or understand
@@ -307,12 +311,6 @@ detail? Which of the relationships in your partner's map do you
 consider concepts and vice versa?
 
 *30 minutes*
-
----
-
-**Footnotes**
-
-[^1]: More recent estimates put the number closer to 4±1, which means that effective chunking is even more important than first thought.
 
 [abela-chart]: http://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf
 [serial-position]: http://cat.xula.edu/thinker/memory/working/serial

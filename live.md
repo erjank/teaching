@@ -120,18 +120,22 @@ Here are some tips to make your live coding better:
     environment, keyboard shortcuts etc. Your learners usually won't
     have all of this. Try to create an environment that mirrors what
     your learners have, and avoid using keyboard shortcuts. Some
-    instructors create a separate `bare-bone' user (login) account on
-    their laptop, or a separate `teaching-only' account on the service
+    instructors create a separate bare-bones user (login) account on
+    their laptop, or a separate teaching-only account on the service
     being taught (e.g., Github).
 
 4.  *Use the screen wisely.* You will need to enlarge your font
     considerably in order for people to read it from the back of the
     room, which means you can put much less on the screen than you're
-    used to[^1].  Maximize your window, and then ask everyone to give
-    you a thumbs-up or thumbs-down on its readability.  Use a black
-    font on a lightly-tinted background rather than a light font on a
-    dark background–the light tint will glare less than a pure white
-    background.
+    used to.  (You will often be reduced to 60-70 columns and 20-30
+    rows, which basically means that you're using a 21st Century
+    supercomputer to emulate an early-1980s VT100 terminal.)
+
+    To cope with this, maximize your window, and then ask everyone to
+    give you a thumbs-up or thumbs-down on its readability.  Use a
+    black font on a lightly-tinted background rather than a light font
+    on a dark background–the light tint will glare less than a pure
+    white background.
 
     When the bottom of the projector screen is at the same height, or
     below, the heads of the learners, people in the back won't be able
@@ -228,10 +232,14 @@ Here are some tips to make your live coding better:
 9.  It's OK to *face the screen occasionally*, particularly when you
     are walking through a section of code statement by statement or
     drawing a diagram, but you shouldn't do this for more than a few
-    seconds at a time[^2].  A good rule of thumb is to treat the
-    screen as one of your learners: if it would be uncomfortable to
-    stare at someone for as long as you are spending looking at the
-    screen, it's time to turn around and face your audience.
+    seconds at a time.  Looking at the screen for a few seconds can
+    help lower your anxiety levels, since it gives you a brief break
+    from being looked at.
+
+    A good rule of thumb is to treat the screen as one of your
+    learners: if it would be uncomfortable to stare at someone for as
+    long as you are spending looking at the screen, it's time to turn
+    around and face your audience.
 
 10. *Have fun.* Teaching is performance art and can be rather serious
     business. On the one hand, don't let this scare you - it is much
@@ -286,14 +294,6 @@ teach it to are expected to be familiar with.
 *   What will you try to do differently next time?
 
 *30 minutes*
-
----
-
-**Footnotes**
-
-[^1]: You will often be reduced to 60-70 columns and 20-30 rows, which basically means that you're using a 21st Century supercomputer to emulate an early-1980s VT100 terminal.
-
-[^2]: Looking at the screen for a few seconds can help lower your anxiety levels, since it gives you a brief break from being looked at by all… those… eyes…
 
 [live-coding-bad]: https://youtu.be/bXxBeNkKmJE
 [live-coding-good]: https://youtu.be/SkPmwe_WjeY

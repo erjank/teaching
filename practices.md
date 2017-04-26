@@ -355,7 +355,16 @@ singled out. It's also useful to have people sit in new places (and
 hence pair with different partners) after each coffee or meal break.
 It's also important to have people switch roles within each pair three
 or four times per hour, so that the stronger personality in each pair
-doesn't dominate the session[^1].
+doesn't dominate the session.
+
+> **Confidence is Not Knowledge**
+>
+> The [Dunning-Kruger Effect][wikipedia-dunning-kruger] can easily
+> come into play in pair programming: whoever *thinks* they know the
+> most can dominate the session regardless of how much they *actually*
+> know.
+
+<!-- comment needed to separate blockquotes -->
 
 > **Switching Partners**
 >
@@ -582,12 +591,6 @@ a short questionnaire you could give learners before teaching a class
 of your own.  What do you most want to know about their background?
 
 *20 minutes*
-
----
-
-**Footnotes**
-
-[^1]: The [Dunning-Kruger Effect][wikipedia-dunning-kruger] can easily come into play in pair programming: whoever *thinks* they know the most can dominate the session regardless of how much they *actually* know.
 
 [etherpad]: http://etherpad.org
 [google-docs]: https://docs.google.com

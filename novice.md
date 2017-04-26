@@ -28,7 +28,7 @@ For our purposes, we simplify the five stages to three:
     they don't know, i.e., they don't yet know what the key ideas in
     the domain are or how they relate. They reason by analogy and
     guesswork, borrowing bits and pieces of their mental models of
-    other domains which seem superficially similar[^1].
+    other domains which seem superficially similar.
 
 2.  A _[competent practitioner](gloss.md#competent-practitioner)_
     is someone who has a mental model that's good enough for everyday
@@ -42,6 +42,12 @@ For our purposes, we simplify the five stages to three:
     situations that are out of the ordinary, diagnose the causes of
     problems, and so on. We will discuss expertise in more detail in
     [Memory](/memory/).
+
+One sign that someone is a novice is that the things they say aren't
+even wrong, e.g., they think there's a difference between programs
+they type in character by character and identical ones that they have
+copied and pasted.  As we will discuss [later](motivation.md), it is
+very important not to shame novices for this.
 
 One example of a mental model is the ball-and-spring model of
 molecules that most of us encountered in high school chemistry. Atoms
@@ -113,8 +119,8 @@ that just ain't so."
 Broadly speaking, learners' misconceptions fall into three categories:
 
 1.  Simple *factual errors*, such as believing that Vancouver is the
-    capital of British Columbia[^2]. These are simple to correct, but
-    getting the facts right is not enough on its own.
+    capital of British Columbia (it's Victoria). These are simple to
+    correct, but getting the facts right is not enough on its own.
 
 2.  *Broken models*, such as believing that motion and acceleration
     must be in the same direction. We can address these by having them
@@ -142,12 +148,17 @@ whether she is breathing correctly, and if she is not, what she should
 change.
 
 The counterpoint to formative assessment is _[summative
-assessment](gloss.md#summative-assessment)_, which is used at the
-end of the lesson to tell whether the desired learning took place and
-whether the learner is ready to move on[^3].  Learners either pass or
-fail a summative assessment. One example is a driving exam, which
-reassures the rest of society that someone can safely be allowed on
-the road.
+assessment](gloss.md#summative-assessment)_, which is used at the end
+of the lesson to tell whether the desired learning took place and
+whether the learner is ready to move on.  One example is a driving
+exam, which reassures the rest of society that someone can safely be
+allowed on the road.
+
+> *When the cook tastes the soup, that's formative.
+> when the guests taste the soup, that’s summative.  
+> - Michael Scriven, as quoted by Debra Dirksen.
+
+<!-- comment needed to separate blockquotes -->
 
 > **Connecting Formative and Summative Assessment**
 > 
@@ -194,7 +205,17 @@ supposedly-silly answers like "a fish!" on MCQs, but they don't
 provide any insight and learners actually don't find them
 funny. "Diagnostic power" means that each of the distractors helps the
 instructor figure out what to explain to that particular learner
-next[^4].
+next.
+
+> **Humor**
+>
+> Most jokes are less funny when written down, and become even less
+> funny with each re-reading.  Being spontaneously funny while
+> teaching usually works better, but can easily wrong: what's a joke
+> to your circle of friends may turn out to be a serious political
+> issue to your audience.  If you do make jokes when teaching, don't
+> make them at the expense of any group, or of anyone except possibly
+> yourself.
 
 Instructors should use MCQs or some other kind of formative assessment
 at least every 10-15 minutes in order to make sure that the class is
@@ -353,18 +374,6 @@ explain how it helps both the instructor and the learner figure out
 where they are and what they need to do next.
 
 *20 minutes*
-
----
-
-**Footnotes**
-
-[^1]: One sign that someone is a novice is that the things they say aren't even wrong, e.g., they think there's a difference between programs they type in character by character and identical ones that they have copied and pasted.  As we will discuss [later](motivation.md), it is very important not to shame novices for this.
-
-[^2]: It's Victoria.
-
-[^3]: "When the cook tastes the soup, that's formative. when the guests taste the soup, that’s summative." (Michael Scriven, as quoted by Debra Dirksen.)
-
-[^4]: Most jokes are less funny when written down, and become even less funny with each re-reading.  Being spontaneously funny while teaching usually works better, but can easily wrong: what's a joke to your circle of friends may turn out to be a serious political issue to your audience.  If you do make jokes when teaching, don't make them at the expense of any group, or of anyone except possibly yourself.
 
 [swc-unix]: http://swcarpentry.github.io/shell-novice/
 [video-peer-instruction]: https://www.youtube.com/watch?v=2LbuoxAy56o

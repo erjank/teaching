@@ -149,7 +149,8 @@ We started using these ideas in [Software Carpentry][swc-site] in
 2012, and the results were everything we'd hoped for.  Designing
 lessons with different stage of cognitive development in mind, using
 live coding instead of slides, and adopting lightweight real-time
-assessment mechanisms[^1] all made our workshops more effective.
+assessment mechanisms (most involving sticky notes) all made our
+workshops more effective.
 
 What made the biggest difference, though, was offering a short course
 to introduce people to these techniques and the ideas behind them.
@@ -246,12 +247,6 @@ In the online notes, write down your name, the best class you ever
 took, and what made it so great.
 
 *10 minutes*
-
----
-
-**Footnotes**
-
-[^1]: Most involving sticky notes.
 
 [license]: /license/
 [swc-site]: http://software-carpentry.org
