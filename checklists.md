@@ -16,24 +16,17 @@ checklists customized for its instructors' and learners' needs.
 
 1.  Decide if it will be in person, online for one site, or online for
     several sites.
-
 1.  Talk through expectations with the host(s) and make sure that
     everyone agrees on who is covering travel costs.
-
 1.  Determine who is allowed to take part: is the event open to all
     comers, restricted to members of one organization, or something in
     between?
-
 1.  Arrange trainers.
-
 1.  Arrange space.
     Make sure there are breakout rooms for video recording.
-
 1.  Choose dates.
     If it is in person, book travel.
-
 1.  Get names and email addresses of attendees from host(s).
-
 1.  Make sure people are added to whatever registration system is
     being used.
 
@@ -41,15 +34,10 @@ checklists customized for its instructors' and learners' needs.
 
 1.  Set up a web page with details on the workshop, including date,
     location, and a list of what participants are expected to bring.
-
 1.  Check whether any attendees have special needs.
-
 1.  If the workshop is online, test the video conferencing link.
-
 1.  Make sure attendees will all have network access.
-
 1.  Create an Etherpad or Google Doc for shared notes.
-
 1.  Email attendees a welcome message that includes:
     *   a link to the workshop home page
     *   background readings
@@ -58,20 +46,15 @@ checklists customized for its instructors' and learners' needs.
 ## At the Start of the Event
 
 1.  Remind everyone of the code of conduct.
-
 1.  Collect attendance.
-
 1.  Distribute sticky notes.
-
 1.  Collect relevant online account IDs (e.g., GitHub IDs).
 
 ## At the End of the Event
 
 1.  Update attendance records.  Be sure to also record who
     participated as an instructor or helper.
-
 1.  Administer a post-workshop survey.
-
 1.  Update the course notes and/or checklists.
 
 ## Travel Kit

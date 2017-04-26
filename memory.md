@@ -310,7 +310,7 @@ critique each other's maps. Do they present concepts or surface
 detail? Which of the relationships in your partner's map do you
 consider concepts and vice versa?
 
-*30 minutes*
+*(30 minutes)*
 
 [abela-chart]: http://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf
 [serial-position]: http://cat.xula.edu/thinker/memory/working/serial

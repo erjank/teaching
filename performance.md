@@ -329,7 +329,7 @@ rubric to follow.
 What did other people see that you missed?  What did they think that
 you strongly agree or disagree with?
 
-*20 minutes*
+*(20 minutes)*
 
 ### Practice Giving Feedback
 
@@ -343,7 +343,7 @@ primarily for people to become comfortable with giving and receiving
 feedback, and to establish a consensus about what sorts of things to
 look for.
 
-*45 minutes*
+*(45 minutes)*
 
 [instructional-skills-workshop]: https://iswnetwork.ca/
 [video-bad-teaching]: https://www.youtube.com/watch?v=-ApVt04rB4U

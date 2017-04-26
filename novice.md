@@ -333,14 +333,14 @@ What is one mental model you use to frame and understand your work?
 Write a few sentences describing it in the shared notes, and give
 feedback on other learners' contributions.
 
-*5 minutes*
+*(5 minutes)*
 
 ### Symptoms of Being a Novice
 
 What are the symptoms of being a novice?  I.e., what does someone do
 or say that leads you to classify them as a novice in some domain?
 
-*5 minutes*
+*(5 minutes)*
 
 ### Modelling Novice Mental Models
 
@@ -353,7 +353,7 @@ theirs.  Is the question ambiguous?  Are the misconceptions plausible?
 Do the distractors actually test for them?  Are any likely
 misconceptions *not* tested for?
 
-*20 minutes*
+*(20 minutes)*
 
 ### Other Kinds of Formative Assessment
 
@@ -373,7 +373,7 @@ Describe another kind of formative assessment you have seen or used and
 explain how it helps both the instructor and the learner figure out
 where they are and what they need to do next.
 
-*20 minutes*
+*(20 minutes)*
 
 [swc-unix]: http://swcarpentry.github.io/shell-novice/
 [video-peer-instruction]: https://www.youtube.com/watch?v=2LbuoxAy56o

@@ -590,7 +590,7 @@ Using the [questionnaire shown earlier](#assess) as a template, create
 a short questionnaire you could give learners before teaching a class
 of your own.  What do you most want to know about their background?
 
-*20 minutes*
+*(20 minutes)*
 
 [etherpad]: http://etherpad.org
 [google-docs]: https://docs.google.com

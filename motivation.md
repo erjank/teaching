@@ -411,7 +411,7 @@ the shared notes, write the task and where it fits on the grid. As a
 group, discuss how these relate back to the "teach most immediately
 useful first" approach.
 
-*15 minutes*
+*(15 minutes)*
 
 ### Implement One Strategy for Inclusivity
 
@@ -420,7 +420,7 @@ Pick one activity or change in practice from Lee's paper
 like to work on.  Put a reminder in your calendar three months in the
 future to self-check whether you have done something about it.
 
-*5 minutes*
+*(5 minutes)*
 
 ### Brainstorming Motivational Strategies
 
@@ -437,7 +437,7 @@ future to self-check whether you have done something about it.
     that could have been done differently. This will give everyone
     some confidence in how to handle these situations in the future.
 
-*20 minutes*
+*(20 minutes)*
 
 ### Demotivational Experiences
 
@@ -446,7 +446,7 @@ demotivated as a student). Pair up with your neighbor and discuss what
 you could have done differently in the situation, and then share the
 story and what could have been done in the group notes.
 
-*15 minutes*
+*(15 minutes)*
 
 ### Walk the Route
 
@@ -457,7 +457,7 @@ mobility issues. Now borrow a wheelchair and repeat the journey. How
 complete was your list of challenges? And did you notice that the first
 sentence in this challenge assumed you could actually walk?
 
-*15 minutes*
+*(15 minutes)*
 
 ### Who Decides?
 
@@ -469,7 +469,7 @@ indicators of success?" Read [this article][nytimes-gifted], and then
 describe an example from your own experience of "objective"
 assessments that reinforced the status quo.
 
-*15 minutes*
+*(15 minutes)*
 
 [accessibility-conferences]: https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences
 [ada-resources]: http://adainitiative.org/continue-our-work/impostor-syndrome-training/
