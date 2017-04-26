@@ -2,11 +2,12 @@
 
 > **The Short Version**
 >
-> *A Brief Introduction to Teaching* shows readers how to build and
-> deliver high-quality learning experiences to adults.  It is based on
-> [Software Carpentry][swc-site]'s [instructor training
-> course][swc-training], and all material is available under the
-> [Creative Commons - Attribution][license] license.
+> *A Shorter Guide to Teaching* shows readers how to build and deliver
+> high-quality learning experiences to adults who want to learn
+> programming (and other things).  It is based on [Software
+> Carpentry][swc-site]'s [instructor training course][swc-training],
+> and all material is available under the [Creative Commons -
+> Attribution][license] license.
 
 Thousands of grassroots "learn to code" groups have sprung up in the
 past few years.  They exist so that people don't have to figure out

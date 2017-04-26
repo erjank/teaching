@@ -1,6 +1,7 @@
 *.aux
 *.log
 *.out
+*.toc
 *~
 .DS_Store
 _book

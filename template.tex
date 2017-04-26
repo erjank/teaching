@@ -1,11 +1,14 @@
-\documentclass[a5,10pt]{book}
+\documentclass[10pt,statementpaper]{memoir}
 
-\usepackage{mathpazo} % math & rm
-\linespread{1.05}        % Palatino needs more leading (space between lines)
-\usepackage[scaled]{helvet} % ss
-\usepackage{courier} % tt
-\normalfont
-\usepackage[T1]{fontenc}
+\usepackage{tgpagella}
+\usepackage{enumitem}
+
+\setlrmarginsandblock{0.75in}{0.75in}{*}
+\setulmarginsandblock{1.00in}{1.00in}{*}
+\checkandfixthelayout
+
+\setlist[enumerate]{leftmargin=2em}
+\setlist[itemize]{leftmargin=2em}
 
 $if(linestretch)$
 \usepackage{setspace}
@@ -205,72 +208,51 @@ $for(header-includes)$
 $header-includes$
 $endfor$
 
-$if(title)$
-\title{$title$$if(thanks)$\thanks{$thanks$}$endif$}
-$endif$
-$if(subtitle)$
-\providecommand{\subtitle}[1]{}
-\subtitle{$subtitle$}
-$endif$
-$if(author)$
-\author{$for(author)$$author$$sep$ \and $endfor$}
-$endif$
-$if(institute)$
-\providecommand{\institute}[1]{}
-\institute{$for(institute)$$institute$$sep$ \and $endfor$}
-$endif$
-\date{$date$}
-
 \begin{document}
-$if(title)$
-\maketitle
-$endif$
-$if(abstract)$
-\begin{abstract}
-$abstract$
-\end{abstract}
-$endif$
 
-$for(include-before)$
-$include-before$
+\pagestyle{empty}
 
-$endfor$
-$if(toc)$
-{
-$if(colorlinks)$
-\hypersetup{linkcolor=$if(toccolor)$$toccolor$$else$black$endif$}
-$endif$
-\setcounter{tocdepth}{$toc-depth$}
+{\begingroup
+\centering
+
+~
+
+\vspace{1cm}
+
+{\Large A Shorter Guide to Teaching}
+
+\vspace{2cm}
+
+{\large Edited by Greg Wilson}
+
+\vspace{2cm}
+
+Copyright {\copyright} 2017
+
+\endgroup}
+
+\newpage
+
+\pagestyle{empty}
+
+~
+
+\newpage
+
+\pagenumbering{roman}
+
 \tableofcontents
-}
-$endif$
-$if(lot)$
-\listoftables
-$endif$
-$if(lof)$
-\listoffigures
-$endif$
+
+\newpage
+
+\pagestyle{empty}
+
+~
+
+\newpage
+
+\pagenumbering{arabic}
+
 $body$
 
-$if(natbib)$
-$if(bibliography)$
-$if(biblio-title)$
-$if(book-class)$
-\renewcommand\bibname{$biblio-title$}
-$else$
-\renewcommand\refname{$biblio-title$}
-$endif$
-$endif$
-\bibliography{$for(bibliography)$$bibliography$$sep$,$endfor$}
-
-$endif$
-$endif$
-$if(biblatex)$
-\printbibliography$if(biblio-title)$[title=$biblio-title$]$endif$
-
-$endif$
-$for(include-after)$
-$include-after$
-
-$endfor$
 \end{document}

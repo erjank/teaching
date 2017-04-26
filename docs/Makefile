@@ -21,8 +21,9 @@ gb-pdf :
 ltx-pdf :
 	./bin/concat.sh \
 	| pandoc -f markdown -t latex --template=template.tex -V fontsize=10pt -V papersize=a5 \
-	| bin/swapref.py \
+	| bin/tidyref.py \
 	>  ltx-book.tex
+	pdflatex ltx-book.tex
 	pdflatex ltx-book.tex
 
 ## spell      : check spelling
