@@ -32,8 +32,6 @@ immediately useful should be taught first; things in the opposite corner
 that are hard to learn and have little near-term application don't
 belong in this course.
 
-![What to Teach](fig/what-to-teach.png)
-
 > **Actual Time**
 > 
 > Any useful estimate of how long something takes to master must take

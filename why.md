@@ -1,7 +1,7 @@
 # Why I Teach
 
 When I first started volunteering at the University of Toronto, students
-occasionally asked me why. This was my answer:
+occasionally asked me why I did it. This was my answer:
 
 > When I was your age, I thought universities existed to teach people
 > how to learn. Later, in grad school, I thought universities were about
