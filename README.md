@@ -166,16 +166,17 @@ are the basis of this book.
 
 ## Acknowledgments
 
-I am grateful to everyone who helped create Software Carpentry's
-instructor training course, including Erin Becker, Karen Cranston,
-Neal Davis, Rayna Harris, Kate Hertweck, Christina Koch, Sue
-McClatchy, Lex Nederbragt, Elizabeth Patitsas, Aleksandra Pawlik,
-Ariel Rokem, Tracy Teal, Fiona Tweedie, Allegra Via, Anelda van der
-Walt, Belinda Weaver, Jason Williams, and the hundreds of people who
-have gone through it over the years.  I am also grateful to Neil
-Brown, Warren Code, and Mark Degani for their feedback on this
-version.  If you find it useful, I hope you will pass on whatever you
-learn to someone else.
+This book is the product of many minds.  As well as the hundreds of
+researchers and practitioners who created the ideas it presents, I am
+grateful to Erin Becker, Karen Cranston, Neal Davis, Rayna Harris,
+Kate Hertweck, Christina Koch, Sue McClatchy, Lex Nederbragt,
+Elizabeth Patitsas, Aleksandra Pawlik, Ariel Rokem, Tracy Teal, Fiona
+Tweedie, Allegra Via, Anelda van der Walt, Belinda Weaver, Jason
+Williams, and everyone who has gone through Software Carpentry
+instructor training over the years.  I am also grateful to Neil Brown,
+Warren Code, and Mark Degani for their feedback on this version.  If
+you find it useful, I hope you will pass on whatever you learn to
+someone else.
 
 ## Who You Are
 
