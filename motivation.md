@@ -233,7 +233,7 @@ demotivate members of under-represented groups, it's not clear that
 stereotype threat is the underlying mechanism. Part of the problem is
 that [the term has been used in many
 ways][stereotype-threat-ambiguity]; another is [questions about the
-replicability of key studies][stereotype-thread-replicability]. What
+replicability of key studies][stereotype-threat-replicability]. What
 *is* clear is that we need to avoid thinking in terms of a deficit
 model (i.e., we need to change the members of under-represented groups
 because they have some deficit, such as lack of prior experience) and
@@ -457,10 +457,10 @@ indicators of success?" Read [this article][nytimes-gifted], and then
 describe an example from your own experience of "objective"
 assessments that reinforced the status quo.
 
-[accessibility-conferences]: https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences
 [ada-resources]: http://adainitiative.org/continue-our-work/impostor-syndrome-training/
 [growth-mindset-concerns]: http://www.learningspy.co.uk/psychology/growth-mindset-bollocks/
 [guzdial-myth]: http://cacm.acm.org/blogs/blog-cacm/189498-top-10-myths-about-teaching-computer-science/fulltext
+[henry-accessibility]: https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences
 [high-achieving]: http://www.paulineroseclance.com/pdf/ip_high_achieving_women.pdf
 [nytimes-gifted]: https://mobile.nytimes.com/2016/04/10/upshot/why-talented-black-and-hispanic-students-can-go-undiscovered.html
 [recurse-rules]: https://www.recurse.com/manual#sec-environment

@@ -340,7 +340,7 @@ the typing, while the other (called the navigator) offers comments and
 suggestions.  The two switch roles several times per hour.
 
 Pair programming is a good practice in real life, and also a good way
-to teach [[Hannay2009](biblio.md#hannay-pairing)]
+to teach [[Hannay2009](biblio.md#hannay-pairing)],
 [[Porter2013](biblio.md#porter-what-works)]. Partners can not only help
 each other out during the practical, but can also clarify each other's
 misconceptions when the solution is presented, and discuss common

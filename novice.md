@@ -369,6 +369,6 @@ where they are and what they need to do next.
 
 [swc-unix]: http://swcarpentry.github.io/shell-novice/
 [video-peer-instruction]: https://www.youtube.com/watch?v=2LbuoxAy56o
-[wikipedia-dreyfus-model]: https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition
+[wikipedia-dreyfus]: https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition
 [wikipedia-fci]: https://en.wikipedia.org/wiki/Force_Concept_Inventory
 [wikipedia-peer-instruction]: https://en.wikipedia.org/wiki/Peer_instruction

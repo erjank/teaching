@@ -26,7 +26,7 @@ learning](gloss.md#situated-learning)_, which focuses on how
 _[legitimate peripheral
 participation](gloss.md#legitimate-peripheral-participation)_ leads
 to people becoming members of a _[community of
-practice][gloss.md#community-of-practice]_.  Unpacking those terms,
+practice](gloss.md#community-of-practice)_.  Unpacking those terms,
 the situated learning perspective focuses on the transition from being
 a newcomer to being accepted as a peer by those who already do the
 activity in question. Situated learning is directly relevant to our
