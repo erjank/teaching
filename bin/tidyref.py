@@ -3,26 +3,19 @@
 import sys
 import re
 
-CITE = r'{\[}\\href{biblio\.md\\#(.+?)}{(.+?)}{\]}'
-GLOSS = r'\\href{gloss\.md\\#(.+?)}{(.+?)}'
-SECREF = r'\\href{.+?\.md\\#(.+?)}{(.+?)}'
+pat = re.compile(r'\\href{([^.]+)\.md\\#([^}]+)}{([^}]+)}', re.DOTALL)
 
-def cite(match):
-    tag = match.group(1)
-    text = match.group(2)
-    return '{{[}}{0}{{]}}'.format(text)
-
-def gloss(match):
-    tag = match.group(1)
-    text = match.group(2)
-    return text
-
-def secref(match):
-    tag = match.group(1)
-    text = match.group(2)
-    return r'{0} (\S\ref{{{1}}})'.format(text, tag)
+def replace(m):
+    filename = m.group(1)
+    label = m.group(2)
+    text = m.group(3)
+    if (filename == 'biblio'):
+        return text
+    elif (filename == 'gloss'):
+        return text
+    else:
+        return text + ' (\\S\\ref{' + label + '})'
 
 data = sys.stdin.read()
-for (pat, func) in ((CITE, cite), (GLOSS, gloss), (SECREF, secref)):
-    data = re.sub(pat, func, data, re.DOTALL)
+data = pat.sub(replace, data)
 sys.stdout.write(data)
