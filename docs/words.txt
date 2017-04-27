@@ -36,6 +36,7 @@ Constructivism
 Constructivist
 Costa
 Cranston
+Daniela
 De
 DeBruyckere
 Degani
@@ -76,6 +77,7 @@ Hoek
 Holme
 Hovey
 Hulshof
+Humor
 Impostor
 Inclusivity
 Isobel
@@ -155,6 +157,7 @@ UBC's
 Ubell
 Unported
 Urbach
+Uttl
 VMs
 VPS
 WebAIM
@@ -178,6 +181,7 @@ amongst
 approachability
 aveling
 babt
+baselineskip
 baume
 behavior
 behaviorism
@@ -312,9 +316,11 @@ unstack
 upe
 urbach
 usenix
+uttl
 versa
 videographer
 vivaldi
+vspace
 webaim
 wiggins
 wikipedia
