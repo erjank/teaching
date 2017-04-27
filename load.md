@@ -200,7 +200,7 @@ master it. Neither fact is particularly surprising, but their
 practical implications have a lot of impact on what we teach, and the
 order in which we teach it.
 
-First, as noted in [Motivation](/motivation/), most people don't
+First, as noted in [Motivation](motivation.md), most people don't
 actually want to program: they want to build a website or check on
 zoning regulations, and programming is just a tax they have to pay
 along the way. They don't care how hash tables work, or even that hash
@@ -227,7 +227,7 @@ reinforces the belief that computing is hard, and that they'd have a
 better chance of making next Thursday's deadline at work if they kept
 doing things the way they always have. For these reasons, we have
 adopted a "teach most immediately useful first" approach described
-in [Motivation](/motivation/).
+in [Motivation](motivation.md).
 
 ## Challenges
 

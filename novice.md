@@ -41,7 +41,7 @@ For our purposes, we simplify the five stages to three:
 3.  An _[expert](gloss.md#expert)_ is someone who can easily handle
     situations that are out of the ordinary, diagnose the causes of
     problems, and so on. We will discuss expertise in more detail in
-    [Memory](/memory/).
+    [Memory](memory.md).
 
 One sign that someone is a novice is that the things they say aren't
 even wrong, e.g., they think there's a difference between programs
@@ -319,11 +319,11 @@ their point of view.
 If you haven't done so already, you should start using these three
 teaching practices in your instructor training workshop:
 
-*   [Use sticky notes as status flags](/practices/#stickies)
+*   [Use sticky notes as status flags](practices.md#sticky-notes-as-status-flags)
 
-*   [Use sticky notes to distribute attention](/practices/#attention)
+*   [Use sticky notes to distribute attention](practices.md#sticky-notes-to-distribute-attention)
 
-*   [Use sticky notes as minute cards](/practices/#minute-cards)
+*   [Use sticky notes as minute cards](practices.md#minute-cards)
 
 ## Challenges
 

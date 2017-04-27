@@ -63,7 +63,7 @@ avoided or worked around:
 > – Neal Davis
 
 Live coding is an example of the "I/We/You" approach to teaching
-discussed in [Performance](/performance/).  It takes a bit of practice
+discussed in [Performance](performance.md).  It takes a bit of practice
 for instructors to get used to thinking aloud while coding in front of
 an audience, but most report that it is then no more difficult to do
 than talking off a deck of slides.

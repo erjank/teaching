@@ -42,7 +42,7 @@ belong in this course.
 > edited, a substantial fraction won't be able to navigate to the right
 > directory without help. If this seems like a small problem to you,
 > please revisit the discussion of expert blind spot in
-> [Memory](/memory/).
+> [Memory](memory.md).
 
 Many of the foundational concepts of computer science, such as
 computability, inhabit the "useful but hard to learn" corner of the
@@ -137,7 +137,7 @@ Here are some quick ways to demotivate your learners:
     more if you are frank about the limitations of your knowledge, and
     will be more likely to ask questions and seek help.
 
-*   Use the J word ("just"). As discussed in [Memory](/memory/), this
+*   Use the J word ("just"). As discussed in [Memory](memory.md), this
     signals to the learner that the instructor thinks their problem is
     trivial and by extension that they therefore must be stupid for not
     being able to figure it out.
@@ -151,7 +151,7 @@ Here are some quick ways to demotivate your learners:
 
 > **Code of Conduct Revisited**
 > 
-> As noted in [Welcome](/welcome/), we believe very strongly that
+> As noted [at the start](README.md), we believe very strongly that
 > classes should have a Code of Conduct. Its details are important, but
 > the most important thing about it is that it exists: knowing that we
 > have rules tells people a great deal about our values and about what

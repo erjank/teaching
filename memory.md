@@ -77,7 +77,7 @@ This metaphor helps explain many observed aspects of expert behavior:
 > explanations, as in, "Oh, it's easy, you just fire up a new virtual
 > machine and then you just install these four patches to Ubuntu and
 > then you just re-write your entire program in a pure functional
-> language." As we discuss later in [Motivation](/motivation/), the J word
+> language." As we discuss later in [Motivation](motivation.md), the J word
 > (also sometimes called the passive dismissive adjective) should be
 > banned from classrooms, primarily because using it gives learners the
 > very clear signal that the instructor thinks their problem is trivial
@@ -193,7 +193,7 @@ Concept maps can be used in many ways:
     for them to annotate, it's better to draw it piece by piece while
     teaching to reinforce the ties between what's in the map and what
     the instructor said. (We will return to this idea when we discuss
-    Mayer's work on multimedia learning in [Cognitive Load](/load/).
+    Mayer's work on multimedia learning in [Cognitive Load](load.md).
 
 4.  Concept maps are also a useful for assessment: having learners
     draw concept maps of what they think they just heard shows the

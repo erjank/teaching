@@ -162,7 +162,7 @@ About Teaching Computer Science"
 1.  Some people are just born to program.
 
 The last of these is the most pervasive and most damaging.  As
-discussed in [Motivation](/motivation/), Elizabeth Patitsas and others
+discussed in [Motivation](motivation.md), Elizabeth Patitsas and others
 have shown that grades in computing classes are *not* bimodal
 [[Patitsas2016](biblio.md#patitsas-cs-grades)], i.e., there isn't one
 group that gets it and another that doesn't. Many of the participants

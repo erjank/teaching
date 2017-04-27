@@ -14,7 +14,7 @@
     and whose goal is to explain behavior without recourse to internal
     mental states or other unobservables.
     <br>
-    See also [cognitivism](#cognitivism).
+    See also [cognitivism](gloss.md#cognitivism).
 
 *   **Chunking**:
     <a name="chunking"></a>
@@ -33,7 +33,7 @@
     A theory of learning that holds that mental states and processes can
     and must be included in models of learning.
     <br>
-    See also [behaviorism](#behaviorism).
+    See also [behaviorism](gloss.md#behaviorism).
 
 *   **Community of Practice**:
     <a name="community-of-practice"></a>
@@ -41,14 +41,14 @@
     occupation, such as knitters, musicians, or programmers.
     <br>
     See also [legitimate peripheral
-    participation](#legitimate-peripheral-participation).
+    participation](gloss.md#legitimate-peripheral-participation).
 
 *   **Competent Practitioner**:
     <a name="competent-practitioner"></a>
     Someone who can do normal tasks with normal effort under normal
     circumstances.
     <br>
-    See also [novice](#novice) and [expert](#novice).
+    See also [novice](gloss.md#novice) and [expert](gloss.md#novice).
 
 *   **Concept Map**:
     <a name="concept-map"></a>
@@ -70,8 +70,8 @@
     A person's understanding of a subject.
     <br>
     See also [general pedagogical
-    knowledge](#general-pedagogical-knowledge) and [pedagogical content
-    knowledge](#pedagogical-content-knowledge).
+    knowledge](gloss.md#general-pedagogical-knowledge) and [pedagogical content
+    knowledge](gloss.md#pedagogical-content-knowledge).
 
 *   **Deliberate Practice**:
     <a name="deliberate-practice"></a>
@@ -87,7 +87,7 @@
     <a name="educational-psychology"></a>
     The study of how people learn.
     <br>
-    See also [instructional design](#instructional-design).
+    See also [instructional design](gloss.md#instructional-design).
 
 *   **Expert**:
     <a name="expert"></a>
@@ -95,8 +95,8 @@
     usual rules do not apply, and tends to recognize solutions rather than
     reasoning to them.
     <br>
-    See also [competent practitioner](#competent-practitioner) and
-    [novice](#novice).
+    See also [competent practitioner](gloss.md#competent-practitioner) and
+    [novice](gloss.md#novice).
 
 *   **Expert Blind Spot**:
     <a name="expert-blind-spot"></a>
@@ -112,14 +112,14 @@
     A series of examples in which a steadily increasing number of key
     steps are blanked out.
     <br>
-    See also [scaffolding](#scaffolding).
+    See also [scaffolding](gloss.md#scaffolding).
 
 *   **Fixed Mindset**:
     <a name="fixed-mindset"></a>
     The belief that an ability is innate, and that failure is due to a
     lack of some necessary attribute.
     <br>
-    See also [growth mindset](#growth-mindset).
+    See also [growth mindset](gloss.md#growth-mindset).
 
 *   **Fluid Representation**:
     <a name="fluid-representation"></a>
@@ -130,20 +130,20 @@
     Assessment that takes place during a lesson in order to give both the
     learner and the instructor feedback on actual understanding.
     <br>
-    See also [summative assessment](#summative-assessment).
+    See also [summative assessment](gloss.md#summative-assessment).
 
 *   **General Pedagogical Knowledge**:
     <a name="general-pedagogical-knowledge"></a>
     A person's understanding of the general principles of teaching.
     <br>
-    See also [content knowledge](#content-knowledge) and [pedagogical
-    content knowledge](#pedagogical-content-knowledge).
+    See also [content knowledge](gloss.md#content-knowledge) and [pedagogical
+    content knowledge](gloss.md#pedagogical-content-knowledge).
 
 *   **Growth Mindset**:
     <a name="growth-mindset"></a>
     The belief that ability comes with practice.
     <br>
-    See also [fixed mindset](#fixed-mindset).
+    See also [fixed mindset](gloss.md#fixed-mindset).
 
 *   **Impostor Syndrome**:
     <a name="impostor-syndrome"></a>
@@ -164,7 +164,7 @@
     The craft of creating and evaluating specific lessons for specific
     audiences.
     <br>
-    See also [educational psychology](#educational-psychology).
+    See also [educational psychology](gloss.md#educational-psychology).
 
 *   **Jugyokenkyu**:
     <a name="jugyokenkyu"></a>
@@ -195,7 +195,7 @@
 *   **Legitimate Peripheral Participation**:
     <a name="legitimate-peripheral-participation"></a>
     Newcomers' participation in simple, low-risk tasks that a [community
-    of practice](#community-of-practice) recognizes as valid
+    of practice](gloss.md#community-of-practice) recognizes as valid
     contributions.
 
 *   **Live Coding**:
@@ -208,7 +208,7 @@
     The part of memory that stores information for long periods of time.
     Long-term memory is very large, but slow.
     <br>
-    See also [short-term memory](#short-term-memory).
+    See also [short-term memory](gloss.md#short-term-memory).
 
 *   **Minute Cards**:
     <a name="minute-cards"></a>
@@ -220,8 +220,8 @@
     <a name="novice"></a>
     Someone who has not yet built a usable mental model of a domain.
     <br>
-    See also [competent practitioner](#competent-practitioner) and
-    [expert](#expert).
+    See also [competent practitioner](gloss.md#competent-practitioner) and
+    [expert](gloss.md#expert).
 
 *   **Pair Programming**:
     <a name="pair-programming"></a>
@@ -242,8 +242,8 @@
     The understanding of how to teach a particular subject, i.e., the best
     order in which to introduce topics and what examples to use.
     <br>
-    See also [content knowledge](#content-knowledge) and [general
-    pedagogical knowledge](#general-pedagogical-knowledge).
+    See also [content knowledge](gloss.md#content-knowledge) and [general
+    pedagogical knowledge](gloss.md#general-pedagogical-knowledge).
 
 *   **Peer Instruction**:
     <a name="peer-instruction"></a>
@@ -253,18 +253,18 @@
 
 *   **Persistent Memory**:
     <a name="persistent-memory"></a>
-    see [long-term memory](#long-term-memory).
+    see [long-term memory](gloss.md#long-term-memory).
 
 *   **Plausible Distractor**:
     <a name="plausible-distractor"></a>
     A wrong answer to a multiple-choice question that looks like it could
     be right.
     <br>
-    See also [diagnostic power](#diagnostic-power).
+    See also [diagnostic power](gloss.md#diagnostic-power).
 
 *   **Reflective Practice**:
     <a name="reflective-practice"></a>
-    see [deliberate practice](#deliberate-practice).
+    see [deliberate practice](gloss.md#deliberate-practice).
 
 *   **Reverse Instructional Design**:
     <a name="reverse-instructional-design"></a>
@@ -284,7 +284,7 @@
     <a name="situated-learning"></a>
     A model of learning that focuses on people's transition from being
     newcomers to be accepted members of a [community of
-    practice](#community-of-practice).
+    practice](gloss.md#community-of-practice).
 
 *   **Stereotype Threat**:
     <a name="stereotype-threat"></a>
@@ -309,10 +309,10 @@
 
 *   **Understanding by Design**:
     <a name="understanding-by-design"></a>
-    see [reverse instructional design](#reverse-instructional-design).
+    see [reverse instructional design](gloss.md#reverse-instructional-design).
 
 *   **Working Memory**:
     <a name="working-memory"></a>
-    see [short-term memory](#short-term-memory).
+    see [short-term memory](gloss.md#short-term-memory).
 
 [wikipedia-cognitive-load]: https://en.wikipedia.org/wiki/Cognitive_load

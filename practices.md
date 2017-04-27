@@ -9,17 +9,17 @@
   pedagogical practices in a short workshop.**
 
 Just as domain expertise is often a matter of [pattern
-matching](load.md#pattern-matching), teaching expertise often comes
-down to using good practices consistently.  None of the practices
-described below are essential (except having a code of conduct), but
-each will improve lesson delivery.
+recognition](load.md#pattern-recognition), teaching expertise often
+comes down to using good practices consistently.  None of the
+practices described below are essential (except having a code of
+conduct), but each will improve lesson delivery.
 
 ## Have a Code of Conduct
 
 An important part of making a class productive is to treat everyone
 with respect.  We therefore strongly recommend that every group
 offering classes based on this material adopt a Code of Conduct like
-the one in [Conduct](/conduct/), and require people taking part in the
+the one in [Conduct](conduct.md), and require people taking part in the
 class to abide by it.
 
 We believe equally strongly that your actual programming classes
@@ -110,7 +110,7 @@ they start their own work.
 Many studies have shown that taking notes while learning improves
 retention [[Aiken1975](biblio.md#aiken-note-taking)],
 [[Bohay2011](biblio.md#bohay-note-taking)].  As discussed in
-[Memory](/memory/), this happens because taking notes forces you to
+[Memory](memory.md), this happens because taking notes forces you to
 organize and reflect on material as it's coming in, which in turn
 increases the likelihood that you will transfer it to long-term memory
 in a usable way.
@@ -259,7 +259,7 @@ who they're speaking to.
 
 1.  Why do you want to take this training course?
 
-## Use Sticky Notes as Status Flags
+## Sticky Notes as Status Flags
 
 Give each learner two sticky notes of different colours, e.g., red and
 green. These can be held up for voting, but their real use is as
@@ -282,7 +282,7 @@ class too much, you could use the occasion to take the small break you
 had planned to take a bit later, giving the helper(s) time to fix the
 problem.
 
-## Use Sticky Notes to Distribute Attention
+## Sticky Notes to Distribute Attention
 
 Sticky notes can also be used to ensure that the instructor's
 attention is fairly distributed.  Have each learner write their name
@@ -586,9 +586,9 @@ group.
 
 ### Create a Questionnaire (20 minutes)
 
-Using the [questionnaire shown earlier](#assess) as a template, create
-a short questionnaire you could give learners before teaching a class
-of your own.  What do you most want to know about their background?
+Using the questionnaire shown earlier as a template, create a short
+questionnaire you could give learners before teaching a class of your
+own.  What do you most want to know about their background?
 
 [etherpad]: http://etherpad.org
 [google-docs]: https://docs.google.com

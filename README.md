@@ -36,7 +36,7 @@ learners.  It covers:
 
 *   how to design and improve lessons efficiently and collaboratively;
 
-*   how and why [live coding](/live/) (i.e., writing programs step by
+*   how and why [live coding](live.md) (i.e., writing programs step by
     step in front of learners) is a better way to teach programming
     than lectures or self-directed practice; and
 
@@ -179,7 +179,7 @@ learn to someone else.
 
 ## Who You Are
 
-[Learner Profiles](/lessons/#learner-profiles) will explain how to
+[Learner Profiles](lessons.md#learner-profiles) will explain how to
 define who a class is for.  Here, we present profiles of two typical
 participants in a workshop based on this book.
 
@@ -231,12 +231,12 @@ participants in a workshop based on this book.
 We suggest that instructor training workshops use these three teaching
 practices right from the start:
 
-*   Have a [code of conduct](/practices/#conduct).
+*   Have a [code of conduct](practices.md#code-of-conduct).
 
-*   [Take notes together](/practices/#notes).
+*   [Take notes together](practices.md#take-notes-together).
 
-*   [Pre-assess](/practices/#assess) learners' motivation and prior
-    knowledge.
+*   [Pre-assess](practices.md#assess-motivation-and-prior-knowledge)
+    learners' motivation and prior knowledge.
 
 ## Dedication
 
