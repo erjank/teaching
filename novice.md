@@ -211,7 +211,7 @@ next.
 >
 > Most jokes are less funny when written down, and become even less
 > funny with each re-reading.  Being spontaneously funny while
-> teaching usually works better, but can easily wrong: what's a joke
+> teaching usually works better, but can easily go wrong: what's a joke
 > to your circle of friends may turn out to be a serious political
 > issue to your audience.  If you do make jokes when teaching, don't
 > make them at the expense of any group, or of anyone except possibly
