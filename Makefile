@@ -19,8 +19,11 @@ gb-pdf :
 
 ## ltx-pdf    : generate a book via LaTeX
 ltx-pdf :
-	./bin/concat.sh \
-	| pandoc -f markdown -t latex --template=template.tex -V fontsize=10pt -V papersize=a5 \
+	bin/concat.sh \
+	| bin/unwrap.py \
+	| pandoc -f markdown -t latex --template=template.tex \
+	> raw.tex
+	cat raw.tex \
 	| bin/tidyref.py \
 	>  ltx-book.tex
 	pdflatex ltx-book.tex
@@ -40,5 +43,7 @@ fixme :
 
 ## clean      : clean up junk files.
 clean :
-	@rm -rf teaching.pdf docs
+	@rm -f teaching.pdf ltx-book.tex raw.tex
+	@rm -f *.aux *.log *.out *.toc
+	@find . -name '*~' -exec rm {} \;
 	@find . -name .DS_Store -exec rm {} \;

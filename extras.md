@@ -1,6 +1,6 @@
 # Extra Material
 
-This appendix includes material that doesn't naturally fit anywhere else.
+This section includes material that doesn't naturally fit anywhere else.
 
 ## Key Terms
 
@@ -176,7 +176,7 @@ will have done them a service.
 The two lists below summarize key feedback on the two videos used
 in the discussion of [live coding](live.md).
 
-[Part 1: How Not to Do It][live-coding-bad]
+### [Part 1: How Not to Do It][live-coding-bad-review]
 
 *   Instructor ignores a red sticky clearly visible on a learner's
     laptop.
@@ -199,7 +199,7 @@ in the discussion of [live coding](live.md).
 *   Instructor makes a mistake (a typo) but simply fixes it without
     pointing it out, and redoes the command.
 
-[Part 2: How to Do It Right][live-coding-good]
+### [Part 2: How to Do It Right][live-coding-good-review]
 
 *   Instructor checks if the learner with the red sticky on her laptop
     still needs attention.
@@ -297,11 +297,11 @@ surprisingly hard for free-range programming workshops:
     to do in a traditional battery-farmed learning environment; doing
     it with free-range learners is even harder.  In addition:
 
-    1.  The people who didn't get anything out of the workshop are
+    *   The people who didn't get anything out of the workshop are
         probably less likely to take part in follow-up, so feedback
         gathered this way will be subject to self-selection bias.
 
-    2.  The fact that learners *remember* something doesn't
+    *   The fact that learners *remember* something doesn't
         necessarily mean it was useful (although they are more likely
         to remember things that are useful than things that aren't).
 
@@ -324,6 +324,6 @@ backers that you're doing so.
 
 [cs-teaching-tips]: http://csteachingtips.org/
 [learning-theories]: http://www.learning-theories.com/
-[live-coding-bad]: https://youtu.be/bXxBeNkKmJE
-[live-coding-good]: https://youtu.be/SkPmwe_WjeY
+[live-coding-bad-review]: https://youtu.be/bXxBeNkKmJE
+[live-coding-good-review]: https://youtu.be/SkPmwe_WjeY
 [wikipedia-learning-modalities]: https://en.wikipedia.org/wiki/Learning_styles#Learning_modalities

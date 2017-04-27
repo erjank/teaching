@@ -1,15 +1,15 @@
 # Designing Lessons
 
-> **Objectives**
->
-> * Learners can describe the steps in reverse instructional design
->   and explain why it generally produces better lessons than the
->   usual "forward" lesson development process.
-> * Learners can define "teaching to the test" and explain why
->   reverse instructional design is *not* the same thing.
-> * Learners can construct and critique five-part learner profiles.
-> * Learners can construct good learning objectives and critique
->   learning objectives with reference to Bloom's Taxonomy.
+**Objectives**
+
+* **Learners can describe the steps in reverse instructional design
+  and explain why it generally produces better lessons than the
+  usual "forward" lesson development process.**
+* **Learners can define "teaching to the test" and explain why
+  reverse instructional design is *not* the same thing.**
+* **Learners can construct and critique five-part learner profiles.**
+* **Learners can construct good learning objectives and critique
+  learning objectives with reference to Bloom's Taxonomy.**
 
 Most people design lessons as follows:
 
@@ -265,20 +265,16 @@ guidance.
 
 ## Challenges
 
-### Learner Profiles
+### Learner Profiles (30 minutes)
 
 Working in pairs or small groups, create a five-point profile that
 describes one of your typical learners.
 
-*(30 minutes)*
-
-### Write Learning Objectives
+### Write Learning Objectives (20 minutes)
 
 Write one more learning objectives for something you currently teach
 or plan to teach.  Working with a partner, critique and improve the
 objectives.
-
-*(20 minutes)*
 
 [fink-short]: https://www.deefinkandassociates.com/GuidetoCourseDesignAug05.pdf
 [ubc-learning-goals]: http://www.cwsei.ubc.ca/Files/ComSc_LG/CPSC_Learning_Goals.pdf

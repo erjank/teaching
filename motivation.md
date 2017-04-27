@@ -1,17 +1,17 @@
 # Motivation and Demotivation
 
-> **Objectives**
->
-> * Learners can name and describe the three principal ways in which
->   they can demotivate their own learners.
-> * Learners can define impostor syndrome and stereotype threat, and
->   describe ways in which to combat each.
-> * Learners can describe the difference between fixed and growth
->   mindset and explain the importance of encouraging the latter.
-> * Learners can describe and enact at least three things they can
->   do to make their programming workshops more accessible.
-> * Learners can describe and enact at least three things they can
->   do to make their programming workshops more inclusive.
+**Objectives**
+
+* **Learners can name and describe the three principal ways in which
+  they can demotivate their own learners.**
+* **Learners can define impostor syndrome and stereotype threat, and
+  describe ways in which to combat each.**
+* **Learners can describe the difference between fixed and growth
+  mindset and explain the importance of encouraging the latter.**
+* **Learners can describe and enact at least three things they can
+  do to make their programming workshops more accessible.**
+* **Learners can describe and enact at least three things they can
+  do to make their programming workshops more inclusive.**
 
 Learners need encouragement to step out into unfamiliar terrain, so
 this chapter discusses ways instructors can motivate them.  More
@@ -396,7 +396,7 @@ Several of these challenges use "think-pair-share".  If you have not
 already covered this, please look at [the
 description](practices.md#think-pair-share) now.
 
-### Authentic Tasks
+### Authentic Tasks (15 minutes)
 
 Think about something you did this week that uses one or more of the
 skills you teach, (e.g., wrote a function, bulk downloaded data, did
@@ -409,18 +409,14 @@ the shared notes, write the task and where it fits on the grid. As a
 group, discuss how these relate back to the "teach most immediately
 useful first" approach.
 
-*(15 minutes)*
-
-### Implement One Strategy for Inclusivity
+### Implement One Strategy for Inclusivity (5 minutes)
 
 Pick one activity or change in practice from Lee's paper
 [[Lee2017](biblio.md#lee-create-inclusive-community)] that you would
 like to work on.  Put a reminder in your calendar three months in the
 future to self-check whether you have done something about it.
 
-*(5 minutes)*
-
-### Brainstorming Motivational Strategies
+### Brainstorming Motivational Strategies (20 minutes)
 
 1.  Think back to a programming course (or any other) that you took in
     the past, and identify one thing the instructor did that motivated
@@ -435,18 +431,14 @@ future to self-check whether you have done something about it.
     that could have been done differently. This will give everyone
     some confidence in how to handle these situations in the future.
 
-*(20 minutes)*
-
-### Demotivational Experiences
+### Demotivational Experiences (15 minutes)
 
 Think back to a time when you demotivated a student (or when you were
 demotivated as a student). Pair up with your neighbor and discuss what
 you could have done differently in the situation, and then share the
 story and what could have been done in the group notes.
 
-*(15 minutes)*
-
-### Walk the Route
+### Walk the Route (15 minutes)
 
 Find the nearest public transportation drop-off point to your building
 and walk from there to your office and then to the nearest washroom,
@@ -455,9 +447,7 @@ mobility issues. Now borrow a wheelchair and repeat the journey. How
 complete was your list of challenges? And did you notice that the first
 sentence in this challenge assumed you could actually walk?
 
-*(15 minutes)*
-
-### Who Decides?
+### Who Decides? (15 minutes)
 
 In [[Littky2004](biblio.md#littky-big-picture)], Kenneth Wesson wrote,
 "If poor inner-city children consistently outscored children from
@@ -466,8 +456,6 @@ to believe that we would still insist on using these tests as
 indicators of success?" Read [this article][nytimes-gifted], and then
 describe an example from your own experience of "objective"
 assessments that reinforced the status quo.
-
-*(15 minutes)*
 
 [accessibility-conferences]: https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences
 [ada-resources]: http://adainitiative.org/continue-our-work/impostor-syndrome-training/

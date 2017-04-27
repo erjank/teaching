@@ -1,13 +1,13 @@
 # Teaching as a Performance Art
 
-> **Objectives**
->
-> * Learners can define *jugyokenkyu* and lateral knowledge transfer
->   and explain their relationship to each other.
-> * Learners can describe and enact at least three techniques for
->   giving and receiving feedback on teaching performance.
-> * Learners can explain at least two ways in which using a rubric
->   makes feedback more effective.
+**Objectives**
+
+* **Learners can define *jugyokenkyu* and lateral knowledge transfer
+  and explain their relationship to each other.**
+* **Learners can describe and enact at least three techniques for
+  giving and receiving feedback on teaching performance.**
+* **Learners can explain at least two ways in which using a rubric
+  makes feedback more effective.**
 
 Many people assume that teachers are born, not made. From politicians
 to researchers and teachers themselves, reformers have designed
@@ -316,7 +316,7 @@ rubric to follow.
 
 ## Challenges
 
-### Give Feedback
+### Give Feedback (20 minutes)
 
 1.  Watch [this video][video-bad-teaching] as a group and then give
     feedback on it. Organize feedback along two axes: positive
@@ -329,9 +329,7 @@ rubric to follow.
 What did other people see that you missed?  What did they think that
 you strongly agree or disagree with?
 
-*(20 minutes)*
-
-### Practice Giving Feedback
+### Practice Giving Feedback (45 minutes)
 
 Use the process described [above](#how-to-practice-teaching) to
 practice teaching in groups of three.  When your group is done, the
@@ -342,8 +340,6 @@ was made by them, about them, or neither: the goal at this stage is
 primarily for people to become comfortable with giving and receiving
 feedback, and to establish a consensus about what sorts of things to
 look for.
-
-*(45 minutes)*
 
 [instructional-skills-workshop]: https://iswnetwork.ca/
 [video-bad-teaching]: https://www.youtube.com/watch?v=-ApVt04rB4U

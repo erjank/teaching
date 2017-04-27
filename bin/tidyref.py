@@ -3,21 +3,26 @@
 import sys
 import re
 
-CITES = r'{\[}\\href\{biblio.md\\#([^}]+)\}\{(.+)\}{\]}'
-GENERAL = r'{\[}\\href\{(.+)\\#([^}]+)\}\{(.+)\}{\]}'
+CITE = r'{\[}\\href{biblio\.md\\#([^}]+)}{([^}]+)}{\]}'
+GLOSS = r'\\href{gloss\.md\\#([^}]+)}{([^}]+)}'
+SECREF = r'\\href{.+\.md\\#([^}]+)}{([^}]+)}'
 
-def cites(match):
+def cite(match):
     tag = match.group(1)
     text = match.group(2)
     return '{{[}}{0}{{]}}'.format(text)
 
-def general(match):
-    filename = match.group(1)
-    tag = match.group(2)
-    text = match.group(3)
+def gloss(match):
+    tag = match.group(1)
+    text = match.group(2)
+    return text
+
+def secref(match):
+    tag = match.group(1)
+    text = match.group(2)
     return r'{0} (\S\ref{{{1}}})'.format(text, tag)
 
 data = sys.stdin.read()
-data = re.sub(CITES, cites, data, re.DOTALL)
-data = re.sub(GENERAL, general, data, re.DOTALL)
+for (pat, func) in ((CITE, cite), (GLOSS, gloss), (SECREF, secref)):
+    data = re.sub(pat, func, data, re.DOTALL)
 sys.stdout.write(data)

@@ -1,10 +1,10 @@
 # Live Coding
 
-> **Objectives**
->
-> * Learners can describe live coding and explain its advantages as a
->   teaching practice for programming workshops.
-> * Learners can enact and critique live coding.
+**Objectives**
+
+* **Learners can describe live coding and explain its advantages as a
+  teaching practice for programming workshops.**
+* **Learners can enact and critique live coding.**
 
 Teaching is a performance art, just like drama, music, and athletics.
 And as in those fields, we have a collection of small tips and tricks
@@ -259,7 +259,7 @@ Here are some tips to make your live coding better:
 
 ## Challenges
 
-### The Bad and the Good
+### The Bad and the Good (20 minutes)
 
 Watch this video of [live coding done poorly][live-coding-bad] and
 then this video of [live coding done well][live-coding-good] as a
@@ -268,9 +268,7 @@ grid.  These videos assume learners know what a shell variable is,
 know how to use the `head` command, and are familiar with the contents
 of the data files being filtered.
 
-*(20 minutes)*
-
-### See Then Do
+### See Then Do (30 minutes)
 
 Teach 3-4 minutes of a lesson using live coding to a fellow trainee,
 then swap and watch while that person live codes for you. Don't bother
@@ -292,8 +290,6 @@ teach it to are expected to be familiar with.
     with the mouse?
 
 *   What will you try to do differently next time?
-
-*(30 minutes)*
 
 [live-coding-bad]: https://youtu.be/bXxBeNkKmJE
 [live-coding-good]: https://youtu.be/SkPmwe_WjeY

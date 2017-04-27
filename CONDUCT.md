@@ -1,15 +1,13 @@
 # Code of Conduct
 
-> To make clear what is expected, everyone participating in this class
-> is required to conform to the following Code of Conduct. This code
-> of conduct applies to all spaces managed by our group including, but
-> not limited to, workshops, mailing lists, and online forums
-> (including source code repositories).  Workshop hosts are expected
-> to assist with enforcement of the Code of Conduct.
->
-> If you believe someone is violating the Code of Conduct we ask that
-> you report it to the course organizer and/or the course's hosts.
-> All reports will be kept confidential.
+> To ensure a welcoming environment for all, we require everyone
+> participating in our classes to conform to the Code of Conduct given
+> below. This code applies to all spaces managed by our group
+> including, but not limited to, workshops, mailing lists, and online
+> forums (including source code repositories).  We strongly recommend
+> that anyone running workshops or classes of any kind choose and
+> publish a similar code so that everyone will know what is expected
+> of them and what to do when those expectations are not met.
 
 We are dedicated to providing a welcoming and supportive environment
 for all people, regardless of background or identity.  However, we

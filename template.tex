@@ -215,21 +215,28 @@ $endfor$
 \pagestyle{empty}
 
 {\begingroup
-\centering
+  \raggedleft
+  \vspace*{\baselineskip}
 
-~
+  {\Huge\itshape How to Teach Programming \\ (And Other Things)}\\[\baselineskip]
 
-\vspace{1cm}
+  {\large\itshape what everyone in tech ought to know\\ about teaching and learning}\\[0.2\textheight]
 
-{\Large A Shorter Guide to Teaching}
+  {\large Edited by Greg Wilson}\par
 
-\vspace{2cm}
+  \vfill
 
-{\large Edited by Greg Wilson}
+  {\large Copyright {\copyright} 2017}
 
-\vspace{2cm}
+  \vspace*{\baselineskip}
 
-Copyright {\copyright} 2017
+  {\small
+    Licensed under the Creative Commons - Attribution license (CC-BY-3.0).
+    \\
+    See \texttt{https://github.com/gvwilson/teaching} for the source.
+  }
+
+  \vspace*{\baselineskip}
 
 \endgroup}
 
@@ -240,8 +247,6 @@ Copyright {\copyright} 2017
 ~
 
 \newpage
-
-\pagenumbering{roman}
 
 \addtocontents{toc}{\protect\thispagestyle{empty}}
 \tableofcontents
@@ -254,6 +259,7 @@ Copyright {\copyright} 2017
 
 \newpage
 
+\pagestyle{plain}
 \pagenumbering{arabic}
 
 $body$

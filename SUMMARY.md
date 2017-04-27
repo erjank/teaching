@@ -71,7 +71,7 @@
   * [What to Read Next](biblio.md#what-to-read-next)
   * [Other References](biblio.md#other-references)
 * [Glossary](gloss.md)
-* [Contributing](CONTRIBUTING.md)
+* [How to Contribute](CONTRIBUTING.md)
 * [Checklists](checklists.md)
   * [Scheduling the Event](checklists.md#scheduling-the-event)
   * [Setting Up](checklists.md#setting-up)

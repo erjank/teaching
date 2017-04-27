@@ -1,14 +1,14 @@
 # Helping Novices Build Mental Models
 
-> **Objectives**
->
-> * Learners can explain the cognitive differences between novices
->   and competent practitioners in terms of mental models, and
->   explain the implications of these differences for teaching.
-> * Learners can define and differentiate formative and summative
->   assessment.
-> * Learners can construct multiple-choice questions with
->   plausible distractors that have diagnostic power.
+**Objectives**
+
+* **Learners can explain the cognitive differences between novices
+  and competent practitioners in terms of mental models, and
+  explain the implications of these differences for teaching.**
+* **Learners can define and differentiate formative and summative
+  assessment.**
+* **Learners can construct multiple-choice questions with
+  plausible distractors that have diagnostic power.**
 
 The first task in teaching is to figure out who your learners are and
 how best to help them.  Our approach is based on the [Dreyfus model of
@@ -327,22 +327,18 @@ teaching practices in your instructor training workshop:
 
 ## Challenges
 
-### Your Mental Models
+### Your Mental Models (5 minutes)
 
 What is one mental model you use to frame and understand your work?
 Write a few sentences describing it in the shared notes, and give
 feedback on other learners' contributions.
 
-*(5 minutes)*
-
-### Symptoms of Being a Novice
+### Symptoms of Being a Novice (5 minutes)
 
 What are the symptoms of being a novice?  I.e., what does someone do
 or say that leads you to classify them as a novice in some domain?
 
-*(5 minutes)*
-
-### Modelling Novice Mental Models
+### Modelling Novice Mental Models (20 minutes)
 
 Create a multiple choice question related to a topic you intend to teach
 and explain the diagnostic power of each its distractors (i.e., what
@@ -353,9 +349,7 @@ theirs.  Is the question ambiguous?  Are the misconceptions plausible?
 Do the distractors actually test for them?  Are any likely
 misconceptions *not* tested for?
 
-*(20 minutes)*
-
-### Other Kinds of Formative Assessment
+### Other Kinds of Formative Assessment (20 minutes)
 
 A good formative assessment requires people to think through a
 problem.  For example, consider this question from
@@ -372,8 +366,6 @@ the relationship between weight, volume, and density.
 Describe another kind of formative assessment you have seen or used and
 explain how it helps both the instructor and the learner figure out
 where they are and what they need to do next.
-
-*(20 minutes)*
 
 [swc-unix]: http://swcarpentry.github.io/shell-novice/
 [video-peer-instruction]: https://www.youtube.com/watch?v=2LbuoxAy56o

@@ -1,318 +1,318 @@
 # Glossary
 
-**Authentic Task**:
-<a name="authentic-task"></a>
-A task which contains important elements of things that learners would
-do in real (non-classroom situations).  To be authentic, a task should
-require learners to construct their own answers rather than choose
-between provided answers, and to work with the same tools and data
-they would use in real life.
+*   **Authentic Task**:
+    <a name="authentic-task"></a>
+    A task which contains important elements of things that learners would
+    do in real (non-classroom situations).  To be authentic, a task should
+    require learners to construct their own answers rather than choose
+    between provided answers, and to work with the same tools and data
+    they would use in real life.
 
-**Behaviorism**:
-<a name="behaviorism"></a>
-A theory of learning whose central principle is stimulus and response,
-and whose goal is to explain behavior without recourse to internal
-mental states or other unobservables.
-<br>
-See also [cognitivism](#cognitivism).
+*   **Behaviorism**:
+    <a name="behaviorism"></a>
+    A theory of learning whose central principle is stimulus and response,
+    and whose goal is to explain behavior without recourse to internal
+    mental states or other unobservables.
+    <br>
+    See also [cognitivism](#cognitivism).
 
-**Chunking**:
-<a name="chunking"></a>
-The act of grouping related concepts together so that they can be
-stored and processed as a single unit.
+*   **Chunking**:
+    <a name="chunking"></a>
+    The act of grouping related concepts together so that they can be
+    stored and processed as a single unit.
 
-**Cognitive Load Theory**:
-<a name="cognitive-load-theory"></a>
-[Cognitive load][wikipedia-cognitive-load] is the amount of mental
-effort required to solve a problem.  Cognitive load theory divides
-this effort into *intrinsic*, *extraneous*, and *germane*, and holds
-that people learn faster and better when extraneous load is reduced.
+*   **Cognitive Load Theory**:
+    <a name="cognitive-load-theory"></a>
+    [Cognitive load][wikipedia-cognitive-load] is the amount of mental
+    effort required to solve a problem.  Cognitive load theory divides
+    this effort into *intrinsic*, *extraneous*, and *germane*, and holds
+    that people learn faster and better when extraneous load is reduced.
 
-**Cognitivism**:
-<a name="cognitivism"></a>
-A theory of learning that holds that mental states and processes can
-and must be included in models of learning.
-<br>
-See also [behaviorism](#behaviorism).
+*   **Cognitivism**:
+    <a name="cognitivism"></a>
+    A theory of learning that holds that mental states and processes can
+    and must be included in models of learning.
+    <br>
+    See also [behaviorism](#behaviorism).
 
-**Community of Practice**:
-<a name="community-of-practice"></a>
-A self-perpetuating group of people who share and develop a craft or
-occupation, such as knitters, musicians, or programmers.
-<br>
-See also [legitimate peripheral
-participation](#legitimate-peripheral-participation).
+*   **Community of Practice**:
+    <a name="community-of-practice"></a>
+    A self-perpetuating group of people who share and develop a craft or
+    occupation, such as knitters, musicians, or programmers.
+    <br>
+    See also [legitimate peripheral
+    participation](#legitimate-peripheral-participation).
 
-**Competent Practitioner**:
-<a name="competent-practitioner"></a>
-Someone who can do normal tasks with normal effort under normal
-circumstances.
-<br>
-See also [novice](#novice) and [expert](#novice).
+*   **Competent Practitioner**:
+    <a name="competent-practitioner"></a>
+    Someone who can do normal tasks with normal effort under normal
+    circumstances.
+    <br>
+    See also [novice](#novice) and [expert](#novice).
 
-**Concept Map**:
-<a name="concept-map"></a>
-A picture of a mental model in which concepts are nodes in a graph
-and relationships are (labelled) arcs.
+*   **Concept Map**:
+    <a name="concept-map"></a>
+    A picture of a mental model in which concepts are nodes in a graph
+    and relationships are (labelled) arcs.
 
-**Connectivism**:
-<a name="connectivism"></a>
-A theory of learning which emphasizes its social aspects, particularly
-as enabled by the Internet and other technologies.
+*   **Connectivism**:
+    <a name="connectivism"></a>
+    A theory of learning which emphasizes its social aspects, particularly
+    as enabled by the Internet and other technologies.
 
-**Constructivism**:
-<a name="constructivism"></a>
-A theory of learning that views learners as actively constructing
-knowledge.
+*   **Constructivism**:
+    <a name="constructivism"></a>
+    A theory of learning that views learners as actively constructing
+    knowledge.
 
-**Content Knowledge**:
-<a name="content-knowledge"></a>
-A person's understanding of a subject.
-<br>
-See also [general pedagogical
-knowledge](#general-pedagogical-knowledge) and [pedagogical content
-knowledge](#pedagogical-content-knowledge).
+*   **Content Knowledge**:
+    <a name="content-knowledge"></a>
+    A person's understanding of a subject.
+    <br>
+    See also [general pedagogical
+    knowledge](#general-pedagogical-knowledge) and [pedagogical content
+    knowledge](#pedagogical-content-knowledge).
 
-**Deliberate Practice**:
-<a name="deliberate-practice"></a>
-The act of observing performance of a task while doing it in order to
-improve ability.
+*   **Deliberate Practice**:
+    <a name="deliberate-practice"></a>
+    The act of observing performance of a task while doing it in order to
+    improve ability.
 
-**Diagnostic Power**:
-<a name="diagnostic-power"></a>
-The degree to which a wrong answer to a question or exercise tells the
-instructor what misconceptions a particular learner has.
+*   **Diagnostic Power**:
+    <a name="diagnostic-power"></a>
+    The degree to which a wrong answer to a question or exercise tells the
+    instructor what misconceptions a particular learner has.
 
-**Educational Psychology**:
-<a name="educational-psychology"></a>
-The study of how people learn.
-<br>
-See also [instructional design](#instructional-design).
+*   **Educational Psychology**:
+    <a name="educational-psychology"></a>
+    The study of how people learn.
+    <br>
+    See also [instructional design](#instructional-design).
 
-**Expert**:
-<a name="expert"></a>
-Someone who can diagnose and handle unusual situations, knows when the
-usual rules do not apply, and tends to recognize solutions rather than
-reasoning to them.
-<br>
-See also [competent practitioner](#competent-practitioner) and
-[novice](#novice).
+*   **Expert**:
+    <a name="expert"></a>
+    Someone who can diagnose and handle unusual situations, knows when the
+    usual rules do not apply, and tends to recognize solutions rather than
+    reasoning to them.
+    <br>
+    See also [competent practitioner](#competent-practitioner) and
+    [novice](#novice).
 
-**Expert Blind Spot**:
-<a name="expert-blind-spot"></a>
-The inability of experts to empathize with novices who are
-encountering concepts or practices for the first time.
+*   **Expert Blind Spot**:
+    <a name="expert-blind-spot"></a>
+    The inability of experts to empathize with novices who are
+    encountering concepts or practices for the first time.
 
-**Externalized Cognition**:
-<a name="externalized-cognition"></a>
-The use of graphical, physical, or verbal aids to augment thinking.
+*   **Externalized Cognition**:
+    <a name="externalized-cognition"></a>
+    The use of graphical, physical, or verbal aids to augment thinking.
 
-**Faded Example**:
-<a name="faded-example"></a>
-A series of examples in which a steadily increasing number of key
-steps are blanked out.
-<br>
-See also [scaffolding](#scaffolding).
+*   **Faded Example**:
+    <a name="faded-example"></a>
+    A series of examples in which a steadily increasing number of key
+    steps are blanked out.
+    <br>
+    See also [scaffolding](#scaffolding).
 
-**Fixed Mindset**:
-<a name="fixed-mindset"></a>
-The belief that an ability is innate, and that failure is due to a
-lack of some necessary attribute.
-<br>
-See also [growth mindset](#growth-mindset).
+*   **Fixed Mindset**:
+    <a name="fixed-mindset"></a>
+    The belief that an ability is innate, and that failure is due to a
+    lack of some necessary attribute.
+    <br>
+    See also [growth mindset](#growth-mindset).
 
-**Fluid Representation**:
-<a name="fluid-representation"></a>
-The ability to move quickly between different models of a problem.
+*   **Fluid Representation**:
+    <a name="fluid-representation"></a>
+    The ability to move quickly between different models of a problem.
 
-**Formative Assessment**:
-<a name="formative-assessment"></a>
-Assessment that takes place during a lesson in order to give both the
-learner and the instructor feedback on actual understanding.
-<br>
-See also [summative assessment](#summative-assessment).
+*   **Formative Assessment**:
+    <a name="formative-assessment"></a>
+    Assessment that takes place during a lesson in order to give both the
+    learner and the instructor feedback on actual understanding.
+    <br>
+    See also [summative assessment](#summative-assessment).
 
-**General Pedagogical Knowledge**:
-<a name="general-pedagogical-knowledge"></a>
-A person's understanding of the general principles of teaching.
-<br>
-See also [content knowledge](#content-knowledge) and [pedagogical
-content knowledge](#pedagogical-content-knowledge).
+*   **General Pedagogical Knowledge**:
+    <a name="general-pedagogical-knowledge"></a>
+    A person's understanding of the general principles of teaching.
+    <br>
+    See also [content knowledge](#content-knowledge) and [pedagogical
+    content knowledge](#pedagogical-content-knowledge).
 
-**Growth Mindset**:
-<a name="growth-mindset"></a>
-The belief that ability comes with practice.
-<br>
-See also [fixed mindset](#fixed-mindset).
+*   **Growth Mindset**:
+    <a name="growth-mindset"></a>
+    The belief that ability comes with practice.
+    <br>
+    See also [fixed mindset](#fixed-mindset).
 
-**Impostor Syndrome**:
-<a name="impostor-syndrome"></a>
-A feeling of insecurity about one's accomplishments that manifests as
-a fear of being exposed as a fraud.
+*   **Impostor Syndrome**:
+    <a name="impostor-syndrome"></a>
+    A feeling of insecurity about one's accomplishments that manifests as
+    a fear of being exposed as a fraud.
 
-**Inclusivity**:
-<a name="inclusivity"></a>
-Working actively to include people with diverse backgrounds and needs.
+*   **Inclusivity**:
+    <a name="inclusivity"></a>
+    Working actively to include people with diverse backgrounds and needs.
 
-**Inquiry-Based Learning**:
-<a name="inquiry-based-learning"></a>
-The practice of allowing learners to ask their own questions, set
-their own goals, and find their own path through a subject.
+*   **Inquiry-Based Learning**:
+    <a name="inquiry-based-learning"></a>
+    The practice of allowing learners to ask their own questions, set
+    their own goals, and find their own path through a subject.
 
-**Instructional Design**:
-<a name="instructional-design"></a>
-The craft of creating and evaluating specific lessons for specific
-audiences.
-<br>
-See also [educational psychology](#educational-psychology).
+*   **Instructional Design**:
+    <a name="instructional-design"></a>
+    The craft of creating and evaluating specific lessons for specific
+    audiences.
+    <br>
+    See also [educational psychology](#educational-psychology).
 
-**Jugyokenkyu**:
-<a name="jugyokenkyu"></a>
-Literally "lesson study", a set of practices that includes having
-teachers routinely observe one another and discuss lessons to share
-knowledge and improve skills.
+*   **Jugyokenkyu**:
+    <a name="jugyokenkyu"></a>
+    Literally "lesson study", a set of practices that includes having
+    teachers routinely observe one another and discuss lessons to share
+    knowledge and improve skills.
 
-**Lateral Knowledge Transfer**:
-<a name="lateral-knowledge-transfer"></a>
-The "accidental" transfer of knowledge that occurs when an instructor
-is teaching one thing, and the learner picks up another.
+*   **Lateral Knowledge Transfer**:
+    <a name="lateral-knowledge-transfer"></a>
+    The "accidental" transfer of knowledge that occurs when an instructor
+    is teaching one thing, and the learner picks up another.
 
-**Learner Profile**:
-<a name="learner-profile"></a>
-A brief description of a typical target learner for a lesson that
-includes their general background, what they already know, what they
-want to do, how the lesson will help them, and any special needs they
-might have.
+*   **Learner Profile**:
+    <a name="learner-profile"></a>
+    A brief description of a typical target learner for a lesson that
+    includes their general background, what they already know, what they
+    want to do, how the lesson will help them, and any special needs they
+    might have.
 
-**Learning Objective**:
-<a name="learning-objective"></a>
-What a lesson is trying to achieve.
+*   **Learning Objective**:
+    <a name="learning-objective"></a>
+    What a lesson is trying to achieve.
 
-**Learning Outcome**:
-<a name="learning-outcome"></a>
-What a lesson actually achieves.
+*   **Learning Outcome**:
+    <a name="learning-outcome"></a>
+    What a lesson actually achieves.
 
-**Legitimate Peripheral Participation**:
-<a name="legitimate-peripheral-participation"></a>
-Newcomers' participation in simple, low-risk tasks that a [community
-of practice](#community-of-practice) recognizes as valid
-contributions.
+*   **Legitimate Peripheral Participation**:
+    <a name="legitimate-peripheral-participation"></a>
+    Newcomers' participation in simple, low-risk tasks that a [community
+    of practice](#community-of-practice) recognizes as valid
+    contributions.
 
-**Live Coding**:
-<a name="live-coding"></a>
-The act of teaching programming by writing software in front of
-learners as the lesson progresses.
+*   **Live Coding**:
+    <a name="live-coding"></a>
+    The act of teaching programming by writing software in front of
+    learners as the lesson progresses.
 
-**Long-Term Memory**:
-<a name="long-term-memory"></a>
-The part of memory that stores information for long periods of time.
-Long-term memory is very large, but slow.
-<br>
-See also [short-term memory](#short-term-memory).
+*   **Long-Term Memory**:
+    <a name="long-term-memory"></a>
+    The part of memory that stores information for long periods of time.
+    Long-term memory is very large, but slow.
+    <br>
+    See also [short-term memory](#short-term-memory).
 
-**Minute Cards**:
-<a name="minute-cards"></a>
-A feedback technique in which learners spend a minute writing one
-positive thing about a lesson (e.g., one thing they've learned) and
-one negative thing (e.g., a question that still hasn't been answered).
+*   **Minute Cards**:
+    <a name="minute-cards"></a>
+    A feedback technique in which learners spend a minute writing one
+    positive thing about a lesson (e.g., one thing they've learned) and
+    one negative thing (e.g., a question that still hasn't been answered).
 
-**Novice**:
-<a name="novice"></a>
-Someone who has not yet built a usable mental model of a domain.
-<br>
-See also [competent practitioner](#competent-practitioner) and
-[expert](#expert).
+*   **Novice**:
+    <a name="novice"></a>
+    Someone who has not yet built a usable mental model of a domain.
+    <br>
+    See also [competent practitioner](#competent-practitioner) and
+    [expert](#expert).
 
-**Pair Programming**:
-<a name="pair-programming"></a>
-A software development practice in which two programmers share one
-computer.  One programmer (the driver) does the typing, while the
-other (the navigator) offers comments and suggestions in real time.
-Pair programming is often used as a teaching practice in programming
-classes.
+*   **Pair Programming**:
+    <a name="pair-programming"></a>
+    A software development practice in which two programmers share one
+    computer.  One programmer (the driver) does the typing, while the
+    other (the navigator) offers comments and suggestions in real time.
+    Pair programming is often used as a teaching practice in programming
+    classes.
 
-**Parson's Problem**:
-<a name="parsons-problem"></a>
-An assessment technique developed by Dale Parsons and others in which
-learners rearrange given material to construct a correct answer to a
-question.
+*   **Parson's Problem**:
+    <a name="parsons-problem"></a>
+    An assessment technique developed by Dale Parsons and others in which
+    learners rearrange given material to construct a correct answer to a
+    question.
 
-**Pedagogical Content Knowledge (PCK)**:
-<a name="pedagogical-content-knowledge"></a>
-The understanding of how to teach a particular subject, i.e., the best
-order in which to introduce topics and what examples to use.
-<br>
-See also [content knowledge](#content-knowledge) and [general
-pedagogical knowledge](#general-pedagogical-knowledge).
+*   **Pedagogical Content Knowledge (PCK)**:
+    <a name="pedagogical-content-knowledge"></a>
+    The understanding of how to teach a particular subject, i.e., the best
+    order in which to introduce topics and what examples to use.
+    <br>
+    See also [content knowledge](#content-knowledge) and [general
+    pedagogical knowledge](#general-pedagogical-knowledge).
 
-**Peer Instruction**:
-<a name="peer-instruction"></a>
-A teaching method in which an instructor poses a question and then
-students commit to a first answer, discuss answers with their peers,
-and commit to a (revised) answer.
+*   **Peer Instruction**:
+    <a name="peer-instruction"></a>
+    A teaching method in which an instructor poses a question and then
+    students commit to a first answer, discuss answers with their peers,
+    and commit to a (revised) answer.
 
-**Persistent Memory**:
-<a name="persistent-memory"></a>
-see [long-term memory](#long-term-memory).
+*   **Persistent Memory**:
+    <a name="persistent-memory"></a>
+    see [long-term memory](#long-term-memory).
 
-**Plausible Distractor**:
-<a name="plausible-distractor"></a>
-A wrong answer to a multiple-choice question that looks like it could
-be right.
-<br>
-See also [diagnostic power](#diagnostic-power).
+*   **Plausible Distractor**:
+    <a name="plausible-distractor"></a>
+    A wrong answer to a multiple-choice question that looks like it could
+    be right.
+    <br>
+    See also [diagnostic power](#diagnostic-power).
 
-**Reflective Practice**:
-<a name="reflective-practice"></a>
-see [deliberate practice](#deliberate-practice).
+*   **Reflective Practice**:
+    <a name="reflective-practice"></a>
+    see [deliberate practice](#deliberate-practice).
 
-**Reverse Instructional Design**:
-<a name="reverse-instructional-design"></a>
-An instructional design method that works backwards from a summative
-assessment to formative assessments and thence to lesson content.
+*   **Reverse Instructional Design**:
+    <a name="reverse-instructional-design"></a>
+    An instructional design method that works backwards from a summative
+    assessment to formative assessments and thence to lesson content.
 
-**Scaffolding**:
-<a name="scaffolding"></a>
-Extra material provided to early-stage learners to help them solve problems.
+*   **Scaffolding**:
+    <a name="scaffolding"></a>
+    Extra material provided to early-stage learners to help them solve problems.
 
-**Short-Term Memory**:
-<a name="short-term-memory"></a>
-The part of memory that briefly stores information that can be
-directly accessed by consciousness.
+*   **Short-Term Memory**:
+    <a name="short-term-memory"></a>
+    The part of memory that briefly stores information that can be
+    directly accessed by consciousness.
 
-**Situated Learning**:
-<a name="situated-learning"></a>
-A model of learning that focuses on people's transition from being
-newcomers to be accepted members of a [community of
-practice](#community-of-practice).
+*   **Situated Learning**:
+    <a name="situated-learning"></a>
+    A model of learning that focuses on people's transition from being
+    newcomers to be accepted members of a [community of
+    practice](#community-of-practice).
 
-**Stereotype Threat**:
-<a name="stereotype-threat"></a>
-A situation in which people feel that they are at risk of being held
-to stereotypes of their social group.
+*   **Stereotype Threat**:
+    <a name="stereotype-threat"></a>
+    A situation in which people feel that they are at risk of being held
+    to stereotypes of their social group.
 
-**Summative Assessment**:
-<a name="summative-assessment"></a>
-Assessment that takes place at the end of a lesson to tell whether the
-desired learning has taken place.
+*   **Summative Assessment**:
+    <a name="summative-assessment"></a>
+    Assessment that takes place at the end of a lesson to tell whether the
+    desired learning has taken place.
 
-**Tangible Artifact**:
-<a name="tangible-artifact"></a>
-Something a learner can work on whose state gives feedback about the
-learner's progress and helps the learner diagnose mistakes.
+*   **Tangible Artifact**:
+    <a name="tangible-artifact"></a>
+    Something a learner can work on whose state gives feedback about the
+    learner's progress and helps the learner diagnose mistakes.
 
-**Test-Driven Development**:
-<a name="test-driven-development"></a>
-A software development practice in which programmers write tests first
-in order to give themselves concrete goals and clarify their
-understanding of what "done" looks like.
+*   **Test-Driven Development**:
+    <a name="test-driven-development"></a>
+    A software development practice in which programmers write tests first
+    in order to give themselves concrete goals and clarify their
+    understanding of what "done" looks like.
 
-**Understanding by Design**:
-<a name="understanding-by-design"></a>
-see [reverse instructional design](#reverse-instructional-design).
+*   **Understanding by Design**:
+    <a name="understanding-by-design"></a>
+    see [reverse instructional design](#reverse-instructional-design).
 
-**Working Memory**:
-<a name="working-memory"></a>
-see [short-term memory](#short-term-memory).
+*   **Working Memory**:
+    <a name="working-memory"></a>
+    see [short-term memory](#short-term-memory).
 
 [wikipedia-cognitive-load]: https://en.wikipedia.org/wiki/Cognitive_load

@@ -1,12 +1,12 @@
 # Teaching Practices
 
-> **Objectives**
->
-> * Learners can name, describe, and enact four teaching practices that
->   are appropriate to use in programming workshops for adults, and
->   give a pedagogical justification for each.
-> * Learners can explain why instructors should *not* introduce new
->   pedagogical practices in a short workshop.
+**Objectives**
+
+* **Learners can name, describe, and enact four teaching practices that
+  are appropriate to use in programming workshops for adults, and
+  give a pedagogical justification for each.**
+* **Learners can explain why instructors should *not* introduce new
+  pedagogical practices in a short workshop.**
 
 Just as domain expertise is often a matter of [pattern
 matching](load.md#pattern-matching), teaching expertise often comes
@@ -584,13 +584,11 @@ group.
 
 ## Challenges
 
-### Create a Questionnaire
+### Create a Questionnaire (20 minutes)
 
 Using the [questionnaire shown earlier](#assess) as a template, create
 a short questionnaire you could give learners before teaching a class
 of your own.  What do you most want to know about their background?
-
-*(20 minutes)*
 
 [etherpad]: http://etherpad.org
 [google-docs]: https://docs.google.com

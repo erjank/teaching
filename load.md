@@ -1,15 +1,15 @@
 # Cognitive Load
 
-> **Objectives**
->
-> * Learners can define cognitive load and explain how consideration
->   of it can be used to shape instruction.
-> * Learners can explain what faded examples are and construct faded
->   examples for use in programming workshops.
-> * Learners can explain what Parson's Problems are and construct
->   Parson's Problems for use in programming workshops.
-> * Learners can describe ways in which they differ from their own
->   learners and what effect those differences have on instruction.
+**Objectives**
+
+* **Learners can define cognitive load and explain how consideration
+  of it can be used to shape instruction.**
+* **Learners can explain what faded examples are and construct faded
+  examples for use in programming workshops.**
+* **Learners can explain what Parson's Problems are and construct
+  Parson's Problems for use in programming workshops.**
+* **Learners can describe ways in which they differ from their own
+  learners and what effect those differences have on instruction.**
 
 In 2006, Kirschner, Sweller, and Clark published a paper titled "Why
 Minimal Guidance During Instruction Does Not Work: An Analysis of the
@@ -231,7 +231,7 @@ in [Motivation](/motivation/).
 
 ## Challenges
 
-### Create a Faded Example
+### Create a Faded Example (30 minutes)
 
 It's very common for programs to count how many things fall into
 different categories: for example, how many times different colors
@@ -257,17 +257,13 @@ If there are people among the trainees who don't program at all, make
 sure that they are in separate groups and ask to the groups to work
 with that person as a learner to help identify different loads.
 
-*(30 minutes)*
-
-### Create a Parson's Problem
+### Create a Parson's Problem (20 minutes)
 
 Write five or six lines of code that does something useful, jumble
 them, and ask your partner to put them in order.  If you are using an
 indentation-based language like Python, do not indent any of the
 lines; if you are using a curly-brace language like Java, do not
 include any of the curly braces.
-
-*(20 minutes)*
 
 [cognitive-load-unfalsifiable]: https://edtechdev.wordpress.com/2009/11/16/cognitive-load-theory-failure/
 [wikipedia-design-patterns]: https://en.wikipedia.org/wiki/Software_design_pattern

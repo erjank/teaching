@@ -1,16 +1,16 @@
 # Expertise and Memory
 
-> **Objectives**
->
-> * Learners can define expertise and explain its operation using
->   a graph metaphor for cognition.
-> * Learners can explain the difference between repetition and
->   deliberate practice.
-> * Learners can define and construct concept maps, and explain
->   the benefits of externalizing cognition.
-> * Learners can differentiate long-term and short-term  memory,
->   describe the capacity limits of the latter, and explain the
->   the impact of these limits on teaching.
+**Objectives**
+
+* **Learners can define expertise and explain its operation using
+  a graph metaphor for cognition.**
+* **Learners can explain the difference between repetition and
+  deliberate practice.**
+* **Learners can define and construct concept maps, and explain
+  the benefits of externalizing cognition.**
+* **Learners can differentiate long-term and short-term  memory,
+  describe the capacity limits of the latter, and explain the
+  the impact of these limits on teaching.**
 
 The previous chapter looked at what distinguishes novices from
 competent practitioners.  Here, we will look at expertise: what it is,
@@ -132,7 +132,7 @@ play (i.e., when it's harder to connect cause to effect).
 ## Concept Maps
 
 Our tool of choice to represent a knowledge graph (expert or
-otherwise) is a _concept map(gloss.md#concept-map)_.  A concept map
+otherwise) is a _[concept map](gloss.md#concept-map)_.  A concept map
 is simply a picture of someone's mental model of a domain: facts are
 bubbles, and connections are labelled arcs. It is important that they
 are labelled: saying "X and Y are related" is only helpful if we
@@ -301,7 +301,7 @@ just how many pieces of separate information will need to be
 
 ## Challenges
 
-### Concept Mapping
+### Concept Mapping (30 minutes)
 
 Create a hand drawn concept map for something you would teach in five
 minutes.  (If possible, do it for the same subject that created a
@@ -309,8 +309,6 @@ multiple choice question for earlier.) Trade with a partner, and
 critique each other's maps. Do they present concepts or surface
 detail? Which of the relationships in your partner's map do you
 consider concepts and vice versa?
-
-*(30 minutes)*
 
 [abela-chart]: http://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf
 [serial-position]: http://cat.xula.edu/thinker/memory/working/serial

@@ -1,13 +1,14 @@
 # Introduction
 
-> **The Short Version**
+> **In Brief**
 >
-> *A Shorter Guide to Teaching* shows readers how to build and deliver
-> high-quality learning experiences to adults who want to learn
-> programming (and other things).  It is based on [Software
-> Carpentry][swc-site]'s [instructor training course][swc-training],
-> and all material is available under the [Creative Commons -
-> Attribution][license] license.
+> *How to Teach Programming (And Other Things)* shows readers how to
+> build and deliver high-quality learning experiences to people who
+> want to learn how to program (and other things as well).  It is
+> based on [Software Carpentry][swc-site]'s [instructor training
+> course][swc-training], and all material can be freely distributed
+> and re-used under the [Creative Commons - Attribution][license]
+> license.
 
 Thousands of grassroots "learn to code" groups have sprung up in the
 past few years.  They exist so that people don't have to figure out
@@ -182,6 +183,8 @@ learn to someone else.
 define who a class is for.  Here, we present profiles of two typical
 participants in a workshop based on this book.
 
+<!--| \vspace{\baselineskip} |-->
+
 **Samira**
 
 1.  An undergraduate student in mechanical engineering who first
@@ -242,12 +245,10 @@ children how to read and write, and to believe in themselves.
 
 ## Challenges
 
-### Favorite Class
+### Favorite Class (10 minutes)
 
 In the online notes, write down your name, the best class you ever
 took, and what made it so great.
-
-*(10 minutes)*
 
 [license]: /license/
 [swc-site]: http://software-carpentry.org
