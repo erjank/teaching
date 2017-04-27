@@ -166,7 +166,7 @@ allowed on the road.
 > should prepare people for summative assessments: no one should ever
 > encounter a question on an exam for which the teaching did not
 > prepare them.  This doesn't mean that novel problems should not
-> appear, but that if they do, learners should have have practice with
+> appear, but that if they do, learners should have had practice with
 > and feedback on tackling novel problems beforehand.
 
 In order to be useful during teaching, a formative assessment has to
