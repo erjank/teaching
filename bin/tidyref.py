@@ -3,9 +3,9 @@
 import sys
 import re
 
-CITE = r'{\[}\\href{biblio\.md\\#([^}]+)}{([^}]+)}{\]}'
-GLOSS = r'\\href{gloss\.md\\#([^}]+)}{([^}]+)}'
-SECREF = r'\\href{.+\.md\\#([^}]+)}{([^}]+)}'
+CITE = r'{\[}\\href{biblio\.md\\#(.+?)}{(.+?)}{\]}'
+GLOSS = r'\\href{gloss\.md\\#(.+?)}{(.+?)}'
+SECREF = r'\\href{.+?\.md\\#(.+?)}{(.+?)}'
 
 def cite(match):
     tag = match.group(1)
