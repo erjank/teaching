@@ -18,4 +18,5 @@ def replace(m):
 
 data = sys.stdin.read()
 data = pat.sub(replace, data)
+data = data.replace(r'\subsection{', r'\subsection*{')
 sys.stdout.write(data)

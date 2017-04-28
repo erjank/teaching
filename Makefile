@@ -6,35 +6,33 @@ commands :
 	@grep -E '^##' Makefile | sed -e 's/## //g'
 
 ## preview    : preview locally.
-preview:
+preview :
 	@gitbook serve
 
-## publish    : rebuild web version.
-publish :
+## web-book   : rebuild web version.
+web-book :
 	@gitbook build . docs
 
-## gb-pdf     : re-generate PDF with GitBook
-gb-pdf :
+## gb-book    : re-generate PDF with GitBook
+gb-book :
 	@gitbook pdf ./ ./gb-book.pdf
 
-## ltx-pdf    : generate a book via LaTeX
-ltx-pdf :
+## ltx-book   : generate a book via LaTeX
+ltx-book :
 	bin/concat.sh \
-	| bin/unwrap.py \
+	| bin/pre-process.py \
 	| pandoc -f markdown -t latex --template=template.tex \
-	> raw.tex
-	cat raw.tex \
-	| bin/tidyref.py \
+	| bin/post-process.py \
 	>  ltx-book.tex
 	pdflatex ltx-book.tex
 	pdflatex ltx-book.tex
 
-## spell      : check spelling
-spell :
+## spelling   : check spelling
+spelling :
 	cat *.md | aspell list | sort | uniq | diff - words.txt
 
-## words      : how long is the book?
-words :
+## wordcount  : how long is the book?
+wordcount :
 	wc -w *.md
 
 ## fixme      : look for undone work.
