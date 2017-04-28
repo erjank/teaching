@@ -177,6 +177,12 @@
     The "accidental" transfer of knowledge that occurs when an instructor
     is teaching one thing, and the learner picks up another.
 
+*   **Learned Helplessness**:
+    <a name="learned-helplessness"></a>
+    A situation in which people who are repeatedly subjected to
+    negative feedback that they have no way to escape learn not to
+    even try to escape when they could.
+
 *   **Learner Profile**:
     <a name="learner-profile"></a>
     A brief description of a typical target learner for a lesson that

@@ -108,13 +108,10 @@ or unconsciously they will worry that they will some day find
 themselves in the group on the losing end
 [[Wilkinson2011](biblio.md#wilkinson-pickett-spirit-level)]).
 
-> **Learning Not to Try**
->
-> In extreme situations, learners may developed [learned
-> helplessness]: when repeatedly subjected to negative feedback that
-> they have no way to escape, they may learn not to even try to escape
-> when they could.
-
+In extreme situations, learners may developed [learned
+helplessness](gloss.md#learned-helplessness): when repeatedly
+subjected to negative feedback that they have no way to escape, they
+may learn not to even try to escape when they could.
 
 Here are some quick ways to demotivate your learners:
 

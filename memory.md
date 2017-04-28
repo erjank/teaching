@@ -71,6 +71,8 @@ This metaphor helps explain many observed aspects of expert behavior:
     interviews gives a more accurate impression of their ability than
     asking them to program.)
 
+<!--| \newpage |-->
+
 > **The J Word**
 >
 > Experts often betray their blind spot by using the word "just" in
@@ -115,10 +117,10 @@ A common progression is for people to go through three stages:
     the Rye*, and get feedback on their critique from a teacher.
 
 3.  They *apply what they've learned about feedback to themselves*.
-    At some point, they start critiquing their own work in real time (or
-    nearly so) using the critical skills they've built up in steps 1 and
-    2.  Doing this is so much faster than waiting for feedback from
-    others that proficiency suddenly starts to take off.
+    At some point, they start critiquing their own work in real time
+    (or nearly so) using the critical skills they have now built up.
+    Doing this is so much faster than waiting for feedback from others
+    that proficiency suddenly starts to take off.
 
 A meta-study conducted in 2014
 [[Macnamara2014](biblio.md#macnamara-deliberate)] found that
@@ -159,6 +161,7 @@ for letter in "abc":
       print('*' + letter)
 ~~~
 
+<!--| \noindet -->
 whose output is:
 
 ~~~
@@ -172,8 +175,6 @@ figure below, but they are only half the story–and arguably, the less
 important half.  The second part shows the *relationships* between
 those things.  We can go further and add two more relationships that
 are usually (but not always) true as shown in the third part.
-
-![Concept Maps](fig/for-loop-concepts.png)
 
 Concept maps can be used in many ways:
 
@@ -208,6 +209,8 @@ Concept maps can be used in many ways:
     whether novices can effectively map their understanding, since
     introspection and explanation of understanding are generally more
     advanced skills than understanding itself.
+
+![Concept Maps](fig/for-loop-concepts.png)
 
 > **Meetings, Meetings, Meetings**
 > 

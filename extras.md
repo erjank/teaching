@@ -109,9 +109,9 @@ which can be divided into:
     paper plates and then stack and unstack them to show how the call
     stack works.
 
-A great example of PCK is Gelman and Nolan's *[Teaching Statistics: A
-Bag of Tricks]* [[Gelman2002](biblio.md#gelman-stats)], which is full of
-PCK for teaching introductory statistics.  The [CS Teaching
+A great example of PCK is Gelman and Nolan's *Teaching Statistics: A
+Bag of Tricks* [[Gelman2002](biblio.md#gelman-stats)], which is full
+of PCK for teaching introductory statistics.  The [CS Teaching
 Tips][cs-teaching-tips] site is gathering similar ideas for computing.
 
 ## Myths

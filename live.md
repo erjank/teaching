@@ -76,186 +76,194 @@ than talking off a deck of slides.
 > are taking.  This seems to be more reliable than displaying one
 > virtual desktop while flipping back and forth to another.
 
-Here are some tips to make your live coding better:
+Here are some tips to make your live coding better.
 
-1.  *Be seen and heard.*  If you are physically able to stand up
-    for a couple of hours, do it while you are teaching. When you sit
-    down, you are hiding yourself behind others for those sitting in the
-    back rows. Make sure to notify the workshop organizers of your wish
-    to stand up and ask them to arrange a high table, standing desk, or
-    lectern.
+## Be Seen and Heard
 
-    Regardless of whether you are standing or sitting, make sure to move
-    around as much as reasonable. You can for example go to the screen
-    to point something out, or draw something on the white/blackboard
-    (see below). Moving around makes the teaching more lively, less
-    monotonous.  It draws the learners' attention away from their
-    screens, to you, which helps get the point you are making across.
+If you are physically able to stand up for a couple of hours, do it
+while you are teaching. When you sit down, you are hiding yourself
+behind others for those sitting in the back rows. Make sure to notify
+the workshop organizers of your wish to stand up and ask them to
+arrange a high table, standing desk, or lectern.
 
-    Even though you may have a good voice and know how to use it well,
-    it may be a good idea to use a microphone, especially if the
-    workshop room is equipped with one. Your voice will be less tired,
-    and you increase the chance of people with hearing difficulties
-    being able to follow the workshop.
+Regardless of whether you are standing or sitting, make sure to move
+around as much as reasonable. You can for example go to the screen to
+point something out, or draw something on the white/blackboard (see
+below). Moving around makes the teaching more lively, less monotonous.
+It draws the learners' attention away from their screens, to you,
+which helps get the point you are making across.
 
-2.  *Take it slow.* For every command you type, every word of code you
-    write, every menu item or website button you click, say out loud
-    what you are doing while you do it, then point to the command and
-    its output on the screen and go through it a second time. This not
-    only slows you down, it allows learners who are following along to
-    copy what you do, or to catch up, even when they are looking at
-    their screen while doing it.  Whatever you do, *don't* copy and
-    paste code: doing this practically guarantees that you'll race
-    ahead of your learners.
+Even though you may have a good voice and know how to use it well, it
+may be a good idea to use a microphone, especially if the workshop
+room is equipped with one. Your voice will be less tired, and you
+increase the chance of people with hearing difficulties being able to
+follow the workshop.
 
-    If the output of your command or code makes what you just typed
-    disappear from view, scroll back up so learners can see it again -
-    this is especially needed for the Unix shell lesson.  Other
-    options are to execute the same command a second time, or to copy
-    and paste the last command(s) into the workshop's shared notes.
+## Take It Slow
 
-3.  *Mirror your learner's environment as much as possible.*  You
-    may have set up your environment to your liking, with a very simple
-    or rather fancy Unix prompt, colour schemes for your development
-    environment, keyboard shortcuts etc. Your learners usually won't
-    have all of this. Try to create an environment that mirrors what
-    your learners have, and avoid using keyboard shortcuts. Some
-    instructors create a separate bare-bones user (login) account on
-    their laptop, or a separate teaching-only account on the service
-    being taught (e.g., Github).
+For every command you type, every word of code you write, every menu
+item or website button you click, say out loud what you are doing
+while you do it, then point to the command and its output on the
+screen and go through it a second time. This not only slows you down,
+it allows learners who are following along to copy what you do, or to
+catch up, even when they are looking at their screen while doing it.
+Whatever you do, *don't* copy and paste code: doing this practically
+guarantees that you'll race ahead of your learners.
 
-4.  *Use the screen wisely.* You will need to enlarge your font
-    considerably in order for people to read it from the back of the
-    room, which means you can put much less on the screen than you're
-    used to.  (You will often be reduced to 60-70 columns and 20-30
-    rows, which basically means that you're using a 21st Century
-    supercomputer to emulate an early-1980s VT100 terminal.)
+If the output of your command or code makes what you just typed
+disappear from view, scroll back up so learners can see it again -
+this is especially needed for the Unix shell lesson.  Other options
+are to execute the same command a second time, or to copy and paste
+the last command(s) into the workshop's shared notes.
 
-    To cope with this, maximize your window, and then ask everyone to
-    give you a thumbs-up or thumbs-down on its readability.  Use a
-    black font on a lightly-tinted background rather than a light font
-    on a dark background–the light tint will glare less than a pure
-    white background.
+## Mirror Your Learner's Environment
 
-    When the bottom of the projector screen is at the same height, or
-    below, the heads of the learners, people in the back won't be able
-    to see the lower parts. Draw up the bottom of your window(s) to
-    compensate.
+You may have set up your environment to your liking, with a very
+simple or rather fancy Unix prompt, colour schemes for your
+development environment, keyboard shortcuts etc. Your learners usually
+won't have all of this. Try to create an environment that mirrors what
+your learners have, and avoid using keyboard shortcuts. Some
+instructors create a separate bare-bones user (login) account on their
+laptop, or a separate teaching-only account on the service being
+taught (e.g., Github).
 
-    Pay attention to the room lighting as well: it should not be fully
-    dark, and there should be no lights directly on or above the
-    presenter's screen.  If needed, reposition the tables so all
-    learners can see the screen.
+## Use the Screen Wisely
 
-    If you can get a second screen, use it: the extra screen real
-    estate will allow you to display your code on one side and its
-    output or behavior on the other.  The second screen may require
-    its own PC or laptop, so you may need to ask a helper to control
-    it.
+You will need to enlarge your font considerably in order for people to
+read it from the back of the room, which means you can put much less
+on the screen than you're used to.  (You will often be reduced to
+60-70 columns and 20-30 rows, which basically means that you're using
+a 21st Century supercomputer to emulate an early-1980s VT100
+terminal.)
 
-    > **Multiple Personalities**
-    >
-    > If you teach using a console window, such as a Unix shell, it's
-    > important to tell people when you run an in-console text editor
-    > and when you return to the console prompt.  Most novices have
-    > never seen a window take on multiple personalities in this way,
-    > and can quickly become confused (particularly if the window is
-    > hosting an interactive interpreter prompt for Python or some
-    > other language as well as running shell commands and hosting
-    > an editor).
+To cope with this, maximize your window, and then ask everyone to give
+you a thumbs-up or thumbs-down on its readability.  Use a black font
+on a lightly-tinted background rather than a light font on a dark
+background–the light tint will glare less than a pure white
+background.
 
-5.  *Use illustrations.*  Most lesson material comes with
-    illustrations, and these may help learners to understand the stages
-    of the lesson and to organize the material. What can work really
-    well is when you as instructor generate the illustrations on the
-    white/blackboard as you progress through the material. This allows
-    you to build up diagrams, making them increasingly complex in
-    parallel with the material you are teaching. It helps learners
-    understand the material, makes for a more lively workshop (you'll
-    have to move between your laptop and the blackboard) and gathers the
-    learners' attention to you as well.
+When the bottom of the projector screen is at the same height, or
+below, the heads of the learners, people in the back won't be able to
+see the lower parts. Draw up the bottom of your window(s) to
+compensate.
 
-6.  *Avoid distractions.*  Turn off any notifications you may use
-    on your laptop, such as those from social media, email, etc. Seeing
-    notifications flash by on the screen distracts you as well as the
-    learners - and may even result in awkward situations when a message
-    pops up you'd rather not have others see.
+Pay attention to the room lighting as well: it should not be fully
+dark, and there should be no lights directly on or above the
+presenter's screen.  If needed, reposition the tables so all learners
+can see the screen.
 
-7.  *Improvise after you know the material.*  The first time you
-    teach a new lesson, you should stick fairly closely to the topics it
-    lays out and the order they're in.  It may be tempting to deviate
-    from the material because you would like to show a neat trick, or
-    demonstrate some alternative way of doing something. Don't do this,
-    since there is a fair chance you'll run into something unexpected
-    that you then have to explain.
+If you can get a second screen, use it: the extra screen real estate
+will allow you to display your code on one side and its output or
+behavior on the other.  The second screen may require its own PC or
+laptop, so you may need to ask a helper to control it.
 
-    Once you are more familiar with the material, though, you can and
-    should start improvising based on the backgrounds of your learners,
-    their questions in class, and what you find most interesting about
-    the lesson.  This is like a musician playing a new song: the first
-    few times, you stick to the sheet music, but after you're
-    comfortable with it, you can start to put your own stamp on it.
+> **Multiple Personalities**
+>
+> If you teach using a console window, such as a Unix shell, it's
+> important to tell people when you run an in-console text editor and
+> when you return to the console prompt.  Most novices have never seen
+> a window take on multiple personalities in this way, and can quickly
+> become confused (particularly if the window is hosting an
+> interactive interpreter prompt for Python or some other language as
+> well as running shell commands and hosting an editor).
 
-    If you really want to use something outside of the material, try it
-    out thoroughly before the workshop: run through the lesson as you
-    would during the actual teaching and test the effect of your
-    modification.
+## Use Illustrations
 
-    Some instructors use printouts of the lesson material during
-    teaching.  Others use a second device (tablet or laptop) when
-    teaching, on which they can view their own notes and the shared
-    notes the learners are taking. This seems to be more reliable than
-    displaying one virtual desktop while flipping back and forth to
-    another.
+Most lesson material comes with illustrations, and these may help
+learners to understand the stages of the lesson and to organize the
+material. What can work really well is when you as instructor generate
+the illustrations on the white/blackboard as you progress through the
+material. This allows you to build up diagrams, making them
+increasingly complex in parallel with the material you are
+teaching. It helps learners understand the material, makes for a more
+lively workshop (you'll have to move between your laptop and the
+blackboard) and gathers the learners' attention to you as well.
 
-8.  *Embrace mistakes.*
+## Avoid Distractions
 
-    No matter how well prepared you are, you will be making
-    mistakes. Typo's are hard to avoid, you may overlook something from
-    the lesson instructions, etc. This is OK! It allows learners to see
-    instructors' mistakes and how to diagnose and correct them. Some
-    mistakes are actually an opportunity to point something out, or
-    reflect back on something covered earlier. Novices are going to
-    spend most of their time making the same and other mistakes, but how
-    to deal with them is left out of most textbooks.
+Turn off any notifications you may use on your laptop, such as those
+from social media, email, etc. Seeing notifications flash by on the
+screen distracts you as well as the learners, and may even result in
+awkward situations when a message pops up you'd rather not have others
+see.
 
-    > *The typos are the pedagogy.*  
-    > – Emily Jane McTavish
+## Improvise *After* You Know the Material
 
-    Note: if you've given a lesson several times, you're unlikely to
-    make anything other than basic typing mistakes (which usually
-    aren't informative). It's worth remembering "real" mistakes and
-    making them deliberately, but that often feels forced.  A better
-    approach is to get learners to tell you what to do next in the
-    hope that this will get you into the weeds.
+The first time you teach a new lesson, you should stick fairly closely
+to the topics it lays out and the order they're in.  It may be
+tempting to deviate from the material because you would like to show a
+neat trick, or demonstrate some alternative way of doing
+something. Don't do this, since there is a fair chance you'll run into
+something unexpected that you then have to explain.
 
-9.  It's OK to *face the screen occasionally*, particularly when you
-    are walking through a section of code statement by statement or
-    drawing a diagram, but you shouldn't do this for more than a few
-    seconds at a time.  Looking at the screen for a few seconds can
-    help lower your anxiety levels, since it gives you a brief break
-    from being looked at.
+Once you are more familiar with the material, though, you can and
+should start improvising based on the backgrounds of your learners,
+their questions in class, and what you find most interesting about the
+lesson.  This is like a musician playing a new song: the first few
+times, you stick to the sheet music, but after you're comfortable with
+it, you can start to put your own stamp on it.
 
-    A good rule of thumb is to treat the screen as one of your
-    learners: if it would be uncomfortable to stare at someone for as
-    long as you are spending looking at the screen, it's time to turn
-    around and face your audience.
+If you really want to use something outside of the material, try it
+out thoroughly before the workshop: run through the lesson as you
+would during the actual teaching and test the effect of your
+modification.
 
-10. *Have fun.* Teaching is performance art and can be rather serious
-    business. On the one hand, don't let this scare you - it is much
-    easier than performing Hamlet. You have an excellent script at
-    your disposal, after all! On the other hand, it is OK to add an
-    element of play, i.e. use humor and improvisation to liven up the
-    workshop. How much you are able and willing to do this is really a
-    matter of personality and taste - as well as experience. It
-    becomes easier when you are more familiar with the material,
-    allowing you to relax more. Choose your words and actions wisely,
-    though. Remember that we want the learners to have a welcoming
-    experience and a positive learning environment - a misplaced joke
-    can ruin this in an instant. Start small, even just saying `that
-    was fun' after something worked well is a good start. Ask your
-    co-instructors and helpers for feedback when you are unsure of the
-    effect your behaviour has on the workshop.
+Some instructors use printouts of the lesson material during teaching.
+Others use a second device (tablet or laptop) when teaching, on which
+they can view their own notes and the shared notes the learners are
+taking. This seems to be more reliable than displaying one virtual
+desktop while flipping back and forth to another.
+
+## Embrace Mistakes
+
+No matter how well prepared you are, you will be making
+mistakes. Typo's are hard to avoid, you may overlook something from
+the lesson instructions, etc. This is OK! It allows learners to see
+instructors' mistakes and how to diagnose and correct them. Some
+mistakes are actually an opportunity to point something out, or
+reflect back on something covered earlier. Novices are going to spend
+most of their time making the same and other mistakes, but how to deal
+with them is left out of most textbooks.
+
+> *The typos are the pedagogy.*  
+> – Emily Jane McTavish
+
+Note: if you've given a lesson several times, you're unlikely to make
+anything other than basic typing mistakes (which usually aren't
+informative). It's worth remembering "real" mistakes and making them
+deliberately, but that often feels forced.  A better approach is to
+get learners to tell you what to do next in the hope that this will
+get you into the weeds.
+
+## Face the Screen–Occasionally
+
+It's OK to *face the screen occasionally*, particularly when you are
+walking through a section of code statement by statement or drawing a
+diagram, but you shouldn't do this for more than a few seconds at a
+time.  Looking at the screen for a few seconds can help lower your
+anxiety levels, since it gives you a brief break from being looked at.
+
+A good rule of thumb is to treat the screen as one of your learners:
+if it would be uncomfortable to stare at someone for as long as you
+are spending looking at the screen, it's time to turn around and face
+your audience.
+
+## Have Fun
+
+Teaching is performance art and can be rather serious business. On the
+one hand, don't let this scare you - it is much easier than performing
+Hamlet. You have an excellent script at your disposal, after all! On
+the other hand, it is OK to add an element of play, i.e. use humor and
+improvisation to liven up the workshop. How much you are able and
+willing to do this is really a matter of personality and taste - as
+well as experience. It becomes easier when you are more familiar with
+the material, allowing you to relax more. Choose your words and
+actions wisely, though. Remember that we want the learners to have a
+welcoming experience and a positive learning environment - a misplaced
+joke can ruin this in an instant. Start small, even just saying `that
+was fun' after something worked well is a good start. Ask your
+co-instructors and helpers for feedback when you are unsure of the
+effect your behaviour has on the workshop.
 
 ## Challenges
 

@@ -82,6 +82,7 @@ def total_length(words):
       return total
 ~~~
 
+<!--| \noindent |-->
 then ask learners to fill in the blanks in:
 
 ~~~
@@ -93,6 +94,7 @@ def word_lengths(words):
       return lengths
 ~~~
 
+<!--| \noindent |-->
 The next problem might be:
 
 ~~~
@@ -104,6 +106,7 @@ def concatenate_all(words):
       return result
 ~~~
 
+<!--| \noindent |-->
 and learners would finally be asked to tackle:
 
 ~~~

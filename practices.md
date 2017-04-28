@@ -216,26 +216,21 @@ might want to know, but it does give trainers a pretty clear idea of
 who they're speaking to.
 
 1.  Have you ever participated in a Software Carpentry workshop?
-    (Check all that apply.)
     *   Yes, as a learner.
     *   Yes, as a helper.
     *   Yes, as an organizer.
     *   Yes, as an instructor.
     *   No, but I am familiar with what is taught at a workshop.
-    *   No, and I am not familiar with what is taught at a workshop.
+    *   No, and I am not familiar with what is taught.
 
-1.  Which of these describes your teaching experience?  (Check all that
-    apply.)
+1.  Which of these describes your teaching experience?
     *   I have none.
-    *   I have taught a seminar, workshop, or other short or informal course.
-    *   I have been a graduate or undergraduate teaching assistant for a
-        college- or university-level course.
-    *   I have been the instructor-of-record for a college- or
-        university-level course.
+    *   I have taught a workshop or other informal course.
+    *   I have been a teaching assistant for a college-level course.
+    *   I have been the instructor for a college-level course.
     *   I have taught at the K-12 level.
 
 1.  Which of these describes your previous formal training in teaching?
-    (Please choose only one.)
     *   None
     *   A few hours
     *   A workshop
@@ -410,10 +405,10 @@ this:
     simple factual knowledge).
 
 1.  Have all the students vote on their answers to the MCQ.
-    1.  If the students all have the right answer, move on.
-    1.  If they all have the same wrong answer, address that specific
+    *   If the students all have the right answer, move on.
+    *   If they all have the same wrong answer, address that specific
         misconception.
-    1.  If they have a mix of right and wrong answers, give them
+    *   If they have a mix of right and wrong answers, give them
         several minutes to discuss those answers with one another in
         small groups (typically 2-4 students) and then reconvene and
         vote again.
@@ -546,13 +541,12 @@ more. In addition, most people are much less comfortable recording
 themselves than contributing written material.
 
 The second answer is that doing outperforms watching.  Specifically, a
-recent paper by Koedinger et al
-[[Koedinger2015](biblio.md#koedinger-doing-watching)] estimated "…the
-learning benefit from extra doing (1 SD increase) to be more than six
-times that of extra watching or reading." "Doing", in this case,
-refers to completing an interactive or mimetic task with feedback,
-while "benefit" refers to both "completion rates" and "overall
-performance".
+recent paper [[Koedinger2015](biblio.md#koedinger-doing-watching)]
+estimated "…the learning benefit from extra doing (1 SD increase) to
+be more than six times that of extra watching or reading." "Doing", in
+this case, refers to completing an interactive or mimetic task with
+feedback, while "benefit" refers to both "completion rates" and
+"overall performance".
 
 And while we do not (yet) have empirical data, we believe very
 strongly that many novices would give up in despair if required to

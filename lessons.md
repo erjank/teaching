@@ -228,32 +228,28 @@ typically used in learning objectives written for each level.
 
 * Analysis: breaking down a whole into its component parts and explaining how each part contributes to the whole (differentiate, criticize, compare).
 
-Synthesis: assembling components to form a new and integrated whole (design, construct, organize).
+* Synthesis: assembling components to form a new and integrated whole (design, construct, organize).
 
-Evaluation: using evidence to make judgments about the relative merits of ideas and materials (choose, rate, select).
+* Evaluation: using evidence to make judgments about the relative merits of ideas and materials (choose, rate, select).
 
 Another way to understand what makes for a good learning objective
 is to see how a poor one can be improved:
 
-*   Learner will be given opportunities to learn good programming practices.
-    <br>
+*   "Learner will be given opportunities to learn good programming practices."
     *Describes the lesson's content, not the attributes of successful
     students.*
 
-*   Learner will have a better appreciation for good programming practices.
-    <br>
+*   "Learner will have a better appreciation for good programming practices."
     *Doesn't start with an active verb or define the level of learning,
     and the subject of learning has no context and is not specific.*
 
-*   Learner will understand how to program in R.
-    <br>
+*   "Learner will understand how to program in R."
     *Starts with an active verb, but doesn't define the level of
     learning, and the subject of learning is still too vague for
     assessment.*
 
-*   Learner will write one-page read-filter-summarize-print data
-    analysis scripts for tabular data using R and R Studio.
-    <br>
+*   "Learner will write one-page read-filter-summarize-print data
+    analysis scripts for tabular data using R and R Studio."
     *Starts with an active verb, defines the level of learning,
     and provides context to ensure that outcomes can be assessed.*
 

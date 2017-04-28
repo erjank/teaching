@@ -107,6 +107,7 @@ abstract of the latter paper sums up their findings:
 > outside sources, or involved only personal interaction with other
 > educators.
 
+<!--| \noindent |-->
 Barker et al found something similar
 [[Barker2015](biblio.md#barker-practice-adoption)]:
 
@@ -274,6 +275,7 @@ out of time. Doing all the reviewing after all the teaching also helps
 put a bit of distance between the teaching and the reviewing, which
 makes the exercise slightly less excruciating.
 
+<!--| \newpage |-->
 In order for this exercise to work well:
 
 *   Groups must be physically separated to reduce audio cross-talk
