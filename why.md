@@ -25,40 +25,24 @@ occasionally asked me why I did it. This was my answer:
 > ignore. It's because if you don't start learning how to do these
 > things now, you won't be ready to do them when you have to.
 
-It was stirring stuff, but it wasn't the whole story. I didn't just
-want my students to make the world a better place so that I could
-retire in comfort. I want them to make it a better place because it's
-the great adventure of our time. Just think: a hundred and fifty years
-ago, most societies still practiced slavery. A hundred years ago, when
-my grandmother was young, she [wasn't legally a person][famous5] in
-Canada.  Fifty years ago, most of the world's people suffered under
-totalitarian rule; in the year I was born, judges could–and
-did–order electroshock therapy to "cure" homosexuals. Yes, there's
-still a lot wrong with the world, but look at how many more choices we
-have than our grandparents did. Look at how many more things we can
-know, and be, and enjoy. And most importantly, look at how many other
-people can too.
+But this isn't the whole story. I don't want my students to make the
+world a better place so that I can retire in comfort. I want them to
+make it a better place because it's the greatest adventure of our
+time. A hundred and fifty years ago, most societies still practiced
+slavery. A hundred years ago, when my grandmother was young, she
+[wasn't legally a person][famous5] in Canada.  Fifty years ago, most
+of the world's people suffered under totalitarian rule; in the year I
+was born, judges could–and did–order electroshock therapy to "cure"
+homosexuals. Yes, there's still a lot wrong with the world, but look
+at how many more choices we have than our grandparents did. Look at
+how many more things we can know, and be, and enjoy.
 
-This didn't happen by chance. It happened because millions of us made
-millions of little decisions, the sum of which was a better world. We
-don't think of these day-to-day decisions as political, but every time
-we buy one brand of running shoe instead of another or shout an
-anatomical insult instead of a racial one at a cab driver, we're
-choosing one vision of the world instead of another. We don't think
-about this bigger picture most of the time, but the last century and a
-half shows that once enough people make "doing the right thing" a habit,
-the big picture more or less takes care of itself.
-
-At least, that's what I believed in 2004. I am less optimistic today.
-One upside of nuclear apocalypse from a preventive point of view was
-that the people pushing the buttons would pay the price. The bill for my
-generation's cowardice, lethargy, and greed, on the other hand, won't
-come due 'til my daughter is grown, by which point there will be no easy
-solutions (and quite possibly no solutions at all). The only things that
-will save us then will be more science and more courage, both of which
-need to be taught and practiced. Insisting on evidence, and then
-*acting* on it when the cost is immediate and the reward delayed,
-requires as great a social change as emancipation or universal suffrage.
+This didn't happen by chance. It happened because millions of people
+made millions of little decisions, the sum of which was a better
+world. We don't think of these day-to-day decisions as political, but
+every time we buy one brand of running shoe instead of another or
+shout an anatomical insult instead of a racial one at a cab driver,
+we're choosing one vision of the world instead of another.
 
 In his 1947 essay "[Why I Write][orwell-why-i-write]", George Orwell
 said:
@@ -73,10 +57,10 @@ said:
 > of them in one guise or another. It is simply a question of which side
 > one takes…
 
-Replace "writing" with "teaching" and you'll have the reason I've done
-what I've done for the last thirteen years. The world doesn't get
-better on its own. It gets better because people *make* it better:
-penny by penny, vote by vote, and one lesson at a time.
+Replace "writing" with "teaching" and you'll have the reason I do what
+I do. The world doesn't get better on its own. It gets better because
+people make it better: penny by penny, vote by vote, and one lesson at
+a time.
 
 [famous5]: http://www.canuck.com/famous5/html/history.html
 [orwell-why-i-write]: http://www.resort.com/~prime8/Orwell/whywrite.html

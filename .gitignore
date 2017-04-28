@@ -10,4 +10,4 @@ docs/bin
 docs/template.tex
 ltx-book.tex
 node_modules
-raw.tex
+temp.tex

@@ -7,6 +7,10 @@
 \setulmarginsandblock{1.00in}{1.00in}{*}
 \checkandfixthelayout
 
+\usepackage{etoolbox}
+\patchcmd{\quote}{\rightmargin}{\leftmargin 1em \rightmargin}{}{}
+\AtBeginEnvironment{quote}{\itshape}
+
 \chapterstyle{southall}
 
 \setlist[enumerate]{leftmargin=2em}

@@ -2,13 +2,12 @@
 
 > **In Brief**
 >
-> *How to Teach Programming (And Other Things)* shows readers how to
-> build and deliver high-quality learning experiences to people who
-> want to learn how to program (and other things as well).  It is
-> based on [Software Carpentry][swc-site]'s [instructor training
-> course][swc-training], and all material can be freely distributed
-> and re-used under the [Creative Commons - Attribution][license]
-> license.
+> This book shows readers how to build and deliver high-quality
+> learning experiences to people who want to learn how to program (and
+> other things as well).  It is based on [Software
+> Carpentry][swc-site]'s [instructor training course][swc-training],
+> and all material can be freely distributed and re-used under the
+> [Creative Commons - Attribution][license] license.
 
 Thousands of grassroots "learn to code" groups have sprung up in the
 past few years.  They exist so that people don't have to figure out
@@ -241,8 +240,8 @@ practices right from the start:
 
 ## Dedication
 
-This book is dedicated to my mother, Doris Wilson, who taught a lot of
-children how to read and write, and to believe in themselves.
+This book is dedicated to my mother, Doris Wilson, who taught hundreds
+of children to read and to believe in themselves.
 
 ## Challenges
 

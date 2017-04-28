@@ -5,6 +5,9 @@ all : commands
 commands :
 	@grep -E '^##' Makefile | sed -e 's/## //g'
 
+## everything : publish in all forms
+everything : web-book gb-book ltx-book
+
 ## preview    : preview locally.
 preview :
 	@gitbook serve
@@ -22,6 +25,8 @@ ltx-book :
 	bin/concat.sh \
 	| bin/pre-process.py \
 	| pandoc -f markdown -t latex --template=template.tex \
+	> temp.tex
+	cat temp.tex \
 	| bin/post-process.py \
 	>  ltx-book.tex
 	pdflatex ltx-book.tex
