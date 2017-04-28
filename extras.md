@@ -50,17 +50,17 @@ with the community of practice.
 
 > **Other Perspectives**
 >
-> There are many other perspectives outside cognitivist theory—see
-> [this site][learning-theories] for summaries. Besides cognitivism,
-> those encountered most frequently include
-> _[behaviorism](gloss.md#behaviorism)_ (which treats education as
-> stimulus/response conditioning),
+> There are many other perspectives outside cognitivist theory—see the
+> Learning Theories site [[Learning2017](biblio.md#learning-theories)]
+> for summaries. Besides cognitivism, those encountered most
+> frequently include _[behaviorism](gloss.md#behaviorism)_ (which
+> treats education as stimulus/response conditioning),
 > _[constructivism](gloss.md#constructivism)_ (which considers
 > learning an active process during which learners construct knowledge
-> for themselves), and _[connectivism](gloss.md#connectivism)_
-> (which emphasizes the social aspects of learning, particularly those
-> made possible by the Internet).  And yes, it would help if their
-> names were less similar…
+> for themselves), and _[connectivism](gloss.md#connectivism)_ (which
+> emphasizes the social aspects of learning, particularly those made
+> possible by the Internet).  And yes, it would help if their names
+> were less similar…
 
 Educational psychology does not tell us how to teach on its own
 because it under-constrains the problem: in real life, several
@@ -111,8 +111,9 @@ which can be divided into:
 
 A great example of PCK is Gelman and Nolan's *Teaching Statistics: A
 Bag of Tricks* [[Gelman2002](biblio.md#gelman-stats)], which is full
-of PCK for teaching introductory statistics.  The [CS Teaching
-Tips][cs-teaching-tips] site is gathering similar ideas for computing.
+of PCK for teaching introductory statistics.  The CS Teaching Tips
+site [[Tips2017](biblio.md#cs-teaching-tips)] is gathering similar
+ideas for computing.
 
 ## Myths
 
@@ -176,7 +177,7 @@ will have done them a service.
 The two lists below summarize key feedback on the two videos used
 in the discussion of [live coding](live.md).
 
-### [Part 1: How Not to Do It][live-coding-bad-review]
+### Part 1: How Not to Do It
 
 *   Instructor ignores a red sticky clearly visible on a learner's
     laptop.
@@ -199,7 +200,7 @@ in the discussion of [live coding](live.md).
 *   Instructor makes a mistake (a typo) but simply fixes it without
     pointing it out, and redoes the command.
 
-### [Part 2: How to Do It Right][live-coding-good-review]
+### Part 2: How to Do It Right
 
 *   Instructor checks if the learner with the red sticky on her laptop
     still needs attention.
@@ -322,8 +323,4 @@ out early on how you're going to know whether you're teaching the
 right things the right way, and how you're going to convince potential
 backers that you're doing so.
 
-[cs-teaching-tips]: http://csteachingtips.org/
-[learning-theories]: http://www.learning-theories.com/
-[live-coding-bad-review]: https://youtu.be/bXxBeNkKmJE
-[live-coding-good-review]: https://youtu.be/SkPmwe_WjeY
 [wikipedia-learning-modalities]: https://en.wikipedia.org/wiki/Learning_styles#Learning_modalities

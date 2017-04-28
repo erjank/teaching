@@ -38,10 +38,10 @@ checklists customized for its instructors' and learners' needs.
 1.  If the workshop is online, test the video conferencing link.
 1.  Make sure attendees will all have network access.
 1.  Create an Etherpad or Google Doc for shared notes.
-1.  Email attendees a welcome message that includes:
-    *   a link to the workshop home page
-    *   background readings
-    *   a description of any pre-requisite tasks
+1.  Email attendees a welcome message that includes
+    a link to the workshop home page,
+    background readings,
+    and a description of any pre-requisite tasks.
 
 ## At the Start of the Event
 
@@ -75,8 +75,7 @@ teach:
 *   a granola bar or some other emergency snack
 *   Eno or some other antacid (because road food)
 *   business cards
-*   a printed copy of notes for reference during teaching
-    (or a tablet or other "extra" device)
+*   a printed copy of the notes, or a tablet or other "extra" device
 *   an insulated cup for tea/coffee
 *   spare glasses/contacts
 *   a notebook and pen

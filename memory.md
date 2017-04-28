@@ -35,6 +35,7 @@ between experts and people who are "merely competent" is that experts
 have many more connections, i.e., their mental models are much more
 densely connected.
 
+<!--| \newpage |-->
 This metaphor helps explain many observed aspects of expert behavior:
 
 *   Experts can jump directly from a problem to its solution because
@@ -70,8 +71,6 @@ This metaphor helps explain many observed aspects of expert behavior:
     this in turn is why asking programmers to debug during job
     interviews gives a more accurate impression of their ability than
     asking them to program.)
-
-<!--| \newpage |-->
 
 > **The J Word**
 >
@@ -142,16 +141,19 @@ explain what the relationship *is*. And yes, one person's fact may be
 another person's connection, but one of the benefits of concept
 mapping is that it makes those differences explicit.
 
+<!--| \newpage |-->
+
 > **Externalizing Cognition**
 > 
 > Concept maps are just one way to represent our understanding of a
-> subject.  For example, Andrew Abela's [decision tree][abela-chart]
-> presents a mental model of how to choose the right kind of chart for
-> different kinds of questions and data.  Maps, flowcharts, and
-> blueprints can also be useful in some contexts.  What each does is
-> _[externalize cognition](gloss.md#externalized-cognition)_, i.e.,
-> make thought processes and mental models visible so that they can be
-> compared, contrasted, and combined.
+> subject.  For example, Andrew Abela's decision tree
+> [[Abela2009](biblio.md#abela-chart)] presents a mental model of how
+> to choose the right kind of chart for different kinds of questions
+> and data.  Maps, flowcharts, and blueprints can also be useful in
+> some contexts.  What each does is _[externalize
+> cognition](gloss.md#externalized-cognition)_, i.e., make thought
+> processes and mental models visible so that they can be compared,
+> contrasted, and combined.
 
 To show what concept maps look like, consider this simple `for
 loop in Python:
@@ -246,6 +248,8 @@ it took the dial to go around and around. It's also why sports teams
 tend to have about half a dozen members, or be broken down into
 smaller groups (such as the forwards and backs in rugby).
 
+<!--| \newpage |-->
+
 > **Chunking**
 > 
 > Our minds can store larger numbers of facts in short-term memory by
@@ -312,6 +316,3 @@ multiple choice question for earlier.) Trade with a partner, and
 critique each other's maps. Do they present concepts or surface
 detail? Which of the relationships in your partner's map do you
 consider concepts and vice versa?
-
-[abela-chart]: http://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf
-[serial-position]: http://cat.xula.edu/thinker/memory/working/serial

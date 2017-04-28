@@ -6,6 +6,9 @@
   teaching practice for programming workshops.**
 * **Learners can enact and critique live coding.**
 
+> *Teaching is theater not cinema.*  
+> – Neal Davis
+
 Teaching is a performance art, just like drama, music, and athletics.
 And as in those fields, we have a collection of small tips and tricks
 to make teaching work better.
@@ -59,24 +62,11 @@ avoided or worked around:
     spend your time typing boilerplate, that may be what learners will
     take away.
 
-> *Teaching is theater not cinema.*  
-> – Neal Davis
-
 Live coding is an example of the "I/We/You" approach to teaching
 discussed in [Performance](performance.md).  It takes a bit of practice
 for instructors to get used to thinking aloud while coding in front of
 an audience, but most report that it is then no more difficult to do
 than talking off a deck of slides.
-
-> **Double Devices**
-> 
-> Many instructors now use two devices when teaching: a laptop plugged
-> into the projector for learners to see, and a tablet beside it on
-> which they can view their notes and the shared notes that the learners
-> are taking.  This seems to be more reliable than displaying one
-> virtual desktop while flipping back and forth to another.
-
-Here are some tips to make your live coding better.
 
 ## Be Seen and Heard
 
@@ -166,6 +156,14 @@ laptop, so you may need to ask a helper to control it.
 > become confused (particularly if the window is hosting an
 > interactive interpreter prompt for Python or some other language as
 > well as running shell commands and hosting an editor).
+
+## Double Devices
+
+Many instructors now use two devices when teaching: a laptop plugged
+into the projector for learners to see, and a tablet beside it on
+which they can view their notes and the shared notes that the learners
+are taking.  This seems to be more reliable than displaying one
+virtual desktop while flipping back and forth to another.
 
 ## Use Illustrations
 
@@ -269,10 +267,11 @@ effect your behaviour has on the workshop.
 
 ### The Bad and the Good (20 minutes)
 
-Watch this video of [live coding done poorly][live-coding-bad] and
-then this video of [live coding done well][live-coding-good] as a
-group and then summarize your feedback on both using the usual 2×2
-grid.  These videos assume learners know what a shell variable is,
+Watch the video of live coding done poorly
+[[Nederbragt2016a](biblio.md#live-coding-bad)] and then the video of
+live coding done well [[Nederbragt2016b](biblio.md#live-coding-good)]
+as a group and then summarize your feedback on both using the usual
+2×2 grid.  These videos assume learners know what a shell variable is,
 know how to use the `head` command, and are familiar with the contents
 of the data files being filtered.
 
@@ -298,6 +297,3 @@ teach it to are expected to be familiar with.
     with the mouse?
 
 *   What will you try to do differently next time?
-
-[live-coding-bad]: https://youtu.be/bXxBeNkKmJE
-[live-coding-good]: https://youtu.be/SkPmwe_WjeY

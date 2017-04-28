@@ -88,7 +88,7 @@ debugging.
 ## Demotivation
 
 > *Women aren't leaving computing because they don't know what it's
-> like; they're leaving because they **do** know.  
+> like; they're leaving because they **do** know.*  
 > – variously attributed
 
 If you are teaching free-range learners, they are probably already
@@ -106,9 +106,8 @@ either. And if people believe the class is unfair, they will also be
 demotivated, even if it is unfair in their favor (because consciously
 or unconsciously they will worry that they will some day find
 themselves in the group on the losing end
-[[Wilkinson2011](biblio.md#wilkinson-pickett-spirit-level)]).
-
-In extreme situations, learners may developed [learned
+[[Wilkinson2011](biblio.md#wilkinson-pickett-spirit-level)]).  In
+extreme situations, learners may developed [learned
 helplessness](gloss.md#learned-helplessness): when repeatedly
 subjected to negative feedback that they have no way to escape, they
 may learn not to even try to escape when they could.
@@ -181,8 +180,7 @@ the results are shared and criticized publicly. In addition, we rarely
 see the struggles of others, only their finished work, which can feed
 the belief that everyone else finds it easy. Women and minority
 groups who already feel additional pressure to prove themselves in
-some settings
-[may be particularly affected][high-achieving].
+some settings may be particularly affected.
 
 Two ways of dealing with your own impostor syndrome are:
 
@@ -297,12 +295,12 @@ anything involving human subjects is both subtle and difficult.
 ## Accessibility
 
 Not providing equal access to lessons and exercises is about as
-demotivating as it gets. If you look at [the old Software Carpentry
-lessons][swc-old-lessons], for example, the text beside the slides
-includes all of the narration–but none of the Python source code.
-Someone using a [screen reader][wikipedia-screen-reader]
-would therefore be able to hear what was being said about the program,
-but wouldn't know what the program actually was.
+demotivating as it gets. The older Software Carpentry lessons, for
+example, the text beside the slides includes all of the narration–but
+none of the Python source code.  Someone using a [screen
+reader][wikipedia-screen-reader] would therefore be able to hear what
+was being said about the program, but wouldn't know what the program
+actually was.
 
 While it may not be possible to accommodate everyone's needs, it
 *is* possible to get a good working structure in place without any
@@ -333,11 +331,11 @@ the right place to start.  A few other recommendations are:
 *   *Find out what you need to do.* The [W3C Accessibility Initiative's
     checklist for presentations][w3c-accessibility] is a good starting
     point focused primarily on assisting the visually impaired, while
-    Liz Henry's blog post about [accessibility at
-    conferences][henry-accessibility] has a good checklist for people
-    with mobility issues, and [this interview][taylor-interview] with
-    Chad Taylor is a good introduction to issues faced by the hearing
-    impaired.
+    Liz Henry's blog post about accessibility at conferences
+    [[Henry2014](biblio.md#henry-accessibility)] has a good checklist
+    for people with mobility issues, and this interview with Chad
+    Taylor is a good introduction to issues faced by the hearing
+    impaired [[Taylor2014](biblio.md#taylor-interview)].
 
 *   *Know how well you're doing.* For example, sites like
     [WebAIM][webaim] allow you to check how accessible your online
@@ -450,21 +448,18 @@ In [[Littky2004](biblio.md#littky-big-picture)], Kenneth Wesson wrote,
 "If poor inner-city children consistently outscored children from
 wealthy suburban homes on standardized tests, is anyone naive enough
 to believe that we would still insist on using these tests as
-indicators of success?" Read [this article][nytimes-gifted], and then
-describe an example from your own experience of "objective"
-assessments that reinforced the status quo.
+indicators of success?" Read
+[[Cottrill2016](biblio.md#cottrill-gifted)], and then describe an
+example from your own experience of "objective" assessments that
+reinforced the status quo.
 
 [ada-resources]: http://adainitiative.org/continue-our-work/impostor-syndrome-training/
 [growth-mindset-concerns]: http://www.learningspy.co.uk/psychology/growth-mindset-bollocks/
 [guzdial-myth]: http://cacm.acm.org/blogs/blog-cacm/189498-top-10-myths-about-teaching-computer-science/fulltext
-[henry-accessibility]: https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences
-[high-achieving]: http://www.paulineroseclance.com/pdf/ip_high_achieving_women.pdf
-[nytimes-gifted]: https://mobile.nytimes.com/2016/04/10/upshot/why-talented-black-and-hispanic-students-can-go-undiscovered.html
 [recurse-rules]: https://www.recurse.com/manual#sec-environment
 [stereotype-threat-ambiguity]: http://www.europhd.net/html/_onda02/07/PDF/20th_lab_materials/jane/shapiro_neuberg_2007.pdf
 [stereotype-threat-replicability]: https://www.psychologytoday.com/blog/rabble-rouser/201512/is-stereotype-threat-overcooked-overstated-and-oversold
 [swc-old-lessons]: http://swcarpentry.github.io/v4/python/flow.html
-[taylor-interview]: https://modelviewculture.com/pieces/qa-making-tech-events-accessible-to-the-deaf-community
 [usenix-impostor]: https://www.usenix.org/blog/impostor-syndrome-proof-yourself-and-your-community
 [w3c-accessibility]: http://www.w3.org/WAI/training/accessible
 [webaim]: http://webaim.org/

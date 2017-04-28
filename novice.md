@@ -62,9 +62,9 @@ differently.  In particular, presenting novices with a pile of facts
 early on is counter-productive, because they don't yet have a model to
 fit those facts into.  In fact, presenting too many facts too soon can
 actually reinforce the incorrect mental model they've cobbled
-together.  As [Derek Muller
-wrote](https://fnoschese.wordpress.com/2011/03/17/khan-academy-and-the-effectiveness-of-science-videos/)
-about this in the context of video instruction for science students:
+together.  As Derek Muller wrote about this
+[[Muller2011](biblio.md#muller-videos)] in the context of video
+instruction for science students:
 
 > Students have existing ideas about scientific phenomena before
 > viewing a video. If the video presents scientific concepts in a
@@ -250,6 +250,8 @@ to waste it.
 
 <!-- comment needed to separate blockquotes -->
 
+<!--| \newpage |-->
+
 > **Notes on MCQ Design**
 > 
 > 1.  A good MCQ tests for conceptual misunderstanding rather than
@@ -296,9 +298,6 @@ their point of view.
 
 > **Why Not MOOCs**
 >
-> *If you use robots to teach, you teach people to be robots.*  
-> – variously attributed
->
 > Massive open online courses (MOOCs) in which students watch videos
 > instead of attending lectures, and then do assignments that are
 > (usually) robo-graded, were a hot topic a few years ago.  Now that
@@ -313,6 +312,9 @@ their point of view.
 > ones who stick with most massive online courses, but many
 > discussions of the effectiveness of such courses ignore this
 > survivor bias.
+>
+> *If you use robots to teach, you teach people to be robots.*  
+> – variously attributed
 
 ## Teaching Practices
 
@@ -368,7 +370,6 @@ explain how it helps both the instructor and the learner figure out
 where they are and what they need to do next.
 
 [swc-unix]: http://swcarpentry.github.io/shell-novice/
-[video-peer-instruction]: https://www.youtube.com/watch?v=2LbuoxAy56o
 [wikipedia-dreyfus]: https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition
 [wikipedia-fci]: https://en.wikipedia.org/wiki/Force_Concept_Inventory
 [wikipedia-peer-instruction]: https://en.wikipedia.org/wiki/Peer_instruction

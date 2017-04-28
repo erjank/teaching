@@ -275,7 +275,6 @@ out of time. Doing all the reviewing after all the teaching also helps
 put a bit of distance between the teaching and the reviewing, which
 makes the exercise slightly less excruciating.
 
-<!--| \newpage |-->
 In order for this exercise to work well:
 
 *   Groups must be physically separated to reduce audio cross-talk

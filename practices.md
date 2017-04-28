@@ -413,13 +413,13 @@ this:
         small groups (typically 2-4 students) and then reconvene and
         vote again.
 
-As [this video][video-peer-instruction] shows, group discussion
-significantly improves students' understanding because it forces them
-to clarify their thinking, which can be enough to call out gaps in
-reasoning. Re-polling the class then lets the instructor know if they
-can move on, or if further explanation is necessary. A final round of
-additional explanation and discussion after the correct answer is
-presented gives students one more chance to solidify their
+As [[Avanti2013](biblio.md#video-peer-instruction)] shows, group
+discussion significantly improves students' understanding because it
+forces them to clarify their thinking, which can be enough to call out
+gaps in reasoning. Re-polling the class then lets the instructor know
+if they can move on, or if further explanation is necessary. A final
+round of additional explanation and discussion after the correct
+answer is presented gives students one more chance to solidify their
 understanding.
 
 Peer instruction is essentially a way to provide one-to-one mentorship
@@ -530,35 +530,31 @@ breath, for which your learners will probably be grateful.
 
 Many learners find it difficult to get to a workshop, either because
 there isn't one locally or because it's difficult to schedule time
-around other commitments, so why don't we create video recordings of
-the lessons and offer the workshop as a MOOC (Massive Open Online
-Course)?
+around other commitments, so it is tempting to record lessons and post
+them online.  However, as discussed
+[earlier](novice.md#formative-assessment), recorded content isn't
+particularly helpful for most novices, since a single explanation
+repeated over and over usually won't clear up their misconceptions.
+In addition, a recent paper
+[[Koedinger2015](biblio.md#koedinger-doing-watching)] estimated "…the
+learning benefit from extra doing (1 SD increase) to be more than six
+times that of extra watching or reading." "Doing", in this case,
+refers to completing an interactive or mimetic task with feedback,
+while "benefit" refers to both "completion rates" and "overall
+performance".
 
-The first answer is that we did in 2010-11, but found the maintenance
-costs unsustainable. Making a small change to this webpage only takes
-a few minutes. but making *any* change to a video takes an hour or
-more. In addition, most people are much less comfortable recording
-themselves than contributing written material.
+Another consideration is maintenance.  Making a small change to this
+webpage only takes a few minutes, but in our experience, making any
+kind of change to a video takes an hour or more. In addition, most
+people are much less comfortable recording themselves than
+contributing written material.
 
-The second answer is that doing outperforms watching.  Specifically, a
-recent paper [[Koedinger2015](biblio.md#koedinger-doing-watching)]
-estimated "…the learning benefit from extra doing (1 SD increase) to
-be more than six times that of extra watching or reading." "Doing", in
-this case, refers to completing an interactive or mimetic task with
-feedback, while "benefit" refers to both "completion rates" and
-"overall performance".
-
-And while we do not (yet) have empirical data, we believe very
-strongly that many novices would give up in despair if required to
-debug setup and installation lessons on their own, but are more likely
-to get past these obstacles if someone is present to help them.
-
-An intermediate approach that has proven quite successful is real-time
-remote instruction, in which the learners are co-located at one (or a
-few) sites, with helpers present, while the instructor(s) teaching via
-online video. This model has worked well for this instructor training
-course, and for a handful of regular workshops, but more work is
-needed to figure out its pros and cons.
+That said, MOOCs *are* useful for people who already a mental model
+and wish to remind themselves of things they already know or fill in
+gaps in their knowledge.  A hybrid approach that has proven quite
+successful is real-time remote instruction, in which the learners are
+co-located at one (or a few) sites, with helpers present, while the
+instructor(s) teaching via online video.
 
 ## Think-Pair-Share
 

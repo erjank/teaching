@@ -50,10 +50,9 @@ method is something called _[reverse instructional
 design](gloss.md#reverse-instructional-design)_ or _[understanding by
 design](gloss.md#understanding-by-design)_ after a book by that name
 [[Wiggins2005](biblio.md#wiggins-mctighe)]; a similar method is
-described in [[Fink2013](biblio.md#fink-significant)].  (A summary of
-[[Fink2013](biblio.md#fink-significant)] is [freely available
-online][fink-short].)  In brief, lessons should be designed as
-follows:
+described in [[Fink2013](biblio.md#fink-significant)] (a summary of
+which is freely available online [[Fink2003](fink-short)].)  In brief,
+lessons should be designed as follows:
 
 1.  Create learner profiles (discussed in the next section) to figure
     out who you are trying to teach and what will appeal to them.
@@ -255,9 +254,8 @@ is to see how a poor one can be improved:
 
 Baume's guide to writing and using good learning outcomes
 [[Baume2009](biblio.md#baume-outcomes)] is a good longer discussion of
-these issues.  [This list of learning goals][ubc-learning-goals] from
-the University of British Columbia may also provide some useful
-guidance.
+these issues.  [UBC's list of learning goals][ubc-learning-goals] may
+also provide some useful guidance.
 
 ## Challenges
 
@@ -272,6 +270,5 @@ Write one more learning objectives for something you currently teach
 or plan to teach.  Working with a partner, critique and improve the
 objectives.
 
-[fink-short]: https://www.deefinkandassociates.com/GuidetoCourseDesignAug05.pdf
 [ubc-learning-goals]: http://www.cwsei.ubc.ca/Files/ComSc_LG/CPSC_Learning_Goals.pdf
 [wikipedia-bloom]: https://en.wikipedia.org/wiki/Bloom's_taxonomy

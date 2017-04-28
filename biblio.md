@@ -1,6 +1,8 @@
 # Bibliography
 
-## What to Read Next
+<!--| \noindent |-->
+
+**What to Read Next**
 
 *   <a id="ambrose-hlw">[Ambrose2010]</a> Susan A. Ambrose, Michael W. Bridges, Michele DiPietro, Marsha C. Lovett, and Marie K. Norman: _[How Learning Works: Seven Research-Based Principles for Smart Teaching](https://www.amazon.com/How-Learning-Works-Research-Based-Principles/dp/0470484101/)_ Jossey-Bass, 2010, 978-0470484104. _An excellent overview of what we know about education and why we believe it's true, covering everything from cognitive psychology to social factors._
 
@@ -18,9 +20,15 @@
 
 *   <a id="margolis-fisher-clubhouse">[Margolis2003]</a> J. Margolis and A. Fisher: _[Unlocking the Clubhouse: Women in Computing](https://www.amazon.com/Unlocking-Clubhouse-Women-Computing-Press/dp/0262632691/)_ MIT Press, 2003, 978-0262632690. _A groundbreaking report on the gender imbalance in computing, and the steps Carnegie-Mellon took to address the problem._
 
-## Other References
+<!--| \noindent |-->
+
+**Other References**
+
+*   <a id="abela-chart">[Abela2009]</a> Andrew Abela: "Chart Suggestions–A Thought Starter".  <http://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf>, viewed April 2017.
 
 *   <a id="aiken-note-taking">[Aiken1975]</a> Edwin G. Aiken, Gary S. Thomas, and William A. Shennum: "Memory for a Lecture: Effects of Notes, Lecture Rate, and Informational Density." _Journal of Educational Psychology_, 67(3), June 1975, 10.1037/h0076613. _A landmark study showing that taking notes improves retention when learning._
+
+*   <a id="video-peer-instruction">[Avanti2013]</a>: Avanti Learning Centre: "ConcepTests at Avanti's Learning Centre in Kanpur." <https://www.youtube.com/watch?v=2LbuoxAy56o>, viewed April 2017.
 
 *   <a id="aveling-checklists">[Aveling2013]</a> Emma-Louise Aveling, Peter McCulloch, and Mary Dixon-Woods: "A Qualitative Study Comparing Experiences of the Surgical Safety Checklist in Hospitals in High-Income and Low-Income Countries." _BMJ Open_, 3(8), 2013, 10.1136/bmjopen-2013-003039. _Reports on surgical checklist implementations and effects in the UK and Africa._
 
@@ -34,6 +42,8 @@
 
 *   <a id="brown-empirical">[Brown2014]</a> Neil C. C. Brown and Amjad Altadmri: "Investigating Novice Programming Mistakes: Educator Beliefs vs. Student Data." _Proc Tenth Annual Conference on International Computing Education Research_, 2014, 10.1145/2632320.2632343. _Uses data from over 100,000 students to show that educators know less than they think about what mistakes novice programmers actually make._
 
+*   <a id="cottrill-gifted">[Cottrill2016]</a> Cameron Cottrill: "Why Talented Black and Hispanic Students Can Go Undiscovered." <https://mobile.nytimes.com/2016/04/10/upshot/why-talented-black-and-hispanic-students-can-go-undiscovered.html>, viewed April 2017.
+
 *   <a id="debruyckere-urban-myths">[DeBruyckere2015]</a> Pedro De Bruyckere, Paul A. Kirschner, and Casper D. Hulshof: _[Urban Myths about Learning and Education](https://www.amazon.com/Urban-Myths-about-Learning-Education/dp/0128015373/)_ Academic Press, 2015, 978-0128015377. _Describes and debunks some widely-held myths about how people learn._
 
 *   <a id="epstein-thinking-physics">[Epstein2002]</a> L.C. Epstein: _[Thinking Physics is Gedanken Physics](https://www.amazon.com/Thinking-Physics-Understandable-Practical-Reality/dp/0935218084/)_ Insight Press, 2002: 978-0935218084. _An entertaining problem-based introduction to thinking like a physicist._
@@ -43,6 +53,8 @@
 *   <a id="fincher-stories-change">[Fincher2012]</a> Sally Fincher, Brad Richards, Janet Finlay, Helen Sharp, and Isobel Falconer: "Stories of Change: How Educators Change Their Practice." _Proc. Frontiers in Education Conference_, 2012, 10.1109/FIE.2012.6462317. _A detailed look at how educators actually adopt new teaching practices._
 
 *   <a id="fincher-warrens-questions">[Fincher2007]</a> Sally Fincher and Josh Tenenberg: "Warren's Question." _Proc. Third International Workshop on Computing Education Research_, 2007, 10.1145/1288580.1288588. _A detailed look at a particular instance of transferring a teaching practice._
+
+*   <a id="fink-short">[Fink2003]</a> L. Dee Fink: "A Self-Directed Guide to Designing Courses for Significant Learning." <https://www.deefinkandassociates.com/GuidetoCourseDesignAug05.pdf>, viewed April 2017.
 
 *   <a id="fink-significant">[Fink2013]</a> L. Dee Fink: _[Creating Significant Learning Experiences: An Integrated Approach to Designing College Courses](https://www.amazon.com/Creating-Significant-Learning-Experiences-Integrated/dp/1118124251/)_ (2nd edition). Jossey-Bass, 2013, 978-1118124253. _A step-by-step guide to a systematic lesson design process._
 
@@ -62,6 +74,8 @@
 
 *   <a id="henderson-facilitating">[Henderson2011]</a> Charles Henderson, Andrea Beach, and Noah Finkelstein: "Facilitating Change in Undergraduate STEM Instructional Practices: An Analytic Review of the Literature." _Journal of Research in Science Teaching_, 48(8), 2011, 10.1002/tea.20439. _Describes eight approaches to effecting change in STEM education that form a useful framework for thinking about how free-range workshops can go mainstream._
 
+*   <a id="henry-accessibility">[Henry2014]</a> Liz Henry: "Unlocking the Invisible Elevator: Accessibility at Tech Conferences." <https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences>, viewed April 2017.
+
 *   <a id="kernighan-plauger-elements">[Kernighan1982]</a> Brian W. Kernighan and P.J. Plauger: _[The Elements of Programming Style](https://www.amazon.com/Elements-Programming-Style-2nd/dp/0070342075/)_ (2nd edition). McGraw-Hill, 1982, 978-0070342071. _An early and influential description of the Unix programming philosophy._
 
 *   <a id="kernighan-pike-upe">[Kernighan1984]</a> Brian W. Kernighan and Rob Pike: _[The UNIX Programming Environment](https://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X/)_ Prentice Hall, 1984, 978-0139376818. _An influential early description of Unix._
@@ -73,6 +87,8 @@
 *   <a id="koedinger-doing-watching">[Koedinger2015]</a> Kenneth R. Koedinger, Jihee Kim, Julianna Zhuxin Jia, Elizabeth A. McLaughlin, and Norman L. Bier: "Learning is Not a Spectator Sport: Doing is Better Than Watching for Learning from a MOOC" _Proc. Second ACM Conference on Learning @ Scale_, 2015, 10.1145/2724660.2724681. _Measures the benefits of doing rather than watching._
 
 *   <a id="kuittinen-patterns">[Kuittinen2004]</a> Marja Kuittinen and Jorma Sajaniemi: "Teaching Roles of Variables in Elementary Programming Courses" _Proc. 9th Annual SIGCSE Conference on Innovation and Technology in Computer Science Education_, 2004, 10.1145/1007996.1008014. _Presents a few patterns used in novice programming and looks at the pedagogical value of teaching them._
+
+*   <a id="learning-theories">[Learning2017]</a> "Learning Theories" website. <http://www.learning-theories.com/>, viewed April 2017.
 
 *   <a id="lee-create-inclusive-community">[Lee2017]</a> Cynthia Lee: "What Can I Do Today to Create a More Inclusive Community in CS?" <http://bit.ly/2oynmSH>, viewed April 2017. _A practical checklist of things instructors can do to make their computing classes more inclusive._
 
@@ -90,6 +106,12 @@
 
 *   <a id="mueller-note-taking">[Mueller2014]</a> Pam A. Mueller and Daniel M. Oppenheimer: "The Pen Is Mightier Than the Keyboard." _Psychological Science_, 25(6), 2014, 10.1177/0956797614524581. _Presents evidence that taking notes by hand is more effective than taking notes on a laptop._
 
+*   <a id="muller-videos">[Muller2011]</a> Derek Muller: "Khan Academy and the Effectiveness of Science Videos".  <https://fnoschese.wordpress.com/2011/03/17/khan-academy-and-the-effectiveness-of-science-videos/>, viewed April 2017.  _A hard look at how and whether educational video works._
+
+*   <a id="live-coding-bad">[Nederbragt2016a]</a> Lex Nederbragt: "A Video Introduction to Live Coding Part 1". <https://youtu.be/bXxBeNkKmJE>, viewed April 2017. _How not to use live coding when teaching._
+
+*   <a id="live-coding-good">[Nederbragt2016b]</a> Lex Nederbragt: "A Video Introduction to Live Coding Part 2". <https://youtu.be/SkPmwe_WjeY>, viewed April 2017. _How to use live coding effectively as a teaching technique._
+
 *   <a id="orndorff-note-taking">[Orndorff2015]</a> Harold N. Orndorff III: "Collaborative Note-Taking: The Impact of Cloud Computing on Classroom Performance." _International Journal of Teaching and Learning in Higher Education_, 27(3), 2015. _Presents a study showing that collaborative note-taking improves grades and learning outcomes._
 
 *   <a id="patitsas-cs-grades">[Patitsas2016]</a> Elizabeth Patitsas, Jesse Berlin, Michelle Craig, and Steve Easterbrook: "Evidence That Computer Science Grades Are Not Bimodal." _Proc. 2016 ACM Conference on International Computing Education Research_, 2016, 10.1145/2960310.2960312. _Presents a statistical analysis and an experiment which jointly show that grades in computing classes are not bimodal–i.e., there is no geek gene._
@@ -105,6 +127,10 @@
 *   <a id="scott-state">[Scott1999]</a> J. C. Scott: _[Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed](https://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153/)_ Yale University Press, 1999, 978-0300128789. _Argues that large organizations consistently prefer uniformity over productivity._
 
 *   <a id="steele-vivaldi">[Steele2011]</a> C. M. Steele: _[Whistling Vivaldi: And Other Clues to How Stereotypes Affect Us](https://www.amazon.com/Whistling-Vivaldi-Stereotypes-Affect-Issues/dp/0393339726/)_ W. W. Norton, 2011, 978-0393341485. _Explains and explores stereotype threat and strategies for addressing it._
+
+*   <a id="cs-teaching-tips">[Tips2017]</a> CS Teaching Tips website, <http://csteachingtips.org/>, viewed April 2017.
+
+*   <a id="taylor-interview">[Taylor2014]</a> Chad Taylor: "Q&A: Making Tech Events Accessible to the Deaf Community." <https://modelviewculture.com/pieces/qa-making-tech-events-accessible-to-the-deaf-community>, viewed April 2017.
 
 *   <a id="ubell-moocs">[Ubell2017]</a> Robert Ubell: "How the Pioneers of the MOOC Got It Wrong." <http://spectrum.ieee.org/tech-talk/at-work/education/how-the-pioneers-of-the-mooc-got-it-wrong>, January 16, 2017. _A brief exploration of why MOOCs haven't lived up to initial hype._
 
