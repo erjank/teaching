@@ -175,6 +175,8 @@ techniques like these:
     adjust their assessment of themselves the next time they feel that
     way.
 
+<!--| \newpage |-->
+
 You can give feedback to others more effectively as well:
 
 1.  *Balance positive and negative feedback.* One method is a

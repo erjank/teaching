@@ -37,6 +37,8 @@
   * [Accessibility](motivation.md#accessibility)
   * [Inclusivity](motivation.md#inclusivity)
   * [Challenges](motivation.md#challenges)
+* [Live Coding](live.md)
+  * [Challenges](live.md#challenges)
 * [Teaching Practices](practices.md)
   * [Have a Code of Conduct](practices.md#have-a-code-of-conduct)
   * [Starting Out](practices.md#starting-out)
@@ -59,8 +61,6 @@
   * [Teaching Online](practices.md#teaching-online)
   * [Think-Pair-Share](practices.md#think-pair-share)
   * [Challenges](practices.md#challenges)
-* [Live Coding](live.md)
-  * [Challenges](live.md#challenges)
 
 **Appendices**
 
