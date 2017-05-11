@@ -166,7 +166,7 @@ allowed on the road.
 > should prepare people for summative assessments: no one should ever
 > encounter a question on an exam for which the teaching did not
 > prepare them.  This doesn't mean that novel problems should not
-> appear, but that if they do, learners should have have practice with
+> appear, but that if they do, learners should have had practice with
 > and feedback on tackling novel problems beforehand.
 
 In order to be useful during teaching, a formative assessment has to
@@ -211,7 +211,7 @@ next.
 >
 > Most jokes are less funny when written down, and become even less
 > funny with each re-reading.  Being spontaneously funny while
-> teaching usually works better, but can easily wrong: what's a joke
+> teaching usually works better, but can easily go wrong: what's a joke
 > to your circle of friends may turn out to be a serious political
 > issue to your audience.  If you do make jokes when teaching, don't
 > make them at the expense of any group, or of anyone except possibly

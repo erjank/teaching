@@ -12,7 +12,7 @@
 Many people assume that teachers are born, not made. From politicians
 to researchers and teachers themselves, reformers have designed
 systems to find and promote those who can teach and eliminate those
-who can't. But as Elizabeth Green explains in
+who can't. But as Elizabeth Green explains
 [[Green2014](biblio.md#green-babt)], that assumption is wrong, which is
 why educational reforms based on it have repeatedly failed.
 
@@ -123,8 +123,7 @@ transfer](gloss.md#lateral-knowledge-transfer)_: someone sets out
 to teach X, but while watching them, their audience actually learns Y
 as well (or instead). For example, an instructor might set out to show
 people how to do a particular statistical analysis in R, but what her
-learners might take away is some new keyboard shortcuts in R
-Studio. Live coding makes this much more likely because it allows
+learners might take away is some new keyboard shortcuts in RStudio. Live coding makes this much more likely because it allows
 learners to see the "how" as well as the "what", and *jugyokenkyu*
 works because it creates more opportunities for this to happen.
 
@@ -180,11 +179,11 @@ techniques like these:
 You can give feedback to others more effectively as well:
 
 1.  *Balance positive and negative feedback.* One method is a
-    "compliment sandwiches" made up of one positive, one negative, and
+    "compliment sandwich" made up of one positive, one negative, and
     a second positive observation.
 
 2.  *Organize your feedback using a rubric.* Most people are more
-    comfortable giving and receiving feedback when they they feel that
+    comfortable giving and receiving feedback when they feel that they
     understand the social rules governing what they are allowed to say
     and how they are allowed to say it.  A facilitator can then
     transcribe items into a shared document (or onto a whiteboard)
@@ -195,7 +194,7 @@ You can give feedback to others more effectively as well:
 > The rubric we find most useful for feedback on teaching is a 2x2
 > grid whose vertical axis is labelled "positive" and "negative", and
 > whose horizontal axis is labelled "content" (what was said) and
-> "presentation (how it was said).  Observers write each of their
+> "presentation" (how it was said).  Observers write each of their
 > comments in one of the grid's four squares as they are watching the
 > demonstration.
 
@@ -218,7 +217,7 @@ work on.
 
 <!-- comment needed to separate blockquotes -->
 
-> **Tells**
+> **Body Language**
 > 
 > Everyone has nervous habits. For example, many of us become "Mickey
 > Mouse" versions of ourselves when we're nervous, i.e., we talk more
@@ -284,9 +283,6 @@ In order for this exercise to work well:
     normal-sized classroom, with the rest using nearby breakout spaces,
     coffee lounges, offices, or (on one occasion) a janitor's storage
     closet.
-
-*   Do all three recordings before reviewing any of them, because
-    otherwise the person to go last is short-changed on time.
 
 *   People must give feedback on themselves, as well as giving feedback
     on each other, so that they can calibrate their impressions of their
