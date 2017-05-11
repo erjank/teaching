@@ -119,13 +119,14 @@ Barker et al found something similar
 > strong evidence by faculty that they should continue a practice.
 
 This phenomenon is sometimes called _[lateral knowledge
-transfer](gloss.md#lateral-knowledge-transfer)_: someone sets out
-to teach X, but while watching them, their audience actually learns Y
-as well (or instead). For example, an instructor might set out to show
+transfer](gloss.md#lateral-knowledge-transfer)_: someone sets out to
+teach X, but while watching them, their audience actually learns Y as
+well (or instead). For example, an instructor might set out to show
 people how to do a particular statistical analysis in R, but what her
-learners might take away is some new keyboard shortcuts in RStudio. Live coding makes this much more likely because it allows
-learners to see the "how" as well as the "what", and *jugyokenkyu*
-works because it creates more opportunities for this to happen.
+learners might take away is some new keyboard shortcuts in RStudio.
+Live coding makes this much more likely because it allows learners to
+see the "how" as well as the "what", and *jugyokenkyu* works because
+it creates more opportunities for this to happen.
 
 ## Feedback
 
@@ -217,7 +218,7 @@ work on.
 
 <!-- comment needed to separate blockquotes -->
 
-> **Body Language**
+> **Tells**
 > 
 > Everyone has nervous habits. For example, many of us become "Mickey
 > Mouse" versions of ourselves when we're nervous, i.e., we talk more
