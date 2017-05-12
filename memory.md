@@ -163,7 +163,7 @@ for letter in "abc":
       print('*' + letter)
 ~~~
 
-<!--| \noindet -->
+<!--| \noindent -->
 whose output is:
 
 ~~~

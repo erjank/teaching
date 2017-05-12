@@ -261,7 +261,7 @@ welcoming experience and a positive learning environment - a misplaced
 joke can ruin this in an instant. Start small, even just saying `that
 was fun' after something worked well is a good start. Ask your
 co-instructors and helpers for feedback when you are unsure of the
-effect your behaviour has on the workshop.
+effect your behavior has on the workshop.
 
 ## Challenges
 
