@@ -44,6 +44,8 @@
 
 *   <a id="cottrill-gifted">[Cottrill2016]</a> Cameron Cottrill: "Why Talented Black and Hispanic Students Can Go Undiscovered." <https://mobile.nytimes.com/2016/04/10/upshot/why-talented-black-and-hispanic-students-can-go-undiscovered.html>, viewed April 2017.
 
+*   <a id="deathbulge-feedback-feeling">[Deathbulge Feedback Feelings]</a> Deathbulge: "Feedback Feelings".  <http://www.deathbulge.com/comics/155>, viewed May 2017.  _How many of us react to feedback._
+
 *   <a id="debruyckere-urban-myths">[DeBruyckere2015]</a> Pedro De Bruyckere, Paul A. Kirschner, and Casper D. Hulshof: _[Urban Myths about Learning and Education](https://www.amazon.com/Urban-Myths-about-Learning-Education/dp/0128015373/)_ Academic Press, 2015, 978-0128015377. _Describes and debunks some widely-held myths about how people learn._
 
 *   <a id="epstein-thinking-physics">[Epstein2002]</a> L.C. Epstein: _[Thinking Physics is Gedanken Physics](https://www.amazon.com/Thinking-Physics-Understandable-Practical-Reality/dp/0935218084/)_ Insight Press, 2002: 978-0935218084. _An entertaining problem-based introduction to thinking like a physicist._

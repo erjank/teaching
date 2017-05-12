@@ -130,14 +130,14 @@ it creates more opportunities for this to happen.
 
 ## Feedback
 
-![Feedback Feelings](fig/deathbulge-jerk.jpg)
-
-As the cartoon above suggests, sometimes it can be hard to receive
+As the cartoon below suggests, sometimes it can be hard to receive
 feedback, especially negative feedback.  The process is easier and
 more productive when the people involved share ground rules and
 expectations. This is especially important when they have different
 backgrounds or cultural expectations about what's appropriate to say
 and what isn't.
+
+![Feedback Feelings (copyright (c) Deathbulge 2013)](fig/deathbulge-jerk.jpg)
 
 You can get better feedback on your work from other people using
 techniques like these:
