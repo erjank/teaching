@@ -196,7 +196,7 @@ Concept maps can be used in many ways:
     for them to annotate, it's better to draw it piece by piece while
     teaching to reinforce the ties between what's in the map and what
     the instructor said. (We will return to this idea when we discuss
-    Mayer's work on multimedia learning in [Cognitive Load](load.md).
+    Mayer's work on multimedia learning in [Cognitive Load](load.md)).
 
 4.  Concept maps are also a useful for assessment: having learners
     draw concept maps of what they think they just heard shows the
@@ -262,9 +262,11 @@ smaller groups (such as the forwards and backs in rugby).
 > Chunks allow us to manage larger problems, but can also mislead us
 > if we mis-identify something, i.e., see it as something it isn't.
 > We will discuss this in more detail
-> [later](load.md#pattern-recognition).  Recent estimates put the size
-> of short-term memory at 4±1, which means that effective chunking
-> (discussed below) is even more important than first thought.
+> [later](load.md#pattern-recognition).  Recent estimates have
+> suggested that the size of short-term memory might be as low as 4±1
+> [[Didau2016](biblio.md#didau-teachers-psych)] which means that
+> effective chunking (discussed below) is even more important than
+> first thought.
 
 7±2 is probably the most important number in programming. When
 someone is trying to write the next line of a program, or understand
@@ -282,10 +284,13 @@ memory after it has been held there and rehearsed. If we present too
 much information too quickly, the new will displace the old before it
 has a chance to consolidate in long-term memory.
 
-This is why it's very important to use a technique like concept
-mapping a lesson before teaching it - an instructor needs to identify
-just how many pieces of separate information will need to be
-"stored" in memory as part of the lesson.
+This is one of the main reasons for concept mapping a lesson before
+teaching it: an instructor needs to identify how many pieces of
+separate information will need to be "stored" in memory as part of the
+lesson.  In practice, it's common to draw a concept map, realize that
+there's far too much in it to teach in a single pass, and then carve
+out tightly-connected sub-sections to divide the overall lesson into
+teachable episodes.
 
 > **Building Concept Maps Together**
 > 
@@ -295,16 +300,6 @@ just how many pieces of separate information will need to be
 > concept map on a whiteboard by placing those sticky notes, connecting
 > them with labelled arcs, and adding any other concepts they think they
 > need.
-
-<!-- comment needed to separate blockquotes -->
-
-> **What Are We Doing Again?**
-> 
-> Concept maps can also be used to help build a shared understanding of
-> what a project is trying to accomplish. Everyone independently draws a
-> concept map to show what they think the project's goals and constraints
-> are. Those concept maps are then revealed simultaneously. The ensuing
-> discussion can be…vigorous.
 
 ## Challenges
 

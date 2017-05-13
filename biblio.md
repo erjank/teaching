@@ -8,6 +8,8 @@
 
 *   <a id="brookfield-discussion">[Brookfield2016]</a> Stephen D. Brookfield and Stephen Preskill: _[The Discussion Book: 50 Great Ways to Get People Talking](https://www.amazon.com/Discussion-Book-Great-People-Talking/dp/1119049717/)_ Jossey-Bass, 2016, 978-1119049715. _Describes fifty different ways to get groups talking productively._
 
+*   <a id="didau-teachers-psych">[Didau2016]</a> David Didau and Nick Rose: _[What Every Teacher Needs to Know About Psychology](https://www.amazon.com/Every-Teacher-Needs-About-Psychology/dp/1909717851/)_ John Catt Educational, 2016, 978-1909717855. _An informative, opinionated survey of what modern psychology has to say about teaching._
+
 *   <a id="green-babt">[Green2014]</a> E. Green: _[Building a Better Teacher: How Teaching Works (and How to Teach It to Everyone)](https://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393351084/)_ W. W. Norton, 2014, 978-0393244151. _A well-written look at why educational reforms in the past 50 years have mostly missed the mark, and what we should be doing instead._
 
 *   <a id="guzdial-lcd">[Guzdial2015b]</a> Mark Guzdial: _[Learner-Centered Design of Computing Education: Research on Computing for Everyone](https://www.amazon.com/Learner-Centered-Design-Computing-Education-Human-Centered/dp/1627053514/) Morgan & Claypool, 2015, 978-1627053518. _An evidence-based argument that we must design computing education for everyone, not just people who think they are going to become professional programmers._

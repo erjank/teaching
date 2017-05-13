@@ -49,9 +49,9 @@ deal with three things when they're learning:
     a programming language is different from creating a reference to a
     cell in a spreadsheet.
 
-2.  *Germane* load is the (desirable) mental effort required to
-    create linkages between new information and old (which is one of the
-    things that distinguishes learning from memorization).  An example
+2.  *Germane* load is the (desirable) mental effort required to create
+    linkages between new information and old, which is one of the
+    things that distinguishes learning from memorization.  An example
     might be learning how to loop through a collection in Python.
 
 3.  *Extraneous* load is everything else that distracts or gets in
@@ -98,8 +98,8 @@ def word_lengths(words):
 The next problem might be:
 
 ~~~
-# concatenate_all(["red", "green", "blue"]) => "redgreenblue"
-def concatenate_all(words):
+# join_all(["red", "green", "blue"]) => "redgreenblue"
+def join_all(words):
       result = ____
       for ____ in ____:
           ____
@@ -150,16 +150,18 @@ However, there is no doubt that faded examples are effective.
 > check that it's getting the same information on both channels.
 > 
 > Learning is therefore more effective when redundant information is
-> *not* being presented simultaneously in two different channels. For
+> *not* presented simultaneously in two different channels. For
 > example, people find it harder to learn from a video that has both
 > narration and on-screen captions than from one that has either the
 > narration or the captions but not both.
 > 
-> This is also why it's more effective to draw a diagram piece by piece
-> while teaching rather than presenting the whole thing at once.  If
-> parts of the diagram appear at the same time as things are being said,
-> the two will be correlated in the learner's memory, so that pointing
-> at part of the diagram will trigger recall of what was being said.
+> The key word in the previous paragraph is "redundant".  It turns out
+> that it's more effective to draw a diagram piece by piece while
+> teaching rather than presenting the whole thing at once.  If parts
+> of the diagram appear at the same time as things are being said, the
+> two will be correlated in the learner's memory.  Pointing at part of
+> the diagram later will trigger recall of what was being said when
+> that part was being drawn.
 
 Another way to use cognitive load theory to construct exercises is
 called a _[Parson's Problem](gloss.md#parsons-problem)_.  If you are

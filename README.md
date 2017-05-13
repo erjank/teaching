@@ -172,9 +172,9 @@ Elizabeth Patitsas, Aleksandra Pawlik, Ariel Rokem, Tracy Teal, Fiona
 Tweedie, Allegra Via, Anelda van der Walt, Belinda Weaver, Jason
 Williams, and everyone who has gone through Software Carpentry
 instructor training over the years.  I am also grateful to Neil Brown,
-Warren Code, and Mark Degani for their feedback on this version.  If
-you find it useful, I hope you will pass on whatever you learn to
-someone else.
+Warren Code, Mark Degani, and Bob Freeman for their feedback on this
+version.  If you find it useful, I hope you will pass on whatever you
+learn to someone else.
 
 ## Who You Are
 

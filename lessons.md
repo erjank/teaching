@@ -170,6 +170,11 @@ speaking with each other, lesson authors can say, "Would Jorge
 understand why we're doing this?" or, "What installation problems
 would Jorge face?"
 
+> **Our Learners Revisited**
+>
+> The profiles of Samira and Moshe in the [introduction](README.md)
+> have the five points listed above, rearranged to flow more readably.
+
 ## Learning Objectives
 
 Summative and formative assessments help instructors figure out what
@@ -219,17 +224,24 @@ hierarchical, measurable, stable, and cross-cultural.  The list below
 defines the levels in Bloom's Taxonomy and shows some of the verbs
 typically used in learning objectives written for each level.
 
-* Knowledge: recalling learned information (name, define, recall).
+*   Knowledge: recalling learned information
+    (name, define, recall).
 
-* Comprehension: explaining the meaning of information (restate, locate, explain, recognize).
+*   Comprehension: explaining the meaning of information
+    (restate, locate, explain, recognize).
 
-* Application: applying what one knows to novel, concrete situations (apply, demonstrate, use).
+*   Application: applying what one knows to novel, concrete situations
+    (apply, demonstrate, use).
 
-* Analysis: breaking down a whole into its component parts and explaining how each part contributes to the whole (differentiate, criticize, compare).
+*   Analysis: breaking down a whole into its component parts
+    and explaining how each part contributes to the whole
+    (differentiate, criticize, compare).
 
-* Synthesis: assembling components to form a new and integrated whole (design, construct, organize).
+*   Synthesis: assembling components to form a new and integrated whole
+    (design, construct, organize).
 
-* Evaluation: using evidence to make judgments about the relative merits of ideas and materials (choose, rate, select).
+*   Evaluation: using evidence to make judgments about
+    the relative merits of ideas and materials (choose, rate, select).
 
 Another way to understand what makes for a good learning objective
 is to see how a poor one can be improved:
@@ -254,8 +266,7 @@ is to see how a poor one can be improved:
 
 Baume's guide to writing and using good learning outcomes
 [[Baume2009](biblio.md#baume-outcomes)] is a good longer discussion of
-these issues.  [UBC's list of learning goals][ubc-learning-goals] may
-also provide some useful guidance.
+these issues.
 
 ## Challenges
 
@@ -270,5 +281,4 @@ Write one more learning objectives for something you currently teach
 or plan to teach.  Working with a partner, critique and improve the
 objectives.
 
-[ubc-learning-goals]: http://www.cwsei.ubc.ca/Files/ComSc_LG/CPSC_Learning_Goals.pdf
 [wikipedia-bloom]: https://en.wikipedia.org/wiki/Bloom's_taxonomy
