@@ -78,6 +78,8 @@
 
 *   <a id="henry-accessibility">[Henry2014]</a> Liz Henry: "Unlocking the Invisible Elevator: Accessibility at Tech Conferences." <https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences>, viewed April 2017.
 
+*   <a id="isw-resources">[ISW2017]</a> Instructional Skills Workshop Network: "ISW and FDSW Handbooks", <https://iswnetwork.ca/resources/pd-resources/isw-and-fdw-handbooks/>, accessed May 2017.
+
 *   <a id="kernighan-plauger-elements">[Kernighan1982]</a> Brian W. Kernighan and P.J. Plauger: _[The Elements of Programming Style](https://www.amazon.com/Elements-Programming-Style-2nd/dp/0070342075/)_ (2nd edition). McGraw-Hill, 1982, 978-0070342071. _An early and influential description of the Unix programming philosophy._
 
 *   <a id="kernighan-pike-upe">[Kernighan1984]</a> Brian W. Kernighan and Rob Pike: _[The UNIX Programming Environment](https://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X/)_ Prentice Hall, 1984, 978-0139376818. _An influential early description of Unix._

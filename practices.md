@@ -572,6 +572,16 @@ into their own thinking, and forces them to think through and resolve
 any gaps or contradictions *before* exposing their ideas to a larger
 group.
 
+## Humor
+
+Humor should be used sparingly when teaching: most jokes are less
+funny when written down, and become even less funny with each
+re-reading.  Being spontaneously funny while teaching usually works
+better, but can easily go wrong: what's a joke to your circle of
+friends may turn out to be a serious political issue to your audience.
+If you do make jokes when teaching, don't make them at the expense of
+any group, or of anyone except possibly yourself.
+
 ## Challenges
 
 ### Create a Questionnaire (20 minutes)

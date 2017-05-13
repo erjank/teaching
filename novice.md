@@ -199,96 +199,74 @@ valuable insight:
 
 Each of these incorrect answers is a _[plausible
 distractor](gloss.md#plausible-distractor)_ with _[diagnostic
-power](gloss.md#diagnostic-power)_.  "Plausible" means that it
-looks like it could be right: instructors will often put
-supposedly-silly answers like "a fish!" on MCQs, but they don't
-provide any insight and learners actually don't find them
-funny. "Diagnostic power" means that each of the distractors helps the
-instructor figure out what to explain to that particular learner
-next.
+power](gloss.md#diagnostic-power)_.  "Plausible" means that it looks
+like it could be right, while "diagnostic power" means that each of
+the distractors helps the instructor figure out what to explain to
+that particular learner next.
+
+A good MCQ tests for conceptual misunderstanding rather than simple
+factual knowledge. If you are having a hard time coming up with
+diagnostic distractors, then either you need to think more about your
+learners' mental models, or your question simply isn't a good starting
+point for an MCQ.
+
+When you are trying to come up with distractors, think about questions
+that learners asked or problems they had the last time you taught this
+subject. If you haven't taught it before, think about your own
+misconceptions or ask colleagues about their experiences.  You can
+also ask open-ended questions in one class to collect misconceptions
+about material to be covered in a later class.
 
 > **Humor**
 >
-> Most jokes are less funny when written down, and become even less
-> funny with each re-reading.  Being spontaneously funny while
-> teaching usually works better, but can easily go wrong: what's a joke
-> to your circle of friends may turn out to be a serious political
-> issue to your audience.  If you do make jokes when teaching, don't
-> make them at the expense of any group, or of anyone except possibly
-> yourself.
+> Instructors will often put supposedly-silly answers like "a fish!"
+> on MCQs, particularly ones intended for younger learners.  However,
+> they don't provide any insight into learners' misconceptions, and
+> most learners don't actually find them funny.
 
 Instructors should use MCQs or some other kind of formative assessment
-at least every 10-15 minutes in order to make sure that the class is
-actually learning. Since the average attention span is usually only
-this long, formative assessments also help break up instructional time
-and re-focus attention. Formative assessments can also be used
-preemptively: if you start a class with an MCQ and everyone can answer
-it correctly, then you can safely skip the part of the lecture in
-which you were going to explain something that your learners already
-know. Doing this also helps show learners that the instructor cares
-about how much they are learning, and respects their time enough not
-to waste it.
+every 10-15 minutes in order to make sure that the class is actually
+learning.  That way, if a significant number of people have fallen
+behind, only a short portion of the lesson will have to be repeated.
+Additionally, most learners can only focus intensely for roughly this
+long, so using formative assessments this frequently also helps them
+re-focus.
 
-> **When to Proceed?**
-> 
-> As the instructor, what should you do if most of the class votes for
-> one of the wrong answers? What if the votes are evenly spread between
-> options?  The answer is, "It depends."  If the majority of the class
-> votes for a single wrong answer, you should go back and work on
-> correcting that particular misconception. If answers are pretty evenly
-> split between options, learners are probably guessing randomly and
-> it's a good idea to go back to a point where everyone was on the same
-> page.
-> 
-> If most of the class votes for the right answer, but a few vote for
-> wrong ones, you have to decide whether you should spend time getting
-> the minority caught up, or whether it's more important to keep the
-> majority engaged.  This is just one example of one of the most
-> important rules of teaching: no matter how hard you work, or what
-> teaching practices you use, you won't always be able to give everyone
-> the help they need.
+Formative assessments can also be used preemptively: if you start a
+class with an MCQ and everyone can answer it correctly, then you can
+safely skip the part of the lecture in which you were going to explain
+something that your learners already know. Doing this also helps show
+learners that the instructor cares about how much they are learning,
+and respects their time enough not to waste it.
 
-<!-- comment needed to separate blockquotes -->
+But what should you do if most of the class votes for one of the wrong
+answers? What if the votes are evenly spread between options?  The
+answer is, "It depends."  If the majority of the class votes for a
+single wrong answer, you should go back and work on correcting that
+particular misconception. If answers are pretty evenly split between
+options, learners are probably guessing randomly and it's a good idea
+to go back to a point where everyone was on the same page.
 
-<!--| \newpage |-->
-
-> **Notes on MCQ Design**
-> 
-> 1.  A good MCQ tests for conceptual misunderstanding rather than
->     simple factual knowledge. If you are having a hard time coming
->     up with diagnostic distractors, then either you need to think
->     more about your learners' mental models, or your question simply
->     isn't a good starting point for an MCQ.
-> 
-> 2.  When you are trying to come up with distractors, think about
->     questions that learners asked or problems they had the last time
->     you taught this subject. If you haven't taught it before, think
->     about your own misconceptions or ask colleagues about their
->     experiences.  You can also ask open-ended questions in one class
->     to collect misconceptions about material to be covered in a
->     later class.
-
-<!-- comment needed to separate blockquotes -->
+If most of the class votes for the right answer, but a few vote for
+wrong ones, you have to decide whether you should spend time getting
+the minority caught up, or whether it's more important to keep the
+majority engaged.  This is just one example of one of the most
+important rules of teaching: no matter how hard you work, or what
+teaching practices you use, you won't always be able to give everyone
+the help they need.
 
 > **Concept Inventories**
-> 
-> The [Force Concept Inventory][wikipedia-fci] is a set of MCQs
-> designed to gauge understanding of basic Newtonian mechanics. By
+>
+> Given enough data, MCQs can be made surprisingly precise.  The
+> best-known example is the [Force Concept Inventory][wikipedia-fci],
+> which gauges understanding of basic Newtonian mechanics. By
 > interviewing a large number of respondents, correlating their
 > misconceptions with patterns of right and wrong answers to
-> questions, and then improving the questions, it's possible to
-> construct a very precise diagnostic tool. However, it's very costly
-> to do this, and students' ability to search for answers on the
-> internet is an ever-increasing threat to its validity.
-
-<!-- comment needed to separate blockquotes -->
-
-> **We Know Less Than We Think**
-> 
-> [[Brown2014](biblio.md#brown-empirical)] compared teachers' opinions
-> about common programming errors with data from over 100,000
-> students, and finds only weak consensus amongst teachers and between
-> teachers and data.
+> questions, and then improving the questions, its creators
+> constructed a diagnostic tool to pinpoint specific misconceptions.
+> However, it's very costly to do this, and students' ability to
+> search for answers on the internet is an ever-increasing threat to
+> the validity of tools like this.
 
 Designing an MCQ with plausible distractors is useful even if it is
 never used in class because it forces the instructor to think about
@@ -322,10 +300,16 @@ If you haven't done so already, you should start using these three
 teaching practices in your instructor training workshop:
 
 *   [Use sticky notes as status flags](practices.md#sticky-notes-as-status-flags)
+    so that you can quickly see who needs help, who has questions,
+    and who's ready to move on.
 
 *   [Use sticky notes to distribute attention](practices.md#sticky-notes-to-distribute-attention)
+    so that everyone gets a fair share of the instructor's time.
 
-*   [Use sticky notes as minute cards](practices.md#minute-cards)
+*   [Use sticky notes as minute cards](practices.md#minute-cards) to
+    encourage learners to reflect on what they've just learned and to
+    give instructors actionable feedback while they are still in a
+    position to act on it.
 
 ## Challenges
 

@@ -48,3 +48,19 @@ bad, and what you are suggesting the lesson is for teachers.  If
 possible, I'd reduce the length of the excerpts, and try to write a
 more cohesive explanation of the point being made, perhaps splitting
 up the initial part into multiple sections if needed.
+
+----
+
+- "How to Use This Material" jumps into particular teaching methods
+  quickly (e.g., shared note taking).
+
+- Entire first chapter README.md is off: jumps all over the place,
+  needs to be reorganized.
+
+
+> **We Know Less Than We Think**
+>
+> [[Brown2014](biblio.md#brown-empirical)] compared teachers' opinions
+> about common programming errors with data from over 100,000
+> students, and finds only weak consensus amongst teachers and between
+> teachers and data.

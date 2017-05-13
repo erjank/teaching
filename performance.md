@@ -247,8 +247,8 @@ which looks at the value of having a coach.
 
 One of the key elements of instructor training is recording trainees
 and having them, and their peers, critique those recordings. We were
-introduced to this practice by UBC's Warren Code, who learned it from
-the [Instructional Skills Workshop][instructional-skills-workshop],
+introduced to this practice by UBC's Warren Code, who got it from the
+Instructional Skills Workshop [[ISW2017](biblio.md#isw-resources)],
 and it has evolved to the following:
 
 1.  Split into groups of three.
@@ -279,6 +279,12 @@ makes the exercise slightly less excruciating.
 
 In order for this exercise to work well:
 
+*   Let people know at the start of the class that they will be asked to
+    teach something so that they have time to choose a topic.  (In our
+    experience, telling them this in advance of the class can be
+    counter-productive, since some people will fret over how much they
+    should prepare.)
+
 *   Groups must be physically separated to reduce audio cross-talk
     between their recordings. In practice, this means 2-3 groups in a
     normal-sized classroom, with the rest using nearby breakout spaces,
@@ -290,9 +296,6 @@ In order for this exercise to work well:
     own teaching according to the impressions of other people. (We find
     that most people are harder on themselves than others are, and it's
     important for them to realize this.)
-
-*   At the end of day 1, ask trainees to review the lesson episode you
-    will use for the live coding demonstration at the start of day 2.
 
 *   Try to make at least one mistake during the demonstration of live
     coding so that trainees can see you talk through diagnosis and
@@ -340,6 +343,5 @@ neither: the goal at this stage is primarily for people to become
 comfortable with giving and receiving feedback, and to establish a
 consensus about what sorts of things to look for.
 
-[instructional-skills-workshop]: https://iswnetwork.ca/
 [video-bad-teaching]: https://www.youtube.com/watch?v=-ApVt04rB4U
 [wikipedia-deming]: https://en.wikipedia.org/wiki/W._Edwards_Deming

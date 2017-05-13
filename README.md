@@ -51,10 +51,9 @@ are in co-located groups and the instructor participates remotely.
 > **Terminology**
 >
 > When we talk about workshops, we will try to be clear about whether
-> we're discussing ones whose subject is programming, and which are
-> aimed at general learners, and those whose subject is now to teach
-> (and are using this material).  We usually refer to the latter as
-> "instructor training workshops".
+> we're discussing ones whose subject is programming, which are aimed
+> at general learners, and those whose subject is how to teach, which
+> are using this material.
 
 ### In-Person
 
@@ -187,44 +186,36 @@ participants in a workshop based on this book.
 
 **Samira**
 
-1.  An undergraduate student in mechanical engineering who first
-    encountered the subject in an after-school club for girls and
-    would now like to pass on her love for it.
+Samira is an undergraduate student in mechanical engineering who first
+encountered the subject in an after-school club for girls and would
+now like to pass on her love for it.  She has done one programming
+class and one robotics class, and was a lab assistant for a couple of
+weekend introductions to engineering for high school students at her
+university.  Feels insecure about standing up and teaching a subject
+that she isn't an expert in ("I'm not a professor!").
 
-2.  Has done one programming class and one robotics class, and was a
-    lab assistant for a couple of weekend introductions to engineering
-    for high school students at her university.
-
-3.  Would like to learn techniques for explaining ideas and handling
-    unexpected questions or situations.
-
-4.  This workshop will introduce her to some basic classroom practices
-    and give her a chance to try them out in front of a supportive
-    audience.
-
-5.  Feels insecure about standing up and teaching a subject that she
-    isn't an expert in ("I'm not a professor!").
+Samira would like to learn techniques for explaining ideas and
+handling unexpected questions or situations.  This workshop will
+introduce her to some basic classroom practices and give her a chance
+to try them out in front of a supportive audience.
 
 **Moshe**
 
-1.  A professional programmer with two young children.  Their school
-    doesn't offer a programming class, so he has volunteered to put
-    one together.  After reading a dozen different "programming for
-    kids" books, he feels more confused than ever.
+Moshe is a professional programmer with two young children.  Their
+school doesn't offer a programming class, so he has volunteered to put
+one together.  He has been programming in Visual Basic and C# for
+almost twenty years, during which time he has frequently given
+presentations to colleagues and management, but after reading a dozen
+different "programming for kids" books, he feels more confused than
+ever about what to do.
 
-2.  Has been programming in Visual Basic and C# for almost twenty
-    years, during which time he has frequently given presentations to
-    colleagues and management.
+Moshe wants to learn how to build lessons that both he and other
+people can use and maintain.  This class will show him how to design
+and deliver lessons tailored for his students, how to tell how well
+those lessons are working, and how to keep those lessons up to date.
 
-3.  Wants to learn how to build lessons that both he and other people
-    can use and maintain.
-
-4.  This class will show him how to design and deliver lessons
-    tailored for his students, how to tell how well those lessons are
-    working, and how to keep those lessons up to date.
-
-5.  Moshe is partially deaf, and most of his students have hearing
-    disabilities as well.
+Moshe is partially deaf, and most of his students have hearing
+disabilities as well.
 
 ## Teaching Practices
 
