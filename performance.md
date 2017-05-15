@@ -321,9 +321,9 @@ rubric to follow.
 
 ### Give Feedback (20 minutes)
 
-1.  Watch [this video][video-bad-teaching] as a group and then give
-    feedback on it. Organize feedback along two axes: positive
-    vs. negative and content vs. presentation.
+1.  Watch [[Wilson2016](biblio.md#wilson-bad-teaching)] as a group and
+    give feedback on it. Organize feedback along two axes: positive
+    vs.  negative and content vs. presentation.
 
 2.  Have each person in the class add one point to a 2x2 grid on a
     whiteboard (or in the shared notes) without duplicating any points
@@ -343,5 +343,4 @@ neither: the goal at this stage is primarily for people to become
 comfortable with giving and receiving feedback, and to establish a
 consensus about what sorts of things to look for.
 
-[video-bad-teaching]: https://www.youtube.com/watch?v=-ApVt04rB4U
 [wikipedia-deming]: https://en.wikipedia.org/wiki/W._Edwards_Deming

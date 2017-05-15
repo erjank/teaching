@@ -149,3 +149,5 @@
 *   <a id="wilkinson-pickett-spirit-level">[Wilkinson2011]</a> Richard Wilkinson and Kate Pickett: _[The Spirit Level: Why Greater Equality Makes Societies Stronger](https://www.amazon.com/Spirit-Level-Equality-Societies-Stronger/dp/1608193411/)_ Bloomsbury Press, 2011, 978-1608193417. _Presents evidence that inequality harms everyone, both economically and otherwise._
 
 *   <a id="willingham-dont-like-school">[Willingham2010]</a> Daniel T. Willingham: _[Why Don't Students Like School?](https://www.amazon.com/Why-Dont-Students-Like-School/dp/047059196X/)_ Jossey-Bass, 2010, 978-0470591963. _A cognitive scientist looks at how the mind works and what it means in the classroom._
+
+*   <a id="wilson-bad-teaching">[Wilson2016]</a> Greg Wilson: "How to Teach Badly".  <https://www.youtube.com/watch?v=-ApVt04rB4U>, viewed May 2017.
