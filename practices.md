@@ -166,7 +166,7 @@ as summative, i.e., to think of every interaction with a teacher as an
 evaluation, rather than as a chance to shape instruction.  For
 example, we use a short pre-assessment questionnaire to profile
 learners before workshops to help instructors tune the pace and level
-of material. We send this questionnaire out after people have
+of material. We send people this questionnaire out after they have
 registered rather than making it part of the sign-up process because
 when we did the latter, many people concluded that since they couldn't
 answer all the questions, they shouldn't enrol. We were therefore
@@ -193,7 +193,7 @@ That said, there *are* things we can do:
     learn from answering their peers' questions (since it will force
     them to think about things in new ways).
 
-*   The helpers and the instructor who isn't teaching the particular
+*   The helpers and the instructor who aren't teaching the particular
     episode should keep an eye out for learners who are falling behind
     and intervene early so that they don't become frustrated and give
     up.
@@ -570,7 +570,8 @@ Windermere, people often can't know what they're thinking until
 they've heard themselves say it.  Pairing gives people new insight
 into their own thinking, and forces them to think through and resolve
 any gaps or contradictions *before* exposing their ideas to a larger
-group.
+group.  We used think-pair-share in several of the challenges in
+[our discussion of motivation](motivation.md#challenges).
 
 ## Humor
 

@@ -284,7 +284,7 @@ memory after it has been held there and rehearsed. If we present too
 much information too quickly, the new will displace the old before it
 has a chance to consolidate in long-term memory.
 
-This is one of the main reasons for concept mapping a lesson before
+This is one of the reasons to create a concept map for a lesson before
 teaching it: an instructor needs to identify how many pieces of
 separate information will need to be "stored" in memory as part of the
 lesson.  In practice, it's common to draw a concept map, realize that

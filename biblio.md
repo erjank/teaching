@@ -28,6 +28,8 @@
 
 *   <a id="abela-chart">[Abela2009]</a> Andrew Abela: "Chart Suggestions–A Thought Starter".  <http://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf>, viewed April 2017.
 
+*   <a id="ada-imposter">[Ada2017]</a> Ada Initiative: "Imposter Syndrome training".  <https://adainitiative.org/continue-our-work/impostor-syndrome-training/>, viewed May 2017.
+
 *   <a id="aiken-note-taking">[Aiken1975]</a> Edwin G. Aiken, Gary S. Thomas, and William A. Shennum: "Memory for a Lecture: Effects of Notes, Lecture Rate, and Informational Density." _Journal of Educational Psychology_, 67(3), June 1975, 10.1037/h0076613. _A landmark study showing that taking notes improves retention when learning._
 
 *   <a id="video-peer-instruction">[Avanti2013]</a>: Avanti Learning Centre: "ConcepTests at Avanti's Learning Centre in Kanpur." <https://www.youtube.com/watch?v=2LbuoxAy56o>, viewed April 2017.
@@ -143,6 +145,8 @@
 *   <a id="urbach-checklists">[Urbach2014]</a> David R. Urbach, Anand Govindarajan, Refik Saskin, Andrew S. Wilton, and Nancy N. Baxter: "Introduction of Surgical Safety Checklists in Ontario, Canada." _New England Journal of Medicine_, 370(11), 2014, 10.1056/NEJMsa1308261. _Reports a study showing that the introduction of surgical checklists did not have a significant effect on operative outcomes._
 
 *   <a id="uttl-evaluations">[Uttl2016]</a> Bob Uttl, Carmela A. White, and Daniela Wong Gonzalez: "Meta-Analysis of Faculty's Teaching Effectiveness: Student Evaluation of Teaching Ratings and Student Learning Are Not Related" _Studies in Educational Evaluation_, 2016, 10.1016/j.stueduc.2016.08.007 _A summary of studies shown that how students rate a course and how much they actually learn are not related._
+
+*   <a id="w3c-accessibility">[W3C2017]</a> W3C Web Accessibility Initiative: "How to Make Presentations Accessible to All."  <https://www.w3.org/WAI/training/accessible>, accessed May 2017.
 
 *   <a id="wiggins-mctighe">[Wiggins2005]</a> G.P. Wiggins and J. McTighe: _[Understanding by Design](https://www.amazon.com/Understanding-Design-Grant-Wiggins/dp/1416600353/)_ Association for Supervision and Curriculum Development, 2005, 978-1416600350. _A lengthy presentation of reverse instructional design._
 

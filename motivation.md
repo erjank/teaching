@@ -107,7 +107,7 @@ demotivated, even if it is unfair in their favor (because consciously
 or unconsciously they will worry that they will some day find
 themselves in the group on the losing end
 [[Wilkinson2011](biblio.md#wilkinson-pickett-spirit-level)]).  In
-extreme situations, learners may developed [learned
+extreme situations, learners may develop [learned
 helplessness](gloss.md#learned-helplessness): when repeatedly
 subjected to negative feedback that they have no way to escape, they
 may learn not to even try to escape when they could.
@@ -142,8 +142,7 @@ Here are some quick ways to demotivate your learners:
     X" or "you've never heard of Y?" signals to the learner that they
     do not have some required pre-knowledge of the material you are
     teaching, that they are in the wrong place, and it may prevent them
-    from asking questions in the future. (This idea comes from the
-    [Recurse Center's Social Rules][recurse-rules]).
+    from asking questions in the future.
 
 > **Code of Conduct Revisited**
 > 
@@ -205,8 +204,8 @@ as a teacher if no one can follow your class, so you're asking
 students for their help to help you learn and improve. Remember, it's
 much more important to *be* smart than to *look* smart.
 
-The Ada Initiative has [some excellent resources][ada-resources] for
-teaching about and dealing with imposter syndrome.
+The Ada Initiative has some excellent resources for teaching about and
+dealing with imposter syndrome [[Ada2017](biblio.md#ada-imposter)].
 
 ## Stereotype Threat
 
@@ -328,10 +327,11 @@ The first and most important step in making lessons accessible is to
 about us, without us") predates accessibility rights, but is always
 the right place to start.  A few other recommendations are:
 
-*   *Find out what you need to do.* The [W3C Accessibility Initiative's
-    checklist for presentations][w3c-accessibility] is a good starting
-    point focused primarily on assisting the visually impaired, while
-    Liz Henry's blog post about accessibility at conferences
+*   *Find out what you need to do.* The W3C Accessibility Initiative's
+    checklist for presentations
+    [[W3C2017](biblio.md#w3c-accessibility)] is a good starting point
+    focused primarily on assisting the visually impaired, while Liz
+    Henry's blog post about accessibility at conferences
     [[Henry2014](biblio.md#henry-accessibility)] has a good checklist
     for people with mobility issues, and this interview with Chad
     Taylor is a good introduction to issues faced by the hearing
@@ -386,10 +386,6 @@ our workshops:
     display knowledge.
 
 ## Challenges
-
-Several of these challenges use "think-pair-share".  If you have not
-already covered this, please look at [the
-description](practices.md#think-pair-share) now.
 
 ### Authentic Tasks (15 minutes)
 
@@ -456,12 +452,10 @@ reinforced the status quo.
 [ada-resources]: http://adainitiative.org/continue-our-work/impostor-syndrome-training/
 [growth-mindset-concerns]: http://www.learningspy.co.uk/psychology/growth-mindset-bollocks/
 [guzdial-myth]: http://cacm.acm.org/blogs/blog-cacm/189498-top-10-myths-about-teaching-computer-science/fulltext
-[recurse-rules]: https://www.recurse.com/manual#sec-environment
 [stereotype-threat-ambiguity]: http://www.europhd.net/html/_onda02/07/PDF/20th_lab_materials/jane/shapiro_neuberg_2007.pdf
 [stereotype-threat-replicability]: https://www.psychologytoday.com/blog/rabble-rouser/201512/is-stereotype-threat-overcooked-overstated-and-oversold
 [swc-old-lessons]: http://swcarpentry.github.io/v4/python/flow.html
 [usenix-impostor]: https://www.usenix.org/blog/impostor-syndrome-proof-yourself-and-your-community
-[w3c-accessibility]: http://www.w3.org/WAI/training/accessible
 [webaim]: http://webaim.org/
 [wikipedia-curb-cuts]: https://en.wikipedia.org/wiki/Curb_cut
 [wikipedia-learned-helplessness]: https://en.wikipedia.org/wiki/Learned_helplessness

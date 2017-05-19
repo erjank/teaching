@@ -129,52 +129,30 @@ This was the first format we used, and we no longer recommend it.
 
 I started teaching people how to program in the late 1980s.  At first,
 I went too fast, used too much jargon, and had little idea of how much
-my learners actually understood.  I got better over time–at least, I
-thought I did–but still had no idea how effective I was compared to
-other teachers.
+my learners actually understood.  I got better over time, but still
+had no idea how effective I was compared to other teachers.
 
-In 2010, I rebooted a project called [Software Carpentry][swc-site].
-Its aim was (and is) to teach basic computing skills to researchers
-from a wide range of disciplines so that they could get more done in
-less time and with less pain.  In the two years that followed, I
-discovered resources like Mark Guzdial's blog
+In 2010, I rebooted a project called [Software Carpentry][swc-site],
+whose aim is to teach basic computing skills to researchers.  In the
+years that followed, I discovered resources like Mark Guzdial's blog
 [[Guzdial2017](biblio.md#guzdial-blog)] and the book *How Learning
-Works* [[Ambrose2010](biblio.md#ambrose-hlw)].  These led me to other
-sources like [[Lemov2014](biblio.md#lemov-champion)],
-[[Huston2009](biblio.md#huston-dont-know)], and
-[[Green2014](biblio.md#green-babt)] that showed me what I could do to
-make my teaching better, and why I should believe it would work.
+Works* [[Ambrose2010](biblio.md#ambrose-hlw)].  These led me to
+[[Lemov2014](biblio.md#lemov-champion)],
+[[Huston2009](biblio.md#huston-dont-know)],
+[[Green2014](biblio.md#green-babt)], and other sources that showed me
+how to make my teaching better and why I should believe it would
+work.
 
 We started using these ideas in [Software Carpentry][swc-site] in
-2012, and the results were everything we'd hoped for.  Designing
-lessons with different stage of cognitive development in mind, using
-live coding instead of slides, and adopting lightweight real-time
-assessment mechanisms (most involving sticky notes) all made our
-workshops more effective.
-
-What made the biggest difference, though, was offering a short course
-to introduce people to these techniques and the ideas behind them.
-This course was originally delivered online over multiple weeks, but
-by 2014 we were teaching it in two intensive days (just like our
-regular software skills workshops).  Over the last three years, I have
-run more than forty versions of that course for people who want to
-teach programming to children, recent immigrants, women re-entering
-the workforce, and a wide variety of other groups.  Those experiences
-are the basis of this book.
-
-## Acknowledgments
-
-This book is the product of many minds.  As well as the hundreds of
-researchers and practitioners who created the ideas it presents, I am
-grateful to Erin Becker, Karen Cranston, Neal Davis, Rayna Harris,
-Kate Hertweck, Christina Koch, Sue McClatchy, Lex Nederbragt,
-Elizabeth Patitsas, Aleksandra Pawlik, Ariel Rokem, Tracy Teal, Fiona
-Tweedie, Allegra Via, Anelda van der Walt, Belinda Weaver, Jason
-Williams, and everyone who has gone through Software Carpentry
-instructor training over the years.  I am also grateful to Neil Brown,
-Warren Code, Mark Degani, and Bob Freeman for their feedback on this
-version.  If you find it useful, I hope you will pass on whatever you
-learn to someone else.
+2012, and the results were everything we'd hoped for.  We also started
+offering a short course to introduce people to these techniques and
+the ideas behind them.  This course was originally delivered online
+over multiple weeks, but by 2014 we were teaching it in two intensive
+days (just like our regular software skills workshops).  Since then, I
+have run the course more than forty times for people who want to teach
+programming to children, recent immigrants, women re-entering the
+workforce, and a wide variety of other groups.  Those experiences are
+the basis of this book.
 
 ## Who You Are
 
@@ -182,26 +160,21 @@ learn to someone else.
 define who a class is for.  Here, we present profiles of two typical
 participants in a workshop based on this book.
 
-<!--| \vspace{\baselineskip} |-->
-
-**Samira**
-
-Samira is an undergraduate student in mechanical engineering who first
-encountered the subject in an after-school club for girls and would
-now like to pass on her love for it.  She has done one programming
-class and one robotics class, and was a lab assistant for a couple of
-weekend introductions to engineering for high school students at her
-university.  Feels insecure about standing up and teaching a subject
-that she isn't an expert in ("I'm not a professor!").
+**Samira** is an undergraduate student in mechanical engineering who
+first encountered the subject in an after-school club for girls and
+would now like to pass on her love for it.  She has done one
+programming class and one robotics class, and was a lab assistant for
+a couple of weekend introductions to engineering for high school
+students at her university.  Feels insecure about standing up and
+teaching a subject that she isn't an expert in ("I'm not a
+professor!").
 
 Samira would like to learn techniques for explaining ideas and
 handling unexpected questions or situations.  This workshop will
 introduce her to some basic classroom practices and give her a chance
 to try them out in front of a supportive audience.
 
-**Moshe**
-
-Moshe is a professional programmer with two young children.  Their
+**Moshe** is a professional programmer with two young children.  Their
 school doesn't offer a programming class, so he has volunteered to put
 one together.  He has been programming in Visual Basic and C# for
 almost twenty years, during which time he has frequently given
@@ -228,6 +201,17 @@ practices right from the start:
 
 *   [Pre-assess](practices.md#assess-motivation-and-prior-knowledge)
     learners' motivation and prior knowledge.
+
+## Acknowledgments
+
+This book is the product of many contributors, including Erin Becker,
+Karen Cranston, Neal Davis, Rayna Harris, Kate Hertweck, Christina
+Koch, Sue McClatchy, Lex Nederbragt, Elizabeth Patitsas, Aleksandra
+Pawlik, Ariel Rokem, Tracy Teal, Fiona Tweedie, Allegra Via, Anelda
+van der Walt, Belinda Weaver, Jason Williams.  I am grateful to them,
+and to everyone who has gone through Software Carpentry instructor
+training over the years.  I am also grateful to Neil Brown, Warren
+Code, Mark Degani, and Bob Freeman for their feedback on this version.
 
 ## Dedication
 

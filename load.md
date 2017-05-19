@@ -157,11 +157,11 @@ However, there is no doubt that faded examples are effective.
 > 
 > The key word in the previous paragraph is "redundant".  It turns out
 > that it's more effective to draw a diagram piece by piece while
-> teaching rather than presenting the whole thing at once.  If parts
+> teaching rather than to present the whole thing at once.  If parts
 > of the diagram appear at the same time as things are being said, the
 > two will be correlated in the learner's memory.  Pointing at part of
-> the diagram later will trigger recall of what was being said when
-> that part was being drawn.
+> the diagram later is then more likely to trigger recall of what was
+> being said when that part was being drawn.
 
 Another way to use cognitive load theory to construct exercises is
 called a _[Parson's Problem](gloss.md#parsons-problem)_.  If you are
