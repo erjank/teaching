@@ -6,7 +6,7 @@ GitHub repository at `http://github.com/gvwilson/teaching`, so if you
 know how to use Git, and would like to add or fix something, please
 send us a pull request.
 
-If you *don't* know how to use Git, you can also file an issue in that
+If you don't know how to use Git, you can file an issue in that
 repository or email the editor at `gvwilson@third-bit.com`.  Please
 note that by doing so, you are agreeing that we may incorporate your
 changes in either original or edited form and release them under the

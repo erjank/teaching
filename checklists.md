@@ -26,8 +26,7 @@ checklists customized for its instructors' and learners' needs.
 1.  Choose dates.
     If it is in person, book travel.
 1.  Get names and email addresses of attendees from host(s).
-1.  Make sure people are added to whatever registration system is
-    being used.
+1.  Make sure they are added to the registration system.
 
 ## Setting Up
 
@@ -63,8 +62,8 @@ teach:
 
 *   sticky notes
 *   cough drops
-*   good shoes
-    (because you'll be standing most of the day)
+*   comfortable shoes
+*   a small notepad
 *   a spare power adapter
 *   a spare shirt
 *   deodorant
@@ -84,9 +83,7 @@ teach:
 *   a laser pointer
 *   a packet of wet wipes
     (because spills happen)
-*   a few USB drives with installers for various operating systems
-    (just in case)
+*   USB drives with installers for various operating systems
 *   running shoes, a bathing suit, a yoga mat, or whatever else you exercise in or with
-*   a small notepad for taking notes
 
 [gawande-checklist]: http://www.newyorker.com/magazine/2007/12/10/the-checklist
