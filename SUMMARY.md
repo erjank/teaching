@@ -66,6 +66,7 @@
 
 * [Code of Conduct](CONDUCT.md)
 * [License](LICENSE.md)
+* [Citation](CITATION.md)
 * [The Rules](rules.md)
 * [Bibliography](biblio.md)
   * [What to Read Next](biblio.md#what-to-read-next)
