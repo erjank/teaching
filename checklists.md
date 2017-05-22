@@ -22,8 +22,7 @@ checklists customized for its instructors' and learners' needs.
     comers, restricted to members of one organization, or something in
     between?
 1.  Arrange trainers.
-1.  Arrange space.
-    Make sure there are breakout rooms for video recording.
+1.  Arrange space, including breakout rooms for video recording.
 1.  Choose dates.
     If it is in person, book travel.
 1.  Get names and email addresses of attendees from host(s).
@@ -33,7 +32,7 @@ checklists customized for its instructors' and learners' needs.
 ## Setting Up
 
 1.  Set up a web page with details on the workshop, including date,
-    location, and a list of what participants are expected to bring.
+    location, and a list of what participants need to bring.
 1.  Check whether any attendees have special needs.
 1.  If the workshop is online, test the video conferencing link.
 1.  Make sure attendees will all have network access.
@@ -48,7 +47,7 @@ checklists customized for its instructors' and learners' needs.
 1.  Remind everyone of the code of conduct.
 1.  Collect attendance.
 1.  Distribute sticky notes.
-1.  Collect relevant online account IDs (e.g., GitHub IDs).
+1.  Collect any relevant online account IDs.
 
 ## At the End of the Event
 
@@ -75,12 +74,12 @@ teach:
 *   a granola bar or some other emergency snack
 *   Eno or some other antacid (because road food)
 *   business cards
-*   a printed copy of the notes, or a tablet or other "extra" device
+*   a printed copy of the notes, or a tablet or other device
 *   an insulated cup for tea/coffee
 *   spare glasses/contacts
 *   a notebook and pen
 *   a portable WiFi hub
-    (in case networking in the room isn't working)
+    (in case the room's network isn't working)
 *   extra whiteboard markers
 *   a laser pointer
 *   a packet of wet wipes
@@ -88,6 +87,6 @@ teach:
 *   a few USB drives with installers for various operating systems
     (just in case)
 *   running shoes, a bathing suit, a yoga mat, or whatever else you exercise in or with
-*   a small notepad for writing down snippets of code for participants
+*   a small notepad for taking notes
 
 [gawande-checklist]: http://www.newyorker.com/magazine/2007/12/10/the-checklist

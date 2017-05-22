@@ -1,5 +1,10 @@
 # The Rules
 
+It's impossible to put
+everything that matters about teaching and learning
+on a single page,
+but these ten points are always worth remembering.
+
 1.  Be kind: all else is details.
 
 2.  Never teach alone.
@@ -8,8 +13,8 @@
 
 4.  Nobody will be more excited about the lesson than you are.
 
-5.  Every lesson is too short from the teacher's point of view and too
-    long from the learner's.
+5.  Every lesson is too short from the teacher's point of view
+    and too long from the learner's.
 
 6.  Never hesitate to sacrifice truth for clarity.
 

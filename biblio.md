@@ -8,6 +8,8 @@
 
 *   <a id="brookfield-discussion">[Brookfield2016]</a> Stephen D. Brookfield and Stephen Preskill: _[The Discussion Book: 50 Great Ways to Get People Talking](https://www.amazon.com/Discussion-Book-Great-People-Talking/dp/1119049717/)_ Jossey-Bass, 2016, 978-1119049715. _Describes fifty different ways to get groups talking productively._
 
+*   <a id="brown-bpco">[Brown2007]</a> Michael Jacoby Brown: _[Building Powerful Community Organizations](https://www.amazon.com/Building-Powerful-Community-Organizations-Personal/dp/0977151808/)_ Long Haul Press, 2007, 978-0977151806. _An excellent practical introduction to creating effective organizations in and for communities written by someone with decades of experience doing exactly that._
+
 *   <a id="didau-teachers-psych">[Didau2016]</a> David Didau and Nick Rose: _[What Every Teacher Needs to Know About Psychology](https://www.amazon.com/Every-Teacher-Needs-About-Psychology/dp/1909717851/)_ John Catt Educational, 2016, 978-1909717855. _An informative, opinionated survey of what modern psychology has to say about teaching._
 
 *   <a id="green-babt">[Green2014]</a> E. Green: _[Building a Better Teacher: How Teaching Works (and How to Teach It to Everyone)](https://www.amazon.com/Building-Better-Teacher-Teaching-Everyone/dp/0393351084/)_ W. W. Norton, 2014, 978-0393244151. _A well-written look at why educational reforms in the past 50 years have mostly missed the mark, and what we should be doing instead._

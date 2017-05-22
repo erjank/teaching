@@ -42,10 +42,10 @@ following along.  Its advantages are:
     doing this, but it's left out of most textbooks.
 
 6.  Watching instructors make mistakes shows learners that it's all
-    right to make mistakes of their.  Most people model the behavior of
-    their teachers: if the instructor isn't embarrassed about making and
-    talking about mistakes, learners will be more comfortable doing so
-    too.
+    right to make mistakes of their own.  Most people model the
+    behavior of their teachers: if the instructor isn't embarrassed
+    about making and talking about mistakes, learners will be more
+    comfortable doing so too.
 
 Live coding does have some drawbacks, but with practice, these can be
 avoided or worked around:
@@ -163,7 +163,9 @@ Many instructors now use two devices when teaching: a laptop plugged
 into the projector for learners to see, and a tablet beside it on
 which they can view their notes and the shared notes that the learners
 are taking.  This seems to be more reliable than displaying one
-virtual desktop while flipping back and forth to another.
+virtual desktop while flipping back and forth to another.  Of course,
+printouts of the lesson material are still the most reliable backup
+technology…
 
 ## Use Illustrations
 
@@ -205,12 +207,6 @@ If you really want to use something outside of the material, try it
 out thoroughly before the workshop: run through the lesson as you
 would during the actual teaching and test the effect of your
 modification.
-
-Some instructors use printouts of the lesson material during teaching.
-Others use a second device (tablet or laptop) when teaching, on which
-they can view their own notes and the shared notes the learners are
-taking. This seems to be more reliable than displaying one virtual
-desktop while flipping back and forth to another.
 
 ## Embrace Mistakes
 

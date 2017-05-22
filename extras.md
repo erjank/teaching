@@ -109,11 +109,10 @@ which can be divided into:
     paper plates and then stack and unstack them to show how the call
     stack works.
 
-A great example of PCK is Gelman and Nolan's *Teaching Statistics: A
-Bag of Tricks* [[Gelman2002](biblio.md#gelman-stats)], which is full
-of PCK for teaching introductory statistics.  The CS Teaching Tips
-site [[Tips2017](biblio.md#cs-teaching-tips)] is gathering similar
-ideas for computing.
+A great example of PCK is [[Gelman2002](biblio.md#gelman-stats)],
+which is full of PCK for teaching introductory statistics.  The CS
+Teaching Tips site [[Tips2017](biblio.md#cs-teaching-tips)] is
+gathering similar ideas for computing.
 
 ## Myths
 
@@ -226,62 +225,39 @@ in the discussion of [live coding](live.md).
 
 ## Effecting Change
 
-This guide is aimed primarily at people working outside mainstream
-educational institutions, but in order for us to reach and help as
-many people as possible, we must eventually find ways to work with
-schools as they are.  Henderson et al's "Facilitating Change in
-Undergraduate STEM Instructional Practices"
-[[Henderson2011](biblio.md#henderson-facilitating)] discusses ways to
-get educational institutions to actually change what they teach.  The
-approaches they identify include:
+This guide is aimed primarily at people working in grassroots
+organizations, but in order to reach and help as many people as
+possible, we must find ways to work with the schools we
+have. [[Henderson2011](biblio.md#henderson-facilitating)] discusses
+ways to get educational institutions to change what and how they
+teach; in our experience, the most important things are:
 
-*   *Diffusion*: STEM undergraduate instruction will be changed by
-    altering the behavior of a large number of individual
-    instructors. The greatest influences for changing instructor
-    behavior lie in optimizing characteristics of the innovation and
-    exploiting the characteristics of individuals and their networks.
+1.  *Ask, don't tell.*  Teachers know their students and their
+    needs much better than you do, so start by asking what they
+    think the most pressing needs are.
 
-*   *Implementation*: STEM undergraduate instruction will be
-    changed by developing research-based instructional "best
-    practices" and training instructors to use them. Instructors must
-    use these practices with fidelity to the established standard.
+2.  *Find allies.* Many colleges and universities have teaching and
+    learning centers whose staff are keen to improve teaching
+    practices, and who also know how to navigate the local
+    bureaucracy.  Similarly, there are often tech meetup groups or
+    other local organizations whose members are likely helpers.
 
-*   *Scholarly Teaching*: STEM undergraduate instruction will be
-    changed when more individual faculty members treat their teaching as
-    a scholarly activity.
+3.  *Start small.* [[Lang2016](biblio.md#lang-small-teaching)]
+    describes evidence-based teaching practices that can be put in
+    place with minimal effort and at low cost.  These may not have the
+    most impact, but scoring a few early wins helps build support for
+    larger and riskier efforts.
 
-*   *Faculty Learning Communities*: STEM undergraduate instruction
-    will be changed by groups of instructors who support and sustain
-    each other's interest, learning, and reflection on their teaching.
-
-*   *Quality Assurance*: STEM undergraduate instruction will be
-    changed by requiring institutions (colleges, schools, departments,
-    and degree programs) to collect evidence demonstrating their success
-    in undergraduate instruction. What gets measured is what gets
-    improved.
-
-*   *Organizational Development*: STEM undergraduate instruction
-    will be changed by administrators with strong vision who can develop
-    structures and motivate faculty to adopt improved instructional
-    practices.
-
-*   *Learning Organizations*: Innovation in higher education STEM
-    instruction will occur through informal communities of practice
-    within formal organizations in which individuals develop new
-    organizational knowledge through sharing implicit knowledge about
-    their teaching.  Leaders cultivate conditions for both formal and
-    informal communities to form and thrive.
-
-*   *Complexity Leadership*: STEM undergraduate instruction is
-    governed by a complex system. Innovation will occur through the
-    collective action of self-organizing groups within the system. This
-    collective action can be stimulated, but not controlled.
+[[Brown2007](biblio.md#brown-bpco)] is an excellent guide to building
+organizations in and for communities.  You may not need to answer all
+of the questions it asks right away, but they are all worth thinking
+about.
 
 ## Evaluating Impact
 
 A key part of effecting change is to convince people that what you're
-doing is actually having a positive impact.  That turns out to be
-surprisingly hard for free-range programming workshops:
+doing is having a positive impact.  That turns out to be surprisingly
+hard for free-range programming workshops:
 
 1.  *Ask learners if the workshop was useful.* Study after study has
     shown that there is no correlation between how highly learners
