@@ -3,7 +3,6 @@
 **Core Material**
 
 * [Introduction](README.md)
-  * [How to Use This Material](index.md#how-to-use-this-material)
   * [History](index.md#history)
   * [Who You Are](index.md#who-you-are)
   * [Teaching Practices](index.md#teaching-practices)
@@ -92,6 +91,7 @@
   * [At the End of the Event](checklists.md#at-the-end-of-the-event)
   * [Travel Kit](checklists.md#travel-kit)
 * [Extra Material](extras.md)
+  * [How to Use This Material](extras.md#how-to-use-this-material)
   * [Key Terms](extras.md#key-terms)
   * [Myths](extras.md#myths)
   * [Feedback on Live Coding Demo Videos](extras.md#feedback-on-live-coding-demo-videos)

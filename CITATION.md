@@ -7,4 +7,4 @@ Please cite this work as:
 <!--| \noindent |-->
 Greg Wilson (ed.): *How to Teach Programming (And Other Things)*.
 Lulu.com, 2017, 978-1-365-98428-0,
-<http://gvwilson.github.io/teaching>.
+<http://third-bit.com/teaching>.
