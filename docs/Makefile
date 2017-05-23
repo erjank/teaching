@@ -6,7 +6,7 @@ commands :
 	@grep -E '^##' Makefile | sed -e 's/## //g'
 
 ## everything : publish in all forms
-everything : web-book gb-book ltx-book
+everything : web-book ltx-book
 
 ## preview    : preview locally.
 preview :
@@ -15,10 +15,6 @@ preview :
 ## web-book   : rebuild web version.
 web-book :
 	@gitbook build . docs
-
-## gb-book    : re-generate PDF with GitBook
-gb-book :
-	@gitbook pdf ./ ./gb-book.pdf
 
 ## ltx-book   : generate a book via LaTeX
 ltx-book :
