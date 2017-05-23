@@ -1,0 +1,10 @@
+.bookignore
+.gitignore
+Makefile
+bin
+files
+isbn-barcode.pdf
+isbn.txt
+ltx-book.pdf
+template.tex
+words.txt
