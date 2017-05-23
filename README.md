@@ -213,8 +213,6 @@ and to everyone who has gone through Software Carpentry instructor
 training over the years.  I am also grateful to Neil Brown, Warren
 Code, Mark Degani, and Bob Freeman for their feedback on this version.
 
-## Dedication
-
 This book is dedicated to my mother, Doris Wilson, who taught hundreds
 of children to read and to believe in themselves.
 

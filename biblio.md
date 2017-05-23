@@ -1,8 +1,6 @@
 # Bibliography
 
-<!--| \noindent |-->
-
-**What to Read Next**
+## What to Read Next
 
 *   <a id="ambrose-hlw">[Ambrose2010]</a> Susan A. Ambrose, Michael W. Bridges, Michele DiPietro, Marsha C. Lovett, and Marie K. Norman: _[How Learning Works: Seven Research-Based Principles for Smart Teaching](https://www.amazon.com/How-Learning-Works-Research-Based-Principles/dp/0470484101/)_ Jossey-Bass, 2010, 978-0470484104. _An excellent overview of what we know about education and why we believe it's true, covering everything from cognitive psychology to social factors._
 
@@ -24,9 +22,7 @@
 
 *   <a id="margolis-fisher-clubhouse">[Margolis2003]</a> J. Margolis and A. Fisher: _[Unlocking the Clubhouse: Women in Computing](https://www.amazon.com/Unlocking-Clubhouse-Women-Computing-Press/dp/0262632691/)_ MIT Press, 2003, 978-0262632690. _A groundbreaking report on the gender imbalance in computing, and the steps Carnegie-Mellon took to address the problem._
 
-<!--| \noindent |-->
-
-**Other References**
+## Other References
 
 *   <a id="abela-chart">[Abela2009]</a> Andrew Abela: "Chart Suggestions–A Thought Starter".  <http://extremepresentation.typepad.com/files/choosing-a-good-chart-09.pdf>, viewed April 2017.
 
