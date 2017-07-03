@@ -8,7 +8,7 @@
   examples for use in programming workshops.**
 * **Learners can explain what Parson's Problems are and construct
   Parson's Problems for use in programming workshops.**
-* **Learners can describe ways in which they differ from their own
+* **Instructors can describe ways in which they differ from their own
   learners and what effect those differences have on instruction.**
 
 In 2006, Kirschner, Sweller, and Clark published a paper titled "Why
